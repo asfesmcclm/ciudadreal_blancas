@@ -24,9 +24,9 @@
 <body>
 
 <div class="card">
-    <h2>🛠️ Generador datos.js (Versión Direcciones Pro)</h2>
+    <h2>🛠️ Generador datos.js (Versión Inteligente)</h2>
     <div class="instrucciones">
-        <b>Estructura requerida del Excel:</b><br>
+        <b>Estructura del Excel:</b><br>
         A: Empresa | B: Dirección | C: Localidad | D: CP | E: Provincia | F: SS | G: CIF | H: Trab. | I: CNAE | J: Desc. CNAE | K: Federación
     </div>
     
@@ -38,21 +38,22 @@
 </div>
 
 <div class="card" id="preview-card" style="display:none;">
-    <h3 style="margin-top:0; font-size: 14px;">Vista previa del código generado:</h3>
+    <h3 style="margin-top:0; font-size: 14px;">Vista previa del código:</h3>
     <pre id="json_output"></pre>
 </div>
 
 <script>
     function limpiarTexto(t) {
         if (!t) return '';
+        // Elimina comillas simples para evitar errores en el archivo JS
         return String(t).replace(/'/g, "").replace(/\s+/g, ' ').trim();
     }
 
     function formatearDireccion(texto) {
         if (!texto) return 'S/N';
-        let d = String(texto).toUpperCase().trim();
+        let d = String(texto).trim();
 
-        // Diccionario de prefijos con soporte para abreviaturas complejas
+        // Diccionario de prefijos con soporte para mayúsculas/minúsculas
         const prefijos = {
             '^CT': 'Carretera', 
             '^CR': 'Carretera', 
@@ -65,14 +66,14 @@
             '^PP': 'Paseo', 
             '^PS': 'Paseo', 
             '^C/': 'Calle',
-            '^RD': 'Ronda',       // Rdde Alarcos -> Ronda de Alarcos
-            '^PJ': 'Pasaje',      // Pjde la Pandorga -> Pasaje de la Pandorga
-            '^TR': 'Travesía',    // Trcalle Don Quijote -> Travesía calle Don Quijote
-            '^CM': 'Camino'       // Cmdel Campillo -> Camino del Campillo
+            '^RD': 'Ronda',
+            '^PJ': 'Pasaje',
+            '^TR': 'Travesía',
+            '^CM': 'Camino'
         };
 
         for (let key in prefijos) {
-            // Regex: busca el prefijo al inicio, permite cualquier letra o punto pegado, y devora el espacio
+            // La bandera "i" ignora si es MAY o min
             const regex = new RegExp(key + "[A-Z\\.]*\\s*", "i");
             
             if (d.match(regex)) {
@@ -81,16 +82,17 @@
             }
         }
 
-        // Limpiezas finales específicas
-        d = d.replace(/\sBJ\s*$/g, " Bajo")
-             .replace(/\sBAJO\s*$/g, " Bajo")
+        // Normalizar "Bajo" y espacios excesivos
+        d = d.replace(/\sBJ\s*$/gi, " Bajo")
+             .replace(/\sBAJO\s*$/gi, " Bajo")
              .replace(/\s+/g, ' ')
              .trim();
 
         if (d === "0" || d === "") return "S/N";
         
-        // Retornar con formato Título (Primera en mayúscula, resto minúscula)
-        return d.charAt(0) + d.slice(1).toLowerCase();
+        // Formato final: Primera letra en mayúscula, resto en minúscula
+        d = d.toLowerCase();
+        return d.charAt(0).toUpperCase() + d.slice(1);
     }
 
     document.getElementById('excel_file').addEventListener('change', function(e) {
@@ -123,7 +125,7 @@
                 });
 
             document.getElementById('stats_container').innerHTML = `
-                <span class="stat">🏢 ${finalData.length} EMPRESAS DETECTADAS</span>
+                <span class="stat">🏢 ${finalData.length} EMPRESAS</span>
                 <span class="stat">✨ DIRECCIONES NORMALIZADAS</span>
             `;
 
@@ -138,7 +140,7 @@
     document.getElementById('btn-copiar').addEventListener('click', () => {
         const texto = document.getElementById('json_output').textContent;
         navigator.clipboard.writeText(texto).then(() => {
-            alert('¡Copiado! Ahora puedes pegarlo en tu archivo datos.js');
+            alert('¡Copiado con éxito! Pégalo en tu archivo datos.js de GitHub.');
         });
     });
 </script>

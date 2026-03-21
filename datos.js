@@ -1,7 +1,7 @@
 const empresas = [
   {
     "empresa": "BENAVENT DEL VALLE JUAN BAUTISTA",
-    "direccion": "Carretera toledo-albacete km 100 s/n",
+    "direccion": "Carretera -albacete km 100 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -14,7 +14,7 @@ const empresas = [
   },
   {
     "empresa": "DIRECCION Y CONTROL MEDIOAMBIENTAL JMVV,S.L.U.",
-    "direccion": "Calle iglesia 1 5 d",
+    "direccion": "Calle 00001 5 d",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -27,7 +27,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICAS PROFESIONALES DE VENTA S.L.",
-    "direccion": "Zzcrtra.nac.420-km.160 urb escaparate s/n",
+    "direccion": "Zzcrtra.nac.420-km.160 urb escaparate 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40,7 +40,7 @@ const empresas = [
   },
   {
     "empresa": "TIMING BUSINESS SERVICES, S.L.",
-    "direccion": "Calle hierbabuena 9",
+    "direccion": "Calle 00009",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -53,7 +53,7 @@ const empresas = [
   },
   {
     "empresa": "GASVISA DISTRIBUCIONES, SOCIEDAD LIMITADA",
-    "direccion": "Calle libertad 5",
+    "direccion": "Calle 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -66,7 +66,7 @@ const empresas = [
   },
   {
     "empresa": "PHI PROCESOS ALIMENTARIOS, S.L.",
-    "direccion": "Calle federica montseny 9",
+    "direccion": "Calle montseny 00009",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -79,7 +79,7 @@ const empresas = [
   },
   {
     "empresa": "TEXTILES Y NON-FOOD ESPAÑA, SL",
-    "direccion": "Calle san luis s/n s/n",
+    "direccion": "Calle luis s/n 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -92,7 +92,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOSERVICIO VIGAR, COM.B.",
-    "direccion": "Calle valdepeñas 2",
+    "direccion": "Calle ñas 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -105,7 +105,7 @@ const empresas = [
   },
   {
     "empresa": "DULCEALMACEN,S.L",
-    "direccion": "Calle segadores 24",
+    "direccion": "Calle 00024",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -118,7 +118,7 @@ const empresas = [
   },
   {
     "empresa": "INSEL COMERCIAL 2014 SL",
-    "direccion": "Calle valencia 9",
+    "direccion": "Calle 00009",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -131,7 +131,7 @@ const empresas = [
   },
   {
     "empresa": "CIUDAUTO S.L.",
-    "direccion": "Carretera carrion, km. 313 s/n",
+    "direccion": "Carretera , km. 313 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -144,7 +144,7 @@ const empresas = [
   },
   {
     "empresa": "AUTO CRISTALES TOMELLOSO S.L.",
-    "direccion": "Polígono pol ind la serna c/ cerrajeria, 9",
+    "direccion": "Polígono ind la serna c/ cerrajeria, 00009",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -157,7 +157,7 @@ const empresas = [
   },
   {
     "empresa": "FERMA-MOVIL, S.L.",
-    "direccion": "Carretera carrion, km 243",
+    "direccion": "Carretera , km 00243",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -170,7 +170,7 @@ const empresas = [
   },
   {
     "empresa": "LEON ROMAN AUTOMOVILES, S.L.",
-    "direccion": "Calle arroyo pellejero nave 5",
+    "direccion": "Calle pellejero nave 00005",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -183,7 +183,7 @@ const empresas = [
   },
   {
     "empresa": "MOTOR 100 AUTOMOCION, S.L.",
-    "direccion": "Polígono avenida construccion 2",
+    "direccion": "Polígono construccion 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -196,7 +196,7 @@ const empresas = [
   },
   {
     "empresa": "DIBAOCAR S.L.",
-    "direccion": "Rddel carmen 2",
+    "direccion": "Ronda carmen 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -209,7 +209,7 @@ const empresas = [
   },
   {
     "empresa": "MBICI GESTIBIKE S.L.",
-    "direccion": "Calle luis pasteur parcela 4 5",
+    "direccion": "Calle pasteur parcela 4 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -222,7 +222,7 @@ const empresas = [
   },
   {
     "empresa": "HERMAUTO ALCAZAR, S.L.",
-    "direccion": "Avenida de la tecnologia (p.i.emilio castro)2",
+    "direccion": "Avenida la tecnologia (p.i.emilio castro)00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -235,7 +235,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOFILTRO 2013 SL",
-    "direccion": "Carretera alcázar-criptana s/n s/n",
+    "direccion": "Carretera ázar-criptana s/n 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -248,7 +248,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOMOVILES . DANICAR",
-    "direccion": "Calle poligono industria imedio 101",
+    "direccion": "Calle industria imedio 00101",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -261,7 +261,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTANTINO GARAY, S.L.",
-    "direccion": "Polígono alces parcela 13",
+    "direccion": "Polígono parcela 00013",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -274,7 +274,7 @@ const empresas = [
   },
   {
     "empresa": "VISEÑA DE VENDING, S.L.",
-    "direccion": "Calle real 96",
+    "direccion": "Calle 00096",
     "localidad": "VISO DEL MARQUES",
     "cp": "13770",
     "provincia": "CIUDAD REAL",
@@ -287,7 +287,7 @@ const empresas = [
   },
   {
     "empresa": "ENOLOGICA SANCHEZ MIGALLON, S.L.",
-    "direccion": "Lugar pol.industrial parcela 113",
+    "direccion": "Lugar parcela 00113",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -300,7 +300,7 @@ const empresas = [
   },
   {
     "empresa": "DELCAR TEILE S.L.",
-    "direccion": "Calle malagon (poligono indst.larache) 14",
+    "direccion": "Calle (poligono indst.larache) 00014",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -313,7 +313,7 @@ const empresas = [
   },
   {
     "empresa": "PEINADO Y PERALES DESARROLLO DE NEGOCIOS DIGITALES SL",
-    "direccion": "Calle campo 7 3 4",
+    "direccion": "Calle 00007 3 4",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -326,7 +326,7 @@ const empresas = [
   },
   {
     "empresa": "LUAL FORCE S.L.",
-    "direccion": "Calle toledo 26",
+    "direccion": "Calle 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -339,7 +339,7 @@ const empresas = [
   },
   {
     "empresa": "IMPULSACONS, S.L.",
-    "direccion": "Calle guarnicioneros 10",
+    "direccion": "Calle 00010",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -352,7 +352,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIAS AGRARIAS CASTELLANAS, S.A.",
-    "direccion": "Calle los mayorales s.n. s/n",
+    "direccion": "Calle mayorales s.n. 00000",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -365,7 +365,7 @@ const empresas = [
   },
   {
     "empresa": "OFICINA TECNICA AGRICOLA DE VALDEPEÑAS, S.L.",
-    "direccion": "Calle colombia (pg indust chachiporro) s/n",
+    "direccion": "Calle (pg indust chachiporro) 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -378,7 +378,7 @@ const empresas = [
   },
   {
     "empresa": "AGROCEREVAL, S.L.",
-    "direccion": "Calle salida de los llanos 46",
+    "direccion": "Calle de los llanos 00046",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -391,7 +391,7 @@ const empresas = [
   },
   {
     "empresa": "COOP.AGRICOLA Y GANADERA SAN PANTALEON DE PORZUNA",
-    "direccion": "Carretera toledo, s/n 1",
+    "direccion": "Carretera , s/n 00001",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -404,7 +404,7 @@ const empresas = [
   },
   {
     "empresa": "BURGOS MOLINERO, S.L.",
-    "direccion": "Calle solana 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -417,7 +417,7 @@ const empresas = [
   },
   {
     "empresa": "CEREALES Y FERTILIZANTES SAN JORGE S.L.",
-    "direccion": "Carretera de valdepeñas km. 1 s/n",
+    "direccion": "Carretera valdepeñas km. 1 00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -430,7 +430,7 @@ const empresas = [
   },
   {
     "empresa": "VERA MEGIAS MANUEL",
-    "direccion": "Calle olmos 34",
+    "direccion": "Calle 00034",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -443,7 +443,7 @@ const empresas = [
   },
   {
     "empresa": "BAÑOS DE FUENSANTA, S.L.",
-    "direccion": "Carretera almagro, s/n s/n",
+    "direccion": "Carretera , s/n 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -456,7 +456,7 @@ const empresas = [
   },
   {
     "empresa": "HIJOS DE MANUEL HIDALGO, S.L.",
-    "direccion": "Calle paraje montenuevo s/n",
+    "direccion": "Calle montenuevo 00000",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -469,7 +469,7 @@ const empresas = [
   },
   {
     "empresa": "FITOSANITARIOS FUENTES, S.L.",
-    "direccion": "Carretera de la solana 37",
+    "direccion": "Carretera la solana 00037",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -482,7 +482,7 @@ const empresas = [
   },
   {
     "empresa": "PIENSOS NUTRINA S.L.",
-    "direccion": "Carretera toledo s/n",
+    "direccion": "Carretera 00000",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -495,7 +495,7 @@ const empresas = [
   },
   {
     "empresa": "A N S.COOP.",
-    "direccion": "Calle p.i las villas-c/madrid 1",
+    "direccion": "Calle las villas-c/madrid 00001",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -508,7 +508,7 @@ const empresas = [
   },
   {
     "empresa": "CEREALES BENIGNO, SOCIEDAD LIMITADA",
-    "direccion": "Carretera valdepeñas 117",
+    "direccion": "Carretera ñas 00117",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -521,7 +521,7 @@ const empresas = [
   },
   {
     "empresa": "PROMOFLOR ACCESORIOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle madre de dios 6",
+    "direccion": "Calle de dios 00006",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -534,7 +534,7 @@ const empresas = [
   },
   {
     "empresa": "UNION FLORMANCHA, S.L.",
-    "direccion": "Calle nueva 137",
+    "direccion": "Calle 00137",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -547,7 +547,7 @@ const empresas = [
   },
   {
     "empresa": "RIEGOS MANZAVAL, SOCIEDAD LIMITADA",
-    "direccion": "Carretera argamasilla s/n",
+    "direccion": "Carretera 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -560,7 +560,7 @@ const empresas = [
   },
   {
     "empresa": "FRUTAS MARQUEZ, S.L.",
-    "direccion": "Polígono alces parcela 39",
+    "direccion": "Polígono parcela 00039",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -573,7 +573,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS AGRARIOS LOPEZ CASTRO, S.L.",
-    "direccion": "Calle reyes catolicos 10",
+    "direccion": "Calle catolicos 00010",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -586,7 +586,7 @@ const empresas = [
   },
   {
     "empresa": "ACEITUNAS Y ENCURTIDOS HERMANOS CANO C.B.",
-    "direccion": "Calle caballeros 31",
+    "direccion": "Calle 00031",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -599,7 +599,7 @@ const empresas = [
   },
   {
     "empresa": "FRUTAS SISTERNES S.L.",
-    "direccion": "Carretera toledo 44",
+    "direccion": "Carretera 00044",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -612,7 +612,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRAL HORTOFRUTICOLA EL SALOBRAL, S.L.",
-    "direccion": "Cnciudad real, s/n s/n",
+    "direccion": "Cnciudad real, s/n 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -625,7 +625,7 @@ const empresas = [
   },
   {
     "empresa": "PROCOCEBOL, S.L.U.",
-    "direccion": "Carretera manzanares, km. 5",
+    "direccion": "Carretera , km. 00005",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -638,7 +638,7 @@ const empresas = [
   },
   {
     "empresa": "MENCHERO LA MANCHA IMPORT & EXPORT HNOS. MENCHERO GOMEZ",
-    "direccion": "Carretera torralba, km. 0,9 s/n",
+    "direccion": "Carretera , km. 0,9 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -651,7 +651,7 @@ const empresas = [
   },
   {
     "empresa": "SOLMESAN,S.L",
-    "direccion": "Carretera madrid-cadiz 171",
+    "direccion": "Carretera -cadiz 00171",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -664,7 +664,7 @@ const empresas = [
   },
   {
     "empresa": "ALMACEN DE CEBOLLAS LAS DOS CASTILLAS. S.L.",
-    "direccion": "Carretera daimiel 62",
+    "direccion": "Carretera 00062",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -677,7 +677,7 @@ const empresas = [
   },
   {
     "empresa": "CARIDUL Y SALUD SL",
-    "direccion": "Carretera nacional 310 km 87",
+    "direccion": "Carretera 310 km 00087",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -690,7 +690,7 @@ const empresas = [
   },
   {
     "empresa": "AGROALIMENTARIA JUCESA, S.L.",
-    "direccion": "Carretera almagro, km. 2 s/n",
+    "direccion": "Carretera , km. 2 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -703,7 +703,7 @@ const empresas = [
   },
   {
     "empresa": "CEREALES BORRASCAS, S.L.",
-    "direccion": "Carretera de la solana 11",
+    "direccion": "Carretera la solana 00011",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -716,7 +716,7 @@ const empresas = [
   },
   {
     "empresa": "CEBOLLAS DE CALIDAD S.L.",
-    "direccion": "Cmel prado s/n",
+    "direccion": "Camino prado 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -729,7 +729,7 @@ const empresas = [
   },
   {
     "empresa": "HORTIPORRINAS, S.L.",
-    "direccion": "Calle 1 11",
+    "direccion": "Calle 1 00011",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -742,7 +742,7 @@ const empresas = [
   },
   {
     "empresa": "DULCINEA LA MANCHA, SL",
-    "direccion": "Carretera andalucia km 180",
+    "direccion": "Carretera km 00180",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -755,7 +755,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCCIONES AGRÍCOLAS MASEGOSA, S.L.",
-    "direccion": "Carretera almagro/bolaños km1 s/n",
+    "direccion": "Carretera /bolaños km1 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -768,7 +768,7 @@ const empresas = [
   },
   {
     "empresa": "CEBOLLAS CALZADO GALINDO SL",
-    "direccion": "Carretera torralba s/n",
+    "direccion": "Carretera 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -781,7 +781,7 @@ const empresas = [
   },
   {
     "empresa": "CALZADO PECO JULIAN",
-    "direccion": "Calle manzanares 12",
+    "direccion": "Calle 00012",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -794,7 +794,7 @@ const empresas = [
   },
   {
     "empresa": "FRUTAS Y VERDURAS TAJUELO, SRLU",
-    "direccion": "Calle honda 11",
+    "direccion": "Calle 00011",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -807,7 +807,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS DIAZ CAÑAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle vistillas de santiago 16a",
+    "direccion": "Calle de santiago 00016a",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -820,7 +820,7 @@ const empresas = [
   },
   {
     "empresa": "FRUTAS BOLSILLONES, SOCIEDAD LIMITADA",
-    "direccion": "Carretera carrion 31",
+    "direccion": "Carretera 00031",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -833,7 +833,7 @@ const empresas = [
   },
   {
     "empresa": "PISTACHO LA PAZ, SOCIEDAD LIMITADA",
-    "direccion": "Polígono poligono 11 parcela 114 la barbara s/n",
+    "direccion": "Polígono 11 parcela 114 la barbara 00000",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -846,7 +846,7 @@ const empresas = [
   },
   {
     "empresa": "FRUTAS JU Y AN, S.L.",
-    "direccion": "Calle tomillo 5",
+    "direccion": "Calle 00005",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -859,7 +859,7 @@ const empresas = [
   },
   {
     "empresa": "LA MANCHA FARMS PISTACHOS SL",
-    "direccion": "Calle don quijote 15",
+    "direccion": "Calle quijote 00015",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -872,7 +872,7 @@ const empresas = [
   },
   {
     "empresa": "FRUTAS BOLAÑOS HERMANOS FERNANDEZ, SOCIEDAD LIMITADA",
-    "direccion": "Carretera moral 15",
+    "direccion": "Carretera 00015",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -885,7 +885,7 @@ const empresas = [
   },
   {
     "empresa": "FINCA QUIXOTE DE LA MANCHA, S.L",
-    "direccion": "Calle monte 37",
+    "direccion": "Calle 00037",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -898,7 +898,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS AVICOLAS DE DAIMIEL, S.A.",
-    "direccion": "Calle esperanza 13",
+    "direccion": "Calle 00013",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -911,7 +911,7 @@ const empresas = [
   },
   {
     "empresa": "PESCADOS MORENO, S.L.",
-    "direccion": "Polígono alces 1 fase parcela 6 s/n",
+    "direccion": "Polígono 1 fase parcela 6 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -924,7 +924,7 @@ const empresas = [
   },
   {
     "empresa": "FLORENTINO GIL CHACON E HIJOS, S.L.",
-    "direccion": "Calle generalisimo 148",
+    "direccion": "Calle 00148",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -937,7 +937,7 @@ const empresas = [
   },
   {
     "empresa": "EL CASTILLO DE BOLAÑOS, S.L.",
-    "direccion": "Calle almagro 75",
+    "direccion": "Calle 00075",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -950,7 +950,7 @@ const empresas = [
   },
   {
     "empresa": "CLAZAMAR, S.L.",
-    "direccion": "Calle conde biñasco 45",
+    "direccion": "Calle biñasco 00045",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -963,7 +963,7 @@ const empresas = [
   },
   {
     "empresa": "FELICES SANROMA JULIO",
-    "direccion": "Calle general margallo 108",
+    "direccion": "Calle margallo 00108",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -976,7 +976,7 @@ const empresas = [
   },
   {
     "empresa": "CARNICAS CARDISA, S.L.",
-    "direccion": "Calle general espartero 16",
+    "direccion": "Calle espartero 00016",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -989,7 +989,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES CANUTO 09, S.L.",
-    "direccion": "Trcorrederas 8 bj",
+    "direccion": "Travesía 00008 bajo",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -1002,7 +1002,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS JIMENEZ VILLALTA, S.L.",
-    "direccion": "Calle ramon y cajal 3",
+    "direccion": "Calle y cajal 00003",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -1015,7 +1015,7 @@ const empresas = [
   },
   {
     "empresa": "CONGEMAR & JOSE OSCAR,S.L",
-    "direccion": "Carretera toledo ciudad real km 167 s/n",
+    "direccion": "Carretera ciudad real km 167 00000",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -1028,7 +1028,7 @@ const empresas = [
   },
   {
     "empresa": "S. COOP. LTDA MONTES NORTE",
-    "direccion": "Avenida fundadores de la cooperativa 69",
+    "direccion": "Avenida de la cooperativa 00069",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -1041,7 +1041,7 @@ const empresas = [
   },
   {
     "empresa": "INVIRPA HORECA, S.L.",
-    "direccion": "Polígono industrial cl d parcela 53 s/n",
+    "direccion": "Polígono cl d parcela 53 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -1054,7 +1054,7 @@ const empresas = [
   },
   {
     "empresa": "MENCHERO GIL, S.A.",
-    "direccion": "Calle general moscardo 5",
+    "direccion": "Calle moscardo 00005",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -1067,7 +1067,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ RUBIO, S.L.",
-    "direccion": "Avenida tinajas 49",
+    "direccion": "Avenida 00049",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -1080,7 +1080,7 @@ const empresas = [
   },
   {
     "empresa": "DESTILERIAS MANCHEGAS, S.L.",
-    "direccion": "Calle toneleros (pog.industri. la estrella16",
+    "direccion": "Calle (pog.industri. la estrella00016",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -1093,7 +1093,7 @@ const empresas = [
   },
   {
     "empresa": "BEBIDAS Y ALIMENTACION HERMANOS GARCIA RIVAS,S.L.",
-    "direccion": "Calle zurbaran 15",
+    "direccion": "Calle 00015",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1106,7 +1106,7 @@ const empresas = [
   },
   {
     "empresa": "FELIX SOLIS AVANTIS,S.A",
-    "direccion": "Lugar autovia andalucia, km. 199",
+    "direccion": "Lugar andalucia, km. 00199",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -1119,7 +1119,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUIDORA HERVAS MAJAN, S.L.",
-    "direccion": "Polígono estrella cl/ toneleros 31",
+    "direccion": "Polígono cl/ toneleros 00031",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -1132,7 +1132,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES RAMON GARCIA ALCAIDE, S.L.",
-    "direccion": "Calle la solana 7",
+    "direccion": "Calle solana 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -1145,7 +1145,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES VILLALORA, S.L.",
-    "direccion": "Calle socuellamos 26",
+    "direccion": "Calle 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -1158,7 +1158,7 @@ const empresas = [
   },
   {
     "empresa": "DISCAMUN DISTRIBUIDORA, S.L.",
-    "direccion": "Polígono industrial sepes, nave 417 s/n",
+    "direccion": "Polígono sepes, nave 417 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -1171,7 +1171,7 @@ const empresas = [
   },
   {
     "empresa": "2007 DE DISTRIBUCIONES ALMADEN, S.L.",
-    "direccion": "Calle ciudad real 75",
+    "direccion": "Calle real 00075",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -1184,7 +1184,7 @@ const empresas = [
   },
   {
     "empresa": "PROLICOR . SL",
-    "direccion": "Calle navaseca 30",
+    "direccion": "Calle 00030",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -1197,7 +1197,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES SACRAMENTO CORRAL",
-    "direccion": "Cmalmagro km 1 s/n",
+    "direccion": "Camino km 1 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -1210,7 +1210,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS DINASTIA SOCIEDAD LIMIT",
-    "direccion": "Calle cervera 16",
+    "direccion": "Calle 00016",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1223,7 +1223,7 @@ const empresas = [
   },
   {
     "empresa": "VIUDA E HIJOS DE ALFREDO PEREZ SERRANO, S.L.",
-    "direccion": "Plaza mayor 21",
+    "direccion": "Plaza 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -1236,7 +1236,7 @@ const empresas = [
   },
   {
     "empresa": "CAFES TEMPLO FOOD SERVICES, S.L.",
-    "direccion": "Polígono la vega (c/ zacatena) 1 26",
+    "direccion": "Polígono vega (c/ zacatena) 00001 26",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -1249,7 +1249,7 @@ const empresas = [
   },
   {
     "empresa": "PASTELERIA Y BOLLERIA CALZADO, S.L.",
-    "direccion": "Calle hojalateros 6",
+    "direccion": "Calle 00006",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -1262,7 +1262,7 @@ const empresas = [
   },
   {
     "empresa": "CEDIPAS, S. L.",
-    "direccion": "Zzpolg.ind.alces,2ªfase parcela 7 s/n",
+    "direccion": "Zzpolg.ind.alces,2ªfase parcela 7 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -1275,7 +1275,7 @@ const empresas = [
   },
   {
     "empresa": "DONOSO DISTRIBUCION ALIMENTARIA, S.L.",
-    "direccion": "Calle lope de vega 22",
+    "direccion": "Calle de vega 00022",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -1288,7 +1288,7 @@ const empresas = [
   },
   {
     "empresa": "COSAS PANADERIA, S.L.",
-    "direccion": "Pisu-9 nave 13-10 s/n",
+    "direccion": "Pisu-9 nave 13-10 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -1301,7 +1301,7 @@ const empresas = [
   },
   {
     "empresa": "ECOS MANCHEGOS, S.A.",
-    "direccion": "Calle estacion 81",
+    "direccion": "Calle 00081",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -1314,7 +1314,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES ACEMAN, S.L.",
-    "direccion": "Calle ciudad real, s/n 1",
+    "direccion": "Calle real, s/n 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -1327,7 +1327,7 @@ const empresas = [
   },
   {
     "empresa": "ALIMENTACION Y ANEXOS SERRANO, S.L.",
-    "direccion": "Calle leonardo da vinci 4",
+    "direccion": "Calle da vinci 00004",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -1340,7 +1340,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES ALIMENTACION CANAL IMPULSO S.L.",
-    "direccion": "Avenida de la ciencia 1",
+    "direccion": "Avenida la ciencia 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -1353,7 +1353,7 @@ const empresas = [
   },
   {
     "empresa": "CASH TOMELLOSO, S.L.",
-    "direccion": "Calle veracruz 8",
+    "direccion": "Calle 00008",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1366,7 +1366,7 @@ const empresas = [
   },
   {
     "empresa": "ALMACEN FRIGORIFICO DE CONGELADOS Y HELADOS S.L.",
-    "direccion": "Calle peñarroya 3",
+    "direccion": "Calle ñarroya 00003",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1379,7 +1379,7 @@ const empresas = [
   },
   {
     "empresa": "SOCIOS PRIMERAS MARCAS, S.L.",
-    "direccion": "Calle don quijote 40",
+    "direccion": "Calle quijote 00040",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1392,7 +1392,7 @@ const empresas = [
   },
   {
     "empresa": "ALDO ALIMENTACION, S.L.",
-    "direccion": "Cl.monaco pol ind el llano 16",
+    "direccion": "Calle pol ind el llano 00016",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -1405,7 +1405,7 @@ const empresas = [
   },
   {
     "empresa": "MENDEZ & CROTON,S.A.",
-    "direccion": "Avenida holanda 37 2",
+    "direccion": "Avenida 00037 2",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -1418,7 +1418,7 @@ const empresas = [
   },
   {
     "empresa": "IPSA TRADING, SOCIEDAD LIMITADA",
-    "direccion": "Calle carrión 3",
+    "direccion": "Calle ón 00003",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -1431,7 +1431,7 @@ const empresas = [
   },
   {
     "empresa": "PERAL DISTRIBUCION PUERTOLLANO, SOCIEDAD LIMITADA",
-    "direccion": "Carretera ct almodovar pg industrial azucena s/n",
+    "direccion": "Carretera almodovar pg industrial azucena 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -1444,7 +1444,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL PEXA HILOGAR SL",
-    "direccion": "Calle san diego 5 of",
+    "direccion": "Calle diego 00005 of",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -1457,7 +1457,7 @@ const empresas = [
   },
   {
     "empresa": "ADVERSIA, S.L.",
-    "direccion": "Calle alfareros 6",
+    "direccion": "Calle 00006",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -1470,7 +1470,7 @@ const empresas = [
   },
   {
     "empresa": "COFAN LA MANCHA, S.A.",
-    "direccion": "Polígono industrial jali, pg 94 parcela 43 s/n",
+    "direccion": "Polígono jali, pg 94 parcela 43 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -1483,7 +1483,7 @@ const empresas = [
   },
   {
     "empresa": "ARROYO MALAGUILLA CARMEN",
-    "direccion": "Calle castilla la mancha 5",
+    "direccion": "Calle la mancha 00005",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -1496,7 +1496,7 @@ const empresas = [
   },
   {
     "empresa": "TODOHOSTEL, S.L.",
-    "direccion": "Carretera estacion, s/n 1",
+    "direccion": "Carretera , s/n 00001",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -1509,7 +1509,7 @@ const empresas = [
   },
   {
     "empresa": "PINMANSA, S.L.",
-    "direccion": "Calle san fernando 11",
+    "direccion": "Calle fernando 00011",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -1522,7 +1522,7 @@ const empresas = [
   },
   {
     "empresa": "UNIVERSAL PARFUM Y BEAUTY SL",
-    "direccion": "Calle cencibel 6",
+    "direccion": "Calle 00006",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -1535,7 +1535,7 @@ const empresas = [
   },
   {
     "empresa": "PINTURAS RUMA S.L.",
-    "direccion": "Plaza san pedro s/n. s/n",
+    "direccion": "Plaza pedro s/n. 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -1548,7 +1548,7 @@ const empresas = [
   },
   {
     "empresa": "URDA JIMENEZ E HIJOS",
-    "direccion": "Calle bodegueros s/n",
+    "direccion": "Calle 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -1561,7 +1561,7 @@ const empresas = [
   },
   {
     "empresa": "KASEIS JUVENIL SL",
-    "direccion": "Calle almagro s/n",
+    "direccion": "Calle 00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -1574,7 +1574,7 @@ const empresas = [
   },
   {
     "empresa": "TRILLO MOBILIARIO, SOCIEDAD LIMITADA",
-    "direccion": "Carretera carrion 62",
+    "direccion": "Carretera 00062",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -1587,7 +1587,7 @@ const empresas = [
   },
   {
     "empresa": "MASTER SOFA HOME, SOCIEDAD LIMITADA",
-    "direccion": "Calle san isidro s/n",
+    "direccion": "Calle isidro 00000",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -1600,7 +1600,7 @@ const empresas = [
   },
   {
     "empresa": "MATA SUMINISTROS DE PAPELERIA, S.L.",
-    "direccion": "Avenida de los vinos poligono alces 66",
+    "direccion": "Avenida los vinos poligono alces 00066",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -1613,7 +1613,7 @@ const empresas = [
   },
   {
     "empresa": "RABADAN CIEN, S.L.",
-    "direccion": "Calle juan de austria 6",
+    "direccion": "Calle de austria 00006",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -1626,7 +1626,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS AMADOR, S.L.U.",
-    "direccion": "Calle colon 52",
+    "direccion": "Calle 00052",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -1639,7 +1639,7 @@ const empresas = [
   },
   {
     "empresa": "EDITORIAL VELPAL 2006, S.L.",
-    "direccion": "Calle colada de alarcos -miguelturra 46",
+    "direccion": "Calle de alarcos -miguelturra 00046",
     "localidad": "POBLACHUELA, LA",
     "cp": "13197",
     "provincia": "CIUDAD REAL",
@@ -1652,7 +1652,7 @@ const empresas = [
   },
   {
     "empresa": "HERMES MUEBLES Y DECORACION, S.L.",
-    "direccion": "Calle rastro de san juan 2",
+    "direccion": "Calle de san juan 00002",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -1665,7 +1665,7 @@ const empresas = [
   },
   {
     "empresa": "INFRIBAR, S.L.",
-    "direccion": "Calle juan de avila 12",
+    "direccion": "Calle de avila 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -1678,7 +1678,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO ELECTRO-MEYRAS, S.L.",
-    "direccion": "Polígono industrial, calle labradores 3",
+    "direccion": "Polígono , calle labradores 00003",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -1691,7 +1691,7 @@ const empresas = [
   },
   {
     "empresa": "SISTEMAS Y REDES ENTER4 S.L.",
-    "direccion": "Calle eladios cabañero 4",
+    "direccion": "Calle cabañero 00004",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1704,7 +1704,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS ELECTRICOS INDUSTRIALES S.A.",
-    "direccion": "Carretera argamasilla de alba 97",
+    "direccion": "Carretera de alba 00097",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1717,7 +1717,7 @@ const empresas = [
   },
   {
     "empresa": "ARAIZ SUMINISTROS ELECTRICOS, S.A.",
-    "direccion": "Carretera de carrion 98",
+    "direccion": "Carretera carrion 00098",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -1730,7 +1730,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS INDUSTRIALES VALERO ;S:L:",
-    "direccion": "Calle gran capitan 8",
+    "direccion": "Calle capitan 00008",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -1743,7 +1743,7 @@ const empresas = [
   },
   {
     "empresa": "AGRONI, S.L.",
-    "direccion": "Calle ctra. la solana s/n s/n",
+    "direccion": "Calle la solana s/n 00000",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -1756,7 +1756,7 @@ const empresas = [
   },
   {
     "empresa": "EL RUBIAL, S.COOP.",
-    "direccion": "Calle teneria 1",
+    "direccion": "Calle 00001",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -1769,7 +1769,7 @@ const empresas = [
   },
   {
     "empresa": "LAPORTA ALQUILER DE MAQUINARIA, S.L.",
-    "direccion": "Polígono la vega-c/zacatena, 37-39 s/n",
+    "direccion": "Polígono vega-c/zacatena, 37-39 00000",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -1782,7 +1782,7 @@ const empresas = [
   },
   {
     "empresa": "LINDE MATERIAL HANDLING IBERICA S.A.",
-    "direccion": "Polígono ind alces, parcela 67 (z.o. 61,1, c 2",
+    "direccion": "Polígono alces, parcela 67 (z.o. 61,1, c 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -1795,7 +1795,7 @@ const empresas = [
   },
   {
     "empresa": "LUPARIA INSTALACIONES, S.L.",
-    "direccion": "Calle pensamiento 6",
+    "direccion": "Calle 00006",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -1808,7 +1808,7 @@ const empresas = [
   },
   {
     "empresa": "RENATUS MAQUINARIA, SOCIEDAD LIMITADA",
-    "direccion": "Calle pintor mendoza 29",
+    "direccion": "Calle mendoza 00029",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -1821,7 +1821,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTRON CASTILLA LA MANCHA S.A.",
-    "direccion": "Cmcamino de ciudad real s/n. s/n",
+    "direccion": "Camino de ciudad real s/n. 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -1834,7 +1834,7 @@ const empresas = [
   },
   {
     "empresa": "INOXALIA ZONA CENTRO S.L.",
-    "direccion": "Avenida industrias parc. 11 s/n",
+    "direccion": "Avenida parc. 11 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1847,7 +1847,7 @@ const empresas = [
   },
   {
     "empresa": "EURO-GALARA, S.L.",
-    "direccion": "Calle lugo 9",
+    "direccion": "Calle 00009",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1860,7 +1860,7 @@ const empresas = [
   },
   {
     "empresa": "FAC MAQUINARIA, S.A.",
-    "direccion": "Carretera fuente el fresno km. 8,700 s/n",
+    "direccion": "Carretera el fresno km. 8,700 00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -1873,7 +1873,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL CORRALES, S.L.",
-    "direccion": "Polígono iindustrial la estrella c/alfareros 6",
+    "direccion": "Polígono la estrella c/alfareros 00006",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -1886,7 +1886,7 @@ const empresas = [
   },
   {
     "empresa": "VELO MAQUINARIA INDUSTRIA ALIMENTARIA QUIMICA FARMAC,SL",
-    "direccion": "Polígono alces, c/9, parcelas 1, 2, 3 s/n",
+    "direccion": "Polígono , c/9, parcelas 1, 2, 3 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -1899,7 +1899,7 @@ const empresas = [
   },
   {
     "empresa": "IBERICA SONORIZACION Y TELECOMUNICACION IBERSONTEL, S.L",
-    "direccion": "Calle socuellamos 81",
+    "direccion": "Calle 00081",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1912,7 +1912,7 @@ const empresas = [
   },
   {
     "empresa": "MAQUINARIA VINICOLA, S.L.",
-    "direccion": "Avenida gregorio prieto 14",
+    "direccion": "Avenida prieto 00014",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -1925,7 +1925,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTROFIL OESTE DISTRIBUCION, S.L.",
-    "direccion": "Polígono pi guadiana av de la ciencia s/n s/n",
+    "direccion": "Polígono guadiana av de la ciencia s/n 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -1938,7 +1938,7 @@ const empresas = [
   },
   {
     "empresa": "FRUTOS LOPEZ GALINDO GRUPO, S.L.",
-    "direccion": "Avenida don juan carlos i s/n",
+    "direccion": "Avenida juan carlos i 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1951,7 +1951,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTROFIL OESTE DISTRIBUCION S.L.",
-    "direccion": "Carretera tomelloso a argamasilla de alba 230",
+    "direccion": "Carretera a argamasilla de alba 00230",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -1964,7 +1964,7 @@ const empresas = [
   },
   {
     "empresa": "SONEPAR SPAIN, S.A.U.",
-    "direccion": "Carretera carrion avda isaac peral 148",
+    "direccion": "Carretera avda isaac peral 00148",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -1977,7 +1977,7 @@ const empresas = [
   },
   {
     "empresa": "NOVELEC MINEROS, S.L.",
-    "direccion": "Carretera puertollano 4",
+    "direccion": "Carretera 00004",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -1990,7 +1990,7 @@ const empresas = [
   },
   {
     "empresa": "NOVELEC ALARCOS, S.L.",
-    "direccion": "Calle segadores 12",
+    "direccion": "Calle 00012",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -2003,7 +2003,7 @@ const empresas = [
   },
   {
     "empresa": "ECOBAT ENERGIA Y TECNOLOGIA, S.L",
-    "direccion": "Avenida de las regiones 16",
+    "direccion": "Avenida las regiones 00016",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -2016,7 +2016,7 @@ const empresas = [
   },
   {
     "empresa": "PLASTICOS POLIMAN, S.A.",
-    "direccion": "Calle isaac peral 60",
+    "direccion": "Calle peral 00060",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -2029,7 +2029,7 @@ const empresas = [
   },
   {
     "empresa": "GAES & NAWERS MOTION, S.L.",
-    "direccion": "Calle ruidera 10",
+    "direccion": "Calle 00010",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2042,7 +2042,7 @@ const empresas = [
   },
   {
     "empresa": "RECAMAUTO, S.L.",
-    "direccion": "Avenida de la constitucion 22",
+    "direccion": "Avenida la constitucion 00022",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -2055,7 +2055,7 @@ const empresas = [
   },
   {
     "empresa": "WORLD AUTO PARTS S.L.",
-    "direccion": "Calle verdejo s/n",
+    "direccion": "Calle 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -2068,7 +2068,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOMOLIPROJECT, SOCIEDAD LIMITADA",
-    "direccion": "Avenida vírgen de las viñas 18",
+    "direccion": "Avenida írgen de las viñas 00018",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2081,7 +2081,7 @@ const empresas = [
   },
   {
     "empresa": "CARBURANTES BOLAÑOS, S.L.",
-    "direccion": "Calle cardenal cisneros s/n1",
+    "direccion": "Calle cisneros s/n00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -2094,7 +2094,7 @@ const empresas = [
   },
   {
     "empresa": "COMBUSTIBLES Y CARBURANTES PUERTOLLANO, S.L.",
-    "direccion": "Carretera el villar 2",
+    "direccion": "Carretera villar 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -2107,7 +2107,7 @@ const empresas = [
   },
   {
     "empresa": "ROYSE LUBRICANTES, S.L.",
-    "direccion": "Calle martin sanchez 2",
+    "direccion": "Calle sanchez 00002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2120,7 +2120,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ Y MURCIA SL",
-    "direccion": "Calle estacion edificio jardines 80",
+    "direccion": "Calle edificio jardines 00080",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2133,7 +2133,7 @@ const empresas = [
   },
   {
     "empresa": "XPORTQUIMOIL SL",
-    "direccion": "Calle concepcion 112",
+    "direccion": "Calle 00112",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -2146,7 +2146,7 @@ const empresas = [
   },
   {
     "empresa": "GARAY MORENO, S.L.",
-    "direccion": "Polígono alces - calle verdejo s/n",
+    "direccion": "Polígono - calle verdejo 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -2159,7 +2159,7 @@ const empresas = [
   },
   {
     "empresa": "LUBRICAR COMERCIAL SL",
-    "direccion": "Calle verdejo s/n",
+    "direccion": "Calle 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -2172,7 +2172,7 @@ const empresas = [
   },
   {
     "empresa": "MEDINAHIERROS, S.L.",
-    "direccion": "Polígono industrial, 3º fase c/3 par.40,41,4200000",
+    "direccion": "Polígono , 3º fase c/3 par.40,41,4200000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -2185,7 +2185,7 @@ const empresas = [
   },
   {
     "empresa": "HIJOS DE JUAN LOPEZ BELLO, S.L.",
-    "direccion": "Calle juan carlos i 99",
+    "direccion": "Calle carlos i 00099",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -2198,7 +2198,7 @@ const empresas = [
   },
   {
     "empresa": "TOMINOX, S.L.",
-    "direccion": "Carretera alcazar de san juan, km. 0,5 s/n",
+    "direccion": "Carretera de san juan, km. 0,5 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2211,7 +2211,7 @@ const empresas = [
   },
   {
     "empresa": "HIERROS HERENCIA, S.L.",
-    "direccion": "Polígono industrial calle c p1-b16 s/n",
+    "direccion": "Polígono calle c p1-b16 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -2224,7 +2224,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL DE LAMINADOS IBERICA,S.A",
-    "direccion": "Carretera de la estacion s/n s/n",
+    "direccion": "Carretera la estacion s/n 00000",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -2237,7 +2237,7 @@ const empresas = [
   },
   {
     "empresa": "BREAK SYSTEMS SL",
-    "direccion": "Avenida del vino 26",
+    "direccion": "Avenida vino 00026",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -2250,7 +2250,7 @@ const empresas = [
   },
   {
     "empresa": "EMPRESA COMERCIAL ALBERT, S.A.",
-    "direccion": "Avenida del vino 63",
+    "direccion": "Avenida vino 00063",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -2263,7 +2263,7 @@ const empresas = [
   },
   {
     "empresa": "LOS PEPOTES, S.A.",
-    "direccion": "Calle sagunto 6",
+    "direccion": "Calle 00006",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -2276,7 +2276,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS VALVERDE,S.L.",
-    "direccion": "Carretera la solana km. 2500",
+    "direccion": "Carretera solana km. 02500",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -2289,7 +2289,7 @@ const empresas = [
   },
   {
     "empresa": "SAN JOSE MADERAS Y DERIVADOS, S.L.",
-    "direccion": "Carretera toledo 30",
+    "direccion": "Carretera 00030",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -2302,7 +2302,7 @@ const empresas = [
   },
   {
     "empresa": "HEREDEROS DE LILLO, S.L.",
-    "direccion": "Calle cr. puertollano s/n 1",
+    "direccion": "Calle puertollano s/n 00001",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -2315,7 +2315,7 @@ const empresas = [
   },
   {
     "empresa": "MADERAS FANEGA, S.L.",
-    "direccion": "Polígono industrial daimiel sur, c/ciencia 44 a",
+    "direccion": "Polígono daimiel sur, c/ciencia 00044 a",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -2328,7 +2328,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS ALCAMIN, S.L.",
-    "direccion": "Calle zacatena parcela 21-25 pg ind la veg2",
+    "direccion": "Calle parcela 21-25 pg ind la veg00002",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -2341,7 +2341,7 @@ const empresas = [
   },
   {
     "empresa": "CERTRADE CIUDAD REAL, S.A.",
-    "direccion": "Calle segadores 14",
+    "direccion": "Calle 00014",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -2354,7 +2354,7 @@ const empresas = [
   },
   {
     "empresa": "SIMER, S.A.",
-    "direccion": "Calle zurbaran 40",
+    "direccion": "Calle zurbaran 00040",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2367,7 +2367,7 @@ const empresas = [
   },
   {
     "empresa": "BALLESTEROS ALCAZAR RICARDO",
-    "direccion": "Calle valle de alcudia s/n",
+    "direccion": "Calle de alcudia 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2380,7 +2380,7 @@ const empresas = [
   },
   {
     "empresa": "HEMOTRANS, S.L.",
-    "direccion": "Calle echegaray 65",
+    "direccion": "Calle 00065",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -2393,7 +2393,7 @@ const empresas = [
   },
   {
     "empresa": "ROMADE, S.L.",
-    "direccion": "Calle tejeros (pol industrial sepes) 4",
+    "direccion": "Calle (pol industrial sepes) 00004",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -2406,7 +2406,7 @@ const empresas = [
   },
   {
     "empresa": "REYEMPA S.L.",
-    "direccion": "Carretera carrion - km. 315",
+    "direccion": "Carretera - km. 00315",
     "localidad": "CARRION DE CALATRAVA",
     "cp": "13150",
     "provincia": "CIUDAD REAL",
@@ -2419,7 +2419,7 @@ const empresas = [
   },
   {
     "empresa": "MATERIAS DE CONSTRUCCION SANTA CRUZ, S.L.",
-    "direccion": "Carretera torrenueva s/n s/n",
+    "direccion": "Carretera s/n 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -2432,7 +2432,7 @@ const empresas = [
   },
   {
     "empresa": "TABLEROS Y KITS CIUDAD REAL, S.L.",
-    "direccion": "Carretera ciudad real-carrion, km. 315",
+    "direccion": "Carretera real-carrion, km. 00315",
     "localidad": "CARRION DE CALATRAVA",
     "cp": "13150",
     "provincia": "CIUDAD REAL",
@@ -2445,7 +2445,7 @@ const empresas = [
   },
   {
     "empresa": "CERAMICA Y SANITARIOS NAVAS, S.L.",
-    "direccion": "Calle socuellamos 26",
+    "direccion": "Calle 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -2458,7 +2458,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS LOZANO VILLAVERDE, COM.B.",
-    "direccion": "Calle peralta 5",
+    "direccion": "Calle 00005",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -2471,7 +2471,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS DAMIMIEL S.L.",
-    "direccion": "Calle arcipreste julio mata 32",
+    "direccion": "Calle julio mata 00032",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -2484,7 +2484,7 @@ const empresas = [
   },
   {
     "empresa": "JARA DELGADO MANUEL",
-    "direccion": "Cmmarques de treviño 25 1 1 c",
+    "direccion": "Camino de treviño 00025 1 1 c",
     "localidad": "CASAS, LAS",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -2497,7 +2497,7 @@ const empresas = [
   },
   {
     "empresa": "PERONA SUMINISTROS CERAMICOS, S.L.",
-    "direccion": "Calle estacion 40",
+    "direccion": "Calle 00040",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2510,7 +2510,7 @@ const empresas = [
   },
   {
     "empresa": "FERRETERIA Y CRISTALERIA L.G., S.L.",
-    "direccion": "Calle bodegueros 18",
+    "direccion": "Calle 00018",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -2523,7 +2523,7 @@ const empresas = [
   },
   {
     "empresa": "DECORACIONES RUMACOLOR, S.L.",
-    "direccion": "Calle cohombro 4",
+    "direccion": "Calle 00004",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -2536,7 +2536,7 @@ const empresas = [
   },
   {
     "empresa": "PORCELANOSA BATIMAT, S.A.",
-    "direccion": "Carretera carrión 11",
+    "direccion": "Carretera ón 00011",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -2549,7 +2549,7 @@ const empresas = [
   },
   {
     "empresa": "ESCAYOLAS EUROPA, S.L.",
-    "direccion": "Avenida julian saez, parcelas 38-3900011",
+    "direccion": "Avenida saez, parcelas 38-3900011",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -2562,7 +2562,7 @@ const empresas = [
   },
   {
     "empresa": "MATERIALES PALOMO E HIJOS SOCIE",
-    "direccion": "Calle don quijote 16",
+    "direccion": "Calle quijote 00016",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -2575,7 +2575,7 @@ const empresas = [
   },
   {
     "empresa": "AGENCIA COMERCIAL HERENCIANA, S.L.",
-    "direccion": "Calle talabarteros 2",
+    "direccion": "Calle 00002",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -2588,7 +2588,7 @@ const empresas = [
   },
   {
     "empresa": "THESIZE SURFACES, S.L.",
-    "direccion": "Calle socuellamos 53",
+    "direccion": "Calle 00053",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2601,7 +2601,7 @@ const empresas = [
   },
   {
     "empresa": "MAGNON BIOMASA S.L.U",
-    "direccion": "Carretera 504 calzada de calatrava-puertollano27",
+    "direccion": "Carretera 504 calzada de calatrava-puertollano00027",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -2614,7 +2614,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOSERVICIO RODRIGUEZ, S.L..",
-    "direccion": "Avenida del vino, pol.ind. parcela 56 s/n",
+    "direccion": "Avenida vino, pol.ind. parcela 56 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -2627,7 +2627,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL MUELA, S.A.",
-    "direccion": "Carretera ctra.nacional 420 km.165;5 1",
+    "direccion": "Carretera 420 km.165;5 00001",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -2640,7 +2640,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICA Y MATERIALES, S.A.",
-    "direccion": "Polígono industrial larache, c/villarrubia 5",
+    "direccion": "Polígono larache, c/villarrubia 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -2653,7 +2653,7 @@ const empresas = [
   },
   {
     "empresa": "ALMACENES MOFRA, S.L.",
-    "direccion": "Calle julian saez(pol.ind.serycal) 1",
+    "direccion": "Calle saez(pol.ind.serycal) 00001",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -2666,7 +2666,7 @@ const empresas = [
   },
   {
     "empresa": "FERRETERIA INDUSTRIAL FERROSUR, S.L.",
-    "direccion": "Carretera nacional 430, km. 319,100 s/n",
+    "direccion": "Carretera 430, km. 319,100 00000",
     "localidad": "CARRION DE CALATRAVA",
     "cp": "13150",
     "provincia": "CIUDAD REAL",
@@ -2679,7 +2679,7 @@ const empresas = [
   },
   {
     "empresa": "FIHERFEZ, S.L.",
-    "direccion": "Carretera carrion a almagro, km. 1 s/n",
+    "direccion": "Carretera a almagro, km. 1 00000",
     "localidad": "CARRION DE CALATRAVA",
     "cp": "13150",
     "provincia": "CIUDAD REAL",
@@ -2692,7 +2692,7 @@ const empresas = [
   },
   {
     "empresa": "SUMAC DISTRIBUCIONES METALURGICAS, S.L.",
-    "direccion": "Polígono entrecaminos c/ francia 48",
+    "direccion": "Polígono c/ francia 00048",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -2705,7 +2705,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS VALDEPEÑAS 2020, SOCIEDAD LIMITADA",
-    "direccion": "Avenida del vino 7",
+    "direccion": "Avenida vino 00007",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -2718,7 +2718,7 @@ const empresas = [
   },
   {
     "empresa": "A.G. GASES Y CONSUMIBLES S.L.",
-    "direccion": "Calle campos de montiel 12",
+    "direccion": "Calle de montiel 00012",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2731,7 +2731,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS AGROVIN, S.A.",
-    "direccion": "Polígono poligono industrial alcess/n 1",
+    "direccion": "Polígono industrial alcess/n 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -2744,7 +2744,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL AGROMANCHA, S.L.",
-    "direccion": "Carretera malagon 1",
+    "direccion": "Carretera 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -2757,7 +2757,7 @@ const empresas = [
   },
   {
     "empresa": "FERTIKALI, S.L.",
-    "direccion": "Calle san pedro 6",
+    "direccion": "Calle pedro 00006",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -2770,7 +2770,7 @@ const empresas = [
   },
   {
     "empresa": "CERFASOL, S.L.",
-    "direccion": "Carretera argamasilla de alba 17",
+    "direccion": "Carretera de alba 00017",
     "localidad": "CINCO CASAS",
     "cp": "13720",
     "provincia": "CIUDAD REAL",
@@ -2783,7 +2783,7 @@ const empresas = [
   },
   {
     "empresa": "LALLEMAND BIO,S.L.",
-    "direccion": "Calle rioja 3",
+    "direccion": "Calle 00003",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -2796,7 +2796,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL ANDASER ALMAGRO SLU",
-    "direccion": "Carretera valdepeñas km. 1,4 s/n",
+    "direccion": "Carretera ñas km. 1,4 00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -2809,7 +2809,7 @@ const empresas = [
   },
   {
     "empresa": "SISTEMAS DLD FIRE PROTECTION SO",
-    "direccion": "Avenida del vino 69",
+    "direccion": "Avenida vino 00069",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -2822,7 +2822,7 @@ const empresas = [
   },
   {
     "empresa": "JULIAN MANZANEQUE SANCHEZ, S.L.",
-    "direccion": "Calle autovia del sur, km. 178 s/n",
+    "direccion": "Calle del sur, km. 178 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -2835,7 +2835,7 @@ const empresas = [
   },
   {
     "empresa": "DESGUACES LOS VIÑEDOS SL",
-    "direccion": "Carretera nacional 310 98",
+    "direccion": "Carretera 310 00098",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2848,7 +2848,7 @@ const empresas = [
   },
   {
     "empresa": "RECUPERACIONES COLOMER, S.L.",
-    "direccion": "Lugar cabeza mesada,s/n ctra.n420 km.311,800000",
+    "direccion": "Lugar mesada,s/n ctra.n420 km.311,800000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -2861,7 +2861,7 @@ const empresas = [
   },
   {
     "empresa": "RECUPERADORA GUADIANA, S.L.",
-    "direccion": "Carretera n 430,km.314,100 (apdo.correos 586) s/n",
+    "direccion": "Carretera 430,km.314,100 (apdo.correos 586) 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -2874,7 +2874,7 @@ const empresas = [
   },
   {
     "empresa": "C.A.T. DESGUACES CASTELLANOS, S.L.",
-    "direccion": "Calle pachecas 39",
+    "direccion": "Calle 00039",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -2887,7 +2887,7 @@ const empresas = [
   },
   {
     "empresa": "RECUPERACIONES NIETO S.L.",
-    "direccion": "Polígono la nava 2",
+    "direccion": "Polígono nava 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -2900,7 +2900,7 @@ const empresas = [
   },
   {
     "empresa": "DESTRUPAPER S.L.",
-    "direccion": "Polígono industrial llano cl. francia s/n",
+    "direccion": "Polígono llano cl. francia 00000",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -2913,7 +2913,7 @@ const empresas = [
   },
   {
     "empresa": "AUTO DESGUACES GAMARRA PATIÑO, S.L.",
-    "direccion": "Carretera cm 4133 km 32 s/n",
+    "direccion": "Carretera 4133 km 32 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -2926,7 +2926,7 @@ const empresas = [
   },
   {
     "empresa": "DEFESA RECUPERACIONES CASTILLA LA MANCHA, S.L.",
-    "direccion": "Trcolombia 1",
+    "direccion": "Travesía 00001",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -2939,7 +2939,7 @@ const empresas = [
   },
   {
     "empresa": "REPUESTOS GODO, S.L.",
-    "direccion": "Plaza de la mancha 2",
+    "direccion": "Plaza de la mancha 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -2952,7 +2952,7 @@ const empresas = [
   },
   {
     "empresa": "VASON IBERICA, SOCIEDAD LIMITADA",
-    "direccion": "Trcalle don quijote 13",
+    "direccion": "Travesía don quijote 00013",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -2965,7 +2965,7 @@ const empresas = [
   },
   {
     "empresa": "SANEHOGAR, S.A.",
-    "direccion": "Polígono emilio castro cl mineria 6",
+    "direccion": "Polígono castro cl mineria 00006",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -2978,7 +2978,7 @@ const empresas = [
   },
   {
     "empresa": "PROYMA GANADERA, S.L.",
-    "direccion": "Avenida tecnologia parc. 5a-5b pol.emilio c.s/n",
+    "direccion": "Avenida parc. 5a-5b pol.emilio c.00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -2991,7 +2991,7 @@ const empresas = [
   },
   {
     "empresa": "DILABO, S.A.L.",
-    "direccion": "Polígono la vega c/ zacatena 19",
+    "direccion": "Polígono vega c/ zacatena 00019",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -3004,7 +3004,7 @@ const empresas = [
   },
   {
     "empresa": "CUÑADO, S.A.",
-    "direccion": "Polígono industrial el cabezuelo ii s/n",
+    "direccion": "Polígono el cabezuelo ii 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -3017,7 +3017,7 @@ const empresas = [
   },
   {
     "empresa": "CAMPUS IBERICA S.L.",
-    "direccion": "Polígono industrial alces parcela 68 s/n",
+    "direccion": "Polígono alces parcela 68 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -3030,7 +3030,7 @@ const empresas = [
   },
   {
     "empresa": "HIDROFIL HIDRAULICA Y SUMINISTROS, S.L.",
-    "direccion": "Calle bota 16",
+    "direccion": "Calle 00016",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -3043,7 +3043,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSMEGAS, SOCIEDAD LIMITADA",
-    "direccion": "Polígono industrial larache c/la solana 8",
+    "direccion": "Polígono larache c/la solana 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -3056,7 +3056,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP.LTDA. \"LOS POZOS\"",
-    "direccion": "Calle manzanares s.n. 1",
+    "direccion": "Calle s.n. 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -3069,7 +3069,7 @@ const empresas = [
   },
   {
     "empresa": "VIVEROS SANTI, S.L.",
-    "direccion": "Calle almodovar 18",
+    "direccion": "Calle 00018",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -3082,7 +3082,7 @@ const empresas = [
   },
   {
     "empresa": "MERCASANTACRUZ, S.A.L.",
-    "direccion": "Calle san sebastian 48",
+    "direccion": "Calle sebastian 00048",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -3095,7 +3095,7 @@ const empresas = [
   },
   {
     "empresa": "MAQUINAS EXPENDEDORAS DE BEBIDAS VENDING, S.L.",
-    "direccion": "Carretera puertollano km.1,400 sector 8 parc 100000",
+    "direccion": "Carretera km.1,400 sector 8 parc 100000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -3108,7 +3108,7 @@ const empresas = [
   },
   {
     "empresa": "HIJOS DE RODOLFO FUENTES SL",
-    "direccion": "Calle antonio castillo 1",
+    "direccion": "Calle castillo 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -3121,7 +3121,7 @@ const empresas = [
   },
   {
     "empresa": "MERCADO RUMBO, S.L.U.",
-    "direccion": "Calle rocinante 6",
+    "direccion": "Calle 00006",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -3134,7 +3134,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN FERNANDEZ VICENTE",
-    "direccion": "Calle arenas (tienda) 61",
+    "direccion": "Calle (tienda) 00061",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -3147,7 +3147,7 @@ const empresas = [
   },
   {
     "empresa": "GUO CHEN XIAOZHEN",
-    "direccion": "Calle padres capuchinos 6",
+    "direccion": "Calle capuchinos 00006",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -3160,7 +3160,7 @@ const empresas = [
   },
   {
     "empresa": "LA TIENDA ORTIZ ZAFRA, S.L.",
-    "direccion": "Calle cervantes 25",
+    "direccion": "Calle 00025",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -3173,7 +3173,7 @@ const empresas = [
   },
   {
     "empresa": "LA DESPENSA DE TOLEDO S.L.",
-    "direccion": "Calle jardin 8",
+    "direccion": "Calle 00008",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -3186,7 +3186,7 @@ const empresas = [
   },
   {
     "empresa": "HIPERCASA 2010,SL",
-    "direccion": "Carretera carrion nave54-56 s/n",
+    "direccion": "Carretera nave54-56 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -3199,7 +3199,7 @@ const empresas = [
   },
   {
     "empresa": "PRADO MARTIN-ONDARZA,S.A.",
-    "direccion": "Paseo del carmen - esq. madara s/n",
+    "direccion": "Paseo carmen - esq. madara 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -3212,7 +3212,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ Y RIGOT, S.L.",
-    "direccion": "Calle antonio castillo 3",
+    "direccion": "Calle castillo 00003",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -3225,7 +3225,7 @@ const empresas = [
   },
   {
     "empresa": "AGROAL CORTIJO, S.L.",
-    "direccion": "Carretera retuerta 14",
+    "direccion": "Carretera 00014",
     "localidad": "HORCAJO DE LOS MONTES",
     "cp": "13110",
     "provincia": "CIUDAD REAL",
@@ -3238,7 +3238,7 @@ const empresas = [
   },
   {
     "empresa": "LUZROCA, S.L.",
-    "direccion": "Calle la fuente 24",
+    "direccion": "Calle fuente 00024",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -3251,7 +3251,7 @@ const empresas = [
   },
   {
     "empresa": "ABN BERNAL ALMADEN, S.L.",
-    "direccion": "Calle pablo ruiz picasso 6",
+    "direccion": "Calle ruiz picasso 00006",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -3264,7 +3264,7 @@ const empresas = [
   },
   {
     "empresa": "CAFE AND COMPANY GESTION,S.L.",
-    "direccion": "Calle valle de alcudia 11",
+    "direccion": "Calle de alcudia 00011",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -3277,7 +3277,7 @@ const empresas = [
   },
   {
     "empresa": "LA DESPENSA FOODS EXPRESS S.L.",
-    "direccion": "Calle luis rodirguez lazaro 30",
+    "direccion": "Calle rodirguez lazaro 00030",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -3290,7 +3290,7 @@ const empresas = [
   },
   {
     "empresa": "ALIMENTACION RODRIGUEZ COLADO SL",
-    "direccion": "Avenida independencia 30",
+    "direccion": "Avenida 00030",
     "localidad": "ROBLEDO, EL",
     "cp": "13114",
     "provincia": "CIUDAD REAL",
@@ -3303,7 +3303,7 @@ const empresas = [
   },
   {
     "empresa": "ZEPPELIN FOOD, S.L.",
-    "direccion": "Calle martires 5",
+    "direccion": "Calle 00005",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -3316,7 +3316,7 @@ const empresas = [
   },
   {
     "empresa": "EL APAÑO SDAD. COOPERATIVA DE CLM",
-    "direccion": "Avenida tablas de daimiel, 23",
+    "direccion": "Avenida de daimiel, 00023",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -3329,7 +3329,7 @@ const empresas = [
   },
   {
     "empresa": "CASH ECOFAMILIA SL",
-    "direccion": "Calle cuesta rufina 16",
+    "direccion": "Calle rufina 00016",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -3342,7 +3342,7 @@ const empresas = [
   },
   {
     "empresa": "ALIMENTACION RODRIGUEZ CACERES",
-    "direccion": "Calle moreria 15",
+    "direccion": "Calle 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -3355,7 +3355,7 @@ const empresas = [
   },
   {
     "empresa": "ALIMENTACION COLADO DEL ALAMO S",
-    "direccion": "Calle del brezoso 4",
+    "direccion": "Calle brezoso 00004",
     "localidad": "ROBLEDO, EL",
     "cp": "13114",
     "provincia": "CIUDAD REAL",
@@ -3368,7 +3368,7 @@ const empresas = [
   },
   {
     "empresa": "DISYCASH VII SL",
-    "direccion": "Calle santa maria 2",
+    "direccion": "Calle maria 00002",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -3381,7 +3381,7 @@ const empresas = [
   },
   {
     "empresa": "LA DESPENSA DEL GUADIANA, S.L.",
-    "direccion": "Calle general moscardo 9",
+    "direccion": "Calle moscardo 00009",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -3394,7 +3394,7 @@ const empresas = [
   },
   {
     "empresa": "TAR 2022 LOGISTICA Y SERVICIOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle castillejos 129",
+    "direccion": "Calle 00129",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -3407,7 +3407,7 @@ const empresas = [
   },
   {
     "empresa": "QUESOS ENCINASOLA, SOCIEDAD LIMITADA",
-    "direccion": "Calle conde de la cañada 7",
+    "direccion": "Calle de la cañada 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -3420,7 +3420,7 @@ const empresas = [
   },
   {
     "empresa": "SUPERMERCADO SALTO SOCIEDAD LIMITADA",
-    "direccion": "Calle hospicio 1",
+    "direccion": "Calle 00001",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -3433,7 +3433,7 @@ const empresas = [
   },
   {
     "empresa": "CONSUM S.COOP.V.",
-    "direccion": "Avenida juan carlos i 87",
+    "direccion": "Avenida carlos i 00087",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -3446,7 +3446,7 @@ const empresas = [
   },
   {
     "empresa": "ALIMENTACION DEL ALAMO LOPEZ, SL",
-    "direccion": "Calle mata 21",
+    "direccion": "Calle 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -3459,7 +3459,7 @@ const empresas = [
   },
   {
     "empresa": "MARKET CIUDAD REAL CENTRO, S.L.",
-    "direccion": "Calle luz 1",
+    "direccion": "Calle 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -3472,7 +3472,7 @@ const empresas = [
   },
   {
     "empresa": "GAMODAL INVERSIONES, SOCIEDAD LIMITADA",
-    "direccion": "Carretera cinco casas 10",
+    "direccion": "Carretera casas 00010",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -3485,7 +3485,7 @@ const empresas = [
   },
   {
     "empresa": "NARANJO CASTRO FRANCISCO JAVIE",
-    "direccion": "Calle cervantes 12 l1",
+    "direccion": "Calle 00012 l1",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -3498,7 +3498,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ MENCHERO DAVID",
-    "direccion": "Calle cardenal cisneros 44",
+    "direccion": "Calle cisneros 00044",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -3511,7 +3511,7 @@ const empresas = [
   },
   {
     "empresa": "VIDAL HOME 1688, SOCIEDAD LIMITADA",
-    "direccion": "Avenida avenida del carmen 30",
+    "direccion": "Avenida del carmen 00030",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -3524,7 +3524,7 @@ const empresas = [
   },
   {
     "empresa": "LA DESPENSA ALIMENTICIA DE LA MANCHA 2021, SL",
-    "direccion": "Avenida de la provincia 25",
+    "direccion": "Avenida la provincia 00025",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -3537,7 +3537,7 @@ const empresas = [
   },
   {
     "empresa": "SUPERMERCADOS ALARCOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle cervantes s/n",
+    "direccion": "Calle 00000",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -3550,7 +3550,7 @@ const empresas = [
   },
   {
     "empresa": "MAXI MANZANARES CENTRO, S.L",
-    "direccion": "Calle empedrada 32",
+    "direccion": "Calle 00032",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -3563,7 +3563,7 @@ const empresas = [
   },
   {
     "empresa": "ALIMENTACION VICTOR NATALIA S.L.",
-    "direccion": "Carretera almagro 102",
+    "direccion": "Carretera 00102",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -3576,7 +3576,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO MIN HAI, SOCIEDAD LIMITADA",
-    "direccion": "Carretera argamasilla de alba km 8 s/n",
+    "direccion": "Carretera de alba km 8 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -3589,7 +3589,7 @@ const empresas = [
   },
   {
     "empresa": "ZEPPELIN LEVANTE, S.L.U.",
-    "direccion": "Calle martires 5",
+    "direccion": "Calle 00005",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -3602,7 +3602,7 @@ const empresas = [
   },
   {
     "empresa": "MANZASUPER, SOCIEDAD LIMITADA",
-    "direccion": "Calle toledo 1 d",
+    "direccion": "Calle 00001 d",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -3615,7 +3615,7 @@ const empresas = [
   },
   {
     "empresa": "BUBBLES BIDCO SPAIN SL",
-    "direccion": "Calle bodegas sanchez barba s/n",
+    "direccion": "Calle sanchez barba 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -3628,7 +3628,7 @@ const empresas = [
   },
   {
     "empresa": "ENARTIS SEPSA SA UNIPERSONAL",
-    "direccion": "Calle emilio castelar 65",
+    "direccion": "Calle castelar 00065",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -3641,7 +3641,7 @@ const empresas = [
   },
   {
     "empresa": "MANUEL ROMERO DE AVILA RAMIREZ S.A.",
-    "direccion": "Plaza don diego 6",
+    "direccion": "Plaza diego 00006",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -3654,7 +3654,7 @@ const empresas = [
   },
   {
     "empresa": "ANYSA GANADERA, S.L.",
-    "direccion": "Calle hnos lumiere num 2 c/v issac peral s/n",
+    "direccion": "Calle lumiere num 2 c/v issac peral 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -3667,7 +3667,7 @@ const empresas = [
   },
   {
     "empresa": "COPERMATICA, S.L.",
-    "direccion": "Paseo san isidro 17",
+    "direccion": "Paseo isidro 00017",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -3680,7 +3680,7 @@ const empresas = [
   },
   {
     "empresa": "DESARROLLO DE SOFTWARE TOMELLOSO, S.L.",
-    "direccion": "Plaza arcipreste de hita 3",
+    "direccion": "Plaza de hita 00003",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -3693,7 +3693,7 @@ const empresas = [
   },
   {
     "empresa": "CONDADO BERROCAL, S.L.",
-    "direccion": "Calle paloma 10 2ºa",
+    "direccion": "Calle 00010 2ºa",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -3706,7 +3706,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOSERVICIO TITIN, S.L.",
-    "direccion": "Calle valdelomar 16",
+    "direccion": "Calle 00016",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -3719,7 +3719,7 @@ const empresas = [
   },
   {
     "empresa": "GAME STORES IBERIA S.L.",
-    "direccion": "Avenida europa (centro comercial eroski) s/n",
+    "direccion": "Avenida (centro comercial eroski) 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -3732,7 +3732,7 @@ const empresas = [
   },
   {
     "empresa": "MOMA SDAD COOP",
-    "direccion": "Calle alamillo bajo 6",
+    "direccion": "Calle bajo 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -3745,7 +3745,7 @@ const empresas = [
   },
   {
     "empresa": "OFIRALIA,S .L.",
-    "direccion": "Carretera valdepeñas 32",
+    "direccion": "Carretera ñas 00032",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -3758,7 +3758,7 @@ const empresas = [
   },
   {
     "empresa": "PALETS LOZANO S.L.",
-    "direccion": "Calle paquito leon 17 01izd",
+    "direccion": "Calle leon 00017 01izd",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -3771,7 +3771,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOCOMERCIAL ACIS,S.L",
-    "direccion": "Calle gran capitan 35",
+    "direccion": "Calle capitan 00035",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -3784,7 +3784,7 @@ const empresas = [
   },
   {
     "empresa": "SIGLOS SHOPPING SL",
-    "direccion": "Carretera de carrion 9",
+    "direccion": "Carretera carrion 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -3797,7 +3797,7 @@ const empresas = [
   },
   {
     "empresa": "QUESOS TELLEZ, SOCIEDAD LIMITADA",
-    "direccion": "Calle ejido de calatrava 18",
+    "direccion": "Calle de calatrava 00018",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -3810,7 +3810,7 @@ const empresas = [
   },
   {
     "empresa": "DECOHOME ORIENTAL, SOCIEDAD LIMITADA",
-    "direccion": "Calle calatrava 22 lo",
+    "direccion": "Calle 00022 lo",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -3823,7 +3823,7 @@ const empresas = [
   },
   {
     "empresa": "REDCAR LOW COST, SOCIEDAD LIMITADA",
-    "direccion": "Calle hermanos lumiere 3",
+    "direccion": "Calle lumiere 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -3836,7 +3836,7 @@ const empresas = [
   },
   {
     "empresa": "LIJIE SISTER SL",
-    "direccion": "Avenida estudiantes 44",
+    "direccion": "Avenida 00044",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -3849,7 +3849,7 @@ const empresas = [
   },
   {
     "empresa": "MULTIPRECIO CHEN 2020, SOCIEDAD LIMITADA",
-    "direccion": "Calle fresno 22",
+    "direccion": "Calle 00022",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -3862,7 +3862,7 @@ const empresas = [
   },
   {
     "empresa": "SOCIEDAD COOPERATIVA LA MARI",
-    "direccion": "Calle san urbano 15",
+    "direccion": "Calle urbano 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -3875,7 +3875,7 @@ const empresas = [
   },
   {
     "empresa": "PETROMOTIC, INSTALACIONES PETROLERAS Y TECNOLOGIA, SL",
-    "direccion": "Calle bruselas 34",
+    "direccion": "Calle 00034",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -3888,7 +3888,7 @@ const empresas = [
   },
   {
     "empresa": "CHINATOWN ELENA, SOCIEDAD LIMITADA",
-    "direccion": "Polígono larache 305",
+    "direccion": "Polígono 00305",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -3901,7 +3901,7 @@ const empresas = [
   },
   {
     "empresa": "CAMINO DEL ARCA, SDAD COOP",
-    "direccion": "Calle alamillo bajo 6",
+    "direccion": "Calle bajo 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -3914,7 +3914,7 @@ const empresas = [
   },
   {
     "empresa": "MERKAVILLA FOODS, S.L.U.",
-    "direccion": "Calle real 26",
+    "direccion": "Calle 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -3927,7 +3927,7 @@ const empresas = [
   },
   {
     "empresa": "ACTION RETAIL SPAIN SL",
-    "direccion": "Carretera argamasilla pg escaparate s/n",
+    "direccion": "Carretera pg escaparate 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -3940,7 +3940,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA RUIZ JUAN CARLOS",
-    "direccion": "Calle valle de alcudia 1",
+    "direccion": "Calle de alcudia 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -3953,7 +3953,7 @@ const empresas = [
   },
   {
     "empresa": "LA FRANCISQUITA FRUTERIAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle socuellamos 109",
+    "direccion": "Calle 00109",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -3966,7 +3966,7 @@ const empresas = [
   },
   {
     "empresa": "CARNES GOMEZ S.R.L.",
-    "direccion": "Calle risco 53",
+    "direccion": "Calle 00053",
     "localidad": "AGUDO",
     "cp": "13410",
     "provincia": "CIUDAD REAL",
@@ -3979,7 +3979,7 @@ const empresas = [
   },
   {
     "empresa": "ORTEGA 1939, S.L.",
-    "direccion": "Avenida serna de palacio 1",
+    "direccion": "Avenida de palacio 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -3992,7 +3992,7 @@ const empresas = [
   },
   {
     "empresa": "ALCOCARNE SELECCION, S.L.",
-    "direccion": "Paseo martires 28",
+    "direccion": "Paseo 00028",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -4005,7 +4005,7 @@ const empresas = [
   },
   {
     "empresa": "MOLERO ALCAIDE JOSE MANUEL",
-    "direccion": "Calle viregen 53",
+    "direccion": "Calle 00053",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -4018,7 +4018,7 @@ const empresas = [
   },
   {
     "empresa": "CARNICERIA JOAQUIN E HIJOS, CB",
-    "direccion": "Calle albacete 3",
+    "direccion": "Calle 00003",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -4031,7 +4031,7 @@ const empresas = [
   },
   {
     "empresa": "CONSERVAS EL CAZADOR SOCIEDAD L",
-    "direccion": "Calle hosteleros 1",
+    "direccion": "Calle 00001",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -4044,7 +4044,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES CARNICAS PARALIMENT, S.L.",
-    "direccion": "Calle felipe ii 4",
+    "direccion": "Calle ii 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -4057,7 +4057,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA MASCARAQUE FLORES, SOCIEDAD LIMITADA",
-    "direccion": "Calle valencia 13",
+    "direccion": "Calle 00013",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -4070,7 +4070,7 @@ const empresas = [
   },
   {
     "empresa": "PASTELERIA HELADERIA LA ROSA, S.L.",
-    "direccion": "Calle emilio castelar 43",
+    "direccion": "Calle castelar 00043",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -4083,7 +4083,7 @@ const empresas = [
   },
   {
     "empresa": "DULCES LOS MANCHEGOS, S.L.",
-    "direccion": "Calle batalla de lepanto 18",
+    "direccion": "Calle de lepanto 00018",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -4096,7 +4096,7 @@ const empresas = [
   },
   {
     "empresa": "MORA CALLE ANTONIA",
-    "direccion": "Plaza mayor 20",
+    "direccion": "Plaza 00020",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -4109,7 +4109,7 @@ const empresas = [
   },
   {
     "empresa": "COBO BUENDIA ALFONSO",
-    "direccion": "Calle los molinos 100",
+    "direccion": "Calle molinos 00100",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -4122,7 +4122,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS SANTA GEMA, S.L.L.",
-    "direccion": "Calle ronda 60",
+    "direccion": "Calle 00060",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -4135,7 +4135,7 @@ const empresas = [
   },
   {
     "empresa": "JUAN PEDRO E HIJOS ,C.B",
-    "direccion": "Calle alhambra 32",
+    "direccion": "Calle 00032",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -4148,7 +4148,7 @@ const empresas = [
   },
   {
     "empresa": "PANADEROS ARTESANOS J SANCHEZ, S.L.",
-    "direccion": "Calle ismael de tomelloso 64",
+    "direccion": "Calle de tomelloso 00064",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -4161,7 +4161,7 @@ const empresas = [
   },
   {
     "empresa": "OMISTER CHOCOLAT SL",
-    "direccion": "Paseo de san greorio 32",
+    "direccion": "Paseo san greorio 00032",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -4174,7 +4174,7 @@ const empresas = [
   },
   {
     "empresa": "GONZALEZ FERNANDEZ JOSE LUIS",
-    "direccion": "Calle jose mora 8",
+    "direccion": "Calle mora 00008",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -4187,7 +4187,7 @@ const empresas = [
   },
   {
     "empresa": "LA DULCETERÍA S. COOP. DE CLM",
-    "direccion": "Paseo carlos erana 15",
+    "direccion": "Paseo erana 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -4200,7 +4200,7 @@ const empresas = [
   },
   {
     "empresa": "CARA PAN, SOCIEDAD LIMITADA",
-    "direccion": "Calle socuellamos nave 12 12",
+    "direccion": "Calle nave 12 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -4213,7 +4213,7 @@ const empresas = [
   },
   {
     "empresa": "PASTELERIA MI NIÑO SL",
-    "direccion": "Calle empedrada 17",
+    "direccion": "Calle 00017",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -4226,7 +4226,7 @@ const empresas = [
   },
   {
     "empresa": "GESTIONES Y TRAMITACIONES CUMOE,S.L",
-    "direccion": "Calle isaac peral 19",
+    "direccion": "Calle peral 00019",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -4239,7 +4239,7 @@ const empresas = [
   },
   {
     "empresa": "CORTA EPELDE MARIA BEGOÑA",
-    "direccion": "Calle alonso cespedes de guzman 1",
+    "direccion": "Calle cespedes de guzman 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -4252,7 +4252,7 @@ const empresas = [
   },
   {
     "empresa": "FRIPISA, S.L.",
-    "direccion": "Carretera nacional 420, km. 163 s/n",
+    "direccion": "Carretera 420, km. 163 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -4265,7 +4265,7 @@ const empresas = [
   },
   {
     "empresa": "REPOSTERIA HERMANOS HERRERA, S.L.",
-    "direccion": "Cmdel campillo 58 bj",
+    "direccion": "Camino campillo 00058 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -4278,7 +4278,7 @@ const empresas = [
   },
   {
     "empresa": "ALIMENTARIA DE ARGAMASILLA S.L.",
-    "direccion": "Calle sol 20",
+    "direccion": "Calle 00020",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -4291,7 +4291,7 @@ const empresas = [
   },
   {
     "empresa": "ASADOR Y TIENDA GASTRONOMICA LADIS, COM.B",
-    "direccion": "Calle doce de octubre 39",
+    "direccion": "Calle de octubre 00039",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -4304,7 +4304,7 @@ const empresas = [
   },
   {
     "empresa": "SUPERMERCADO CIUDAD REAL S.L.",
-    "direccion": "Calle alcantara 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -4317,7 +4317,7 @@ const empresas = [
   },
   {
     "empresa": "SERENDIPIA LIBROS, S.L.",
-    "direccion": "Calle progreso 3",
+    "direccion": "Calle 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -4330,7 +4330,7 @@ const empresas = [
   },
   {
     "empresa": "GABHERTEN SUPERMERCADOS SOCIEDAD",
-    "direccion": "Calle san bernabe 20",
+    "direccion": "Calle bernabe 00020",
     "localidad": "ARENAS DE SAN JUAN",
     "cp": "13679",
     "provincia": "CIUDAD REAL",
@@ -4343,7 +4343,7 @@ const empresas = [
   },
   {
     "empresa": "ALIMENTACION LYCEMA SL",
-    "direccion": "Calle progreso 12",
+    "direccion": "Calle 00012",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -4356,7 +4356,7 @@ const empresas = [
   },
   {
     "empresa": "MAXI ARGAMASILLA, S.L.",
-    "direccion": "Calle ancha 58",
+    "direccion": "Calle 00058",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -4369,7 +4369,7 @@ const empresas = [
   },
   {
     "empresa": "HURTADO JIMENEZ FELIX",
-    "direccion": "Avenida juan carlos i 109",
+    "direccion": "Avenida carlos i 00109",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -4382,7 +4382,7 @@ const empresas = [
   },
   {
     "empresa": "NIULAI TRADING,S.L",
-    "direccion": "Posan isidro 14",
+    "direccion": "Posan isidro 00014",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -4395,7 +4395,7 @@ const empresas = [
   },
   {
     "empresa": "MAXI CARRETERA CARRION S.L.U.",
-    "direccion": "Carretera carrion 12",
+    "direccion": "Carretera 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -4408,7 +4408,7 @@ const empresas = [
   },
   {
     "empresa": "COMMERCE-EXPLORER GROUP SL",
-    "direccion": "Calle san marcos 28",
+    "direccion": "Calle marcos 00028",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -4421,7 +4421,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS RUMANOS PAPALET, S.L.",
-    "direccion": "Calle campo 89",
+    "direccion": "Calle 00089",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -4434,7 +4434,7 @@ const empresas = [
   },
   {
     "empresa": "SISTEMAS DE OFICINA DE CASTILLA LA MANCHA, S.A.",
-    "direccion": "Calle pozo dulce 17",
+    "direccion": "Calle dulce 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -4447,7 +4447,7 @@ const empresas = [
   },
   {
     "empresa": "MOBILE PHONE COMUNICACIONES S.L.",
-    "direccion": "Calle feria 4",
+    "direccion": "Calle 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -4460,7 +4460,7 @@ const empresas = [
   },
   {
     "empresa": "ENOVA INFORMATICA Y COMUNICACIONES, S.L.L.",
-    "direccion": "Rddel carmen (local a) 21",
+    "direccion": "Ronda carmen (local a) 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -4473,7 +4473,7 @@ const empresas = [
   },
   {
     "empresa": "VILLAPHONE, S.L.",
-    "direccion": "Calle escuelas 18",
+    "direccion": "Calle 00018",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -4486,7 +4486,7 @@ const empresas = [
   },
   {
     "empresa": "PROSEGUR SOLUCIONES, S.A.",
-    "direccion": "Calle carrion 102",
+    "direccion": "Calle 00102",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -4499,7 +4499,7 @@ const empresas = [
   },
   {
     "empresa": "CINFOPROGESTGROUP . SL",
-    "direccion": "Calle italia 6",
+    "direccion": "Calle 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -4512,7 +4512,7 @@ const empresas = [
   },
   {
     "empresa": "RED CHAIN, S.L.",
-    "direccion": "Calle toledo 16 bjiz",
+    "direccion": "Calle 00016 bjiz",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -4525,7 +4525,7 @@ const empresas = [
   },
   {
     "empresa": "CLM FRANQUICIAS SOLUCIONES DE COMUNICACIONES SL",
-    "direccion": "Avenida antonio huertas 40",
+    "direccion": "Avenida huertas 00040",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -4538,7 +4538,7 @@ const empresas = [
   },
   {
     "empresa": "TRAMAS RETAIL SL",
-    "direccion": "Calle aduana 16",
+    "direccion": "Calle 00016",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -4551,7 +4551,7 @@ const empresas = [
   },
   {
     "empresa": "CASABASIC INTERIOR SL",
-    "direccion": "Calle don quijote 16",
+    "direccion": "Calle quijote 00016",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -4564,7 +4564,7 @@ const empresas = [
   },
   {
     "empresa": "ZEEMAN TEXTIELSUPERS,S.L",
-    "direccion": "Calle ramon y cajal 14",
+    "direccion": "Calle y cajal 00014",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -4577,7 +4577,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS BOLANOS, S.A.",
-    "direccion": "Carretera ctra.de daimiel 3",
+    "direccion": "Carretera daimiel 00003",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -4590,7 +4590,7 @@ const empresas = [
   },
   {
     "empresa": "ATOCHERO PALOMO, S.L.",
-    "direccion": "Polígono industrial, calle d, parcela r 187",
+    "direccion": "Polígono , calle d, parcela r 00187",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -4603,7 +4603,7 @@ const empresas = [
   },
   {
     "empresa": "CRISTALERIA MUNOZ DE LUNA, S.L.",
-    "direccion": "Calle virgen de la paz 58",
+    "direccion": "Calle de la paz 00058",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -4616,7 +4616,7 @@ const empresas = [
   },
   {
     "empresa": "IGNACIO MANZANARES, S.L.",
-    "direccion": "Calle melilla 14",
+    "direccion": "Calle 00014",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -4629,7 +4629,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIAS JUNO S.A.",
-    "direccion": "Polígono industrial alces-calle europa 1",
+    "direccion": "Polígono alces-calle europa 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -4642,7 +4642,7 @@ const empresas = [
   },
   {
     "empresa": "AZULEJOS Y SANEAMIENTOS VALDEPEÑAS, S.L.",
-    "direccion": "Calle francisco morales 28",
+    "direccion": "Calle morales 00028",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -4655,7 +4655,7 @@ const empresas = [
   },
   {
     "empresa": "ESCOBAR MUÑOZ CIRIACO",
-    "direccion": "Calle sol 27",
+    "direccion": "Calle 00027",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -4668,7 +4668,7 @@ const empresas = [
   },
   {
     "empresa": "REPUESTOS AGRICOLAS ROMAN, S.L.",
-    "direccion": "Calle campo 105",
+    "direccion": "Calle 00105",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -4681,7 +4681,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ QUINTANAR, S.L.",
-    "direccion": "Calle concepcion 90",
+    "direccion": "Calle 00090",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -4694,7 +4694,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL FERRETERA CARO, S.L.",
-    "direccion": "Avenida virgen de las viñas 16",
+    "direccion": "Avenida de las viñas 00016",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -4707,7 +4707,7 @@ const empresas = [
   },
   {
     "empresa": "MATERIALES DE CONSTRUCCION RACIONERO, S.L.",
-    "direccion": "Polígono ind alces iii fase c/ garnacha, s/n s/n 8",
+    "direccion": "Polígono alces iii fase c/ garnacha, s/n 00000 8",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -4720,7 +4720,7 @@ const empresas = [
   },
   {
     "empresa": "HIJOS DE CANDELARIO MORALES, S.L.",
-    "direccion": "Carretera ciudad real s/n",
+    "direccion": "Carretera real 00000",
     "localidad": "ALCOLEA DE CALATRAVA",
     "cp": "13107",
     "provincia": "CIUDAD REAL",
@@ -4733,7 +4733,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS VALERO CIUDAD REAL, S.L.",
-    "direccion": "Carretera carrion 25",
+    "direccion": "Carretera 00025",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -4746,7 +4746,7 @@ const empresas = [
   },
   {
     "empresa": "FERRETERIA PERONA S.L.U.",
-    "direccion": "Calle oriente 122",
+    "direccion": "Calle 00122",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -4759,7 +4759,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIA DEL MUEBLE MANZARA, S.L.",
-    "direccion": "Avenida constitucion 9",
+    "direccion": "Avenida 00009",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -4772,7 +4772,7 @@ const empresas = [
   },
   {
     "empresa": "MOBEL FEELINGS SL UNIPERSONAL",
-    "direccion": "Carretera santa cruz 29",
+    "direccion": "Carretera cruz 00029",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -4785,7 +4785,7 @@ const empresas = [
   },
   {
     "empresa": "ALMACENES Y FERRETERIA ARENAL SL",
-    "direccion": "Calle garnacha 15",
+    "direccion": "Calle 00015",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -4798,7 +4798,7 @@ const empresas = [
   },
   {
     "empresa": "LEAL DECORACION, S.L.U.",
-    "direccion": "Cmcampo de criptana 1",
+    "direccion": "Camino de criptana 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -4811,7 +4811,7 @@ const empresas = [
   },
   {
     "empresa": "PREVENZIONA EQUIPOS DE PROTECCION INDIVIDUAL, S.L.U.",
-    "direccion": "Polígono industrial fase2-calle xiv-parc.r21900000",
+    "direccion": "Polígono fase2-calle xiv-parc.r21900000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -4824,7 +4824,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL VICARSOL, S.L.",
-    "direccion": "Avenida constitucion 112",
+    "direccion": "Avenida 00112",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -4837,7 +4837,7 @@ const empresas = [
   },
   {
     "empresa": "FERRETERIA SAN ISIDRO PORZUNA S",
-    "direccion": "Carretera toledo 68",
+    "direccion": "Carretera 00068",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -4850,7 +4850,7 @@ const empresas = [
   },
   {
     "empresa": "PALETS CESBUR SOCIEDAD LIMITADA",
-    "direccion": "Calle mistral (poligono industrial cidag) 704",
+    "direccion": "Calle (poligono industrial cidag) 00704",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -4863,7 +4863,7 @@ const empresas = [
   },
   {
     "empresa": "METALICAS VIRGEN DE LA SIERRA SL",
-    "direccion": "Avenida del caz s/n",
+    "direccion": "Avenida caz 00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -4876,7 +4876,7 @@ const empresas = [
   },
   {
     "empresa": "FEDERICO ROMERO SOLUCIONES S.L.",
-    "direccion": "Calle doctor fleming 24",
+    "direccion": "Calle fleming 00024",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -4889,7 +4889,7 @@ const empresas = [
   },
   {
     "empresa": "PINTURAS NIETO, S.A.",
-    "direccion": "Calle mediodia 19",
+    "direccion": "Calle 00019",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -4902,7 +4902,7 @@ const empresas = [
   },
   {
     "empresa": "NATURA MUEBLES, COM.B.",
-    "direccion": "Calle jacinto benavente s/n",
+    "direccion": "Calle benavente 00000",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -4915,7 +4915,7 @@ const empresas = [
   },
   {
     "empresa": "JILOVAL, S.L.",
-    "direccion": "Avenida primero de julio 31",
+    "direccion": "Avenida de julio 00031",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -4928,7 +4928,7 @@ const empresas = [
   },
   {
     "empresa": "IKEA IBERICA, S.A.",
-    "direccion": "Avenida de europa 45",
+    "direccion": "Avenida europa 00045",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -4941,7 +4941,7 @@ const empresas = [
   },
   {
     "empresa": "VERE 85, S.A.",
-    "direccion": "Plaza de la paz 3",
+    "direccion": "Plaza la paz 00003",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -4954,7 +4954,7 @@ const empresas = [
   },
   {
     "empresa": "COMERDEL,S.A.",
-    "direccion": "Calle constitucion 71",
+    "direccion": "Calle 00071",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -4967,7 +4967,7 @@ const empresas = [
   },
   {
     "empresa": "MUEBLES ROS, S.L.",
-    "direccion": "Calle bataneros 38",
+    "direccion": "Calle 00038",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -4980,7 +4980,7 @@ const empresas = [
   },
   {
     "empresa": "ANGEL HERENCIA, S.L.R.",
-    "direccion": "Calle virgen de criptana 1",
+    "direccion": "Calle de criptana 00001",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -4993,7 +4993,7 @@ const empresas = [
   },
   {
     "empresa": "MUEBLES ANTONIO BELTRAN, S.L.",
-    "direccion": "Lugar antigua ctra. madrid (pol.ind.) s/n",
+    "direccion": "Lugar ctra. madrid (pol.ind.) 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -5006,7 +5006,7 @@ const empresas = [
   },
   {
     "empresa": "AGUIRRE DISEÑO, S.L.",
-    "direccion": "Carretera nacional 420, km.334,70 s/n",
+    "direccion": "Carretera 420, km.334,70 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -5019,7 +5019,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL DEL MUEBLE MILLAN SA",
-    "direccion": "Calle segadores,plgn industrial 62",
+    "direccion": "Calle ,plgn industrial 00062",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -5032,7 +5032,7 @@ const empresas = [
   },
   {
     "empresa": "HIPERMUEBLE UBEDA Y JAEN, S.L.",
-    "direccion": "Calle segadores 62",
+    "direccion": "Calle 00062",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -5045,7 +5045,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS INTEGRALES ALJADEL, S.L.",
-    "direccion": "Paseo martires 6",
+    "direccion": "Paseo 00006",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -5058,7 +5058,7 @@ const empresas = [
   },
   {
     "empresa": "DOCUIMPRESION XXI, S.L.",
-    "direccion": "Calle bernardo balbuena 1",
+    "direccion": "Calle balbuena 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -5071,7 +5071,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS Y TRANSPORTES INRA",
-    "direccion": "Carretera argamasilla km 1,400 nave 12 s/n",
+    "direccion": "Carretera km 1,400 nave 12 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -5084,7 +5084,7 @@ const empresas = [
   },
   {
     "empresa": "MOBILIARIO MAYORGA, S.L.",
-    "direccion": "Calle molino 16",
+    "direccion": "Calle 00016",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -5097,7 +5097,7 @@ const empresas = [
   },
   {
     "empresa": "ALKAZARMOBEL 20, SOCIEDAD LIMITADA LABORAL",
-    "direccion": "Polígono alces 43",
+    "direccion": "Polígono 00043",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5110,7 +5110,7 @@ const empresas = [
   },
   {
     "empresa": "JIANG NAN MARKET SL",
-    "direccion": "Polígono escaparate nave 9",
+    "direccion": "Polígono nave 00009",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -5123,7 +5123,7 @@ const empresas = [
   },
   {
     "empresa": "GAS PUERTOLLANO ENERGIAS, S.L",
-    "direccion": "Calle pablo neruda 5",
+    "direccion": "Calle neruda 00005",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -5136,7 +5136,7 @@ const empresas = [
   },
   {
     "empresa": "MAS CLM FRANQUICIAS SL",
-    "direccion": "Calle aduana 29",
+    "direccion": "Calle 00029",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -5149,7 +5149,7 @@ const empresas = [
   },
   {
     "empresa": "MOISES MATA, S.L.",
-    "direccion": "Calle emilio castelar 22",
+    "direccion": "Calle castelar 00022",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5162,7 +5162,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL SOM-RUB, S.L.",
-    "direccion": "Calle calatrava 28",
+    "direccion": "Calle 00028",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -5175,7 +5175,7 @@ const empresas = [
   },
   {
     "empresa": "MODERN DEPOT, S.L.",
-    "direccion": "Calle campo 5 loc",
+    "direccion": "Calle 00005 loc",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -5188,7 +5188,7 @@ const empresas = [
   },
   {
     "empresa": "CORRE CAMINOS SPORT, S.L.",
-    "direccion": "Calle horno 36",
+    "direccion": "Calle 00036",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5201,7 +5201,7 @@ const empresas = [
   },
   {
     "empresa": "B2B SPORT VIP 1980 S.L.",
-    "direccion": "Carretera n-420 km 284,200 s/n",
+    "direccion": "Carretera -420 km 284,200 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5214,7 +5214,7 @@ const empresas = [
   },
   {
     "empresa": "VIARIM, S.L.",
-    "direccion": "Calle castillo 15",
+    "direccion": "Calle 00015",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -5227,7 +5227,7 @@ const empresas = [
   },
   {
     "empresa": "JUGUETES MAVI, S.L.",
-    "direccion": "Calle ancha 22",
+    "direccion": "Calle 00022",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -5240,7 +5240,7 @@ const empresas = [
   },
   {
     "empresa": "ARJOBUCOR, S.L.",
-    "direccion": "Calle segadores 34",
+    "direccion": "Calle 00034",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -5253,7 +5253,7 @@ const empresas = [
   },
   {
     "empresa": "FORLOZ SL",
-    "direccion": "Calle marconi 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -5266,7 +5266,7 @@ const empresas = [
   },
   {
     "empresa": "ISIDRO GOMEZ, S.L.",
-    "direccion": "Calle emilio castelar 17",
+    "direccion": "Calle castelar 00017",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5279,7 +5279,7 @@ const empresas = [
   },
   {
     "empresa": "MOMEN TRADING SPORT, S.L.",
-    "direccion": "Calle cordoba 38",
+    "direccion": "Calle 00038",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5292,7 +5292,7 @@ const empresas = [
   },
   {
     "empresa": "JUANEMI RUEDAS CIUDAD, S.L.",
-    "direccion": "Calle calveros 86",
+    "direccion": "Calle 00086",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -5305,7 +5305,7 @@ const empresas = [
   },
   {
     "empresa": "PILAR PRIETO GUMIEL, S.L.",
-    "direccion": "Calle doña crisanta 2",
+    "direccion": "Calle ña crisanta 00002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -5318,7 +5318,7 @@ const empresas = [
   },
   {
     "empresa": "ISIDRO TEXTIL, S.L.",
-    "direccion": "Calle emilio castelar 39",
+    "direccion": "Calle castelar 00039",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5331,7 +5331,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL ROMAN, COM.B.",
-    "direccion": "Calle empedrada 16",
+    "direccion": "Calle 00016",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -5344,7 +5344,7 @@ const empresas = [
   },
   {
     "empresa": "LIWE ESPAÑOLA, S.A.",
-    "direccion": "Calle escuelas, edif.esteban lope s/n",
+    "direccion": "Calle , edif.esteban lope 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5357,7 +5357,7 @@ const empresas = [
   },
   {
     "empresa": "MAX BEBE DAIMIEL S.L.",
-    "direccion": "Plaza san pedro 5",
+    "direccion": "Plaza pedro 00005",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -5370,7 +5370,7 @@ const empresas = [
   },
   {
     "empresa": "NOVA MODAS TEXTIL, S.L.",
-    "direccion": "Plaza mayor 6",
+    "direccion": "Plaza 00006",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -5383,7 +5383,7 @@ const empresas = [
   },
   {
     "empresa": "GRUCAL TEXTIL,S.L",
-    "direccion": "Plaza san pedro local 1",
+    "direccion": "Plaza pedro local 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -5396,7 +5396,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES MOLINA MONTIEL, S.L.",
-    "direccion": "Calle cordoba 38",
+    "direccion": "Calle 00038",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5409,7 +5409,7 @@ const empresas = [
   },
   {
     "empresa": "INTERMODA ALCAZAR 2012, S.L.",
-    "direccion": "Carretera cordoba tarragona km 72 s/n",
+    "direccion": "Carretera tarragona km 72 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5422,7 +5422,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO DIVERTEXTIL, S.L.",
-    "direccion": "Calle gregorio molinero 27",
+    "direccion": "Calle molinero 00027",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -5435,7 +5435,7 @@ const empresas = [
   },
   {
     "empresa": "40 GRADOS LENCERIA, S.L.",
-    "direccion": "Calle aduana 16",
+    "direccion": "Calle 00016",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -5448,7 +5448,7 @@ const empresas = [
   },
   {
     "empresa": "FINANCIERA PRONOVIAS S.A.",
-    "direccion": "Calle postas /reyes s/n",
+    "direccion": "Calle /reyes 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5461,7 +5461,7 @@ const empresas = [
   },
   {
     "empresa": "NUÑEZ DE ARENAS,S.L.",
-    "direccion": "Calle tinte 1",
+    "direccion": "Calle 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5474,7 +5474,7 @@ const empresas = [
   },
   {
     "empresa": "DISMODA- COMERCIO Y DISTRIBUCIÓN S.L.",
-    "direccion": "Calle general aguilera 15",
+    "direccion": "Calle aguilera 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5487,7 +5487,7 @@ const empresas = [
   },
   {
     "empresa": "MAYORAL INTERNATIONAL STORES, S.A.",
-    "direccion": "Calle de toledo 13",
+    "direccion": "Calle toledo 00013",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5500,7 +5500,7 @@ const empresas = [
   },
   {
     "empresa": "POLINESIA SPORT SLU",
-    "direccion": "Calle paloma 10",
+    "direccion": "Calle 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5513,7 +5513,7 @@ const empresas = [
   },
   {
     "empresa": "SANRUIZ KELOCURA, S.L.",
-    "direccion": "Calle ramon y cajal 10",
+    "direccion": "Calle y cajal 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5526,7 +5526,7 @@ const empresas = [
   },
   {
     "empresa": "ALVARO MORENO RETAIL, S.L.U.",
-    "direccion": "Calle general aguilera 6",
+    "direccion": "Calle aguilera 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5539,7 +5539,7 @@ const empresas = [
   },
   {
     "empresa": "JOTA EVA, S.A.",
-    "direccion": "Calle bernardo mulleras 1",
+    "direccion": "Calle mulleras 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5552,7 +5552,7 @@ const empresas = [
   },
   {
     "empresa": "ELPALACIO DEL CALZADO, S.L.",
-    "direccion": "Calle carrera 83",
+    "direccion": "Calle 00083",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -5565,7 +5565,7 @@ const empresas = [
   },
   {
     "empresa": "MERKAL CALZADOS S.L.",
-    "direccion": "Avenida europa 34",
+    "direccion": "Avenida 00034",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -5578,7 +5578,7 @@ const empresas = [
   },
   {
     "empresa": "FRAG COMERCIO INTERNACIONAL S.L.",
-    "direccion": "Calle ramon y cajal 3",
+    "direccion": "Calle y cajal 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5591,7 +5591,7 @@ const empresas = [
   },
   {
     "empresa": "RUIZ LEON PABLO MANUEL",
-    "direccion": "Calle aduana 40",
+    "direccion": "Calle 00040",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -5604,7 +5604,7 @@ const empresas = [
   },
   {
     "empresa": "DRUNI S.A.",
-    "direccion": "Calle cruz 1",
+    "direccion": "Calle 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5617,7 +5617,7 @@ const empresas = [
   },
   {
     "empresa": "BIOCOR EUROPE, S.L.",
-    "direccion": "Calle airen pg alces ii fse 4",
+    "direccion": "Calle pg alces ii fse 00004",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5630,7 +5630,7 @@ const empresas = [
   },
   {
     "empresa": "THE YELLOW WALL 2023 SL",
-    "direccion": "Calle general aguilera 8",
+    "direccion": "Calle aguilera 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5643,7 +5643,7 @@ const empresas = [
   },
   {
     "empresa": "EL EMPERADOR DEL RETAIL SL",
-    "direccion": "Calle emilio castelar 46",
+    "direccion": "Calle castelar 00046",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5656,7 +5656,7 @@ const empresas = [
   },
   {
     "empresa": "JESUS MERLO GARCIA, S.L.",
-    "direccion": "Polígono industrial, parcela 58",
+    "direccion": "Polígono , parcela 00058",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5669,7 +5669,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP.AGRA.CLM.VIRGEN DEL MONTE AGRIC.GANAD.BOLAÑOS CV",
-    "direccion": "Carretera moral, s/n s/n",
+    "direccion": "Carretera , s/n 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -5682,7 +5682,7 @@ const empresas = [
   },
   {
     "empresa": "VIVEROS TIAN S.L.",
-    "direccion": "Carretera nacional 430 km. 315",
+    "direccion": "Carretera 430 km. 00315",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -5695,7 +5695,7 @@ const empresas = [
   },
   {
     "empresa": "SEMILLEROS TOMIPLANT SL",
-    "direccion": "Carretera argamasilla de alba s/n",
+    "direccion": "Carretera de alba 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -5708,7 +5708,7 @@ const empresas = [
   },
   {
     "empresa": "NUEVO VALDEPEÑAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle salida de membrilla s/n",
+    "direccion": "Calle de membrilla 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5721,7 +5721,7 @@ const empresas = [
   },
   {
     "empresa": "BOLAÑOS DONOSO RAMON",
-    "direccion": "Calle jose antonio 6",
+    "direccion": "Calle antonio 00006",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5734,7 +5734,7 @@ const empresas = [
   },
   {
     "empresa": "SERRANO JOYERIAS Y PLATERIAS, S.L.",
-    "direccion": "Avenida de la mancha 2",
+    "direccion": "Avenida la mancha 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -5747,7 +5747,7 @@ const empresas = [
   },
   {
     "empresa": "SIMARRO PLATERIAS SL",
-    "direccion": "Calle emilio castelar 41 bj",
+    "direccion": "Calle castelar 00041 bajo",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -5760,7 +5760,7 @@ const empresas = [
   },
   {
     "empresa": "SERRANO JOYEROS DESDE 1943, SOCIEDAD LIMITADA",
-    "direccion": "Calle don tomas el medico 39",
+    "direccion": "Calle tomas el medico 00039",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -5773,7 +5773,7 @@ const empresas = [
   },
   {
     "empresa": "SERRANO ARXIS, SOCIEDAD LIMITADA",
-    "direccion": "Calle empedrada 9",
+    "direccion": "Calle 00009",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -5786,7 +5786,7 @@ const empresas = [
   },
   {
     "empresa": "CARBURANTES NTRA. SRA. DE PEÑARROYA S.L.",
-    "direccion": "Carretera la solana-infantes, km. 1,5 s/n",
+    "direccion": "Carretera solana-infantes, km. 1,5 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -5799,7 +5799,7 @@ const empresas = [
   },
   {
     "empresa": "SUMINISTROS TRAPERO, S.L.",
-    "direccion": "Calle juan fernandez de mera 2",
+    "direccion": "Calle fernandez de mera 00002",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -5812,7 +5812,7 @@ const empresas = [
   },
   {
     "empresa": "GASOLEOS GARCIA PERONA S.L.",
-    "direccion": "Polígono industrial la serna parc. 7 s/n",
+    "direccion": "Polígono la serna parc. 7 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -5825,7 +5825,7 @@ const empresas = [
   },
   {
     "empresa": "OPTICAS JERONIMO, S.L.",
-    "direccion": "Calle calvo sotelo 17",
+    "direccion": "Calle sotelo 00017",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -5838,7 +5838,7 @@ const empresas = [
   },
   {
     "empresa": "BARBA OPTICOS, S.L.",
-    "direccion": "Calle escuelas 59",
+    "direccion": "Calle 00059",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5851,7 +5851,7 @@ const empresas = [
   },
   {
     "empresa": "EL MUNDO DEL BEBE Y TU, S.L.",
-    "direccion": "Polígono industrial guadiana nave 128 s/n",
+    "direccion": "Polígono guadiana nave 128 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -5864,7 +5864,7 @@ const empresas = [
   },
   {
     "empresa": "TOMELLOSO VISION SL",
-    "direccion": "Calle don victor peñasco 25",
+    "direccion": "Calle victor peñasco 00025",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -5877,7 +5877,7 @@ const empresas = [
   },
   {
     "empresa": "SUPERDESCUENTO VALDEPEÑAS, S.L.",
-    "direccion": "Avenida del sr s/n s/n",
+    "direccion": "Avenida sr s/n 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5890,7 +5890,7 @@ const empresas = [
   },
   {
     "empresa": "DESARROLLO COMERCIAL DEL SURESTE S.L.",
-    "direccion": "Calle cervantes 8",
+    "direccion": "Calle 00008",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -5903,7 +5903,7 @@ const empresas = [
   },
   {
     "empresa": "CNC-BARCENAS BELLON SL",
-    "direccion": "Avenida hollanda 42",
+    "direccion": "Avenida 00042",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5916,7 +5916,7 @@ const empresas = [
   },
   {
     "empresa": "MP EYEWEAR RETAIL EUROPE, SOCIEDAD LIMITADA",
-    "direccion": "Avenida de la constitucion 8",
+    "direccion": "Avenida la constitucion 00008",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -5929,7 +5929,7 @@ const empresas = [
   },
   {
     "empresa": "IBASE IBERICA SERVICIOS AUTOMATIZADOS S.L.",
-    "direccion": "Calle palma 24",
+    "direccion": "Calle 00024",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -5942,7 +5942,7 @@ const empresas = [
   },
   {
     "empresa": "CARRETERO MAQUINARIA AGRICOLA, S.A.",
-    "direccion": "Avenida del vino (pol.ind. parcela 96) s/n",
+    "direccion": "Avenida vino (pol.ind. parcela 96) 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5955,7 +5955,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOS CARRETERO SPORT, S.L.",
-    "direccion": "Avenida del vino s/n",
+    "direccion": "Avenida vino 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5968,7 +5968,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOS CARRETERO 4 POR 4, S.L.",
-    "direccion": "Avenida del vino 96",
+    "direccion": "Avenida vino 00096",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -5981,7 +5981,7 @@ const empresas = [
   },
   {
     "empresa": "OFF ROAD PARTS, S.L.",
-    "direccion": "Calle empresarios 57 a",
+    "direccion": "Calle 00057 a",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -5994,7 +5994,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTROMECANICA MADERO, S.L.",
-    "direccion": "Avenida labradora 51",
+    "direccion": "Avenida 00051",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -6007,7 +6007,7 @@ const empresas = [
   },
   {
     "empresa": "EJE OCCIDENTAL DE CAMIONES SL",
-    "direccion": "Polígono industrial nueva actuación industria34",
+    "direccion": "Polígono nueva actuación industria00034",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -6020,7 +6020,7 @@ const empresas = [
   },
   {
     "empresa": "RG AUTOMOCION INTEGRAL DE DAIMI",
-    "direccion": "Avenida de la innovacion 39",
+    "direccion": "Avenida la innovacion 00039",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -6033,7 +6033,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL MANCHEGA DE TURISMO, S.L.",
-    "direccion": "Polígono alces calle 7, parcela 22 s/n",
+    "direccion": "Polígono calle 7, parcela 22 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -6046,7 +6046,7 @@ const empresas = [
   },
   {
     "empresa": "UNIONE MOTION S.L.",
-    "direccion": "Carretera carrion 242",
+    "direccion": "Carretera 00242",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -6059,7 +6059,7 @@ const empresas = [
   },
   {
     "empresa": "OCASION PLUS, S.L.",
-    "direccion": "Avenida francia 48",
+    "direccion": "Avenida 00048",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -6072,7 +6072,7 @@ const empresas = [
   },
   {
     "empresa": "MOTOR PACIFICO, S.L.",
-    "direccion": "Carretera de carrion 19",
+    "direccion": "Carretera carrion 00019",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -6085,7 +6085,7 @@ const empresas = [
   },
   {
     "empresa": "UNIONE DRIVE SA",
-    "direccion": "Carretera de carrion km 242 s/n",
+    "direccion": "Carretera carrion km 242 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -6098,7 +6098,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOS CARRETERO TECH, SOCIEDAD LIMITADA",
-    "direccion": "Avenida del vino s/n",
+    "direccion": "Avenida vino 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -6111,7 +6111,7 @@ const empresas = [
   },
   {
     "empresa": "RECAMBIOS JOESA, COM.B.",
-    "direccion": "Avenida julian saenz, parcela 74 (pg.serycal74",
+    "direccion": "Avenida saenz, parcela 74 (pg.serycal00074",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -6124,7 +6124,7 @@ const empresas = [
   },
   {
     "empresa": "V.S. DISEL, S.L.",
-    "direccion": "Carretera carrion km 3,4 s/n",
+    "direccion": "Carretera km 3,4 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -6137,7 +6137,7 @@ const empresas = [
   },
   {
     "empresa": "REPUESTOS NEGRILLO, S.L.",
-    "direccion": "Calle campo 113",
+    "direccion": "Calle 00113",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -6150,7 +6150,7 @@ const empresas = [
   },
   {
     "empresa": "VULCANIZADOS TEJADO, S.L.",
-    "direccion": "Avenida cervera 81",
+    "direccion": "Avenida 00081",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -6163,7 +6163,7 @@ const empresas = [
   },
   {
     "empresa": "RECACOR, S.A.",
-    "direccion": "Polígono industrial el cabezuelo s/n",
+    "direccion": "Polígono el cabezuelo 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -6176,7 +6176,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOAGRICOLA ALCAZAR, S.L.",
-    "direccion": "Polígono ind.alces parc 6 c 2 pa 55 s/n",
+    "direccion": "Polígono parc 6 c 2 pa 55 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -6189,7 +6189,7 @@ const empresas = [
   },
   {
     "empresa": "EGRA AUTOMOCION S.L.",
-    "direccion": "Calle zacatena 5",
+    "direccion": "Calle 00005",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -6202,7 +6202,7 @@ const empresas = [
   },
   {
     "empresa": "RECAMBIOS ROQUE, S.L.",
-    "direccion": "Carretera la solana 38",
+    "direccion": "Carretera solana 00038",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -6215,7 +6215,7 @@ const empresas = [
   },
   {
     "empresa": "RECASERVI C.R. S.L.L.",
-    "direccion": "Calle marconi 86",
+    "direccion": "Calle 00086",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -6228,7 +6228,7 @@ const empresas = [
   },
   {
     "empresa": "SILVESTRE AUTO PARTS S.L.",
-    "direccion": "Calle malagan- p.i larache 12",
+    "direccion": "Calle - p.i larache 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -6241,7 +6241,7 @@ const empresas = [
   },
   {
     "empresa": "CARTER-CASH ESPAÑA S.L.",
-    "direccion": "Carretera carion 72",
+    "direccion": "Carretera 00072",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -6254,7 +6254,7 @@ const empresas = [
   },
   {
     "empresa": "VARIETY ZHOU SOCIEDAD LIMITADA",
-    "direccion": "Calle segadores 22",
+    "direccion": "Calle 00022",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -6267,7 +6267,7 @@ const empresas = [
   },
   {
     "empresa": "CAFES MORA,S.L.",
-    "direccion": "Avenida de las ciencias s/n",
+    "direccion": "Avenida las ciencias 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -6280,7 +6280,7 @@ const empresas = [
   },
   {
     "empresa": "COMINO GASOLEOS SL",
-    "direccion": "Calle poligono alces dos parcela 24 s/n",
+    "direccion": "Calle alces dos parcela 24 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -6293,7 +6293,7 @@ const empresas = [
   },
   {
     "empresa": "POMPAS Y REGALOS SL",
-    "direccion": "Calle ramon herrera 1",
+    "direccion": "Calle herrera 00001",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -6306,7 +6306,7 @@ const empresas = [
   },
   {
     "empresa": "JRJ LA PARA ROCIERA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera a-4 km.210 240",
+    "direccion": "Carretera -4 km.210 00240",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -6319,7 +6319,7 @@ const empresas = [
   },
   {
     "empresa": "CLM SOLUCIONES DE COMUNICACIONES INTEGRALES, S.L",
-    "direccion": "Avenida antonio huerta 40",
+    "direccion": "Avenida huerta 00040",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -6332,7 +6332,7 @@ const empresas = [
   },
   {
     "empresa": "CAPTRAIN ESPAÑA, S.A.",
-    "direccion": "Carretera calzada s/n",
+    "direccion": "Carretera 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -6345,7 +6345,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOCARES CID, S.L.",
-    "direccion": "Carretera villar 1",
+    "direccion": "Carretera 00001",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -6358,7 +6358,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOCARES J. RIVILLA S.A.",
-    "direccion": "Polígono pol. el cabezuelo s/n",
+    "direccion": "Polígono el cabezuelo 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -6371,7 +6371,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOCARES RODRIGUEZ HIJOS S.L.",
-    "direccion": "Calle misionero eusebio ortega torres 9",
+    "direccion": "Calle eusebio ortega torres 00009",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -6384,7 +6384,7 @@ const empresas = [
   },
   {
     "empresa": "JUAN MARTIN E HIJAS ARGAMASILLA",
-    "direccion": "Calle castilla la mancha 32",
+    "direccion": "Calle la mancha 00032",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -6397,7 +6397,7 @@ const empresas = [
   },
   {
     "empresa": "ENRIQUE CAMPOS E HIJOS, S.L.",
-    "direccion": "Calle ramon y cajal 3",
+    "direccion": "Calle y cajal 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -6410,7 +6410,7 @@ const empresas = [
   },
   {
     "empresa": "JAJADOCACRISYO, SL.L",
-    "direccion": "Calle empedrada 74",
+    "direccion": "Calle 00074",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -6423,7 +6423,7 @@ const empresas = [
   },
   {
     "empresa": "BOGAS BUS, S.L.",
-    "direccion": "Calle colon 8 7",
+    "direccion": "Calle 00008 7",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -6436,7 +6436,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOCARES ALCAZAR SL",
-    "direccion": "Calle andromeda 5",
+    "direccion": "Calle 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -6449,7 +6449,7 @@ const empresas = [
   },
   {
     "empresa": "VICTORIANO INVESTMENT COMPANY SL",
-    "direccion": "Calle mayor 119",
+    "direccion": "Calle 00119",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -6462,7 +6462,7 @@ const empresas = [
   },
   {
     "empresa": "VIAJES HERMANOS GARCIA RAMIREZ, S.L.",
-    "direccion": "Calle rincon 3",
+    "direccion": "Calle 00003",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -6475,7 +6475,7 @@ const empresas = [
   },
   {
     "empresa": "ABREGO VIAJES PENINSULARES, SOCIEDAD LIMITADA",
-    "direccion": "Calle feria del vino (est. bus) 13",
+    "direccion": "Calle del vino (est. bus) 00013",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -6488,7 +6488,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOCARES Y TAXI ANGEL MOYA, SOCIEDAD LIMITADA",
-    "direccion": "Calle san roque 13",
+    "direccion": "Calle roque 00013",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -6501,7 +6501,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOBUSES JOSE MARQUEZ VILLAREJO, S.L.",
-    "direccion": "Calle cid campeador 4",
+    "direccion": "Calle campeador 00004",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -6514,7 +6514,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSVISBUS, S.L.",
-    "direccion": "Calle constitucion 16",
+    "direccion": "Calle 00016",
     "localidad": "VISO DEL MARQUES",
     "cp": "13770",
     "provincia": "CIUDAD REAL",
@@ -6527,7 +6527,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOBUSES LA MANCHA S.L",
-    "direccion": "Calle cruz del sur 1 2 1 c",
+    "direccion": "Calle del sur 00001 2 1 c",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -6540,7 +6540,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOBUSES GARCIA MATEOS, S.L.",
-    "direccion": "Calle guadalupe 2",
+    "direccion": "Calle 00002",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -6553,7 +6553,7 @@ const empresas = [
   },
   {
     "empresa": "TAXISTAS DE DAIMIEL, S.L.",
-    "direccion": "Calle misionero ortega torres 9",
+    "direccion": "Calle ortega torres 00009",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -6566,7 +6566,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOBUSES LA MANCHA S.L",
-    "direccion": "Calle cruz del sur 1 2 1 c",
+    "direccion": "Calle del sur 00001 2 1 c",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -6579,7 +6579,7 @@ const empresas = [
   },
   {
     "empresa": "ROMERO GARRIDO ABRAHAM",
-    "direccion": "Carretera fernancaballero 23",
+    "direccion": "Carretera fernancaballero 00023",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -6592,7 +6592,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOCARES MIGALLON, S.L.",
-    "direccion": "Paseo estacion 7",
+    "direccion": "Paseo 00007",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -6605,7 +6605,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTE DE VIAJEROS MOLINABUS, S.L.",
-    "direccion": "Plaza de la constitucion 4",
+    "direccion": "Plaza la constitucion 00004",
     "localidad": "VALENZUELA DE CALATRAVA",
     "cp": "13279",
     "provincia": "CIUDAD REAL",
@@ -6618,7 +6618,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOCARES HERMANOS CANO, S.L.",
-    "direccion": "Calle cervantes 52",
+    "direccion": "Calle 00052",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -6631,7 +6631,7 @@ const empresas = [
   },
   {
     "empresa": "HILARIO SANCHEZ ILLAN, S.L.",
-    "direccion": "Calle hermanos jimenez 15",
+    "direccion": "Calle jimenez 00015",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -6644,7 +6644,7 @@ const empresas = [
   },
   {
     "empresa": "CHAMU, S.L.",
-    "direccion": "Calle rosal 16",
+    "direccion": "Calle 00016",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -6657,7 +6657,7 @@ const empresas = [
   },
   {
     "empresa": "INTERBUS IBERICA, S.L.",
-    "direccion": "Calle tomelloso pli larache 6",
+    "direccion": "Calle pli larache 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -6670,7 +6670,7 @@ const empresas = [
   },
   {
     "empresa": "COMPAÑIA MANCHEGA DE MOVIMIENTO DE TIERRAS, S.A.",
-    "direccion": "Calle huertas 8",
+    "direccion": "Calle 00008",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -6683,7 +6683,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES HIJOS DE HERMANOS LOPEZ, S.A.",
-    "direccion": "Calle alcudia 6",
+    "direccion": "Calle 00006",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -6696,7 +6696,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES ROTA, S.L.",
-    "direccion": "Calle amargura 105",
+    "direccion": "Calle 00105",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -6709,7 +6709,7 @@ const empresas = [
   },
   {
     "empresa": "TRACTORES Y VEHICULOS, S.A.",
-    "direccion": "Calle mompo 2",
+    "direccion": "Calle 00002",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -6722,7 +6722,7 @@ const empresas = [
   },
   {
     "empresa": "JOSE GARCIA SALINAS, S.L.",
-    "direccion": "Calle reyes 14 bj",
+    "direccion": "Calle 00014 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -6735,7 +6735,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES ROLDAN, S.A.",
-    "direccion": "Calle generalisimo 64",
+    "direccion": "Calle 00064",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -6748,7 +6748,7 @@ const empresas = [
   },
   {
     "empresa": "MANCHEGA DE TRANSPORTES MATRAN, S.L.",
-    "direccion": "Calle concepcion 107",
+    "direccion": "Calle 00107",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -6761,7 +6761,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES ABENGOZA, S.L.",
-    "direccion": "Calle santiago 14",
+    "direccion": "Calle 00014",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -6774,7 +6774,7 @@ const empresas = [
   },
   {
     "empresa": "LUIS NAVARRO E HIJOS, S.L.",
-    "direccion": "Calle don quijote 85",
+    "direccion": "Calle quijote 00085",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -6787,7 +6787,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSSAFER, S.L.",
-    "direccion": "Calle verdea 29",
+    "direccion": "Calle 00029",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -6800,7 +6800,7 @@ const empresas = [
   },
   {
     "empresa": "CASTAÑO LEON, S.L.",
-    "direccion": "Cmalmagro 2",
+    "direccion": "Camino 00002",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -6813,7 +6813,7 @@ const empresas = [
   },
   {
     "empresa": "T D N CIUDAD REAL, S.L.",
-    "direccion": "Calle campo 136",
+    "direccion": "Calle 00136",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -6826,7 +6826,7 @@ const empresas = [
   },
   {
     "empresa": "PRUDEN E HIJOS, S.L",
-    "direccion": "Calle capilla 8 b",
+    "direccion": "Calle 00008 b",
     "localidad": "CHILLON",
     "cp": "13412",
     "provincia": "CIUDAD REAL",
@@ -6839,7 +6839,7 @@ const empresas = [
   },
   {
     "empresa": "MORAGO CEPEDA, S.L.",
-    "direccion": "Calle campo 136",
+    "direccion": "Calle 00136",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -6852,7 +6852,7 @@ const empresas = [
   },
   {
     "empresa": "LISOTRANS, S.L.",
-    "direccion": "Calle rio 12",
+    "direccion": "Calle 00012",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -6865,7 +6865,7 @@ const empresas = [
   },
   {
     "empresa": "ALHAMBRA OREJON ANTONIO",
-    "direccion": "Calle jose ramon osorio 5",
+    "direccion": "Calle ramon osorio 00005",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -6878,7 +6878,7 @@ const empresas = [
   },
   {
     "empresa": "FELIPE MERINO CALLEJAS TRANSPORTES, S.L.",
-    "direccion": "Calle onesimo redondo 2 1 a",
+    "direccion": "Calle redondo 00002 1 a",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -6891,7 +6891,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES MATEXPO, S.L.",
-    "direccion": "Calle real 60",
+    "direccion": "Calle 00060",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -6904,7 +6904,7 @@ const empresas = [
   },
   {
     "empresa": "JESUS MAYORAL, S.L.",
-    "direccion": "Polígono ind. serycal, par. 29 s/n",
+    "direccion": "Polígono serycal, par. 29 00000",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -6917,7 +6917,7 @@ const empresas = [
   },
   {
     "empresa": "EURO ASISTENCIA 2000, S.L.",
-    "direccion": "Calle pintor ribera, s/n s/n",
+    "direccion": "Calle ribera, s/n 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -6930,7 +6930,7 @@ const empresas = [
   },
   {
     "empresa": "AUTONOMOS MANCHEGOS AGRUPADOS, S.L.",
-    "direccion": "Polígono avenida comunidad de andalucia s/n",
+    "direccion": "Polígono comunidad de andalucia 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -6943,7 +6943,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUIDORES Y TRANSPORTISTAS PROD. PETROLIFEROS, S.A",
-    "direccion": "Carretera cordoba-tarragona, km. 186,7 s/n",
+    "direccion": "Carretera -tarragona, km. 186,7 00000",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -6956,7 +6956,7 @@ const empresas = [
   },
   {
     "empresa": "TRADIMANCHA, S.L.",
-    "direccion": "Calle toneleros 3",
+    "direccion": "Calle 00003",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -6969,7 +6969,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES HNOS SANCHEZ ALCANTARA, S.L.",
-    "direccion": "Calle tonel 24",
+    "direccion": "Calle 00024",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -6982,7 +6982,7 @@ const empresas = [
   },
   {
     "empresa": "GESTION EUROPEA DE CARGA, S.A.",
-    "direccion": "Calle mompo 2",
+    "direccion": "Calle 00002",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -6995,7 +6995,7 @@ const empresas = [
   },
   {
     "empresa": "LOZANO TRANSPORTES, S.A.",
-    "direccion": "Carretera antigua de madrid, parcela 42 s/n",
+    "direccion": "Carretera de madrid, parcela 42 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -7008,7 +7008,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES FERTICOM, S.L.",
-    "direccion": "Calle san pedro 6",
+    "direccion": "Calle pedro 00006",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -7021,7 +7021,7 @@ const empresas = [
   },
   {
     "empresa": "ARJUTRANS, S.L.",
-    "direccion": "Carretera autovia de andalucia 217",
+    "direccion": "Carretera de andalucia 00217",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -7034,7 +7034,7 @@ const empresas = [
   },
   {
     "empresa": "CODAITRANS COOP DAIMIELEÑA DE TRANSPORTES, S.COOP.",
-    "direccion": "Calle herreros 7",
+    "direccion": "Calle 00007",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -7047,7 +7047,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSGARCIA VILLARACO, S.L.",
-    "direccion": "Polígono la vega. c/ zacatena 42",
+    "direccion": "Polígono vega. c/ zacatena 00042",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -7060,7 +7060,7 @@ const empresas = [
   },
   {
     "empresa": "PULPON 13620 SL",
-    "direccion": "Calle pozo nuevo 20",
+    "direccion": "Calle nuevo 00020",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -7073,7 +7073,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES VICO DE LA DUEÑA, S.L.",
-    "direccion": "Polígono industrial, c/ rioja parcelas 24-2500000",
+    "direccion": "Polígono , c/ rioja parcelas 24-2500000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -7086,7 +7086,7 @@ const empresas = [
   },
   {
     "empresa": "MOISES Y CONSTANZA, S.L.",
-    "direccion": "Calle doctor cajal 5",
+    "direccion": "Calle cajal 00005",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -7099,7 +7099,7 @@ const empresas = [
   },
   {
     "empresa": "NUFEMAR COMBUSTIBLE, S.L.",
-    "direccion": "Trgeneral mola s/n",
+    "direccion": "Travesía mola 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -7112,7 +7112,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSLOGISTICA MARIN, S.A.",
-    "direccion": "Calle sur 46",
+    "direccion": "Calle 00046",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -7125,7 +7125,7 @@ const empresas = [
   },
   {
     "empresa": "LAGUNA LOGITRANS S.L.",
-    "direccion": "Carretera autovia andalucia 217",
+    "direccion": "Carretera andalucia 00217",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -7138,7 +7138,7 @@ const empresas = [
   },
   {
     "empresa": "LAGUNA ARROYO, S.L.",
-    "direccion": "Calle marques de mudela 2",
+    "direccion": "Calle de mudela 00002",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -7151,7 +7151,7 @@ const empresas = [
   },
   {
     "empresa": "JUSCIRTER S.L.",
-    "direccion": "Calle colon 9",
+    "direccion": "Calle 00009",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -7164,7 +7164,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ RUIZ JULIAN",
-    "direccion": "Calle centro de salud 3",
+    "direccion": "Calle de salud 00003",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -7177,7 +7177,7 @@ const empresas = [
   },
   {
     "empresa": "MIGUEL ANGEL SANCHEZ LAGUNA S.L.",
-    "direccion": "Calle daniel garcia de la rubia 7",
+    "direccion": "Calle garcia de la rubia 00007",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -7190,7 +7190,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPAJES MUVITRANS, S.L.",
-    "direccion": "Calle chica 5a",
+    "direccion": "Calle 00005a",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -7203,7 +7203,7 @@ const empresas = [
   },
   {
     "empresa": "CISTERMER S.L.",
-    "direccion": "Carretera ciudad real-valdepeñas 11",
+    "direccion": "Carretera real-valdepeñas 00011",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -7216,7 +7216,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSCENTRO MARIN,S.L.",
-    "direccion": "Carretera autovia andalucia km 217,300 s/n",
+    "direccion": "Carretera andalucia km 217,300 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -7229,7 +7229,7 @@ const empresas = [
   },
   {
     "empresa": "MORENO ARRONES MUÑOZ GABRIELA",
-    "direccion": "Calle marques de santillana 17",
+    "direccion": "Calle de santillana 00017",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -7242,7 +7242,7 @@ const empresas = [
   },
   {
     "empresa": "PAQUETERIA Y LOGISTICA MANCHEGA, S.L.",
-    "direccion": "Polígono ind.de manzanares c/ii parcela r-44 s/n",
+    "direccion": "Polígono manzanares c/ii parcela r-44 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -7255,7 +7255,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTICA Y CISTERNAS, S.L",
-    "direccion": "Carretera villarrobledo km. 2",
+    "direccion": "Carretera km. 00002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -7268,7 +7268,7 @@ const empresas = [
   },
   {
     "empresa": "HISPANOTRANS 2008, S.L.",
-    "direccion": "Calle san antonio 9",
+    "direccion": "Calle antonio 00009",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -7281,7 +7281,7 @@ const empresas = [
   },
   {
     "empresa": "OPERADOR DE TRANSPORTES MOLINA, S.L.",
-    "direccion": "Calle matallana 92",
+    "direccion": "Calle 00092",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -7294,7 +7294,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTCA DE TRANSPORTES BOLAÑOS,S.L",
-    "direccion": "Calle ahulagueros 31",
+    "direccion": "Calle 00031",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -7307,7 +7307,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO LOGISTICO MOYA PEREZ,S.L",
-    "direccion": "Calle rafael gasset 46",
+    "direccion": "Calle gasset 00046",
     "localidad": "CARRION DE CALATRAVA",
     "cp": "13150",
     "provincia": "CIUDAD REAL",
@@ -7320,7 +7320,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ GARCIA FERNANDO",
-    "direccion": "Calle duque de medinaceli 12",
+    "direccion": "Calle de medinaceli 00012",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -7333,7 +7333,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES COBOS-MUÑOZ, S.L.",
-    "direccion": "Calle picasso 24",
+    "direccion": "Calle 00024",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -7346,7 +7346,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO TRANSLOGISTICA DAIMIEL S.L.U.",
-    "direccion": "Polígono sepes, cl.carreteros 62",
+    "direccion": "Polígono , cl.carreteros 00062",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -7359,7 +7359,7 @@ const empresas = [
   },
   {
     "empresa": "P.J.RUIZ OPERADOR LOGISTICO, S.L.",
-    "direccion": "Calle marques de santillana 17",
+    "direccion": "Calle de santillana 00017",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -7372,7 +7372,7 @@ const empresas = [
   },
   {
     "empresa": "TOMERUEDAS, S.L.",
-    "direccion": "Trdon quijote 7",
+    "direccion": "Travesía quijote 00007",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -7385,7 +7385,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSCALYGUZ, S.L.",
-    "direccion": "Calle altagracia, (local) 8 bj",
+    "direccion": "Calle , (local) 00008 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -7398,7 +7398,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ MERINO JUAN CARLOS",
-    "direccion": "Avenida europa 59 bj",
+    "direccion": "Avenida 00059 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -7411,7 +7411,7 @@ const empresas = [
   },
   {
     "empresa": "BENAVENT TRANSPORTES FRIGORIFICOS S.L.",
-    "direccion": "Avenida constitucion 6",
+    "direccion": "Avenida 00006",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -7424,7 +7424,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES SIMON DE LA RUBIA S.L.",
-    "direccion": "Calle cruces 13",
+    "direccion": "Calle 00013",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -7437,7 +7437,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES LAGUNA DE NOVA S.L.",
-    "direccion": "Avenida de los martires 60",
+    "direccion": "Avenida los martires 00060",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -7450,7 +7450,7 @@ const empresas = [
   },
   {
     "empresa": "NARLOME, S.L.",
-    "direccion": "Calle barrionuevo 18",
+    "direccion": "Calle 00018",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -7463,7 +7463,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTICA ATOTRANS, S.L.",
-    "direccion": "Calle san leon 11",
+    "direccion": "Calle leon 00011",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -7476,7 +7476,7 @@ const empresas = [
   },
   {
     "empresa": "ACECAN TRANSPORTES S.L.",
-    "direccion": "Calle monje 4",
+    "direccion": "Calle 00004",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -7489,7 +7489,7 @@ const empresas = [
   },
   {
     "empresa": "BALERRU S.L.",
-    "direccion": "Calle cruces 86",
+    "direccion": "Calle 00086",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -7502,7 +7502,7 @@ const empresas = [
   },
   {
     "empresa": "PEÑA DOMENECH JOSE",
-    "direccion": "Plaza de almodovar 5 5 a",
+    "direccion": "Plaza almodovar 00005 5 a",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -7515,7 +7515,7 @@ const empresas = [
   },
   {
     "empresa": "RIVERA IZQUIERDO SOCIEDAD COOPERATIVA CASTILLA LA MANCH",
-    "direccion": "Calle isabel la catolica 17 1 b",
+    "direccion": "Calle la catolica 00017 1 b",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -7528,7 +7528,7 @@ const empresas = [
   },
   {
     "empresa": "ALVATRANS LA MANCHA, S.L.",
-    "direccion": "Calle daoiz y velarde 7",
+    "direccion": "Calle y velarde 00007",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -7541,7 +7541,7 @@ const empresas = [
   },
   {
     "empresa": "LOGATRANSMAN,S.L.",
-    "direccion": "Calle matas 2",
+    "direccion": "Calle 00002",
     "localidad": "SANTA CRUZ DE LOS CAÑAMO",
     "cp": "13327",
     "provincia": "CIUDAD REAL",
@@ -7554,7 +7554,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPOBLETE,S.L.",
-    "direccion": "Calle castillejos 15",
+    "direccion": "Calle 00015",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -7567,7 +7567,7 @@ const empresas = [
   },
   {
     "empresa": "FRIOTRANS HERMANOS HERENCIA, S.L.",
-    "direccion": "Calle concepcion 55",
+    "direccion": "Calle 00055",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -7580,7 +7580,7 @@ const empresas = [
   },
   {
     "empresa": "MACOSACRU LOGISTICA, S.L.",
-    "direccion": "Calle autovia andalucia 214",
+    "direccion": "Calle andalucia 00214",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -7593,7 +7593,7 @@ const empresas = [
   },
   {
     "empresa": "COLADO RUIZ DE PASCUAL SANTIAGO",
-    "direccion": "Calle casateja 19",
+    "direccion": "Calle 00019",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -7606,7 +7606,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS DE MAQUINARIA DE ELEVACION MANCHEGA,S.L.",
-    "direccion": "Carretera valdepañs s/n s/n",
+    "direccion": "Carretera ñs s/n 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -7619,7 +7619,7 @@ const empresas = [
   },
   {
     "empresa": "GAS 53 VILLANUEVA LOGISTICA, SL",
-    "direccion": "Calle toledo 2",
+    "direccion": "Calle 00002",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -7632,7 +7632,7 @@ const empresas = [
   },
   {
     "empresa": "LOGIMANCHA TRANSPORTES, S.L.",
-    "direccion": "Calle alvaro muñoz 20",
+    "direccion": "Calle muñoz 00020",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -7645,7 +7645,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES MARIN TRUJILLO SL",
-    "direccion": "Calle vega 17",
+    "direccion": "Calle 00017",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -7658,7 +7658,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES DONAIRE MATEO, S.L.",
-    "direccion": "Calle callejuelas 14",
+    "direccion": "Calle 00014",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -7671,7 +7671,7 @@ const empresas = [
   },
   {
     "empresa": "OSORIO & LOZANO SOCIEDAD LIMITADA",
-    "direccion": "Calle arjona 4",
+    "direccion": "Calle 00004",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -7684,7 +7684,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSEGRE, S.L.",
-    "direccion": "Carretera autovia de andalucia km 200 s/n",
+    "direccion": "Carretera de andalucia km 200 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -7697,7 +7697,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES CARVAMU SL",
-    "direccion": "Calle concordia 13",
+    "direccion": "Calle 00013",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -7710,7 +7710,7 @@ const empresas = [
   },
   {
     "empresa": "HEREDEROS VICENTE GALLEGO SL",
-    "direccion": "Calle huerta 33",
+    "direccion": "Calle 00033",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -7723,7 +7723,7 @@ const empresas = [
   },
   {
     "empresa": "ISAL EXPRESS SOCIEDAD LIMITADA U",
-    "direccion": "Calle bolaños 32",
+    "direccion": "Calle ños 00032",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -7736,7 +7736,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES BONILLO GONZALEZ SL",
-    "direccion": "Calle rosario 9 2",
+    "direccion": "Calle 00009 2",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -7749,7 +7749,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTICA MARGOFER SOCIEDAD LIMI",
-    "direccion": "Carretera nacional 420 69",
+    "direccion": "Carretera 420 00069",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -7762,7 +7762,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES DELGADO VALDEPEXAS S",
-    "direccion": "Carretera santa cruz 47",
+    "direccion": "Carretera cruz 00047",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -7775,7 +7775,7 @@ const empresas = [
   },
   {
     "empresa": "JULIAN MOLINA TEJADO SL",
-    "direccion": "Calle juan genoves 1",
+    "direccion": "Calle genoves 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -7788,7 +7788,7 @@ const empresas = [
   },
   {
     "empresa": "GONAVAS LOGISTICS SOCIEDAD LIMIT",
-    "direccion": "Calle solidaridad 10",
+    "direccion": "Calle 00010",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -7801,7 +7801,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSOJAILEN SOCIEDAD LIMITADA",
-    "direccion": "Calle pastora imperio 9",
+    "direccion": "Calle imperio 00009",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -7814,7 +7814,7 @@ const empresas = [
   },
   {
     "empresa": "LA BRUJA GRUAS Y TAXIS SL",
-    "direccion": "Calle molinos de viento nave 7 s/n",
+    "direccion": "Calle de viento nave 7 00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -7827,7 +7827,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES SEVICRIP SOCIEDAD LI",
-    "direccion": "Calle maestro manzanares 23",
+    "direccion": "Calle manzanares 00023",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -7840,7 +7840,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO MIRO ASISTENCIA Y EVENTOS",
-    "direccion": "Calle los molinos 1",
+    "direccion": "Calle molinos 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -7853,7 +7853,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ NAVARRO JOSE DANIEL",
-    "direccion": "Calle virgen del monte 77",
+    "direccion": "Calle del monte 00077",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -7866,7 +7866,7 @@ const empresas = [
   },
   {
     "empresa": "BE FAST S.L.",
-    "direccion": "Calle tres 2",
+    "direccion": "Calle 00002",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -7879,7 +7879,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ ARENAS LOGISTICS SOCIED",
-    "direccion": "Calle sancho panza 11",
+    "direccion": "Calle panza 00011",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -7892,7 +7892,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSLOGISTICA CALATRAVA, S.L.",
-    "direccion": "Carretera n-420 km 165,800 s/n",
+    "direccion": "Carretera -420 km 165,800 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -7905,7 +7905,7 @@ const empresas = [
   },
   {
     "empresa": "XTRANSPORTES GARCIA VALDEPEXAS",
-    "direccion": "Calle cruces 41",
+    "direccion": "Calle 00041",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -7918,7 +7918,7 @@ const empresas = [
   },
   {
     "empresa": "MORALES DIAZ CONCHA RUBEN",
-    "direccion": "Calle andromeda 30",
+    "direccion": "Calle 00030",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -7931,7 +7931,7 @@ const empresas = [
   },
   {
     "empresa": "PROCALATRAVA, SOCIEDAD LIMITADA",
-    "direccion": "Calle clavel 89",
+    "direccion": "Calle 00089",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -7944,7 +7944,7 @@ const empresas = [
   },
   {
     "empresa": "ABONOS Y FORRAJES HIJOS DE ALVAREZ, SOCIEDAD LIMITADA",
-    "direccion": "Calle montesa 1",
+    "direccion": "Calle 00001",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -7957,7 +7957,7 @@ const empresas = [
   },
   {
     "empresa": "ONE MOTION LOGISTICS IBERIA S.L.",
-    "direccion": "Calle herreros 26",
+    "direccion": "Calle 00026",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -7970,7 +7970,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTIC NUÑEZ MORALEDA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera malagon el cristo 5",
+    "direccion": "Carretera el cristo 00005",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -7983,7 +7983,7 @@ const empresas = [
   },
   {
     "empresa": "TRASPORTES FARMACOLOGICOS CASTILLA, SOCIEDAD LIMITADA",
-    "direccion": "Calle tejera s/n",
+    "direccion": "Calle 00000",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -7996,7 +7996,7 @@ const empresas = [
   },
   {
     "empresa": "MUÑOZ MARIN ASISTENCIA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera zona de servicio n-iv km. 232 s/n",
+    "direccion": "Carretera de servicio n-iv km. 232 00000",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -8009,7 +8009,7 @@ const empresas = [
   },
   {
     "empresa": "TLV CENTRO, TRANSPORTE Y DISTRIBUCION, S.L.",
-    "direccion": "Polígono parcela 60-61 60",
+    "direccion": "Polígono 60-61 00060",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -8022,7 +8022,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTICA PATON Y PRIETO SOCIEDAD LIMITADA",
-    "direccion": "Calle almdovar 12",
+    "direccion": "Calle 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -8035,7 +8035,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTIC TOLEDANO, SOCIEDAD LIMITADA",
-    "direccion": "Calle tulipanes 8 a",
+    "direccion": "Calle 00008 a",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -8048,7 +8048,7 @@ const empresas = [
   },
   {
     "empresa": "MEZCUA OCAÑA,S.L.",
-    "direccion": "Calle santa juliana 17 9",
+    "direccion": "Calle juliana 00017 9",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -8061,7 +8061,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA GARAZA, SOCIEDAD LIMITADA",
-    "direccion": "Calle don quijote 1 3 b",
+    "direccion": "Calle quijote 00001 3 b",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -8074,7 +8074,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS LOGISTICOS RUIPRA, SOCIEDAD LIMITADA",
-    "direccion": "Calle virgen del monte 84 b",
+    "direccion": "Calle del monte 00084 b",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -8087,7 +8087,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTICA ENRIQUE RUBIO, S.L.",
-    "direccion": "Calle cervantes 34",
+    "direccion": "Calle 00034",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -8100,7 +8100,7 @@ const empresas = [
   },
   {
     "empresa": "DEL OLMO GARCIA CATALINA",
-    "direccion": "Cmvaldepeñas 2",
+    "direccion": "Camino ñas 00002",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -8113,7 +8113,7 @@ const empresas = [
   },
   {
     "empresa": "PAPITRANS 21, SOCIEDAD LIMITADA",
-    "direccion": "Calle don quijote 16",
+    "direccion": "Calle quijote 00016",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -8126,7 +8126,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES HERNAN 2013, SOCIEDAD LIMITADA",
-    "direccion": "Calle campo de criptana 8",
+    "direccion": "Calle de criptana 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -8139,7 +8139,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES DE MERCANCIAS VIDAMAR 2013",
-    "direccion": "Calle santa quteria 2 1",
+    "direccion": "Calle quteria 00002 1",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -8152,7 +8152,7 @@ const empresas = [
   },
   {
     "empresa": "SOFIA EXPRES, SOCIEDAD LIMITADA",
-    "direccion": "Calle santa isabel 5",
+    "direccion": "Calle isabel 00005",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -8165,7 +8165,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES SANTACRUCEÑOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle movil s/n",
+    "direccion": "Calle 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -8178,7 +8178,7 @@ const empresas = [
   },
   {
     "empresa": "DHL PARCEL IBERIA SL",
-    "direccion": "Avenida del rey santo s/n",
+    "direccion": "Avenida rey santo 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -8191,7 +8191,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES MIMAY, SOCIEDAD LIMITADA",
-    "direccion": "Calle avenida martirez 25",
+    "direccion": "Calle martirez 00025",
     "localidad": "PUEBLA DEL PRINCIPE",
     "cp": "13342",
     "provincia": "CIUDAD REAL",
@@ -8204,7 +8204,7 @@ const empresas = [
   },
   {
     "empresa": "VEYNAT IBERICA S.L.",
-    "direccion": "Avenida castilla la mancha 9",
+    "direccion": "Avenida la mancha 00009",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -8217,7 +8217,7 @@ const empresas = [
   },
   {
     "empresa": "TRANBENITO MERCANCIAS IBERICA,S.L",
-    "direccion": "Carretera nacional 430 km. 360",
+    "direccion": "Carretera 430 km. 00360",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -8230,7 +8230,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSMAGAR LOGISTICA, SOCIEDAD LIMITADA",
-    "direccion": "Avenida castilla la mancha 40",
+    "direccion": "Avenida la mancha 00040",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -8243,7 +8243,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS TITOS, SOCIEDAD LIMITADA",
-    "direccion": "Carretera almuradiel s/n",
+    "direccion": "Carretera 00000",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -8256,7 +8256,7 @@ const empresas = [
   },
   {
     "empresa": "JEPETRANS 2023, SOCIEDAD LIMITADA",
-    "direccion": "Avenida primero de mayo 42 2 d",
+    "direccion": "Avenida de mayo 00042 2 d",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -8269,7 +8269,7 @@ const empresas = [
   },
   {
     "empresa": "MOGOTRANS EXPRES 2022, SOCIEDAD LIMITADA",
-    "direccion": "Calle garcilaso de la vega 1",
+    "direccion": "Calle de la vega 00001",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -8282,7 +8282,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES LOPEZ PLATA, S.L",
-    "direccion": "Calle altozano 3",
+    "direccion": "Calle 00003",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -8295,7 +8295,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES QUIMICOS CIMA SL",
-    "direccion": "Carretera carrion s/n",
+    "direccion": "Carretera 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -8308,7 +8308,7 @@ const empresas = [
   },
   {
     "empresa": "FELIX FOOD LOGISTICS, S.L",
-    "direccion": "Calle campo de criptana 30",
+    "direccion": "Calle de criptana 00030",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -8321,7 +8321,7 @@ const empresas = [
   },
   {
     "empresa": "CERFASOL, S.L.",
-    "direccion": "Carretera argamasilla de alba, km 17 s/n",
+    "direccion": "Carretera de alba, km 17 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -8334,7 +8334,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO LOGISTICO PIÑESAN, SOCIEDAD LIMITADA",
-    "direccion": "Polígono ind. la vega - cl mozalba 66 f",
+    "direccion": "Polígono la vega - cl mozalba 00066 f",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -8347,7 +8347,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS JIMENEZ VILLALTA, S.L.",
-    "direccion": "Carretera nacional 430 km. 367",
+    "direccion": "Carretera 430 km. 00367",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -8360,7 +8360,7 @@ const empresas = [
   },
   {
     "empresa": "FRIGORIFICOS VACAS MARTINEZ, SOCIEDAD LIMITADA",
-    "direccion": "Calle cristo 5",
+    "direccion": "Calle 00005",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -8373,7 +8373,7 @@ const empresas = [
   },
   {
     "empresa": "ESERMAN GESTION DE ALMACENES SL",
-    "direccion": "Carretera carretera calzada, repsol petroleo s/n 1",
+    "direccion": "Carretera calzada, repsol petroleo 00000 1",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -8386,7 +8386,7 @@ const empresas = [
   },
   {
     "empresa": "SIGONSA, S.L.",
-    "direccion": "Paseo del rio 5",
+    "direccion": "Paseo rio 00005",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -8399,7 +8399,7 @@ const empresas = [
   },
   {
     "empresa": "GRUAS LOPEZ, S.A.",
-    "direccion": "Calle horno 4",
+    "direccion": "Calle 00004",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -8412,7 +8412,7 @@ const empresas = [
   },
   {
     "empresa": "DORNIER, S.A.",
-    "direccion": "Calle virgen 24 1º",
+    "direccion": "Calle 00024 1º",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -8425,7 +8425,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTICA DE CISTERNAS ALFONSO GONZALEZ, SL.",
-    "direccion": "Calle lepanto 18 2 c",
+    "direccion": "Calle 00018 2 c",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -8438,7 +8438,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS MANCHA CENTRO, S. COOP. DE C-LM",
-    "direccion": "Carretera 310 - km. 81",
+    "direccion": "Carretera 310 - km. 00081",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -8451,7 +8451,7 @@ const empresas = [
   },
   {
     "empresa": "OPERADOR DE TRANSPORTE EL POZUELO S.L.",
-    "direccion": "Carretera calzada de calatrava-repsol, km. 11 s/n",
+    "direccion": "Carretera de calatrava-repsol, km. 11 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -8464,7 +8464,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO LOZANO MARTIN DE LUCIA LOGISTICA, S.L.",
-    "direccion": "Avenida primero de mayo 5",
+    "direccion": "Avenida de mayo 00005",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -8477,7 +8477,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES VICENTE URBANO S.L.",
-    "direccion": "Calle castillejos 21 bj",
+    "direccion": "Calle 00021 bajo",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -8490,7 +8490,7 @@ const empresas = [
   },
   {
     "empresa": "JOSE ANGEL MORALES JIMENEZ S.L.",
-    "direccion": "Calle arenas 25",
+    "direccion": "Calle 00025",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -8503,7 +8503,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP.LTDA.MANCHEGA TRANSP.COMATRA C-LM",
-    "direccion": "Carretera nacional 420 295",
+    "direccion": "Carretera 420 00295",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -8516,7 +8516,7 @@ const empresas = [
   },
   {
     "empresa": "LOGISTICA CODAITRANS S.L.",
-    "direccion": "Calle herreros s/n. s/n",
+    "direccion": "Calle s/n. 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -8529,7 +8529,7 @@ const empresas = [
   },
   {
     "empresa": "MENSAFRANK, S.L.",
-    "direccion": "Calle rondilla de la cruz verde 48",
+    "direccion": "Calle de la cruz verde 00048",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -8542,7 +8542,7 @@ const empresas = [
   },
   {
     "empresa": "J. EMILIO NAVARRO S.L.",
-    "direccion": "Carretera argamasilla de alba, km. 1,200 s/n",
+    "direccion": "Carretera de alba, km. 1,200 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -8555,7 +8555,7 @@ const empresas = [
   },
   {
     "empresa": "ALBESO MENSAJERIA Y DISTRIBUCION, S.L.",
-    "direccion": "Calle castelar 3",
+    "direccion": "Calle 00003",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -8568,7 +8568,7 @@ const empresas = [
   },
   {
     "empresa": "INTEGRAL DE PAQUETERIA GRUPO MCB, S.L.",
-    "direccion": "Avenida tablas de daimiel 7 1 bj4",
+    "direccion": "Avenida de daimiel 00007 1 bj4",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -8581,7 +8581,7 @@ const empresas = [
   },
   {
     "empresa": "HALCONMANCHA S.L.U",
-    "direccion": "Paseo concordia 60",
+    "direccion": "Paseo 00060",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -8594,7 +8594,7 @@ const empresas = [
   },
   {
     "empresa": "BELMEZ PACK SOCIEDAD LIMITADA",
-    "direccion": "Calle viso del marques 1 2 2 a",
+    "direccion": "Calle del marques 00001 2 2 a",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -8607,7 +8607,7 @@ const empresas = [
   },
   {
     "empresa": "CTT EXPRESSO SERVICO POSTAIS E LOGISTICA S.A.",
-    "direccion": "Calle zacateca pol.ind. la vega 2829",
+    "direccion": "Calle pol.ind. la vega 0002829",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -8620,7 +8620,7 @@ const empresas = [
   },
   {
     "empresa": "RENTALPOST, S.L.U",
-    "direccion": "Calle albariño 13 a",
+    "direccion": "Calle ño 00013 a",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -8633,7 +8633,7 @@ const empresas = [
   },
   {
     "empresa": "GLOVOAPP SPAIN PLATFORM, S.L.",
-    "direccion": "Calle zona ciudad real reparto itinerante 1",
+    "direccion": "Calle ciudad real reparto itinerante 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -8646,7 +8646,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTAL EL PUERTO, S.A.",
-    "direccion": "Carretera madrid-cadiz km135",
+    "direccion": "Carretera -cadiz km00135",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -8659,7 +8659,7 @@ const empresas = [
   },
   {
     "empresa": "MENANO, COM.B.",
-    "direccion": "Calle virgen de la paz 20",
+    "direccion": "Calle de la paz 00020",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -8672,7 +8672,7 @@ const empresas = [
   },
   {
     "empresa": "HOTEL SANTA CECILIA, S.A.",
-    "direccion": "Calle tinte 3 5",
+    "direccion": "Calle 00003 5",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -8685,7 +8685,7 @@ const empresas = [
   },
   {
     "empresa": "CABAÑAS E HIJOS, S.A.",
-    "direccion": "Carretera ciudad real, km.163 s/n",
+    "direccion": "Carretera real, km.163 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -8698,7 +8698,7 @@ const empresas = [
   },
   {
     "empresa": "HOTEL RAMOMAR S.A.",
-    "direccion": "Calle concordia 17",
+    "direccion": "Calle 00017",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -8711,7 +8711,7 @@ const empresas = [
   },
   {
     "empresa": "INVERSIONES HOTELERAS MANCHEGAS, S.L.",
-    "direccion": "Carretera argamasilla km 2.100 2",
+    "direccion": "Carretera km 2.100 00002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -8724,7 +8724,7 @@ const empresas = [
   },
   {
     "empresa": "HOTEL MANZANARES, S.L.",
-    "direccion": "Carretera madrid-cadiz, s/n s/n",
+    "direccion": "Carretera -cadiz, s/n 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -8737,7 +8737,7 @@ const empresas = [
   },
   {
     "empresa": "OLMARA HOSTELERIA, S.L.",
-    "direccion": "Avenida pio xii 18",
+    "direccion": "Avenida xii 00018",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -8750,7 +8750,7 @@ const empresas = [
   },
   {
     "empresa": "CRESPORO RESTAURANTES, S.L.",
-    "direccion": "Carretera nacional 430, km. 317",
+    "direccion": "Carretera 430, km. 00317",
     "localidad": "CARRION DE CALATRAVA",
     "cp": "13150",
     "provincia": "CIUDAD REAL",
@@ -8763,7 +8763,7 @@ const empresas = [
   },
   {
     "empresa": "VENTA EL MOLINO, S.L.",
-    "direccion": "Avenida cervera 81",
+    "direccion": "Avenida 00081",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -8776,7 +8776,7 @@ const empresas = [
   },
   {
     "empresa": "RETIRO DEL MAESTRE, S.L.",
-    "direccion": "Calle san bartolome 5",
+    "direccion": "Calle bartolome 00005",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -8789,7 +8789,7 @@ const empresas = [
   },
   {
     "empresa": "GESTION DE EMPRESAS MADRID-ALMADEN, S.L.",
-    "direccion": "Calle antonio blazquez 104",
+    "direccion": "Calle blazquez 00104",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -8802,7 +8802,7 @@ const empresas = [
   },
   {
     "empresa": "HOTELES RUTA DEL QUIJOTE, S.A.",
-    "direccion": "Calle herencia_s/n s/n",
+    "direccion": "Calle _s/n 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -8815,7 +8815,7 @@ const empresas = [
   },
   {
     "empresa": "SAGEMAR HOTELS S.A.",
-    "direccion": "Cmcementerio s/n s/n",
+    "direccion": "Camino s/n 00000",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -8828,7 +8828,7 @@ const empresas = [
   },
   {
     "empresa": "COMENDADOR DE ALMAGRO, S.L.",
-    "direccion": "Calle pedro oviedo 10",
+    "direccion": "Calle oviedo 00010",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -8841,7 +8841,7 @@ const empresas = [
   },
   {
     "empresa": "AGROCINEGETICA LA CUESTA, S.A.",
-    "direccion": "Cmde los molinos s/n s/n",
+    "direccion": "Camino los molinos s/n 00000",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -8854,7 +8854,7 @@ const empresas = [
   },
   {
     "empresa": "HIDALGO QUIJANA, S.L.",
-    "direccion": "Calle rondilla de cruz verde 91",
+    "direccion": "Calle de cruz verde 00091",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -8867,7 +8867,7 @@ const empresas = [
   },
   {
     "empresa": "MENA VILLAESCUSA HOTELES, S.L.",
-    "direccion": "Calle campo 12",
+    "direccion": "Calle 00012",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -8880,7 +8880,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTAL RESTAURANTE CASTO SLU",
-    "direccion": "Calle luis dorado 85",
+    "direccion": "Calle dorado 00085",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -8893,7 +8893,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERIA LA CASOTA SL",
-    "direccion": "Calle don jorge 2",
+    "direccion": "Calle jorge 00002",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -8906,7 +8906,7 @@ const empresas = [
   },
   {
     "empresa": "HOTEL RESTAURANTE INSULA DE BARATARIA, S.L.",
-    "direccion": "Carretera nacional 420 s/n",
+    "direccion": "Carretera 420 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -8919,7 +8919,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ DE MERA HUETE ANTONIO",
-    "direccion": "Plaza agustin salido 3",
+    "direccion": "Plaza salido 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -8932,7 +8932,7 @@ const empresas = [
   },
   {
     "empresa": "HOTEL PARQUE REAL S.L.",
-    "direccion": "Calle cruz de los casados 1",
+    "direccion": "Calle de los casados 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -8945,7 +8945,7 @@ const empresas = [
   },
   {
     "empresa": "CAZALCUDIA SERVICIOS CINEGETICOS, S.L.",
-    "direccion": "Calle canteras 1",
+    "direccion": "Calle 00001",
     "localidad": "BRAZATORTAS",
     "cp": "13450",
     "provincia": "CIUDAD REAL",
@@ -8958,7 +8958,7 @@ const empresas = [
   },
   {
     "empresa": "HOTEL DC CIUDAD REAL,S.L.",
-    "direccion": "Rdde toledo 21",
+    "direccion": "Ronda toledo 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -8971,7 +8971,7 @@ const empresas = [
   },
   {
     "empresa": "BLUE EASE SOCIEDAD LIMITADA",
-    "direccion": "Carretera carrion 10 bj",
+    "direccion": "Carretera 00010 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -8984,7 +8984,7 @@ const empresas = [
   },
   {
     "empresa": "MOON FREE PORT, SOCIEDAD LIMITADA",
-    "direccion": "Carretera toledo 26",
+    "direccion": "Carretera 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -8997,7 +8997,7 @@ const empresas = [
   },
   {
     "empresa": "PETUROLISO, S.L.U.",
-    "direccion": "Calle lope de vega 3",
+    "direccion": "Calle de vega 00003",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -9010,7 +9010,7 @@ const empresas = [
   },
   {
     "empresa": "POTOÑO, S.L.",
-    "direccion": "Calle virgen de las cruces 5",
+    "direccion": "Calle de las cruces 00005",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -9023,7 +9023,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERIA NCRB, SL",
-    "direccion": "Carretera manzanares 83 d",
+    "direccion": "Carretera 00083 d",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -9036,7 +9036,7 @@ const empresas = [
   },
   {
     "empresa": "NUEVO HOTEL PARQUE CABAÑEROS, SOCIEDAD LIMITADA",
-    "direccion": "Calle real 3",
+    "direccion": "Calle 00003",
     "localidad": "HORCAJO DE LOS MONTES",
     "cp": "13110",
     "provincia": "CIUDAD REAL",
@@ -9049,7 +9049,7 @@ const empresas = [
   },
   {
     "empresa": "JELEX 2025, SOCIEDAD LIMITADA",
-    "direccion": "Carretera autovia del sur a4 km200 s/n",
+    "direccion": "Carretera del sur a4 km200 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -9062,7 +9062,7 @@ const empresas = [
   },
   {
     "empresa": "REIVIC HOTELS SL",
-    "direccion": "Calle carlos vázquez 8",
+    "direccion": "Calle vázquez 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -9075,7 +9075,7 @@ const empresas = [
   },
   {
     "empresa": "CASTILLO DE PILAS BONAS, S.L.",
-    "direccion": "Plaza san blas, s/n s/n",
+    "direccion": "Plaza blas, s/n 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -9088,7 +9088,7 @@ const empresas = [
   },
   {
     "empresa": "DONOBAL ALMAGRO S.L.",
-    "direccion": "Calle federico relimpio 10",
+    "direccion": "Calle relimpio 00010",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -9101,7 +9101,7 @@ const empresas = [
   },
   {
     "empresa": "HNOS LAKRA SC",
-    "direccion": "Carretera almodovar 9",
+    "direccion": "Carretera 00009",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -9114,7 +9114,7 @@ const empresas = [
   },
   {
     "empresa": "LOS ARENALES DE ALMAGRO",
-    "direccion": "Cmcarril de atilano s/n",
+    "direccion": "Camino de atilano 00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -9127,7 +9127,7 @@ const empresas = [
   },
   {
     "empresa": "HOTEL DE MANUELA, SLU",
-    "direccion": "Calle molinos 8",
+    "direccion": "Calle 00008",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -9140,7 +9140,7 @@ const empresas = [
   },
   {
     "empresa": "RESIDENCIA FELIPE II,S.L.",
-    "direccion": "Calle inmaculada concepcion 12",
+    "direccion": "Calle concepcion 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -9153,7 +9153,7 @@ const empresas = [
   },
   {
     "empresa": "RESIDENCIA GASSET SL",
-    "direccion": "Avenida camilo jose cela 1",
+    "direccion": "Avenida jose cela 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -9166,7 +9166,7 @@ const empresas = [
   },
   {
     "empresa": "VENTA DEL QUIJOTE, S.L.",
-    "direccion": "Calle el molino 2",
+    "direccion": "Calle molino 00002",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -9179,7 +9179,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA CHOCANO VICTOR",
-    "direccion": "Calle san francisco 20",
+    "direccion": "Calle francisco 00020",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -9192,7 +9192,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ ORTIZ JUSTO",
-    "direccion": "Calle campo 91",
+    "direccion": "Calle 00091",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -9205,7 +9205,7 @@ const empresas = [
   },
   {
     "empresa": "CASA PEPE, COM.B.",
-    "direccion": "Carretera madrid-cadiz, km. 243 s/n",
+    "direccion": "Carretera -cadiz, km. 243 00000",
     "localidad": "ALMURADIEL",
     "cp": "13768",
     "provincia": "CIUDAD REAL",
@@ -9218,7 +9218,7 @@ const empresas = [
   },
   {
     "empresa": "COMPLEJO HOTELERO SAGA, S.A.",
-    "direccion": "Carretera madrid cadiz km. 171 s/n",
+    "direccion": "Carretera cadiz km. 171 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -9231,7 +9231,7 @@ const empresas = [
   },
   {
     "empresa": "ANTIÑOLO BLAZQUEZ SERAFIN",
-    "direccion": "Calle convento 52",
+    "direccion": "Calle 00052",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -9244,7 +9244,7 @@ const empresas = [
   },
   {
     "empresa": "TRUJILLO TORRES HERMANOS, S.L.",
-    "direccion": "Calle capitan sanchez alcantara 2",
+    "direccion": "Calle sanchez alcantara 00002",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -9257,7 +9257,7 @@ const empresas = [
   },
   {
     "empresa": "P.GALAXIA S.L.",
-    "direccion": "Calle nieves 13 st",
+    "direccion": "Calle 00013 st",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -9270,7 +9270,7 @@ const empresas = [
   },
   {
     "empresa": "CHEGI, S.L.",
-    "direccion": "Carretera autovia n-iv, km. 232 s/n",
+    "direccion": "Carretera n-iv, km. 232 00000",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -9283,7 +9283,7 @@ const empresas = [
   },
   {
     "empresa": "COMPLEJOS HOSTELEROS LAS BRUJAS, S.L.",
-    "direccion": "Carretera nal. 420, km. 231,500 s/n",
+    "direccion": "Carretera 420, km. 231,500 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -9296,7 +9296,7 @@ const empresas = [
   },
   {
     "empresa": "PEÑA HORADADA, S.L.",
-    "direccion": "Lugar la encomienda s/n",
+    "direccion": "Lugar encomienda 00000",
     "localidad": "VILLANUEVA DE SAN CARLOS",
     "cp": "13379",
     "provincia": "CIUDAD REAL",
@@ -9309,7 +9309,7 @@ const empresas = [
   },
   {
     "empresa": "PIZZERIA FRAN-GELICA, S.L.",
-    "direccion": "Avenida don antonio huertas s/n52",
+    "direccion": "Avenida antonio huertas 0000052",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -9322,7 +9322,7 @@ const empresas = [
   },
   {
     "empresa": "NESEBAR, S.L.",
-    "direccion": "Avenida constitucion local 5 s/n",
+    "direccion": "Avenida local 5 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -9335,7 +9335,7 @@ const empresas = [
   },
   {
     "empresa": "PIZZERIA GONDOLA DE LA MANCHA, S.L.L.",
-    "direccion": "Calle feria 6",
+    "direccion": "Calle 00006",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -9348,7 +9348,7 @@ const empresas = [
   },
   {
     "empresa": "LA VUELTA 2002, S.L.",
-    "direccion": "Carretera carrion cva., nave 36",
+    "direccion": "Carretera cva., nave 00036",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -9361,7 +9361,7 @@ const empresas = [
   },
   {
     "empresa": "ANTONIO Y JOAQUIN GUTIERREZ, S.A.",
-    "direccion": "Carretera nacional madrid - cadiz 197",
+    "direccion": "Carretera madrid - cadiz 00197",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -9374,7 +9374,7 @@ const empresas = [
   },
   {
     "empresa": "MARQUINETTI PIZZA PARK EXPRESS, S.L.",
-    "direccion": "Avenida don antonio huertas 47",
+    "direccion": "Avenida antonio huertas 00047",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -9387,7 +9387,7 @@ const empresas = [
   },
   {
     "empresa": "CIRIACA Y NAVARROS, S.L.",
-    "direccion": "Calle la mata 6",
+    "direccion": "Calle mata 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -9400,7 +9400,7 @@ const empresas = [
   },
   {
     "empresa": "BAR RESTAURANTE CASTILLA 2000, S.L.",
-    "direccion": "Calle nieves 15",
+    "direccion": "Calle 00015",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -9413,7 +9413,7 @@ const empresas = [
   },
   {
     "empresa": "PASAJE RUMOROSO, S.L.",
-    "direccion": "Calle francisco morales c/v calle peatonals/n",
+    "direccion": "Calle morales c/v calle peatonal00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -9426,7 +9426,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURANTE CUESTA DE LA VIRGEN, S.L.",
-    "direccion": "Carretera fuente el fresno, km 9",
+    "direccion": "Carretera el fresno, km 00009",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -9439,7 +9439,7 @@ const empresas = [
   },
   {
     "empresa": "KASBA INTERNACIONAL, S.L.",
-    "direccion": "Paseo san gregorio (edificio burguer) s/n",
+    "direccion": "Paseo gregorio (edificio burguer) 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -9452,7 +9452,7 @@ const empresas = [
   },
   {
     "empresa": "LOS DESMONTES HOSTELERIA, S.L.",
-    "direccion": "Carretera de la solana 87",
+    "direccion": "Carretera la solana 00087",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -9465,7 +9465,7 @@ const empresas = [
   },
   {
     "empresa": "2004 GODISA, S.L.",
-    "direccion": "Carretera comarcal 506 km 3 s/n",
+    "direccion": "Carretera 506 km 3 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -9478,7 +9478,7 @@ const empresas = [
   },
   {
     "empresa": "SOCIEDAD HOSTELERA LA FLOR DE LA MANCHA, S.L.",
-    "direccion": "Carretera nacional iv km 191,800 s/n",
+    "direccion": "Carretera iv km 191,800 00000",
     "localidad": "VILLANUEVA DE FRANCO",
     "cp": "13310",
     "provincia": "CIUDAD REAL",
@@ -9491,7 +9491,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN POZUELO MARTIN JOSE",
-    "direccion": "Carretera toledo 36",
+    "direccion": "Carretera 00036",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -9504,7 +9504,7 @@ const empresas = [
   },
   {
     "empresa": "DAIMIELEÑA DE RESTAURACION Y OCIO, S.L.",
-    "direccion": "Calle obispo quesada 9",
+    "direccion": "Calle quesada 00009",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -9517,7 +9517,7 @@ const empresas = [
   },
   {
     "empresa": "MIKIDEL S.L.",
-    "direccion": "Plaza constitucion 33",
+    "direccion": "Plaza 00033",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -9530,7 +9530,7 @@ const empresas = [
   },
   {
     "empresa": "ASADOR RESTAURANTE SAN HUBERTO, S.L.",
-    "direccion": "Rdmata 11",
+    "direccion": "Ronda 00011",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -9543,7 +9543,7 @@ const empresas = [
   },
   {
     "empresa": "MONTARROSO CESPEDES ANA MARIA",
-    "direccion": "Calle cardenal lorenzana 2",
+    "direccion": "Calle lorenzana 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -9556,7 +9556,7 @@ const empresas = [
   },
   {
     "empresa": "PLAZCON S.L.",
-    "direccion": "Calle empedrada 37",
+    "direccion": "Calle 00037",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -9569,7 +9569,7 @@ const empresas = [
   },
   {
     "empresa": "AREA DE SERVICIO LA PURISIMA S.L.",
-    "direccion": "Carretera madrid-cadiz km. 220",
+    "direccion": "Carretera -cadiz km. 00220",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -9582,7 +9582,7 @@ const empresas = [
   },
   {
     "empresa": "VINHOLAN, S.A.",
-    "direccion": "Carretera autovia andalucia km 145,330 s/n",
+    "direccion": "Carretera andalucia km 145,330 00000",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -9595,7 +9595,7 @@ const empresas = [
   },
   {
     "empresa": "DAROBI 2006, S.L.",
-    "direccion": "Calle ronda ciruela 18 bj",
+    "direccion": "Calle ciruela 00018 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -9608,7 +9608,7 @@ const empresas = [
   },
   {
     "empresa": "MABEL CERVANTES, S.L.",
-    "direccion": "Carretera nacional 420 s/n",
+    "direccion": "Carretera 420 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -9621,7 +9621,7 @@ const empresas = [
   },
   {
     "empresa": "CASTELLANOS ALCAÑIZ DANIELA",
-    "direccion": "Avenida constitucion -restaurante la mancha-s/n",
+    "direccion": "Avenida -restaurante la mancha-00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -9634,7 +9634,7 @@ const empresas = [
   },
   {
     "empresa": "BECA ESPACIO Y OCIO, S.L.",
-    "direccion": "Lugar zona turist.margen dcho autovia n-iv233",
+    "direccion": "Lugar turist.margen dcho autovia n-iv00233",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -9647,7 +9647,7 @@ const empresas = [
   },
   {
     "empresa": "JOSE MACIAS VALLS E HIJOS, S.L.",
-    "direccion": "Avenida rey santo 3 bj",
+    "direccion": "Avenida santo 00003 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -9660,7 +9660,7 @@ const empresas = [
   },
   {
     "empresa": "ALIMENTACIONES CLEPSIDRA S.L.",
-    "direccion": "Carretera 504 km, 5,000 s/n",
+    "direccion": "Carretera 504 km, 5,000 00000",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -9673,7 +9673,7 @@ const empresas = [
   },
   {
     "empresa": "CARBURANTES NTRA. SRA. DE PEÑARROYA S.L.",
-    "direccion": "Carretera comarcal n-141 km. 3",
+    "direccion": "Carretera n-141 km. 00003",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -9686,7 +9686,7 @@ const empresas = [
   },
   {
     "empresa": "DAYANG MEISI, S.L.",
-    "direccion": "Calle tomelloso 12",
+    "direccion": "Calle 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -9699,7 +9699,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ AREMA ALEJANDRO",
-    "direccion": "Rderas 86",
+    "direccion": "Ronda 00086",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -9712,7 +9712,7 @@ const empresas = [
   },
   {
     "empresa": "CATADO, S.L.",
-    "direccion": "Avenida maria auxiliadora 14 b",
+    "direccion": "Avenida auxiliadora 00014 b",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -9725,7 +9725,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERIA MIGUEL SANCHEZ Y ASOCIADOS, S.L.",
-    "direccion": "Calle puerto 39",
+    "direccion": "Calle 000039",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -9738,7 +9738,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURANTE COMEDOR DE LA MANCHA, S.L.",
-    "direccion": "Carretera autovia madrid-cadiz s/n",
+    "direccion": "Carretera madrid-cadiz 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -9751,7 +9751,7 @@ const empresas = [
   },
   {
     "empresa": "HERNANDEZ NUÑEZ DE ARENAS VICENTE",
-    "direccion": "Calle monescillo 7",
+    "direccion": "Calle 00007",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -9764,7 +9764,7 @@ const empresas = [
   },
   {
     "empresa": "HOTEL CHATEAU VIÑASORO SL",
-    "direccion": "Carretera manzanares km 7,200 s/n",
+    "direccion": "Carretera km 7,200 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -9777,7 +9777,7 @@ const empresas = [
   },
   {
     "empresa": "A.J. RESTAURANTE EUROPA, S.L.",
-    "direccion": "Avenida estudiantes 82",
+    "direccion": "Avenida 00082",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -9790,7 +9790,7 @@ const empresas = [
   },
   {
     "empresa": "RUIZ ALMANSA EMILIO",
-    "direccion": "Carretera bolaños-almagro km. 1 s/n",
+    "direccion": "Carretera ños-almagro km. 1 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -9803,7 +9803,7 @@ const empresas = [
   },
   {
     "empresa": "STROMBOLY COMERCIO SL",
-    "direccion": "Calle campo 144",
+    "direccion": "Calle 00144",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -9816,7 +9816,7 @@ const empresas = [
   },
   {
     "empresa": "ASADOR Y HOSTAL LA CARRETA, S.L.",
-    "direccion": "Calle pablo picasso 59",
+    "direccion": "Calle picasso 00059",
     "localidad": "AGUDO",
     "cp": "13410",
     "provincia": "CIUDAD REAL",
@@ -9829,7 +9829,7 @@ const empresas = [
   },
   {
     "empresa": "VILLAVICENCIO RODRIGUEZ HOARI",
-    "direccion": "Calle huertos 3",
+    "direccion": "Calle 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -9842,7 +9842,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS PUERTA DE PRO S.L.",
-    "direccion": "Avenida juan carlos i 123",
+    "direccion": "Avenida carlos i 00123",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -9855,7 +9855,7 @@ const empresas = [
   },
   {
     "empresa": "SERRALCAZAR, S.L.",
-    "direccion": "Calle menorca 10",
+    "direccion": "Calle 00010",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -9868,7 +9868,7 @@ const empresas = [
   },
   {
     "empresa": "BAR LOPEZ CB",
-    "direccion": "Calle la vereda 65",
+    "direccion": "Calle vereda 00065",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -9881,7 +9881,7 @@ const empresas = [
   },
   {
     "empresa": "JRJ LA PARA ROCIERA,S.L",
-    "direccion": "Carretera autovia a 4 211",
+    "direccion": "Carretera a 4 00211",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -9894,7 +9894,7 @@ const empresas = [
   },
   {
     "empresa": "TABERNA IDEAL PURA CEPA, S.L.",
-    "direccion": "Pjpasaje dulcinea del toboso 2 0",
+    "direccion": "Pasaje dulcinea del toboso 00002 0",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -9907,7 +9907,7 @@ const empresas = [
   },
   {
     "empresa": "CORPORACION AAPA TACTICA Y FOMEN",
-    "direccion": "Cmmontecillo s/n",
+    "direccion": "Camino 00000",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -9920,7 +9920,7 @@ const empresas = [
   },
   {
     "empresa": "COMPLEJO RESTAURACION NAMEN",
-    "direccion": "Calle fray luis de bolaños 23",
+    "direccion": "Calle luis de bolaños 00023",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -9933,7 +9933,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ ARROYO JOSUE",
-    "direccion": "Calle constitucion 15",
+    "direccion": "Calle 00015",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -9946,7 +9946,7 @@ const empresas = [
   },
   {
     "empresa": "GLOBAL DE SERVICIOS CIUDAD REAL",
-    "direccion": "Carretera toledo 26",
+    "direccion": "Carretera 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -9959,7 +9959,7 @@ const empresas = [
   },
   {
     "empresa": "LOS BODEGOS 2016 SL",
-    "direccion": "Cmsan cristobal s/n",
+    "direccion": "Camino cristobal 00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -9972,7 +9972,7 @@ const empresas = [
   },
   {
     "empresa": "JOBELOBE SOCIEDAD LIMITADA",
-    "direccion": "Calle mata 23",
+    "direccion": "Calle 00023",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -9985,7 +9985,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERIA SILVIA SL",
-    "direccion": "Avenida primero de julio 38",
+    "direccion": "Avenida de julio 00038",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -9998,7 +9998,7 @@ const empresas = [
   },
   {
     "empresa": "CASA TOMAS LA VUELTA SOCIEDAD L",
-    "direccion": "Calle tinte 17 b c",
+    "direccion": "Calle 00017 b c",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -10011,7 +10011,7 @@ const empresas = [
   },
   {
     "empresa": "WEIXIAO MEISI, S.L.",
-    "direccion": "Calle pozo concejo 4",
+    "direccion": "Calle concejo 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -10024,7 +10024,7 @@ const empresas = [
   },
   {
     "empresa": "SAKURA HOSTELERIA Y RESTAURACIÓN, S.L.",
-    "direccion": "Calle granada 3 0 loc",
+    "direccion": "Calle 00003 0 loc",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -10037,7 +10037,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACIONES SAN BARTOLOME DE ALMAGRO S.L.",
-    "direccion": "Calle san agustin 18",
+    "direccion": "Calle agustin 00018",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -10050,7 +10050,7 @@ const empresas = [
   },
   {
     "empresa": "BLACK PYRAMID SOCIEDAD LIMITADA",
-    "direccion": "Plaza españa 8",
+    "direccion": "Plaza ña 00008",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -10063,7 +10063,7 @@ const empresas = [
   },
   {
     "empresa": "SALONES LEON, SOCIEDAD LIMITADA",
-    "direccion": "Calle rio 12",
+    "direccion": "Calle 00012",
     "localidad": "ABENOJAR",
     "cp": "13180",
     "provincia": "CIUDAD REAL",
@@ -10076,7 +10076,7 @@ const empresas = [
   },
   {
     "empresa": "VALU INTEGRATED SERVICES SL",
-    "direccion": "Avenida constitucion 62 l2",
+    "direccion": "Avenida 00062 l2",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -10089,7 +10089,7 @@ const empresas = [
   },
   {
     "empresa": "ACROPORA SL",
-    "direccion": "Calle de alarcos 24",
+    "direccion": "Calle alarcos 00024",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -10102,7 +10102,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURANTE EL RINCON DEL QUIJO",
-    "direccion": "Carretera argamasilla de alba- cinco casas 17",
+    "direccion": "Carretera de alba- cinco casas 00017",
     "localidad": "CINCO CASAS",
     "cp": "13720",
     "provincia": "CIUDAD REAL",
@@ -10115,7 +10115,7 @@ const empresas = [
   },
   {
     "empresa": "MUSIC & ECOLOGIC FOOD SOCIEDAD",
-    "direccion": "Calle tablas de daimiel 1",
+    "direccion": "Calle de daimiel 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -10128,7 +10128,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACION RAPIDA MANCHEGA LEAL ORDOÑEZ, S.L.",
-    "direccion": "Avenida europa s/n",
+    "direccion": "Avenida 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -10141,7 +10141,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACION RAPIDA DE PUERTOLLANO LEAL ORDOÑEZ, S.L.",
-    "direccion": "Carretera argamasilla 30",
+    "direccion": "Carretera 00030",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10154,7 +10154,7 @@ const empresas = [
   },
   {
     "empresa": "ORTIZ LOPEZ RUBEN",
-    "direccion": "Calle don antonio huertas 92",
+    "direccion": "Calle antonio huertas 00092",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -10167,7 +10167,7 @@ const empresas = [
   },
   {
     "empresa": "JUGALANDIA OCIO Y RESTAURACION",
-    "direccion": "Calle herreros 10",
+    "direccion": "Calle 00010",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -10180,7 +10180,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACION PURA CEPA SOCIEDA",
-    "direccion": "Avenida avenida torreon del alcazar 9 lo",
+    "direccion": "Avenida torreon del alcazar 00009 lo",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -10193,7 +10193,7 @@ const empresas = [
   },
   {
     "empresa": "TAR 2022 RESTAURACIXN SOCIEDAD",
-    "direccion": "Calle tomillo 1",
+    "direccion": "Calle 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -10206,7 +10206,7 @@ const empresas = [
   },
   {
     "empresa": "EVENTOS Y RESTAURACION TUREGANO,S.L.",
-    "direccion": "Calle la cruz s/n",
+    "direccion": "Calle cruz 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -10219,7 +10219,7 @@ const empresas = [
   },
   {
     "empresa": "ASADOR LA CALIZA S.L.",
-    "direccion": "Carretera de andalucia km 217 s/n",
+    "direccion": "Carretera andalucia km 217 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -10232,7 +10232,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACIONES GOURMET LA CROQU",
-    "direccion": "Rdgranada 11",
+    "direccion": "Ronda 00011",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -10245,7 +10245,7 @@ const empresas = [
   },
   {
     "empresa": "LAS MUSAS CATERING Y EVENTOS, S.L.",
-    "direccion": "Calle barbero, 3, 5 y 7 s/n",
+    "direccion": "Calle , 3, 5 y 7 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -10258,7 +10258,7 @@ const empresas = [
   },
   {
     "empresa": "UNIPASTA SOCIEDAD LIMITADA",
-    "direccion": "Calle carlos lopez bustos 5",
+    "direccion": "Calle lopez bustos 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -10271,7 +10271,7 @@ const empresas = [
   },
   {
     "empresa": "LA FLORIDIANA SENSORIAL FOOD S.L",
-    "direccion": "Calle ruiz morote 8 3 a",
+    "direccion": "Calle morote 00008 3 a",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -10284,7 +10284,7 @@ const empresas = [
   },
   {
     "empresa": "NAVARRO GOMEZ SERGIO",
-    "direccion": "Avenida reyes catolicos 7",
+    "direccion": "Avenida catolicos 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -10297,7 +10297,7 @@ const empresas = [
   },
   {
     "empresa": "MECA LA SAL ARGAMASILLA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera nacional 420 164",
+    "direccion": "Carretera 420 00164",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -10310,7 +10310,7 @@ const empresas = [
   },
   {
     "empresa": "GURIDI PLAZA, SOCIEDAD LIMITADA",
-    "direccion": "Plaza pilar 5",
+    "direccion": "Plaza 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -10323,7 +10323,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURANTE DONG FANG ALCAZAR, SOCIEDAD LIMITADA",
-    "direccion": "Calle plaza arenal 15",
+    "direccion": "Calle arenal 00015",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -10336,7 +10336,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURANTE EL COTO SC",
-    "direccion": "Zoservicios s/n",
+    "direccion": "Zoservicios 00000",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -10349,7 +10349,7 @@ const empresas = [
   },
   {
     "empresa": "TOSOCA HOSTELERIA, S.L.",
-    "direccion": "Carretera almodovar del campo (fr. red virtus)s/n",
+    "direccion": "Carretera del campo (fr. red virtus)00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10362,7 +10362,7 @@ const empresas = [
   },
   {
     "empresa": "ACABALAR INVERSIONES, SOCIEDAD LIMITADA",
-    "direccion": "Carretera autovia a4 km. 187 s/n",
+    "direccion": "Carretera a4 km. 187 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -10375,7 +10375,7 @@ const empresas = [
   },
   {
     "empresa": "VILLALTA MOHINO IVAN",
-    "direccion": "Avenida constitucion 12 lc",
+    "direccion": "Avenida 00012 lc",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -10388,7 +10388,7 @@ const empresas = [
   },
   {
     "empresa": "UMAMI PIZZA, S.L.",
-    "direccion": "Avenida primero de julio 38",
+    "direccion": "Avenida de julio 00038",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -10401,7 +10401,7 @@ const empresas = [
   },
   {
     "empresa": "GIRODA 2019, SOCIEDAD LIMITADA",
-    "direccion": "Calle hernan perez del pulgar 5 b",
+    "direccion": "Calle perez del pulgar 00005 b",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -10414,7 +10414,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURANTE EL RULO, SOCIEDAD LIMITADA",
-    "direccion": "Paseo del cordon 110",
+    "direccion": "Paseo cordon 00110",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -10427,7 +10427,7 @@ const empresas = [
   },
   {
     "empresa": "ALFIN RESTAURACION Y EVENTOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle santa ana 8",
+    "direccion": "Calle ana 00008",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10440,7 +10440,7 @@ const empresas = [
   },
   {
     "empresa": "PORT FOOD 2020, SOCIEDAD LIMITADA",
-    "direccion": "Calle puerto 8",
+    "direccion": "Calle 00008",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10453,7 +10453,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA TOLEDO JOSE LUIS",
-    "direccion": "Calle guardia 11",
+    "direccion": "Calle 00011",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -10466,7 +10466,7 @@ const empresas = [
   },
   {
     "empresa": "CAFETERIA PUERTOLLANO BENITEZ, SOCIEDAD LIMITADA",
-    "direccion": "Paseo san gregorio (ed. tauro) 2",
+    "direccion": "Paseo gregorio (ed. tauro) 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10479,7 +10479,7 @@ const empresas = [
   },
   {
     "empresa": "MAJADA LA CALDERINA, S.L.L.",
-    "direccion": "Carretera a iv, km 134 s/n",
+    "direccion": "Carretera iv, km 134 00000",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -10492,7 +10492,7 @@ const empresas = [
   },
   {
     "empresa": "ESTACION DE AUTOBUSES TOMELLOSO S.L.",
-    "direccion": "Calle madrid 1",
+    "direccion": "Calle 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -10505,7 +10505,7 @@ const empresas = [
   },
   {
     "empresa": "NAVARRO TERCERO FELICIDAD",
-    "direccion": "Calle virgen 151",
+    "direccion": "Calle 00151",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -10518,7 +10518,7 @@ const empresas = [
   },
   {
     "empresa": "JOAMOSI SL",
-    "direccion": "Calle mesones 18",
+    "direccion": "Calle 00018",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -10531,7 +10531,7 @@ const empresas = [
   },
   {
     "empresa": "BAYONA BAYONA MARTA",
-    "direccion": "Calle felix grande 7",
+    "direccion": "Calle grande 00007",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -10544,7 +10544,7 @@ const empresas = [
   },
   {
     "empresa": "FOOD LA MANCHA SL",
-    "direccion": "Calle rosa chacel 2",
+    "direccion": "Calle chacel 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -10557,7 +10557,7 @@ const empresas = [
   },
   {
     "empresa": "DUNAS MANCHEGAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle hernan perez del pulgar 1",
+    "direccion": "Calle perez del pulgar 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -10570,7 +10570,7 @@ const empresas = [
   },
   {
     "empresa": "FLORES MOZOS PATRICIA",
-    "direccion": "Plaza plaza de la constirución 5",
+    "direccion": "Plaza de la constirución 00005",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10583,7 +10583,7 @@ const empresas = [
   },
   {
     "empresa": "HUERTA CRIPTANA, SOCIEDAD LIMITADA",
-    "direccion": "Zzfinca huerta criptana s/n",
+    "direccion": "Zzfinca huerta criptana 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -10596,7 +10596,7 @@ const empresas = [
   },
   {
     "empresa": "CASA LIU LIU CHEN, SOCIEDAD LIMITADA",
-    "direccion": "Calle toledo 33",
+    "direccion": "Calle 00033",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -10609,7 +10609,7 @@ const empresas = [
   },
   {
     "empresa": "SE COME DE LUJO, SOCIEDAD LIMITADA",
-    "direccion": "Calle mata 10 2",
+    "direccion": "Calle 00010 2",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -10622,7 +10622,7 @@ const empresas = [
   },
   {
     "empresa": "FOOD SERVICE PROJECT SA",
-    "direccion": "Calle isabel prieto s/n",
+    "direccion": "Calle isabel prieto 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -10635,7 +10635,7 @@ const empresas = [
   },
   {
     "empresa": "EL CAZADOR DE PUERTOLLANO, SOCIEDAD LIMITADA",
-    "direccion": "Calle gran capitan 53",
+    "direccion": "Calle capitan 00053",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10648,7 +10648,7 @@ const empresas = [
   },
   {
     "empresa": "ASADOR CASA VICENTE, SOCIEDAD LIMITADA",
-    "direccion": "Calle juan carlos i 5",
+    "direccion": "Calle carlos i 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -10661,7 +10661,7 @@ const empresas = [
   },
   {
     "empresa": "MINEROS RESTAURACION, S.L.",
-    "direccion": "Calle via crucis 19",
+    "direccion": "Calle crucis 00019",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10674,7 +10674,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACION RAPIDA DE VALDEPEÑAS LEAL ORDOÑEZ, SL",
-    "direccion": "Avenida virgen de los dolores 2",
+    "direccion": "Avenida de los dolores 00002",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -10687,7 +10687,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERIA GABANA, S.L.",
-    "direccion": "Avenida juan carlos i con vuelta cl arenal s/n",
+    "direccion": "Avenida carlos i con vuelta cl arenal 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -10700,7 +10700,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS RESTAURACION DOÑA CARMEN, SL",
-    "direccion": "Carretera calzada s/n",
+    "direccion": "Carretera 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10713,7 +10713,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURANTE LA ARROCERIA DE PICON, SL",
-    "direccion": "Calle sernas 2",
+    "direccion": "Calle 00002",
     "localidad": "PICON",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -10726,7 +10726,7 @@ const empresas = [
   },
   {
     "empresa": "LA PESETA CIUDAD REAL, SOCIEDAD LIMITADA",
-    "direccion": "Avenida rey santo 38",
+    "direccion": "Avenida santo 00038",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -10739,7 +10739,7 @@ const empresas = [
   },
   {
     "empresa": "LOS FOGONES DE LA MANCHA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera cm 420 km 39 s/n",
+    "direccion": "Carretera 420 km 39 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -10752,7 +10752,7 @@ const empresas = [
   },
   {
     "empresa": "LA ESENCIA GASTROTAPAS, SOCIEDAD LIMITADA",
-    "direccion": "Avenida primero de julio 49",
+    "direccion": "Avenida de julio 00049",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -10765,7 +10765,7 @@ const empresas = [
   },
   {
     "empresa": "MIRASIERRA RURAL SL",
-    "direccion": "Calle autovia nacional iv km 242",
+    "direccion": "Calle nacional iv km 00242",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -10778,7 +10778,7 @@ const empresas = [
   },
   {
     "empresa": "PARADISE ENTREPARKES, SOCIEDAD LIMITADA",
-    "direccion": "Avenida lagunas de ruidera 8",
+    "direccion": "Avenida de ruidera 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -10791,7 +10791,7 @@ const empresas = [
   },
   {
     "empresa": "DIRESA RESTAURACION 7 SL",
-    "direccion": "Paseo de la estacion esquina calle perez g1",
+    "direccion": "Paseo la estacion esquina calle perez g00001",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -10804,7 +10804,7 @@ const empresas = [
   },
   {
     "empresa": "TABERNA NAPOLETANA, SOCIEDAD LIMITADA",
-    "direccion": "Calle lanza 9",
+    "direccion": "Calle 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -10817,7 +10817,7 @@ const empresas = [
   },
   {
     "empresa": "INDIGASTRO SOCIEDAD LIMITADA",
-    "direccion": "Calle mesones 28",
+    "direccion": "Calle 00028",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -10830,7 +10830,7 @@ const empresas = [
   },
   {
     "empresa": "CHOTOMATE, SOCIEDAD LIMITADA",
-    "direccion": "Calle juan caba 2 lc",
+    "direccion": "Calle caba 00002 lc",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -10843,7 +10843,7 @@ const empresas = [
   },
   {
     "empresa": "INTRA MISIONES ASOCIADOS BC SL",
-    "direccion": "Avenida andalucia, km 173 s/n",
+    "direccion": "Avenida , km 173 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -10856,7 +10856,7 @@ const empresas = [
   },
   {
     "empresa": "ZAMORA FERNANDEZ SERGIO",
-    "direccion": "Plaza villarreal 2",
+    "direccion": "Plaza 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10869,7 +10869,7 @@ const empresas = [
   },
   {
     "empresa": "RETAMOSA ROMERO BEATRIZ",
-    "direccion": "Carretera retuerta 16",
+    "direccion": "Carretera 00016",
     "localidad": "HORCAJO DE LOS MONTES",
     "cp": "13110",
     "provincia": "CIUDAD REAL",
@@ -10882,7 +10882,7 @@ const empresas = [
   },
   {
     "empresa": "POSIBLE OCUPANTE SL",
-    "direccion": "Rdla mata 12",
+    "direccion": "Ronda mata 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -10895,7 +10895,7 @@ const empresas = [
   },
   {
     "empresa": "AGUSTIN Y MONICA, SOCIEDAD LIMITADA",
-    "direccion": "Calle serna 19",
+    "direccion": "Calle 00019",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -10908,7 +10908,7 @@ const empresas = [
   },
   {
     "empresa": "GUIJARRO MUÑOZ RAFAEL",
-    "direccion": "Calle calzada 23",
+    "direccion": "Calle 00023",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10921,7 +10921,7 @@ const empresas = [
   },
   {
     "empresa": "GASTRONOMIA MORAVALBUENA, SOCIEDAD LIMITADA",
-    "direccion": "Polígono la nava i, calle ucrania 2",
+    "direccion": "Polígono nava i, calle ucrania 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -10934,7 +10934,7 @@ const empresas = [
   },
   {
     "empresa": "CHINOCR S. L.",
-    "direccion": "Calle montesa 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -10947,7 +10947,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACION ALMAGREÑA CAMBAR, SOCIEDAD LIMITADA",
-    "direccion": "Calle feria 8",
+    "direccion": "Calle 00008",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -10960,7 +10960,7 @@ const empresas = [
   },
   {
     "empresa": "AJ DAIMIELEÑA RESTAURACION, SOCIEDAD LIMITADA",
-    "direccion": "Calle alfonso xii 6",
+    "direccion": "Calle xii 00006",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -10973,7 +10973,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACION RAPIDA DE CIUDAD REAL LEAL ORDOÑEZ, SOCIED",
-    "direccion": "Plaza pedro muñoz 4",
+    "direccion": "Plaza muñoz 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -10986,7 +10986,7 @@ const empresas = [
   },
   {
     "empresa": "MANCHANDOTE, SOCIEDAD LIMITADA",
-    "direccion": "Carretera crta nacional 430 s/n",
+    "direccion": "Carretera nacional 430 00000",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -10999,7 +10999,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO CANTON TEBAR GASTRO, SOCIEDAD LIMITADA",
-    "direccion": "Calle ancha 7",
+    "direccion": "Calle 00007",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -11012,7 +11012,7 @@ const empresas = [
   },
   {
     "empresa": "HANSIK MAMA CR, SOCIEDAD LIMITADA",
-    "direccion": "Calle la mata 17",
+    "direccion": "Calle mata 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -11025,7 +11025,7 @@ const empresas = [
   },
   {
     "empresa": "FLOREA --- ANA",
-    "direccion": "Calle triunfo 23",
+    "direccion": "Calle 00023",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -11038,7 +11038,7 @@ const empresas = [
   },
   {
     "empresa": "JANETH JYT LA VUELTA, SOCIEDAD LIMITADA",
-    "direccion": "Calle tinte 17",
+    "direccion": "Calle 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -11051,7 +11051,7 @@ const empresas = [
   },
   {
     "empresa": "JIMSAL FOOD 2021 SL",
-    "direccion": "Calle del cristo 5",
+    "direccion": "Calle cristo 00005",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -11064,7 +11064,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGA 78 ALCAZAR, SOCIEDAD LIMITADA",
-    "direccion": "Avenida de la serna de palacio 5",
+    "direccion": "Avenida la serna de palacio 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -11077,7 +11077,7 @@ const empresas = [
   },
   {
     "empresa": "ROMERAL C & J, S.L",
-    "direccion": "Carretera ciudad real murcia km 123 ap 68 s/n",
+    "direccion": "Carretera real murcia km 123 ap 68 00000",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -11090,7 +11090,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO MOLINERO 2014, SOCIEDAD DE RESPONSABILIDAD LIMITA",
-    "direccion": "Calle dulcinea 8",
+    "direccion": "Calle 00008",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -11103,7 +11103,7 @@ const empresas = [
   },
   {
     "empresa": "ENVERO BY RAEZ, S.L.",
-    "direccion": "Plaza constitucion 9",
+    "direccion": "Plaza 00009",
     "localidad": "GRANATULA DE CALATRAVA",
     "cp": "13360",
     "provincia": "CIUDAD REAL",
@@ -11116,7 +11116,7 @@ const empresas = [
   },
   {
     "empresa": "CASA MEKY, SOCIEDAD LIMITADA",
-    "direccion": "Avenida juan carlos i 28 9",
+    "direccion": "Avenida carlos i 000028 9",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -11129,7 +11129,7 @@ const empresas = [
   },
   {
     "empresa": "EL LIO CIUDAD REAL, SOCIEDAD LIMITADA LABORAL",
-    "direccion": "Calle doctor fleming 17",
+    "direccion": "Calle fleming 00017",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -11142,7 +11142,7 @@ const empresas = [
   },
   {
     "empresa": "MANARI CHENNAN MIRIAM",
-    "direccion": "Rbsan lazaro 19",
+    "direccion": "Rbsan lazaro 00019",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -11155,7 +11155,7 @@ const empresas = [
   },
   {
     "empresa": "SOUTHERN SUN ESPAÑA SL",
-    "direccion": "Calle alonso cespedes guzman 2",
+    "direccion": "Calle cespedes guzman 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -11168,7 +11168,7 @@ const empresas = [
   },
   {
     "empresa": "JAREÑO FERRER MARIA JOSE",
-    "direccion": "Carretera argamasilla de alba 1",
+    "direccion": "Carretera de alba 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -11181,7 +11181,7 @@ const empresas = [
   },
   {
     "empresa": "PIZZERIA GONDOLA MEMBRILLA, SOCIEDAD DE RESPONSABILIDAD",
-    "direccion": "Plaza grande 9",
+    "direccion": "Plaza 00009",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -11194,7 +11194,7 @@ const empresas = [
   },
   {
     "empresa": "CANTUESO DE AUTOR, S.L.",
-    "direccion": "Plaza de españa 2",
+    "direccion": "Plaza españa 00002",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -11207,7 +11207,7 @@ const empresas = [
   },
   {
     "empresa": "CHIQUI SOLARTE S.L.",
-    "direccion": "Calle guadalupe 22",
+    "direccion": "Calle 00022",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -11220,7 +11220,7 @@ const empresas = [
   },
   {
     "empresa": "LONGIPIZZA, S.L.",
-    "direccion": "Calle nieves 61",
+    "direccion": "Calle 00061",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -11233,7 +11233,7 @@ const empresas = [
   },
   {
     "empresa": "DONFENG365 S.L.",
-    "direccion": "Calle argamasilla 36",
+    "direccion": "Calle 00036",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -11246,7 +11246,7 @@ const empresas = [
   },
   {
     "empresa": "MOJDROAGA --- RODICA",
-    "direccion": "Avenida tablas de daimiel 7",
+    "direccion": "Avenida de daimiel 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -11259,7 +11259,7 @@ const empresas = [
   },
   {
     "empresa": "COLECTIVIDADES MARBEL SL",
-    "direccion": "Calle camino de los martires 7",
+    "direccion": "Calle de los martires 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -11272,7 +11272,7 @@ const empresas = [
   },
   {
     "empresa": "CANDELA AAM, S.L.",
-    "direccion": "Calle general espartero 4 1 l1",
+    "direccion": "Calle espartero 00004 1 l1",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -11285,7 +11285,7 @@ const empresas = [
   },
   {
     "empresa": "CURRY HOUSE SL UNIPERSONAL",
-    "direccion": "Calle mercado viejo 6",
+    "direccion": "Calle viejo 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -11298,7 +11298,7 @@ const empresas = [
   },
   {
     "empresa": "SUKIYA, S.L.",
-    "direccion": "Calle moreria 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -11311,7 +11311,7 @@ const empresas = [
   },
   {
     "empresa": "COMPLEJO HOSTELERO LOS ESCUDEROS, S.L.",
-    "direccion": "Polígono industrial el cabezuelo s/n",
+    "direccion": "Polígono el cabezuelo 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -11324,7 +11324,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACION FLEQUI, S.L.",
-    "direccion": "Calle ave maria 3",
+    "direccion": "Calle maria 00003",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -11337,7 +11337,7 @@ const empresas = [
   },
   {
     "empresa": "DABOR REAL FOOD HOSTELERIA, S.L.",
-    "direccion": "Calle elisa cendreros 18",
+    "direccion": "Calle cendreros 00018",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -11350,7 +11350,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPROVID, S.L.",
-    "direccion": "Carretera daimiel - catering 23",
+    "direccion": "Carretera - catering 00023",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -11363,7 +11363,7 @@ const empresas = [
   },
   {
     "empresa": "DARIANA RESTAURANTES, SOCIEDAD LIMITADA",
-    "direccion": "Calle sara montiel s/n b 24",
+    "direccion": "Calle montiel 00000 b 24",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -11376,7 +11376,7 @@ const empresas = [
   },
   {
     "empresa": "ARROYO BRAVO TRINIDAD",
-    "direccion": "Calle virgen 38",
+    "direccion": "Calle 00038",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -11389,7 +11389,7 @@ const empresas = [
   },
   {
     "empresa": "MARJU VILLAHERMOSA, SOCIEDAD LIMITADA",
-    "direccion": "Calle cervantes 3",
+    "direccion": "Calle 00003",
     "localidad": "VILLAHERMOSA",
     "cp": "13332",
     "provincia": "CIUDAD REAL",
@@ -11402,7 +11402,7 @@ const empresas = [
   },
   {
     "empresa": "DGNN VAN SL",
-    "direccion": "Plaza santa maria 6 bj",
+    "direccion": "Plaza maria 00006 bajo",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -11415,7 +11415,7 @@ const empresas = [
   },
   {
     "empresa": "PIZZA CIUDAD REAL. S.L.",
-    "direccion": "Calle la mata 35",
+    "direccion": "Calle mata 00035",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -11428,7 +11428,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS RENOVADOS DE ALIMENTACION, S.A.U.",
-    "direccion": "Calle calatrava 15",
+    "direccion": "Calle 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -11441,7 +11441,7 @@ const empresas = [
   },
   {
     "empresa": "GARCINIA 12 TRES SL",
-    "direccion": "Plaza cristo 4",
+    "direccion": "Plaza 00004",
     "localidad": "AGUDO",
     "cp": "13410",
     "provincia": "CIUDAD REAL",
@@ -11454,7 +11454,7 @@ const empresas = [
   },
   {
     "empresa": "RAHAIAN --- LUCIA",
-    "direccion": "Avenida antonio huertas 55",
+    "direccion": "Avenida huertas 00055",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -11467,7 +11467,7 @@ const empresas = [
   },
   {
     "empresa": "MARQUES ALMAGRO, SOCIEDAD LIMITADA",
-    "direccion": "Plaza mayor s/n 41",
+    "direccion": "Plaza 00000 41",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -11480,7 +11480,7 @@ const empresas = [
   },
   {
     "empresa": "INVERSIONES CENTRO SUR 2020, UTE",
-    "direccion": "Paseo san gregorio s/n",
+    "direccion": "Paseo gregorio 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -11493,7 +11493,7 @@ const empresas = [
   },
   {
     "empresa": "AGAPE COCINAMOS POR TI, SOCIEDAD LIMITADA",
-    "direccion": "Calle capitan fillol 6",
+    "direccion": "Calle fillol 00006",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -11506,7 +11506,7 @@ const empresas = [
   },
   {
     "empresa": "NUDOS PADEL CIUDAD REAL,S.L",
-    "direccion": "Carretera nacional 430. km. 304 s/n",
+    "direccion": "Carretera 430. km. 304 00000",
     "localidad": "POBLACHUELA, LA",
     "cp": "13197",
     "provincia": "CIUDAD REAL",
@@ -11519,7 +11519,7 @@ const empresas = [
   },
   {
     "empresa": "CERVECERIA MARISQUERIA LA GAMBA, S.L.",
-    "direccion": "Paseo san gregorio 55",
+    "direccion": "Paseo gregorio 00055",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -11532,7 +11532,7 @@ const empresas = [
   },
   {
     "empresa": "JARA MORENO ALEJANDRO",
-    "direccion": "Calle via crucis 1",
+    "direccion": "Calle crucis 00001",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -11545,7 +11545,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERIA HUERTAS, S.L.",
-    "direccion": "Carretera andalucia km 217 s/n",
+    "direccion": "Carretera km 217 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -11558,7 +11558,7 @@ const empresas = [
   },
   {
     "empresa": "DUQUE GOMEZ MANUEL",
-    "direccion": "Calle churruca 8",
+    "direccion": "Calle 00008",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -11571,7 +11571,7 @@ const empresas = [
   },
   {
     "empresa": "HERCARI, S.L.",
-    "direccion": "Calle estacion 90",
+    "direccion": "Calle 00090",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -11584,7 +11584,7 @@ const empresas = [
   },
   {
     "empresa": "CARRETERO E HIJOS, COM.B.",
-    "direccion": "Calle mari monreal 3",
+    "direccion": "Calle monreal 00003",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -11597,7 +11597,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS HIDALGO RAMIREZ, S.L.",
-    "direccion": "Calle santo tomas de villanueva 19",
+    "direccion": "Calle tomas de villanueva 00019",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -11610,7 +11610,7 @@ const empresas = [
   },
   {
     "empresa": "CORRAL AREVALO JOSE ANTONIO",
-    "direccion": "Carretera atalaya, s/n s/n 3",
+    "direccion": "Carretera , s/n 00000 3",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -11623,7 +11623,7 @@ const empresas = [
   },
   {
     "empresa": "REAL 23, S.L.",
-    "direccion": "Calle union 24",
+    "direccion": "Calle 00024",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -11636,7 +11636,7 @@ const empresas = [
   },
   {
     "empresa": "FRANCISCO VAZQUEZ E HIJOS, S.L.",
-    "direccion": "Carretera las mesas 3",
+    "direccion": "Carretera mesas 00003",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -11649,7 +11649,7 @@ const empresas = [
   },
   {
     "empresa": "NEGRETE GARCIA MANUEL",
-    "direccion": "Calle san juan 10 3 a",
+    "direccion": "Calle juan 00010 3 a",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -11662,7 +11662,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ ALMARCHA, S.L.",
-    "direccion": "Calle sagrario 16",
+    "direccion": "Calle 00016",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -11675,7 +11675,7 @@ const empresas = [
   },
   {
     "empresa": "CHAYKAMPASO, S.L.",
-    "direccion": "Calle veronica 39",
+    "direccion": "Calle 00039",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -11688,7 +11688,7 @@ const empresas = [
   },
   {
     "empresa": "ANGEL NAVARRO SANTOS, S.L.",
-    "direccion": "Calle palma 9",
+    "direccion": "Calle 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -11701,7 +11701,7 @@ const empresas = [
   },
   {
     "empresa": "RUBIO JIMENEZ FERNANDO",
-    "direccion": "Avenida antonio huertas 71",
+    "direccion": "Avenida huertas 00071",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -11714,7 +11714,7 @@ const empresas = [
   },
   {
     "empresa": "RUIZ CAZALLAS MANUEL",
-    "direccion": "Calle real 70",
+    "direccion": "Calle 00070",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -11727,7 +11727,7 @@ const empresas = [
   },
   {
     "empresa": "LOS LLANOS BAR RESTAURANTE, S.L.",
-    "direccion": "Calle toledo 51",
+    "direccion": "Calle 00051",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -11740,7 +11740,7 @@ const empresas = [
   },
   {
     "empresa": "DICRUZRA, S.L.",
-    "direccion": "Calle hidalgos 11",
+    "direccion": "Calle 00011",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -11753,7 +11753,7 @@ const empresas = [
   },
   {
     "empresa": "ASADOR LOS PUCHEROS, S.L.",
-    "direccion": "Carretera nacional 430, km 276",
+    "direccion": "Carretera 430, km 00276",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -11766,7 +11766,7 @@ const empresas = [
   },
   {
     "empresa": "JIMENEZ SANCHEZ MARIA CRISTINA",
-    "direccion": "Carretera de la ossa, s,n esq. calle bruselas s/n",
+    "direccion": "Carretera la ossa, s,n esq. calle bruselas 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -11779,7 +11779,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DE TENIS ALCAZAR",
-    "direccion": "Calle lanzarote, s/n s/n",
+    "direccion": "Calle , s/n 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -11792,7 +11792,7 @@ const empresas = [
   },
   {
     "empresa": "ZAMORA SANCHEZ EUGENIO",
-    "direccion": "Calle via crucis 1",
+    "direccion": "Calle crucis 00001",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -11805,7 +11805,7 @@ const empresas = [
   },
   {
     "empresa": "NEGRETE GARCIA CARPINTERO FRANCISCO JAVIE",
-    "direccion": "Calle doctor chocano 3",
+    "direccion": "Calle chocano 00003",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -11818,7 +11818,7 @@ const empresas = [
   },
   {
     "empresa": "MORALES ALCARAZO ESTEBAN",
-    "direccion": "Carretera pedro muñoz s/n s/n",
+    "direccion": "Carretera muñoz s/n 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -11831,7 +11831,7 @@ const empresas = [
   },
   {
     "empresa": "LA CASONA, HOSTELERIA Y SERVICIOS, S.L.",
-    "direccion": "Avenida de los descubrimientos_(apartado 10900000",
+    "direccion": "Avenida los descubrimientos_(apartado 10900000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -11844,7 +11844,7 @@ const empresas = [
   },
   {
     "empresa": "MUÑOZ ZAPATA GABRIEL",
-    "direccion": "Calle doctor fleming 13 1",
+    "direccion": "Calle fleming 00013 1",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -11857,7 +11857,7 @@ const empresas = [
   },
   {
     "empresa": "JURADO NAVAS ANTONIO",
-    "direccion": "Plaza constitucion 7",
+    "direccion": "Plaza 00007",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -11870,7 +11870,7 @@ const empresas = [
   },
   {
     "empresa": "LA VIÑA DE JADIMAC SL",
-    "direccion": "Plaza españa s/n",
+    "direccion": "Plaza ña 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -11883,7 +11883,7 @@ const empresas = [
   },
   {
     "empresa": "TONCHEZ, S.L.",
-    "direccion": "Carretera navalpino 104",
+    "direccion": "Carretera 00104",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -11896,7 +11896,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTAL RESTAURANTE SANCHEZ LELE S.L.",
-    "direccion": "Carretera madrid-cadiz 185",
+    "direccion": "Carretera -cadiz 00185",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -11909,7 +11909,7 @@ const empresas = [
   },
   {
     "empresa": "REMEX 2002 SL",
-    "direccion": "Avenida institutos 1",
+    "direccion": "Avenida 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -11922,7 +11922,7 @@ const empresas = [
   },
   {
     "empresa": "HIDALGO DELGADO JOAQUIN",
-    "direccion": "Carretera almadenejos s/n",
+    "direccion": "Carretera 00000",
     "localidad": "ALMADENEJOS",
     "cp": "13480",
     "provincia": "CIUDAD REAL",
@@ -11935,7 +11935,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ LOSA ALFONSO",
-    "direccion": "Calle monte 30",
+    "direccion": "Calle 00030",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -11948,7 +11948,7 @@ const empresas = [
   },
   {
     "empresa": "SERRANO OLMEDO MARIA LUISA",
-    "direccion": "Calle don tiburcio 92",
+    "direccion": "Calle tiburcio 00092",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -11961,7 +11961,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERA DE LA MORENA SANCHEZ, S.L.U.",
-    "direccion": "Calle segadores 26",
+    "direccion": "Calle 00026",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -11974,7 +11974,7 @@ const empresas = [
   },
   {
     "empresa": "CANSEVAM, COM.B.",
-    "direccion": "Calle juan de zuñiga 132",
+    "direccion": "Calle de zuñiga 00132",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -11987,7 +11987,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ BARBERO GARCIA PARDO PAZ",
-    "direccion": "Calle paloma 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -12000,7 +12000,7 @@ const empresas = [
   },
   {
     "empresa": "RUIZ CUBERO BEGOÑA",
-    "direccion": "Calle real 253 baj",
+    "direccion": "Calle 00253 baj",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -12013,7 +12013,7 @@ const empresas = [
   },
   {
     "empresa": "BAR PENALTY, S.L.",
-    "direccion": "Plaza españa 2",
+    "direccion": "Plaza ña 00002",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -12026,7 +12026,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS ALMARCHA, COM.B.",
-    "direccion": "Avenida juan carlos i s/n",
+    "direccion": "Avenida carlos i 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -12039,7 +12039,7 @@ const empresas = [
   },
   {
     "empresa": "DIAZ MIGUEL BARBERAN MARIANO",
-    "direccion": "Calle malvasia 40",
+    "direccion": "Calle 00040",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12052,7 +12052,7 @@ const empresas = [
   },
   {
     "empresa": "ARENAS MURILLO JOSE ANTONIO",
-    "direccion": "Calle calveros 55",
+    "direccion": "Calle 00055",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -12065,7 +12065,7 @@ const empresas = [
   },
   {
     "empresa": "EL RINCON MANCHEGO CB",
-    "direccion": "Avenida juan carlos i 98",
+    "direccion": "Avenida carlos i 00098",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -12078,7 +12078,7 @@ const empresas = [
   },
   {
     "empresa": "CAFETERIA RESTAURANTE EL BOMBA, S.L.",
-    "direccion": "Calle gran capitan 35",
+    "direccion": "Calle capitan 00035",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -12091,7 +12091,7 @@ const empresas = [
   },
   {
     "empresa": "MESON EL SASTRE S.L.",
-    "direccion": "Paseo martires 34",
+    "direccion": "Paseo 00034",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -12104,7 +12104,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERAS TEROMAR, S.L.",
-    "direccion": "Calle seis de junio 139",
+    "direccion": "Calle de junio 00139",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -12117,7 +12117,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ GUERRERO FERNANDO JULIO",
-    "direccion": "Calle quevede 9",
+    "direccion": "Calle 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -12130,7 +12130,7 @@ const empresas = [
   },
   {
     "empresa": "BAOS MARTIN ANSELMO",
-    "direccion": "Calle nieves 21",
+    "direccion": "Calle 00021",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -12143,7 +12143,7 @@ const empresas = [
   },
   {
     "empresa": "MORALEDA SIERRA BENJAMIN",
-    "direccion": "Calle real 61",
+    "direccion": "Calle 00061",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -12156,7 +12156,7 @@ const empresas = [
   },
   {
     "empresa": "CACERIAS HERMANOS MEDINA S.L.",
-    "direccion": "Avenida emigrantes 2",
+    "direccion": "Avenida 00002",
     "localidad": "PUEBLA DEL PRINCIPE",
     "cp": "13342",
     "provincia": "CIUDAD REAL",
@@ -12169,7 +12169,7 @@ const empresas = [
   },
   {
     "empresa": "BELMONTE ESPINOSA, COM.B.",
-    "direccion": "Paseo cervantes 2",
+    "direccion": "Paseo 00002",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -12182,7 +12182,7 @@ const empresas = [
   },
   {
     "empresa": "RUIZ CUADRA ENCARNACION",
-    "direccion": "Calle gran maestre 5",
+    "direccion": "Calle maestre 00005",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -12195,7 +12195,7 @@ const empresas = [
   },
   {
     "empresa": "TASCAS Y TABERNAS, S.L.",
-    "direccion": "Paseo carlos eraña 16",
+    "direccion": "Paseo eraña 00016",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -12208,7 +12208,7 @@ const empresas = [
   },
   {
     "empresa": "EMOTIVA CLM S.L.",
-    "direccion": "Avenida pol ind. alces - avda. pradera 34",
+    "direccion": "Avenida ind. alces - avda. pradera 00034",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12221,7 +12221,7 @@ const empresas = [
   },
   {
     "empresa": "GOMEZ CAMACHO CARLOS JAVIER",
-    "direccion": "Carretera de daimiel 58",
+    "direccion": "Carretera daimiel 00058",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -12234,7 +12234,7 @@ const empresas = [
   },
   {
     "empresa": "BARROSO LOPEZ TOMAS",
-    "direccion": "Calle tercia 6",
+    "direccion": "Calle 00006",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -12247,7 +12247,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA FERNANDEZ JOSE MIGUEL",
-    "direccion": "Avenida los estudiantes 56 bj",
+    "direccion": "Avenida estudiantes 00056 bajo",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -12260,7 +12260,7 @@ const empresas = [
   },
   {
     "empresa": "SUAREZ MORAGA MARIA PILAR",
-    "direccion": "Plaza del pilar 9",
+    "direccion": "Plaza pilar 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -12273,7 +12273,7 @@ const empresas = [
   },
   {
     "empresa": "LAGUNA ROMERO MARIO",
-    "direccion": "Calle numancia 33",
+    "direccion": "Calle 00033",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -12286,7 +12286,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ CANO GREGORIO",
-    "direccion": "Avenida juan carlos i, bar asador s/n",
+    "direccion": "Avenida carlos i, bar asador 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -12299,7 +12299,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ MALAGON EZEQUIEL",
-    "direccion": "Calle san agustin 7",
+    "direccion": "Calle agustin 00007",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -12312,7 +12312,7 @@ const empresas = [
   },
   {
     "empresa": "ROMERO Y MAZUECOS, S.L.",
-    "direccion": "Calle cordoba 26",
+    "direccion": "Calle 00026",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12325,7 +12325,7 @@ const empresas = [
   },
   {
     "empresa": "CASTRONOMIA, S.L.",
-    "direccion": "Avenida institutos s/n local 2",
+    "direccion": "Avenida s/n local 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12338,7 +12338,7 @@ const empresas = [
   },
   {
     "empresa": "GONZALEZ GAMIZ MARIA YOLANDA",
-    "direccion": "Avenida primero de julio 33",
+    "direccion": "Avenida de julio 00033",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -12351,7 +12351,7 @@ const empresas = [
   },
   {
     "empresa": "SUAREZ DIAZ FRANCISCO LUIS",
-    "direccion": "Calle alameda 4",
+    "direccion": "Calle 00004",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -12364,7 +12364,7 @@ const empresas = [
   },
   {
     "empresa": "CRUZ CHAVIANO SANDY",
-    "direccion": "Avenida juan carlos i 107",
+    "direccion": "Avenida carlos i 00107",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -12377,7 +12377,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN CONSUEGRA NAVARRO LUIS",
-    "direccion": "Rdde toledo s/n",
+    "direccion": "Ronda toledo 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -12390,7 +12390,7 @@ const empresas = [
   },
   {
     "empresa": "DISCO PIT LANE S.L.",
-    "direccion": "Carretera ciudad real a valdepeñas 9",
+    "direccion": "Carretera real a valdepeñas 00009",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -12403,7 +12403,7 @@ const empresas = [
   },
   {
     "empresa": "CHURRERIAS LA HORMIGA, S.L.",
-    "direccion": "Calle cruz 5",
+    "direccion": "Calle 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -12416,7 +12416,7 @@ const empresas = [
   },
   {
     "empresa": "TENTE EN PIE, COM.B.",
-    "direccion": "Plaza provincia 5",
+    "direccion": "Plaza 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -12429,7 +12429,7 @@ const empresas = [
   },
   {
     "empresa": "COPAS EPOCA & BUDA, S.L.",
-    "direccion": "Avenida de las bodegas 13",
+    "direccion": "Avenida las bodegas 00013",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12442,7 +12442,7 @@ const empresas = [
   },
   {
     "empresa": "EL TROKANTO, S.L.",
-    "direccion": "Calle palma 9",
+    "direccion": "Calle 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -12455,7 +12455,7 @@ const empresas = [
   },
   {
     "empresa": "FULLHOSTEL,S.L.",
-    "direccion": "Paseo san isidro 22",
+    "direccion": "Paseo isidro 00022",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -12468,7 +12468,7 @@ const empresas = [
   },
   {
     "empresa": "VARGAS MURILLO, S.L.",
-    "direccion": "Avenida torreon 11",
+    "direccion": "Avenida 00011",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -12481,7 +12481,7 @@ const empresas = [
   },
   {
     "empresa": "PAPENOE . SL",
-    "direccion": "Calle hidalgos, 10",
+    "direccion": "Calle , 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -12494,7 +12494,7 @@ const empresas = [
   },
   {
     "empresa": "RESTOBAR GESTION Y RESTAURACION, S.L.",
-    "direccion": "Calle toledo 12",
+    "direccion": "Calle 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -12507,7 +12507,7 @@ const empresas = [
   },
   {
     "empresa": "RUEDAS Y ACOSTA CB",
-    "direccion": "Carretera porzuna (centro comercial eleclerc) s/n",
+    "direccion": "Carretera (centro comercial eleclerc) 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -12520,7 +12520,7 @@ const empresas = [
   },
   {
     "empresa": "SOFHORECA . SLU",
-    "direccion": "Avenida alcazar 3",
+    "direccion": "Avenida 00003",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -12533,7 +12533,7 @@ const empresas = [
   },
   {
     "empresa": "OVINOS LACAUNES ESPAÑOLES, S.L.U.",
-    "direccion": "Carretera nacional 401, km 161",
+    "direccion": "Carretera 401, km 00161",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -12546,7 +12546,7 @@ const empresas = [
   },
   {
     "empresa": "CERVECERIA LOS ARCOS 2012 SOCIED",
-    "direccion": "Calle rondilla de la cruz verde 69",
+    "direccion": "Calle de la cruz verde 00069",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12559,7 +12559,7 @@ const empresas = [
   },
   {
     "empresa": "DOÑA BOLACHA SL",
-    "direccion": "Calle obispo estenaga 4",
+    "direccion": "Calle estenaga 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -12572,7 +12572,7 @@ const empresas = [
   },
   {
     "empresa": "BARES Y RESTAURANTES CASTRONOMIA",
-    "direccion": "Calle rosa chacel s/n",
+    "direccion": "Calle chacel 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12585,7 +12585,7 @@ const empresas = [
   },
   {
     "empresa": "BASTANTE SANTOS MARIA PILAR",
-    "direccion": "Calle puerto 22",
+    "direccion": "Calle 00022",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -12598,7 +12598,7 @@ const empresas = [
   },
   {
     "empresa": "PANADEROS ARTESANOS J SANCHEZ, S.L.",
-    "direccion": "Avenida don antonio huertas 112",
+    "direccion": "Avenida antonio huertas 00112",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -12611,7 +12611,7 @@ const empresas = [
   },
   {
     "empresa": "RECREATIVOS REMOVIC, S.L.",
-    "direccion": "Calle santa teresa 7",
+    "direccion": "Calle teresa 00007",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -12624,7 +12624,7 @@ const empresas = [
   },
   {
     "empresa": "BAR 40 VVA INFANTES SL",
-    "direccion": "Plaza mayor 13",
+    "direccion": "Plaza 00013",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -12637,7 +12637,7 @@ const empresas = [
   },
   {
     "empresa": "CAFE RINCON DE LA PLAZA, C.B.",
-    "direccion": "Calle jesus del perdon 3 bj",
+    "direccion": "Calle del perdon 00003 bajo",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -12650,7 +12650,7 @@ const empresas = [
   },
   {
     "empresa": "NACAOR & LAGER, S.L.",
-    "direccion": "Plaza de las provincias 3",
+    "direccion": "Plaza las provincias 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -12663,7 +12663,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ LABIAN LUISA",
-    "direccion": "Plaza plaza mayor 39",
+    "direccion": "Plaza mayor 00039",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -12676,7 +12676,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ ESCRIBANO JOSE MANUEL",
-    "direccion": "Plaza plaza de españa (edf mercado abasto)s/n",
+    "direccion": "Plaza de españa (edf mercado abasto)00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12689,7 +12689,7 @@ const empresas = [
   },
   {
     "empresa": "HINOJOSAS MUÑOZ OSCAR",
-    "direccion": "Calle calzada 10",
+    "direccion": "Calle 00010",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -12702,7 +12702,7 @@ const empresas = [
   },
   {
     "empresa": "XRESTAURANTES HAPPY BURGER SOCI",
-    "direccion": "Avenida europa 2",
+    "direccion": "Avenida 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12715,7 +12715,7 @@ const empresas = [
   },
   {
     "empresa": "BLADISA RESTAURACION SL",
-    "direccion": "Avenida don antonio huertas 155",
+    "direccion": "Avenida antonio huertas 00155",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -12728,7 +12728,7 @@ const empresas = [
   },
   {
     "empresa": "MUÑOZ ZAPATA RAMON",
-    "direccion": "Plaza doctor fleming 17",
+    "direccion": "Plaza fleming 00017",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -12741,7 +12741,7 @@ const empresas = [
   },
   {
     "empresa": "NAVARRO ORTIZ MARIA INMACULAD",
-    "direccion": "Pjsan isidro 2",
+    "direccion": "Pasaje isidro 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -12754,7 +12754,7 @@ const empresas = [
   },
   {
     "empresa": "LA CAJA DE IKELIMA SOCIEDAD LIM",
-    "direccion": "Calle pozo dulce 2 3 d",
+    "direccion": "Calle dulce 00002 3 d",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -12767,7 +12767,7 @@ const empresas = [
   },
   {
     "empresa": "RESTUARANTE BOLSILLONES CB.",
-    "direccion": "Rdcalatrava 56",
+    "direccion": "Ronda 00056",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -12780,7 +12780,7 @@ const empresas = [
   },
   {
     "empresa": "OLMEDO LOPEZ LUIS",
-    "direccion": "Calle don victor peñasco 112",
+    "direccion": "Calle victor peñasco 00112",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -12793,7 +12793,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS SEVILLA SOSA S.C.",
-    "direccion": "Carretera nacional 420 253",
+    "direccion": "Carretera 420 00253",
     "localidad": "ARENAS DE SAN JUAN",
     "cp": "13679",
     "provincia": "CIUDAD REAL",
@@ -12806,7 +12806,7 @@ const empresas = [
   },
   {
     "empresa": "BARBA MORENO JOSE LUIS",
-    "direccion": "Avenida descubrimientos de america 23",
+    "direccion": "Avenida de america 00023",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -12819,7 +12819,7 @@ const empresas = [
   },
   {
     "empresa": "MAYOR WHIM, SOCIEDAD LIMITADA",
-    "direccion": "Calle feria 5",
+    "direccion": "Calle 00005",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -12832,7 +12832,7 @@ const empresas = [
   },
   {
     "empresa": "MILOGA RESTAURACION SOCIEDAD LIMITADA",
-    "direccion": "Calle poetisa rosa chacel \"centro de ocio\"1",
+    "direccion": "Calle rosa chacel \"centro de ocio\"00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12845,7 +12845,7 @@ const empresas = [
   },
   {
     "empresa": "OROSIA HOSTELERIA, SOCIEDAD LIMITADA",
-    "direccion": "Calle libertad 12",
+    "direccion": "Calle 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -12858,7 +12858,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ GRANDE MARIO",
-    "direccion": "Calle recinto ferial s/n",
+    "direccion": "Calle ferial 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -12871,7 +12871,7 @@ const empresas = [
   },
   {
     "empresa": "HUERTAS LOPEZ ANTONIO",
-    "direccion": "Calle emilio castelar 72 b",
+    "direccion": "Calle castelar 00072 b",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12884,7 +12884,7 @@ const empresas = [
   },
   {
     "empresa": "BEXAMEL, S.C.",
-    "direccion": "Calle maria zambrano 2",
+    "direccion": "Calle zambrano 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -12897,7 +12897,7 @@ const empresas = [
   },
   {
     "empresa": "NEGRETE GONZALEZ MURILLO RAUL",
-    "direccion": "Calle alabarderos 4",
+    "direccion": "Calle 00004",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -12910,7 +12910,7 @@ const empresas = [
   },
   {
     "empresa": "TOMATE TEXMEX, SOCIEDAD LIMITADA",
-    "direccion": "Plaza mayor 8",
+    "direccion": "Plaza 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -12923,7 +12923,7 @@ const empresas = [
   },
   {
     "empresa": "LARA FERNANDEZ RUBEN",
-    "direccion": "Plaza puerto 1",
+    "direccion": "Plaza 00001",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -12936,7 +12936,7 @@ const empresas = [
   },
   {
     "empresa": "OLMEDO HERVAS MARIA SOL",
-    "direccion": "Calle doña crisanta 97",
+    "direccion": "Calle ña crisanta 00097",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -12949,7 +12949,7 @@ const empresas = [
   },
   {
     "empresa": "HOTESA TOMELLOSO SLU",
-    "direccion": "Calle peñarroya s/n",
+    "direccion": "Calle ñarroya 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -12962,7 +12962,7 @@ const empresas = [
   },
   {
     "empresa": "TECOJO Y TECOMO, SOCIEDAD LIMITADA",
-    "direccion": "Calle cruces 4",
+    "direccion": "Calle 00004",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -12975,7 +12975,7 @@ const empresas = [
   },
   {
     "empresa": "BARRANCO HIDALGO ALEJANDRO",
-    "direccion": "Calle lirio 41",
+    "direccion": "Calle 00041",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -12988,7 +12988,7 @@ const empresas = [
   },
   {
     "empresa": "LA MANSION PLAYA PARK, SOCIEDAD LIMITADA",
-    "direccion": "Avenida de los descubrimientos s/n",
+    "direccion": "Avenida los descubrimientos 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -13001,7 +13001,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO TRIIO 2021, SOCIEDAD LIMITADA",
-    "direccion": "Calle benefica -esquina numancia 4",
+    "direccion": "Calle -esquina numancia 00004",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13014,7 +13014,7 @@ const empresas = [
   },
   {
     "empresa": "MEDINA DIEZ JACOB",
-    "direccion": "Avenida gran via 1",
+    "direccion": "Avenida via 00001",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -13027,7 +13027,7 @@ const empresas = [
   },
   {
     "empresa": "YEAHLOW FOOD 2021, SOCIEDAD LIMITADA",
-    "direccion": "Carretera de la fuensanta 9",
+    "direccion": "Carretera la fuensanta 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -13040,7 +13040,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA MOTOS CASERO EVA MARIA",
-    "direccion": "Calle tercia 38",
+    "direccion": "Calle 00038",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -13053,7 +13053,7 @@ const empresas = [
   },
   {
     "empresa": "26IRISH RODEL, SOCIEDAD LIMITADA",
-    "direccion": "Calle alcantara 2 lc",
+    "direccion": "Calle 00002 lc",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -13066,7 +13066,7 @@ const empresas = [
   },
   {
     "empresa": "WILIMABE, SOCIEDAD DE RESPONSABILIDAD LIMITADA",
-    "direccion": "Plaza de españa 8",
+    "direccion": "Plaza españa 00008",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -13079,7 +13079,7 @@ const empresas = [
   },
   {
     "empresa": "ALEN Y LUNA, SOCIEDAD DE RESPONSABILIDAD LIMITADA",
-    "direccion": "Calle altagracia 52",
+    "direccion": "Calle 00052",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -13092,7 +13092,7 @@ const empresas = [
   },
   {
     "empresa": "TORRES ORDOÑEZ EYDER FABIAN",
-    "direccion": "Avenida don antonio huertas 139",
+    "direccion": "Avenida antonio huertas 00139",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -13105,7 +13105,7 @@ const empresas = [
   },
   {
     "empresa": "NINJA PARK, SOCIEDAD LIMITADA",
-    "direccion": "Carretera argamasilla 66",
+    "direccion": "Carretera 00066",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13118,7 +13118,7 @@ const empresas = [
   },
   {
     "empresa": "CHUPITOS POR EL MUNDO, SOCIEDAD LIMITADA",
-    "direccion": "Calle hidalgos 5",
+    "direccion": "Calle 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -13131,7 +13131,7 @@ const empresas = [
   },
   {
     "empresa": "LOZANO MARQUEZ VILLAREJO FRANCISCO",
-    "direccion": "Avenida reyes catolicos 9",
+    "direccion": "Avenida catolicos 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -13144,7 +13144,7 @@ const empresas = [
   },
   {
     "empresa": "DEL CAMPO MEDINA ALBERTO",
-    "direccion": "Carretera puertollano 2",
+    "direccion": "Carretera 00002",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -13157,7 +13157,7 @@ const empresas = [
   },
   {
     "empresa": "PINTADO PANDURO DAVID",
-    "direccion": "Calle paloma 72",
+    "direccion": "Calle 00072",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -13170,7 +13170,7 @@ const empresas = [
   },
   {
     "empresa": "LUJA MEDITAS, S.C.",
-    "direccion": "Calle infante de la cerda 2 bj",
+    "direccion": "Calle de la cerda 00002 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -13183,7 +13183,7 @@ const empresas = [
   },
   {
     "empresa": "EL HORNO DE ESTHER BAKERY, SOCIEDAD LIMITADA",
-    "direccion": "Calle candelaria 12 2",
+    "direccion": "Calle 00012 2",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -13196,7 +13196,7 @@ const empresas = [
   },
   {
     "empresa": "ROMERO RUIZ ALVARO JOAQUIN",
-    "direccion": "Calle capitan fillol local 2 7",
+    "direccion": "Calle fillol local 2 00007",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -13209,7 +13209,7 @@ const empresas = [
   },
   {
     "empresa": "BAR LOS CONEJOS PARK, S.L",
-    "direccion": "Calle almodovar 61",
+    "direccion": "Calle 00061",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13222,7 +13222,7 @@ const empresas = [
   },
   {
     "empresa": "HIJOS DE VILLAR MUÑOZ, S.L.",
-    "direccion": "Plaza mayor 14",
+    "direccion": "Plaza 00014",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -13235,7 +13235,7 @@ const empresas = [
   },
   {
     "empresa": "NUEVO BRINAS JOSE ANTONIO",
-    "direccion": "Calle animas 2",
+    "direccion": "Calle 00002",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -13248,7 +13248,7 @@ const empresas = [
   },
   {
     "empresa": "LA BODEGUILLA DE LOS VIÑOLETOS",
-    "direccion": "Calle valdepeñas s/n",
+    "direccion": "Calle ñas 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13261,7 +13261,7 @@ const empresas = [
   },
   {
     "empresa": "GPR HOSTELERIA, SOCIEDAD DE RESPONSABILIDAD LIMITADA",
-    "direccion": "Calle hidalgos 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -13274,7 +13274,7 @@ const empresas = [
   },
   {
     "empresa": "JIMENEZ JIMENEZ JOSEFA",
-    "direccion": "Calle reyes catolicos 36",
+    "direccion": "Calle catolicos 00036",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -13287,7 +13287,7 @@ const empresas = [
   },
   {
     "empresa": "MICO MUÑOZ GABRIEL",
-    "direccion": "Calle plaza mayor 49",
+    "direccion": "Calle mayor 00049",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -13300,7 +13300,7 @@ const empresas = [
   },
   {
     "empresa": "PUERTULUM, SOCIEDAD LIMITADA",
-    "direccion": "Calle benefica 19",
+    "direccion": "Calle 00019",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13313,7 +13313,7 @@ const empresas = [
   },
   {
     "empresa": "LA OVEJA NEGRA G.P., SOCIEDAD LIMITADA",
-    "direccion": "Calle bernardo balbuena 33",
+    "direccion": "Calle balbuena 00033",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -13326,7 +13326,7 @@ const empresas = [
   },
   {
     "empresa": "JI --- ZUFEN",
-    "direccion": "Calle chile 2",
+    "direccion": "Calle 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13339,7 +13339,7 @@ const empresas = [
   },
   {
     "empresa": "CABARO INVERSIONES, SOCIEDAD LIMITADA",
-    "direccion": "Avenida torreon del alcazar 1",
+    "direccion": "Avenida del alcazar 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -13352,7 +13352,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ MEDRANO DANIEL",
-    "direccion": "Plaza constitucion 5",
+    "direccion": "Plaza 00005",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -13365,7 +13365,7 @@ const empresas = [
   },
   {
     "empresa": "JIMENEZ RAMIREZ MIGUEL ANGEL",
-    "direccion": "Plaza almagro 11",
+    "direccion": "Plaza 00011",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -13378,7 +13378,7 @@ const empresas = [
   },
   {
     "empresa": "WINES OF THE WORLD 2023, SOCIEDAD LIMITADA",
-    "direccion": "Calle albacete 1",
+    "direccion": "Calle 00001",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -13391,7 +13391,7 @@ const empresas = [
   },
   {
     "empresa": "ROMAN PALACIOS ROSA MARIA",
-    "direccion": "Mcmercado abastos s/n",
+    "direccion": "Mcmercado abastos 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -13404,7 +13404,7 @@ const empresas = [
   },
   {
     "empresa": "DAROVAR IBERIA, S.L",
-    "direccion": "Calle lentejuela 5",
+    "direccion": "Calle 00005",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -13417,7 +13417,7 @@ const empresas = [
   },
   {
     "empresa": "EVHOCAR GROUP, S.L.",
-    "direccion": "Calle puerto 1",
+    "direccion": "Calle 00001",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13430,7 +13430,7 @@ const empresas = [
   },
   {
     "empresa": "LAGARTO REBELDE,S.L.",
-    "direccion": "Plaza la pradera 2 1 b",
+    "direccion": "Plaza pradera 00002 1 b",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -13443,7 +13443,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO VINTAGE 2025, SOCIEDAD CIVIL",
-    "direccion": "Calle socuellamos s/n",
+    "direccion": "Calle 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -13456,7 +13456,7 @@ const empresas = [
   },
   {
     "empresa": "ASADOR EL CHICO CR 3 HNOS, S.L.",
-    "direccion": "Calle virgen del prado 21",
+    "direccion": "Calle del prado 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -13469,7 +13469,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERIA GASTROGOURMET, SOCIEDAD LIMITADA",
-    "direccion": "Calle velez 5",
+    "direccion": "Calle 00005",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13482,7 +13482,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ MARQUEZ JOSE LUIS",
-    "direccion": "Calle tercia 69",
+    "direccion": "Calle 00069",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -13495,7 +13495,7 @@ const empresas = [
   },
   {
     "empresa": "EL HORNO DE ESTHER VALDEPEÑAS, S.L.",
-    "direccion": "Calle bernardo balbuena 13",
+    "direccion": "Calle balbuena 00013",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -13508,7 +13508,7 @@ const empresas = [
   },
   {
     "empresa": "RESTAURACION CUERVA MARTIN, SOCIEDAD LIMITADA",
-    "direccion": "Calle tercia 53",
+    "direccion": "Calle 00053",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -13521,7 +13521,7 @@ const empresas = [
   },
   {
     "empresa": "PELASPIGAS 1936, SOCIEDAD LIMITADA",
-    "direccion": "Avenida regiones 58",
+    "direccion": "Avenida 00058",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -13534,7 +13534,7 @@ const empresas = [
   },
   {
     "empresa": "GURUMETA MAYORGA JOSE IGNACIO",
-    "direccion": "Calle republica argentina 9",
+    "direccion": "Calle argentina 00009",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -13547,7 +13547,7 @@ const empresas = [
   },
   {
     "empresa": "ANDLOUDIS SL",
-    "direccion": "Carretera porzuna e.leclerc s/n",
+    "direccion": "Carretera e.leclerc 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -13560,7 +13560,7 @@ const empresas = [
   },
   {
     "empresa": "KALIR --- BURAK",
-    "direccion": "Carretera nacional 430-256 bajo 256 bj",
+    "direccion": "Carretera 430-256 bajo 00256 bajo",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -13573,7 +13573,7 @@ const empresas = [
   },
   {
     "empresa": "REBOLLO GAMITO ROSA MARIA",
-    "direccion": "Calle madara 5 5",
+    "direccion": "Calle 00005 5",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -13586,7 +13586,7 @@ const empresas = [
   },
   {
     "empresa": "SANOMA EDUCACION, S.L.",
-    "direccion": "Pjsan vicente ferrer 1",
+    "direccion": "Pasaje vicente ferrer 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -13599,7 +13599,7 @@ const empresas = [
   },
   {
     "empresa": "FURIOUS . KOALAS",
-    "direccion": "Paseo universidad (escuela sup. informatic4",
+    "direccion": "Paseo (escuela sup. informatic00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -13612,7 +13612,7 @@ const empresas = [
   },
   {
     "empresa": "PROYECCIONES CINEMATOGRAFICAS MAYSAN, S.L.",
-    "direccion": "Calle eras del cerrillo s/n",
+    "direccion": "Calle del cerrillo 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -13625,7 +13625,7 @@ const empresas = [
   },
   {
     "empresa": "PROYECCIONES CINEMATOGRAFICAS MANCHEGAS, S.L.",
-    "direccion": "Avenida de los institutos 1",
+    "direccion": "Avenida los institutos 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -13638,7 +13638,7 @@ const empresas = [
   },
   {
     "empresa": "MARIANO Y PRIMI ORTEGA SOCIEDAD",
-    "direccion": "Calle cañas 8",
+    "direccion": "Calle ñas 00008",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13651,7 +13651,7 @@ const empresas = [
   },
   {
     "empresa": "TELEVALDEPEÑAS S.L.",
-    "direccion": "Calle union 24 bj",
+    "direccion": "Calle 00024 bajo",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -13664,7 +13664,7 @@ const empresas = [
   },
   {
     "empresa": "ROCICAM18, S.L.",
-    "direccion": "Paseo san gregorio 81 7 c",
+    "direccion": "Paseo gregorio 00081 7 c",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13677,7 +13677,7 @@ const empresas = [
   },
   {
     "empresa": "CANAL 2000 COMUNICACIONES, SOCIEDAD LIMITADA",
-    "direccion": "Calle soledad 2",
+    "direccion": "Calle 00002",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -13690,7 +13690,7 @@ const empresas = [
   },
   {
     "empresa": "EDICIONES LM, S.L.",
-    "direccion": "Avenida rey santo 3 d 4",
+    "direccion": "Avenida santo 00003 d 4",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -13703,7 +13703,7 @@ const empresas = [
   },
   {
     "empresa": "TELYMAN TELECOM, S.L.",
-    "direccion": "Calle real 60",
+    "direccion": "Calle 00060",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -13716,7 +13716,7 @@ const empresas = [
   },
   {
     "empresa": "CANAL POZUELO,S.L.",
-    "direccion": "Avenida nuestra señora de los santos 49",
+    "direccion": "Avenida señora de los santos 00049",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -13729,7 +13729,7 @@ const empresas = [
   },
   {
     "empresa": "DAIMIEL TELEVISION TELECOM SOCI",
-    "direccion": "Calle jaboneria 41",
+    "direccion": "Calle 00041",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -13742,7 +13742,7 @@ const empresas = [
   },
   {
     "empresa": "IBERSONTEL SOLUCIONES MOVILES SL",
-    "direccion": "Calle socuellamos 81",
+    "direccion": "Calle 00081",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -13755,7 +13755,7 @@ const empresas = [
   },
   {
     "empresa": "CRTELECOM, SOCIEDAD LIMITADA",
-    "direccion": "Calle alcazar 42",
+    "direccion": "Calle 00042",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -13768,7 +13768,7 @@ const empresas = [
   },
   {
     "empresa": "FREE TECHNOLOGIES EXCOM, S.L.",
-    "direccion": "Calle jose luis samper 1 3 d",
+    "direccion": "Calle luis samper 00001 3 d",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -13781,7 +13781,7 @@ const empresas = [
   },
   {
     "empresa": "DEIMOS SPACE, S.L.",
-    "direccion": "Calle francia 9",
+    "direccion": "Calle 00009",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -13794,7 +13794,7 @@ const empresas = [
   },
   {
     "empresa": "APLICACIONES TECNOLOGICAS ALCAZAR, S.L.",
-    "direccion": "Avenida de los vinos 16",
+    "direccion": "Avenida los vinos 00016",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -13807,7 +13807,7 @@ const empresas = [
   },
   {
     "empresa": "COPERMATICA, S.L.",
-    "direccion": "Paseo san isidro 17",
+    "direccion": "Paseo isidro 00017",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -13820,7 +13820,7 @@ const empresas = [
   },
   {
     "empresa": "INFOFIVE, SOCIEDAD LIMITADA",
-    "direccion": "Calle carrera de san jeronimo 107 bj",
+    "direccion": "Calle de san jeronimo 00107 bajo",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -13833,7 +13833,7 @@ const empresas = [
   },
   {
     "empresa": "DEMONITO PERSONAL CYBERSECURITY, SOCIEDAD LIMITADA",
-    "direccion": "Calle general aguilera 8 10",
+    "direccion": "Calle aguilera 00008 10",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -13846,7 +13846,7 @@ const empresas = [
   },
   {
     "empresa": "ADVANS BROKERS CORREDURIA DE SEGUROS, S.L.",
-    "direccion": "Calle delicias 5 lc",
+    "direccion": "Calle 00005 lc",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -13859,7 +13859,7 @@ const empresas = [
   },
   {
     "empresa": "ZEPO INTELLIGENCE S L",
-    "direccion": "Calle compas de santo domingo 4 lc",
+    "direccion": "Calle de santo domingo 00004 lc",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -13872,7 +13872,7 @@ const empresas = [
   },
   {
     "empresa": "TURICLETA TURISMO ACTIVO, SOCIEDAD LIMITADA",
-    "direccion": "Calle carlos vazquez 4 5",
+    "direccion": "Calle vazquez 00004 5",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -13885,7 +13885,7 @@ const empresas = [
   },
   {
     "empresa": "NTT DATA SPAIN S.L.U.",
-    "direccion": "Rdde toledo 21",
+    "direccion": "Ronda toledo 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -13898,7 +13898,7 @@ const empresas = [
   },
   {
     "empresa": "STRATESYS TECHNOLOGY SOLUTIONS, S.L.",
-    "direccion": "Plaza manuel meca 1",
+    "direccion": "Plaza meca 00001",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -13911,7 +13911,7 @@ const empresas = [
   },
   {
     "empresa": "SALTRA APLICACIONES SOCIEDAD L",
-    "direccion": "Cmjaime samuel gonzalo santos 8",
+    "direccion": "Camino samuel gonzalo santos 00008",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -13924,7 +13924,7 @@ const empresas = [
   },
   {
     "empresa": "INDRA PRODUCCION SOFTWARE S.L",
-    "direccion": "Rdde toledo, sn-centro mixto i+d soluzs/n",
+    "direccion": "Ronda toledo, sn-centro mixto i+d soluz00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -13937,7 +13937,7 @@ const empresas = [
   },
   {
     "empresa": "ORENES CORE SL",
-    "direccion": "Calle carlos lopez bustos 3",
+    "direccion": "Calle lopez bustos 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -13950,7 +13950,7 @@ const empresas = [
   },
   {
     "empresa": "DEFI SOFT, S.L.",
-    "direccion": "Avenida de la industria s/n",
+    "direccion": "Avenida la industria 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -13963,7 +13963,7 @@ const empresas = [
   },
   {
     "empresa": "ZELENZA SERVICIOS DE MOVILIDAD Y VIGILANCIA, S.L.",
-    "direccion": "Rdde toledo 4",
+    "direccion": "Ronda toledo 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -13976,7 +13976,7 @@ const empresas = [
   },
   {
     "empresa": "MANCHANET, S.L.L.",
-    "direccion": "Calle misionero eusebio ortega torres 7 bj",
+    "direccion": "Calle eusebio ortega torres 00007 bajo",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -13989,7 +13989,7 @@ const empresas = [
   },
   {
     "empresa": "SICAMAN NUEVAS TECNOLOGIAS, S.L.",
-    "direccion": "Calle ave maria 5",
+    "direccion": "Calle maria 00005",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -14002,7 +14002,7 @@ const empresas = [
   },
   {
     "empresa": "AUDISEC SEGURIDAD DE INFORMACION, S.L.",
-    "direccion": "Calle escultor joaquin garcia donaire 2",
+    "direccion": "Calle joaquin garcia donaire 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -14015,7 +14015,7 @@ const empresas = [
   },
   {
     "empresa": "DOCPATH DOCUMENT SOLUTIONS, S.L.",
-    "direccion": "Calle real 8 2 a",
+    "direccion": "Calle 00008 2 a",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -14028,7 +14028,7 @@ const empresas = [
   },
   {
     "empresa": "DELTANET SISTEMAS DE INFORMACION, S.L.U.",
-    "direccion": "Calle luxemburgo 2 b",
+    "direccion": "Calle 00002 b",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -14041,7 +14041,7 @@ const empresas = [
   },
   {
     "empresa": "COS MANTENIMIENTO S.A.",
-    "direccion": "Avenida de europa 25",
+    "direccion": "Avenida europa 00025",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -14054,7 +14054,7 @@ const empresas = [
   },
   {
     "empresa": "FEEBBO SOLUTIONS, S.L.U.",
-    "direccion": "Pjde la pandorga 4 a",
+    "direccion": "Pasaje la pandorga 00004 a",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14067,7 +14067,7 @@ const empresas = [
   },
   {
     "empresa": "BIZNEO SOLUTIONS, S.L.",
-    "direccion": "Plaza cervantes 6 5 2",
+    "direccion": "Plaza 00006 5 2",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14080,7 +14080,7 @@ const empresas = [
   },
   {
     "empresa": "NTT DATA SPAIN INFRAESTRUCTURES OPERATIONS S.L.U",
-    "direccion": "Calle amelgares 10 pb",
+    "direccion": "Calle 00010 pb",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -14093,7 +14093,7 @@ const empresas = [
   },
   {
     "empresa": "OESIA NETWORKS,S.L.",
-    "direccion": "Calle fudre - plg. industrial 18",
+    "direccion": "Calle - plg. industrial 00018",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -14106,7 +14106,7 @@ const empresas = [
   },
   {
     "empresa": "PUBLISUITES S.L.",
-    "direccion": "Calle calvario 14",
+    "direccion": "Calle 00014",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -14119,7 +14119,7 @@ const empresas = [
   },
   {
     "empresa": "ATURNOS . SOLUTIONS",
-    "direccion": "Calle carlos lópez bustos 3",
+    "direccion": "Calle lópez bustos 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -14132,7 +14132,7 @@ const empresas = [
   },
   {
     "empresa": "PULSIA TECHNOLOGY, S.L.U.",
-    "direccion": "Calle almagro 16",
+    "direccion": "Calle 00016",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -14145,7 +14145,7 @@ const empresas = [
   },
   {
     "empresa": "SALVIA 365 PLUS SL",
-    "direccion": "Calle italia 6",
+    "direccion": "Calle 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -14158,7 +14158,7 @@ const empresas = [
   },
   {
     "empresa": "CIPHERBIT SLU",
-    "direccion": "Calle fudre - plg. industrial 18",
+    "direccion": "Calle - plg. industrial 00018",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -14171,7 +14171,7 @@ const empresas = [
   },
   {
     "empresa": "ENTREREDES CONSULTORIA TECNOLOGICA S.L.",
-    "direccion": "Calle einstein centro empresarial of madri9",
+    "direccion": "Calle centro empresarial of madri00009",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -14184,7 +14184,7 @@ const empresas = [
   },
   {
     "empresa": "AYTOS SOLUCIONES INFORMATICAS S.L.U.",
-    "direccion": "Calle seis de junio 73",
+    "direccion": "Calle de junio 00073",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -14197,7 +14197,7 @@ const empresas = [
   },
   {
     "empresa": "DOS ENES MARKETING ONLINE Y SOFTWARE, S.L.",
-    "direccion": "Calle goya 1 1",
+    "direccion": "Calle 00001 1",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -14210,7 +14210,7 @@ const empresas = [
   },
   {
     "empresa": "VALITADIS S.L.",
-    "direccion": "Avenida fundadores s/n. s/n",
+    "direccion": "Avenida s/n. 00000",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -14223,7 +14223,7 @@ const empresas = [
   },
   {
     "empresa": "CREATUFUTURO HOLDING, SOCIEDAD LIMITADA",
-    "direccion": "Calle san juan 6",
+    "direccion": "Calle juan 00006",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -14236,7 +14236,7 @@ const empresas = [
   },
   {
     "empresa": "DIVINA PASTORA SEGUROS, MUTUA DE SEGUROS",
-    "direccion": "Calle ramon y cajal 2 1",
+    "direccion": "Calle y cajal 00002 1",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14249,7 +14249,7 @@ const empresas = [
   },
   {
     "empresa": "FLORENTINO GARCIA Y ASOCIADOS, S.L.",
-    "direccion": "Calle ancha 43",
+    "direccion": "Calle 00043",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -14262,7 +14262,7 @@ const empresas = [
   },
   {
     "empresa": "GESTIONES FINANCIERAS MANCHEGAS S.L.",
-    "direccion": "Calle don victor peñasco 126",
+    "direccion": "Calle victor peñasco 00126",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -14275,7 +14275,7 @@ const empresas = [
   },
   {
     "empresa": "BRAVO Y CIA ASESORES TECNICOS CORREDURIA SEGUROS S.A.",
-    "direccion": "Calle pintor mendoza 71",
+    "direccion": "Calle mendoza 00071",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -14288,7 +14288,7 @@ const empresas = [
   },
   {
     "empresa": "SAMPEDRO CORREDURIA DE SEGUROS, S.A.",
-    "direccion": "Calle don victor 79",
+    "direccion": "Calle victor 00079",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -14301,7 +14301,7 @@ const empresas = [
   },
   {
     "empresa": "OLVIDO SASTRE CORREDURIA DE SEGUROS, S.L.",
-    "direccion": "Calle tercia 5",
+    "direccion": "Calle 00005",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -14314,7 +14314,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO PACC CORREDURIA DE SEGUROS, S.A.",
-    "direccion": "Calle libertad 34",
+    "direccion": "Calle 00034",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -14327,7 +14327,7 @@ const empresas = [
   },
   {
     "empresa": "ADVANS BROKERS CORREDURIA DE SEGUROS, S.L.",
-    "direccion": "Calle delicias 5",
+    "direccion": "Calle 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -14340,7 +14340,7 @@ const empresas = [
   },
   {
     "empresa": "SOLISS AGENCIA SEGUROS S.L.",
-    "direccion": "Calle reyes 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -14353,7 +14353,7 @@ const empresas = [
   },
   {
     "empresa": "PICAZO DE NOVA, S.L.",
-    "direccion": "Calle san roque 1",
+    "direccion": "Calle roque 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -14366,7 +14366,7 @@ const empresas = [
   },
   {
     "empresa": "ROCA FORNS JOSE",
-    "direccion": "Calle toledo 85",
+    "direccion": "Calle 00085",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -14379,7 +14379,7 @@ const empresas = [
   },
   {
     "empresa": "ASESORES EN COBERTURA MEDIACION CORREDURIA SEGUROS SLU",
-    "direccion": "Avenida criptana 43",
+    "direccion": "Avenida 00043",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -14392,7 +14392,7 @@ const empresas = [
   },
   {
     "empresa": "AGRP CANDIDA ARANDA YUSTE, S.L.",
-    "direccion": "Calle palma 10 bj",
+    "direccion": "Calle 00010 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14405,7 +14405,7 @@ const empresas = [
   },
   {
     "empresa": "POBLETE CAÑETE ALICIA",
-    "direccion": "Calle elisa cendreros 9",
+    "direccion": "Calle cendreros 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -14418,7 +14418,7 @@ const empresas = [
   },
   {
     "empresa": "JIMENEZ VALENTIN AGENCIA DE SEGUROS E INVERSIONES, S.L,",
-    "direccion": "Calle nueva 69",
+    "direccion": "Calle 00069",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -14431,7 +14431,7 @@ const empresas = [
   },
   {
     "empresa": "PEÑALVER MANZANARES MARIA VICTORIA",
-    "direccion": "Calle concordia 2",
+    "direccion": "Calle 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -14444,7 +14444,7 @@ const empresas = [
   },
   {
     "empresa": "PEÑARRUBIA BROKERS DE SEGUROS",
-    "direccion": "Calle ramiro ledesma 2",
+    "direccion": "Calle ledesma 00002",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -14457,7 +14457,7 @@ const empresas = [
   },
   {
     "empresa": "SEGURO ONLINE SOCIEDAD LIMITADA",
-    "direccion": "Pjde la pandorga 4 a",
+    "direccion": "Pasaje la pandorga 00004 a",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14470,7 +14470,7 @@ const empresas = [
   },
   {
     "empresa": "OCCIDENT GCO CANAL MEDIACION,SOCIEDAD AGENCIA SEGUROS",
-    "direccion": "Calle alarcos 1 enda",
+    "direccion": "Calle 00001 enda",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14483,7 +14483,7 @@ const empresas = [
   },
   {
     "empresa": "TELEGESTION DE SEGUROS AVANT,S.L.",
-    "direccion": "Plaza puerta de alarcos 4 4 h",
+    "direccion": "Plaza de alarcos 00004 4 h",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -14496,7 +14496,7 @@ const empresas = [
   },
   {
     "empresa": "CERVANTES MARTINEZ, S.L.",
-    "direccion": "Avenida pablo iglesias 2",
+    "direccion": "Avenida iglesias 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -14509,7 +14509,7 @@ const empresas = [
   },
   {
     "empresa": "PROMOCIONES Y GESTION VEGA DEL GUADIANA, S.L.",
-    "direccion": "Avenida de castilla 10",
+    "direccion": "Avenida castilla 00010",
     "localidad": "CARRION DE CALATRAVA",
     "cp": "13150",
     "provincia": "CIUDAD REAL",
@@ -14522,7 +14522,7 @@ const empresas = [
   },
   {
     "empresa": "GESTIONA REAL ESTATE CIUDAD REAL, SOCIEDAD LIMITADA",
-    "direccion": "Calle alarcos 10",
+    "direccion": "Calle 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14535,7 +14535,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA EL CASTAÑO, S.L.U",
-    "direccion": "Carretera nacional 430 km 257 s/n",
+    "direccion": "Carretera 430 km 257 00000",
     "localidad": "LUCIANA",
     "cp": "13108",
     "provincia": "CIUDAD REAL",
@@ -14548,7 +14548,7 @@ const empresas = [
   },
   {
     "empresa": "BUENO Y ROMAN COMUNIDADES SOCIE",
-    "direccion": "Calle levante 7 7",
+    "direccion": "Calle 00007 7",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -14561,7 +14561,7 @@ const empresas = [
   },
   {
     "empresa": "JOSE CERROS ESPINOSA, S.L.",
-    "direccion": "Calle toledo 40",
+    "direccion": "Calle 00040",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -14574,7 +14574,7 @@ const empresas = [
   },
   {
     "empresa": "INMOLAMAYOR,S.L",
-    "direccion": "Calle maria cristina 1",
+    "direccion": "Calle cristina 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14587,7 +14587,7 @@ const empresas = [
   },
   {
     "empresa": "CIUDADELA PROPERTY MANAGEMENT, S.L.",
-    "direccion": "Calle camarín 5",
+    "direccion": "Calle ín 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -14600,7 +14600,7 @@ const empresas = [
   },
   {
     "empresa": "BONET SANCHEZ JOSE IGNACIO",
-    "direccion": "Avenida rey santo 8 1",
+    "direccion": "Avenida santo 00008 1",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14613,7 +14613,7 @@ const empresas = [
   },
   {
     "empresa": "JUEZ PEREZ ANDRES",
-    "direccion": "Calle san agustin 8 1 c",
+    "direccion": "Calle agustin 00008 1 c",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -14626,7 +14626,7 @@ const empresas = [
   },
   {
     "empresa": "ORTEGA LANZAROT ALICIA",
-    "direccion": "Calle horno 2",
+    "direccion": "Calle 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -14639,7 +14639,7 @@ const empresas = [
   },
   {
     "empresa": "ALVAREZ FERNANDEZ JOSE",
-    "direccion": "Calle caldereros 7",
+    "direccion": "Calle 00007",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -14652,7 +14652,7 @@ const empresas = [
   },
   {
     "empresa": "PARRA PEREZ LUIS FRANCISCO",
-    "direccion": "Calle general aguilera 6 4",
+    "direccion": "Calle aguilera 00006 4",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14665,7 +14665,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA DE BLAS VALENTIN FERNANDEZ MARIA LUISA",
-    "direccion": "Calle general aguilera 6 4",
+    "direccion": "Calle aguilera 00006 4",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14678,7 +14678,7 @@ const empresas = [
   },
   {
     "empresa": "MONTIJANO CARBONELL MARTINEZ ROSA MARIA",
-    "direccion": "Pjlanzarote 4 bj",
+    "direccion": "Pasaje 00004 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14691,7 +14691,7 @@ const empresas = [
   },
   {
     "empresa": "GONZALEZ LOPEZ ELOY",
-    "direccion": "Calle azucena 9 lc",
+    "direccion": "Calle 00009 lc",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -14704,7 +14704,7 @@ const empresas = [
   },
   {
     "empresa": "POVEDA Y NOGUERA CONSULTORES, S.L.",
-    "direccion": "Plaza mayor 2 2",
+    "direccion": "Plaza 00002 2",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14717,7 +14717,7 @@ const empresas = [
   },
   {
     "empresa": "MUÑOZ MUÑOZ ANTONIO",
-    "direccion": "Avenida rey santo 8 5 c",
+    "direccion": "Avenida santo 00008 5 c",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14730,7 +14730,7 @@ const empresas = [
   },
   {
     "empresa": "CALVO SANCHEZ CRISTINA",
-    "direccion": "Calle olivo registro de la propiedad 18 bj",
+    "direccion": "Calle registro de la propiedad 00018 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -14743,7 +14743,7 @@ const empresas = [
   },
   {
     "empresa": "MUÑOZ MASCARAQUE MARTA",
-    "direccion": "Calle san vicente de paul 4",
+    "direccion": "Calle vicente de paul 00004",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -14756,7 +14756,7 @@ const empresas = [
   },
   {
     "empresa": "CLF DERECHO PUBLICO, S.L.P.",
-    "direccion": "Calle cruz 8 2 b",
+    "direccion": "Calle 00008 2 b",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14769,7 +14769,7 @@ const empresas = [
   },
   {
     "empresa": "LEX EXPERTIA S.L.",
-    "direccion": "Calle avda.rey santo 8 5 d",
+    "direccion": "Calle santo 00008 5 d",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14782,7 +14782,7 @@ const empresas = [
   },
   {
     "empresa": "LARGACHA LAMELA GONZALO",
-    "direccion": "Calle seis de junio 89",
+    "direccion": "Calle de junio 00089",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -14795,7 +14795,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ COLMENAREJO FRANCISCO JAVIE",
-    "direccion": "Calle cl jesus gonzalez merlo s/n",
+    "direccion": "Calle jesus gonzalez merlo 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -14808,7 +14808,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ DE ANDIA MOLINER ANGELA",
-    "direccion": "Calle arenas 25 bj",
+    "direccion": "Calle 00025 bajo",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -14821,7 +14821,7 @@ const empresas = [
   },
   {
     "empresa": "BUSTILLO JIMENEZ BORJA ANTONIO",
-    "direccion": "Carretera de navalpino 67",
+    "direccion": "Carretera navalpino 00067",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -14834,7 +14834,7 @@ const empresas = [
   },
   {
     "empresa": "DIEZ MEDRANO PALOMA",
-    "direccion": "Calle jesus gonzalez merlo s/n b 1",
+    "direccion": "Calle gonzalez merlo 00000 b 1",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -14847,7 +14847,7 @@ const empresas = [
   },
   {
     "empresa": "NOTARIA PASEO SAN ISIDRO 12 C.B.",
-    "direccion": "Paseo san isidro 12",
+    "direccion": "Paseo isidro 00012",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -14860,7 +14860,7 @@ const empresas = [
   },
   {
     "empresa": "COMPROMISO LEGAL, SOCIEDAD DE RESPONSABILIDAD LIMITADA",
-    "direccion": "Calle manzanares 15 a",
+    "direccion": "Calle 00015 a",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -14873,7 +14873,7 @@ const empresas = [
   },
   {
     "empresa": "PALACIOS HERRUZO ANTONIO",
-    "direccion": "Calle castellanos 51 bj",
+    "direccion": "Calle 00051 bajo",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -14886,7 +14886,7 @@ const empresas = [
   },
   {
     "empresa": "DELGADO GARCIA ALFREDO",
-    "direccion": "Calle lepanto 30",
+    "direccion": "Calle 00030",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -14899,7 +14899,7 @@ const empresas = [
   },
   {
     "empresa": "MONREAL VIDAL LUIS FRANCISCO",
-    "direccion": "Calle alarcos 29",
+    "direccion": "Calle 00029",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14912,7 +14912,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ POVEDA EMILIO JOSE",
-    "direccion": "Calle estanislao cabanillas 43",
+    "direccion": "Calle cabanillas 00043",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -14925,7 +14925,7 @@ const empresas = [
   },
   {
     "empresa": "CAMARA OFICIAL DE COMERCIO E INDUSTRIA",
-    "direccion": "Calle lanza 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -14938,7 +14938,7 @@ const empresas = [
   },
   {
     "empresa": "COLEGIO OFICIAL DE FARMACEUTICOS",
-    "direccion": "Calle ronda mata 9",
+    "direccion": "Calle mata 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -14951,7 +14951,7 @@ const empresas = [
   },
   {
     "empresa": "ILUSTRE COLEGIO DE ABOGADOS",
-    "direccion": "Calle pasaje de la merced 1",
+    "direccion": "Calle de la merced 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -14964,7 +14964,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICOS FISCALES, FINANCIEROS Y CONTABLES, S.L.",
-    "direccion": "Calle campo 7 2 2",
+    "direccion": "Calle 00007 2 2",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -14977,7 +14977,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION AGRARIA JOVENES AGRICULTORES (ASAJA)",
-    "direccion": "Avenida rey santo 8 bj",
+    "direccion": "Avenida santo 00008 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -14990,7 +14990,7 @@ const empresas = [
   },
   {
     "empresa": "AFYGE, S.L.",
-    "direccion": "Calle alcantara 8",
+    "direccion": "Calle 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -15003,7 +15003,7 @@ const empresas = [
   },
   {
     "empresa": "CONTAMANCHA DAIMIEL, S.L.",
-    "direccion": "Plaza santa maria 6 bj",
+    "direccion": "Plaza maria 00006 bajo",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -15016,7 +15016,7 @@ const empresas = [
   },
   {
     "empresa": "AFYDE ASESORES CONSULTOR, S.L.",
-    "direccion": "Calle dr.bonardell 11",
+    "direccion": "Calle 00011",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -15029,7 +15029,7 @@ const empresas = [
   },
   {
     "empresa": "CECAREAL, S.L.",
-    "direccion": "Calle delicias 3 bj",
+    "direccion": "Calle 00003 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -15042,7 +15042,7 @@ const empresas = [
   },
   {
     "empresa": "SERDIS ASESORES, S.L.",
-    "direccion": "Calle lepanto 3",
+    "direccion": "Calle 00003",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -15055,7 +15055,7 @@ const empresas = [
   },
   {
     "empresa": "A.L.M. ASESORIA S.L.",
-    "direccion": "Calle perez galdos 36",
+    "direccion": "Calle galdos 00036",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -15068,7 +15068,7 @@ const empresas = [
   },
   {
     "empresa": "ASESORIA VALERO DIAZ, S.L.",
-    "direccion": "Calle real 71",
+    "direccion": "Calle 00071",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -15081,7 +15081,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA ROMERO LUIS CARMELO",
-    "direccion": "Paseo luis palacios 21",
+    "direccion": "Paseo palacios 00021",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -15094,7 +15094,7 @@ const empresas = [
   },
   {
     "empresa": "AVENIDA DE CONSULTING DE NEGOCIOS, S.L.",
-    "direccion": "Avenida primero de julio 56",
+    "direccion": "Avenida de julio 00056",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -15107,7 +15107,7 @@ const empresas = [
   },
   {
     "empresa": "FICOLSA ASESORES S.L.",
-    "direccion": "Calle pozo dulce 20",
+    "direccion": "Calle dulce 00020",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -15120,7 +15120,7 @@ const empresas = [
   },
   {
     "empresa": "TEYZA, S.L.",
-    "direccion": "Calle concepcion arenal 72",
+    "direccion": "Calle arenal 00072",
     "localidad": "CHILLON",
     "cp": "13412",
     "provincia": "CIUDAD REAL",
@@ -15133,7 +15133,7 @@ const empresas = [
   },
   {
     "empresa": "APLAGES, S.L.",
-    "direccion": "Trcardenal monescillo 5",
+    "direccion": "Travesía monescillo 00005",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -15146,7 +15146,7 @@ const empresas = [
   },
   {
     "empresa": "ASESORIA LARA S.L.",
-    "direccion": "Calle oriente 9 4",
+    "direccion": "Calle 00009 4",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15159,7 +15159,7 @@ const empresas = [
   },
   {
     "empresa": "CONTABILIDAD INTEGRADA, S.L.",
-    "direccion": "Calle pintor mendoza 67",
+    "direccion": "Calle mendoza 00067",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -15172,7 +15172,7 @@ const empresas = [
   },
   {
     "empresa": "SERKA ASESORES, S.L,",
-    "direccion": "Avenida alcazar 76 a",
+    "direccion": "Avenida 00076 a",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -15185,7 +15185,7 @@ const empresas = [
   },
   {
     "empresa": "CYMO ASESORES, S.L.L.",
-    "direccion": "Calle tahona 4",
+    "direccion": "Calle 00004",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -15198,7 +15198,7 @@ const empresas = [
   },
   {
     "empresa": "ASEGES CIUDAD REAL, S.L.",
-    "direccion": "Calle lentejuela 2 bj",
+    "direccion": "Calle 00002 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -15211,7 +15211,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO ASESOR OTS SL",
-    "direccion": "Calle alcazar de san juan 21",
+    "direccion": "Calle de san juan 00021",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -15224,7 +15224,7 @@ const empresas = [
   },
   {
     "empresa": "ASESORES LA SOLANA, S.C.",
-    "direccion": "Calle sagrario 6 bj",
+    "direccion": "Calle 00006 bajo",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -15237,7 +15237,7 @@ const empresas = [
   },
   {
     "empresa": "TORRES PATON ASESORES, S.L.",
-    "direccion": "Calle buensuceso 22",
+    "direccion": "Calle 00022",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -15250,7 +15250,7 @@ const empresas = [
   },
   {
     "empresa": "GRANDE & MARTINEZ GESTORIA, S.L.",
-    "direccion": "Calle independencia 52",
+    "direccion": "Calle 00052",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15263,7 +15263,7 @@ const empresas = [
   },
   {
     "empresa": "GESINTER CONSULTING, S.L.",
-    "direccion": "Calle soledad 25",
+    "direccion": "Calle 00025",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -15276,7 +15276,7 @@ const empresas = [
   },
   {
     "empresa": "ECONOMISTAS TRIBUTARIOS, S.L.",
-    "direccion": "Avenida rey santo 8 2 a",
+    "direccion": "Avenida santo 00008 2 a",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -15289,7 +15289,7 @@ const empresas = [
   },
   {
     "empresa": "ROYAL BLADE INVESTMENT S.L",
-    "direccion": "Avenida rey santo 3 d 6",
+    "direccion": "Avenida santo 00003 d 6",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -15302,7 +15302,7 @@ const empresas = [
   },
   {
     "empresa": "ASESORIA ANA ROSARIO MARIJOSE, S.L.",
-    "direccion": "Avenida cristo rey 28",
+    "direccion": "Avenida rey 00028",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -15315,7 +15315,7 @@ const empresas = [
   },
   {
     "empresa": "OFICINAS AFYSER, S.L.",
-    "direccion": "Calle alfonso x el sabio 11",
+    "direccion": "Calle x el sabio 00011",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -15328,7 +15328,7 @@ const empresas = [
   },
   {
     "empresa": "MC CONSULTORES ECONOMISTAS, S.L.",
-    "direccion": "Calle francisco garcia pavon local 42 4",
+    "direccion": "Calle garcia pavon local 00042 4",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15341,7 +15341,7 @@ const empresas = [
   },
   {
     "empresa": "GESTION FINANCIERA CONSULTORA EMPRESARIAL S.L.",
-    "direccion": "Calle general aguilera 7",
+    "direccion": "Calle aguilera 00007",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -15354,7 +15354,7 @@ const empresas = [
   },
   {
     "empresa": "ASESORALIA ALCAZAR, S.L.",
-    "direccion": "Calle margarita xirgu 8",
+    "direccion": "Calle xirgu 00008",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -15367,7 +15367,7 @@ const empresas = [
   },
   {
     "empresa": "MIGUEL DE FELIPE CAÑADAS S.L.",
-    "direccion": "Calle dulcinea 4",
+    "direccion": "Calle 00004",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -15380,7 +15380,7 @@ const empresas = [
   },
   {
     "empresa": "CONSULTORIA Y AUDITORIA RUIZ Y ASOCIADOS, S.L.",
-    "direccion": "Calle toledo 6 1 d",
+    "direccion": "Calle 00006 1 d",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -15393,7 +15393,7 @@ const empresas = [
   },
   {
     "empresa": "GESTORIA ADMINISTRATIVA PALOP ALCAIDE, S.L.P.",
-    "direccion": "Calle tercia 42",
+    "direccion": "Calle 00042",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -15406,7 +15406,7 @@ const empresas = [
   },
   {
     "empresa": "MORENO GESTORIA ADMINISTRATIVA Y",
-    "direccion": "Plaza españa 3 1",
+    "direccion": "Plaza ña 00003 1",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -15419,7 +15419,7 @@ const empresas = [
   },
   {
     "empresa": "AGEFIS CONSULTORIA Y ASESORIA SL",
-    "direccion": "Avenida don antonio huertas 45",
+    "direccion": "Avenida antonio huertas 00045",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15432,7 +15432,7 @@ const empresas = [
   },
   {
     "empresa": "A&G SOLUCIONES FISCALES,FINANCIERAS Y GESTIONES,S.L",
-    "direccion": "Calle unión 14",
+    "direccion": "Calle ón 00014",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -15445,7 +15445,7 @@ const empresas = [
   },
   {
     "empresa": "COMUNIDAD DE USUARIOS DE LA MASA",
-    "direccion": "Calle calidad 1",
+    "direccion": "Calle 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -15458,7 +15458,7 @@ const empresas = [
   },
   {
     "empresa": "BROTHERS TAX&LEGAL SL",
-    "direccion": "Calle palomares 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -15471,7 +15471,7 @@ const empresas = [
   },
   {
     "empresa": "GESTIONA GRUPO CENTRO SUR, SOCIEDAD LIMITADA",
-    "direccion": "Calle goya 1 3",
+    "direccion": "Calle 00001 3",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -15484,7 +15484,7 @@ const empresas = [
   },
   {
     "empresa": "SIMARRO RUBIO CANDIDO",
-    "direccion": "Avenida primero de julio 93",
+    "direccion": "Avenida de julio 00093",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -15497,7 +15497,7 @@ const empresas = [
   },
   {
     "empresa": "SERRANO PRADO DAVID",
-    "direccion": "Calle palma 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -15510,7 +15510,7 @@ const empresas = [
   },
   {
     "empresa": "ABAKON GESTORIA ADMINISTRATIVA, S.L.P",
-    "direccion": "Calle hervas y buendia 4",
+    "direccion": "Calle y buendia 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -15523,7 +15523,7 @@ const empresas = [
   },
   {
     "empresa": "GR CONSULTORES Y ASESORES DJ, SOCIEDAD LIMITADA",
-    "direccion": "Avenida del carmen 63",
+    "direccion": "Avenida carmen 00063",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -15536,7 +15536,7 @@ const empresas = [
   },
   {
     "empresa": "APTUM CONSULTING SL",
-    "direccion": "Calle soria 96",
+    "direccion": "Calle 00096",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15549,7 +15549,7 @@ const empresas = [
   },
   {
     "empresa": "REPSOL S.A.",
-    "direccion": "Carretera de calzada, s/n s/n",
+    "direccion": "Carretera calzada, s/n 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -15562,7 +15562,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION CENTRO EUROPEO DE EMPRESAS E INNOVACION DE CR",
-    "direccion": "Calle lanza 2 2",
+    "direccion": "Calle 00002 2",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -15575,7 +15575,7 @@ const empresas = [
   },
   {
     "empresa": "INTERPROFESIONAL DEL CONSEJO REGULADOR DENOMINACION DE",
-    "direccion": "Avenida criptana 73",
+    "direccion": "Avenida 00073",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -15588,7 +15588,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO DE COMERCIALIZACIONES VARIAS, S.L.",
-    "direccion": "Carretera c-400 km-127 s/n",
+    "direccion": "Carretera -400 km-127 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15601,7 +15601,7 @@ const empresas = [
   },
   {
     "empresa": "OPORTUNIDADES Y ESTRATEGIAS, S.L.",
-    "direccion": "Calle federica montseny 9",
+    "direccion": "Calle montseny 00009",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -15614,7 +15614,7 @@ const empresas = [
   },
   {
     "empresa": "AYCON SOLUTIONS SOCIEDAD LIMITA",
-    "direccion": "Calle don victor peñasco 34 3 dch",
+    "direccion": "Calle victor peñasco 00034 3 dch",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15627,7 +15627,7 @@ const empresas = [
   },
   {
     "empresa": "SOLISYON CONSULTORES, S.L.",
-    "direccion": "Rdalarcos 42",
+    "direccion": "Ronda 00042",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -15640,7 +15640,7 @@ const empresas = [
   },
   {
     "empresa": "SERENTY PROCESS CONSULTING S.L.",
-    "direccion": "Calle castillejos 69",
+    "direccion": "Calle 00069",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -15653,7 +15653,7 @@ const empresas = [
   },
   {
     "empresa": "CERQUO CONSULTING, S.L.",
-    "direccion": "Calle campo 48",
+    "direccion": "Calle 00048",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15666,7 +15666,7 @@ const empresas = [
   },
   {
     "empresa": "DENTATIS GROUP, SOCIEDAD LIMITADA",
-    "direccion": "Plaza navarra 2",
+    "direccion": "Plaza 00002",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -15679,7 +15679,7 @@ const empresas = [
   },
   {
     "empresa": "GCR GESTORIA ADMINISTRATIVA 2025, SOCIEDAD LIMITADA PRO",
-    "direccion": "Calle rio 5 bj",
+    "direccion": "Calle 00005 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -15692,7 +15692,7 @@ const empresas = [
   },
   {
     "empresa": "ARQUITRABE TECNICOS, S.L.",
-    "direccion": "Calle don quijote 95",
+    "direccion": "Calle quijote 00095",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -15705,7 +15705,7 @@ const empresas = [
   },
   {
     "empresa": "CYAN Y MAGENTA PROYECTOS, S.L.U.",
-    "direccion": "Calle ramiro ledesma 2",
+    "direccion": "Calle ledesma 00002",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -15718,7 +15718,7 @@ const empresas = [
   },
   {
     "empresa": "CALATRAVA INGENIEROS, S.L.",
-    "direccion": "Avenida rey santo 8 4ºc",
+    "direccion": "Avenida santo 00008 4ºc",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -15731,7 +15731,7 @@ const empresas = [
   },
   {
     "empresa": "SGS TECNOS, S.A.",
-    "direccion": "Polígono industrial sepes 203",
+    "direccion": "Polígono sepes 00203",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -15744,7 +15744,7 @@ const empresas = [
   },
   {
     "empresa": "OFICINA TECNICA GRUPO ALTA TENSION, S.L.",
-    "direccion": "Calle marconi 3",
+    "direccion": "Calle 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -15757,7 +15757,7 @@ const empresas = [
   },
   {
     "empresa": "SYGMA CERTIFICATION,S.L",
-    "direccion": "Calle jose maria de la fuente 4 02b",
+    "direccion": "Calle maria de la fuente 00004 02b",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -15770,7 +15770,7 @@ const empresas = [
   },
   {
     "empresa": "INGEREIN, S.L.U.",
-    "direccion": "Carretera toledo 40",
+    "direccion": "Carretera 00040",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -15783,7 +15783,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO NORMEX DE PROTECCIÓN CONTRA INCENDIOS SL",
-    "direccion": "Calle valle de alcudia (clipe) s/n",
+    "direccion": "Calle de alcudia (clipe) 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15796,7 +15796,7 @@ const empresas = [
   },
   {
     "empresa": "OCA INSPECCION CONTROL Y PREVENCION S.A.",
-    "direccion": "Avenida san sebastian 13",
+    "direccion": "Avenida sebastian 00013",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -15809,7 +15809,7 @@ const empresas = [
   },
   {
     "empresa": "FOMECAM TERRA,S.L",
-    "direccion": "Calle marconi 4",
+    "direccion": "Calle 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -15822,7 +15822,7 @@ const empresas = [
   },
   {
     "empresa": "SEGULA TECNOLOGIAS ESPAÑA SAU",
-    "direccion": "Calle gran capitan 51",
+    "direccion": "Calle capitan 00051",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -15835,7 +15835,7 @@ const empresas = [
   },
   {
     "empresa": "INMINER INGENIERIA,S.L",
-    "direccion": "Calle solana 60",
+    "direccion": "Calle 00060",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -15848,7 +15848,7 @@ const empresas = [
   },
   {
     "empresa": "NOVOTEC CONSULTORES S.A.",
-    "direccion": "Calle toledo (ed. miro) 8 1 1",
+    "direccion": "Calle (ed. miro) 00008 1 1",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -15861,7 +15861,7 @@ const empresas = [
   },
   {
     "empresa": "CT INGENIEROS AAI,S.L.",
-    "direccion": "Calle europa 7",
+    "direccion": "Calle 00007",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -15874,7 +15874,7 @@ const empresas = [
   },
   {
     "empresa": "AUDING CONTROL Y VERIFICACION, S.L.",
-    "direccion": "Calle campo 48",
+    "direccion": "Calle 00048",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -15887,7 +15887,7 @@ const empresas = [
   },
   {
     "empresa": "ACUMBAMAIL . SL",
-    "direccion": "Avenida rey santo 3 d 3 2",
+    "direccion": "Avenida santo 00003 d 3 2",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -15900,7 +15900,7 @@ const empresas = [
   },
   {
     "empresa": "HIDRALAB INGENIERIA Y DESARROLLOS, S.L.",
-    "direccion": "Avenida universidad clm-a.camilo jose cela s/n",
+    "direccion": "Avenida clm-a.camilo jose cela 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -15913,7 +15913,7 @@ const empresas = [
   },
   {
     "empresa": "AYESA INGENIERIA Y ARQUITECTURA, S.A.U.",
-    "direccion": "Polígono oficina d2 via principal sn s/n",
+    "direccion": "Polígono d2 via principal sn 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -15926,7 +15926,7 @@ const empresas = [
   },
   {
     "empresa": "INGENIERIA MECANICA Y FORMACION, S.L.P.",
-    "direccion": "Calle pedro muñoz 1 d15",
+    "direccion": "Calle muñoz 00001 d15",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -15939,7 +15939,7 @@ const empresas = [
   },
   {
     "empresa": "ATEINGE EUROPEA S.L.",
-    "direccion": "Calle don quijote (local 7) 141",
+    "direccion": "Calle quijote (local 7) 00141",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -15952,7 +15952,7 @@ const empresas = [
   },
   {
     "empresa": "EQUIPOS DE CONTROL RENTAVISION SL",
-    "direccion": "Avenida primero de julio 70 2",
+    "direccion": "Avenida de julio 00070 2",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -15965,7 +15965,7 @@ const empresas = [
   },
   {
     "empresa": "H-CERO INGENIERIA Y OBRAS, S.L.",
-    "direccion": "Avenida de la encarnación 69",
+    "direccion": "Avenida la encarnación 00069",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -15978,7 +15978,7 @@ const empresas = [
   },
   {
     "empresa": "JET AIRCRAFT SERVICES, S.L.",
-    "direccion": "Calle autovia cdad real-puertollano salid178",
+    "direccion": "Calle autovia cdad real-puertollano salid00178",
     "localidad": "CIUDAD REAL",
     "cp": "13434",
     "provincia": "CIUDAD REAL",
@@ -15991,7 +15991,7 @@ const empresas = [
   },
   {
     "empresa": "ENGYTEK ENERGY S.L.",
-    "direccion": "Calle marconi 3",
+    "direccion": "Calle 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16004,7 +16004,7 @@ const empresas = [
   },
   {
     "empresa": "ENVIRA SOSTENIBLE, S.A.",
-    "direccion": "Calle cervantes 48 b",
+    "direccion": "Calle 00048 b",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -16017,7 +16017,7 @@ const empresas = [
   },
   {
     "empresa": "APPLUS ORGANISMO DE CONTROL, S.L.U",
-    "direccion": "Calle toledo 8 1 1",
+    "direccion": "Calle 00008 1 1",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -16030,7 +16030,7 @@ const empresas = [
   },
   {
     "empresa": "DL AL CUADRADO, SOCIEDAD LIMITADA",
-    "direccion": "Calle la solana (pol ind larache) 46",
+    "direccion": "Calle solana (pol ind larache) 00046",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16043,7 +16043,7 @@ const empresas = [
   },
   {
     "empresa": "ENERGY SERVICES HISPANIA, SOCIEDAD LIMITADA",
-    "direccion": "Calle marconi 3",
+    "direccion": "Calle 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16056,7 +16056,7 @@ const empresas = [
   },
   {
     "empresa": "CARTAGO INGENIERIA & SERVICIOS SL",
-    "direccion": "Calle soledad 11 b",
+    "direccion": "Calle 00011 b",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -16069,7 +16069,7 @@ const empresas = [
   },
   {
     "empresa": "ESTUDIOS E INGENIERIA APLICADA XXI S.A.",
-    "direccion": "Carretera de calzada s/n s/n",
+    "direccion": "Carretera calzada s/n 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -16082,7 +16082,7 @@ const empresas = [
   },
   {
     "empresa": "TPF GETINSA EUROESTUDIOS, S.L.",
-    "direccion": "Carretera toledo (edificio cumbria) 26 407",
+    "direccion": "Carretera (edificio cumbria) 00026 407",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16095,7 +16095,7 @@ const empresas = [
   },
   {
     "empresa": "ID ENERGY GROUP,S.A",
-    "direccion": "Calle marconi 10",
+    "direccion": "Calle 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16108,7 +16108,7 @@ const empresas = [
   },
   {
     "empresa": "MEGAOM FRV SERVICES",
-    "direccion": "Polígono 50, parcela 15, veganueva s/n",
+    "direccion": "Polígono 50, parcela 15, veganueva 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -16121,7 +16121,7 @@ const empresas = [
   },
   {
     "empresa": "TENGEN PROJECTS SL",
-    "direccion": "Calle jaboneros 28 136",
+    "direccion": "Calle 00028 136",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -16134,7 +16134,7 @@ const empresas = [
   },
   {
     "empresa": "PREVENCIONA CASTILLA LA MANCHA, S.L.",
-    "direccion": "Calle pintor solana s/n",
+    "direccion": "Calle solana 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -16147,7 +16147,7 @@ const empresas = [
   },
   {
     "empresa": "ZELESTRA INGENIERIA, S.L.U.",
-    "direccion": "Carretera n-420 km 140",
+    "direccion": "Carretera -420 km 00140",
     "localidad": "BRAZATORTAS",
     "cp": "13450",
     "provincia": "CIUDAD REAL",
@@ -16160,7 +16160,7 @@ const empresas = [
   },
   {
     "empresa": "BETA COMUNICACION Y DISEÑO, S.L.",
-    "direccion": "Polígono ind avanzado, avenida isaac peral 12",
+    "direccion": "Polígono avanzado, avenida isaac peral 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16173,7 +16173,7 @@ const empresas = [
   },
   {
     "empresa": "CIUDAD REAL EXPRESS DE MENSAJERIA, S.L.",
-    "direccion": "Calle romero 16",
+    "direccion": "Calle 00016",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -16186,7 +16186,7 @@ const empresas = [
   },
   {
     "empresa": "TECH PUBLISHING, S.L.",
-    "direccion": "Carretera de toledo (2-15) edif cumbria, of40200026",
+    "direccion": "Carretera toledo (2-15) edif cumbria, of40200026",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16199,7 +16199,7 @@ const empresas = [
   },
   {
     "empresa": "BOMBO COMUNICACION, S.L.",
-    "direccion": "Calle general aguilera 10",
+    "direccion": "Calle aguilera 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -16212,7 +16212,7 @@ const empresas = [
   },
   {
     "empresa": "CHARUCA WORLD, S.L.",
-    "direccion": "Calle curtidores 32",
+    "direccion": "Calle 00032",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -16225,7 +16225,7 @@ const empresas = [
   },
   {
     "empresa": "PARSINA INVESTMENTS S.L.",
-    "direccion": "Carretera valdepeñas km 4,850 s/n",
+    "direccion": "Carretera ñas km 4,850 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -16238,7 +16238,7 @@ const empresas = [
   },
   {
     "empresa": "JAVI CECI FOTOGRAFOS, S.L.",
-    "direccion": "Calle ruiz morote 1",
+    "direccion": "Calle morote 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -16251,7 +16251,7 @@ const empresas = [
   },
   {
     "empresa": "HERRANZ MINGUEZ VIRGINIA",
-    "direccion": "Calle recreo 54",
+    "direccion": "Calle 00054",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -16264,7 +16264,7 @@ const empresas = [
   },
   {
     "empresa": "INGENIERIA Y PREVENCION DE RIESGOS, S.L.",
-    "direccion": "Avenida de la ciencia (polig.ind.avanzado) 1",
+    "direccion": "Avenida la ciencia (polig.ind.avanzado) 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16277,7 +16277,7 @@ const empresas = [
   },
   {
     "empresa": "GLOBAL PREVENTIUM SOLUCIONES Y APLIC.PREV.RGOS.LAB.,S.L",
-    "direccion": "Avenida rey santo 21",
+    "direccion": "Avenida santo 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -16290,7 +16290,7 @@ const empresas = [
   },
   {
     "empresa": "MMC MANTENIMIENTOS, S.L.",
-    "direccion": "Calle hermanos galera 16",
+    "direccion": "Calle galera 00016",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -16303,7 +16303,7 @@ const empresas = [
   },
   {
     "empresa": "EUROPREVEN SERVICIOS PREVENCION RIESGOS LABORALES,S.L.",
-    "direccion": "Calle felipe ii 15",
+    "direccion": "Calle ii 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -16316,7 +16316,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS INTEGRALES A LA CADENA AGROALIMENTARIA, S.L.U",
-    "direccion": "Avenida criptana 43",
+    "direccion": "Avenida 00043",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -16329,7 +16329,7 @@ const empresas = [
   },
   {
     "empresa": "TUV SUD IBERIA, SAU",
-    "direccion": "Calle socuellamos 26",
+    "direccion": "Calle 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16342,7 +16342,7 @@ const empresas = [
   },
   {
     "empresa": "ASPY PREVENCION S.L.U",
-    "direccion": "Carretera de carrion ed. altam s/n",
+    "direccion": "Carretera carrion ed. altam 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -16355,7 +16355,7 @@ const empresas = [
   },
   {
     "empresa": "CUAS MANCHA OCCIDENTALII",
-    "direccion": "Avenida de la tecnologia \"pº emilio castro\" 25 21",
+    "direccion": "Avenida la tecnologia \"pº emilio castro\" 00025 21",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -16368,7 +16368,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOTRANSPORTE TURISTICO ESPAÑOL, S.A.",
-    "direccion": "Avenida europa s/n 2",
+    "direccion": "Avenida 00000 2",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16381,7 +16381,7 @@ const empresas = [
   },
   {
     "empresa": "SEBECA CIUDAD REAL, S.L.",
-    "direccion": "Calle cordel de las merinas 74",
+    "direccion": "Calle de las merinas 000074",
     "localidad": "CIUDAD REAL",
     "cp": "13197",
     "provincia": "CIUDAD REAL",
@@ -16394,7 +16394,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES CARBEN Y SERVICIOS DE ALQUILER, S.L.",
-    "direccion": "Calle campo 85",
+    "direccion": "Calle 00085",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -16407,7 +16407,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOBOMBAS PENINSULAR S.L.",
-    "direccion": "Calle manzanares 10",
+    "direccion": "Calle 00010",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -16420,7 +16420,7 @@ const empresas = [
   },
   {
     "empresa": "MATECO ALQUILER DE MAQUINARIA S.L.U.",
-    "direccion": "Polígono manzanares r208, cl industrial iii 85",
+    "direccion": "Polígono r208, cl industrial iii 00085",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -16433,7 +16433,7 @@ const empresas = [
   },
   {
     "empresa": "MAQUINARIA Y SERVICIOS GARMO, S.L.",
-    "direccion": "Calle islas canarias 6",
+    "direccion": "Calle canarias 00006",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -16446,7 +16446,7 @@ const empresas = [
   },
   {
     "empresa": "CENAVENTIC SOCIEDAD LIMITADA",
-    "direccion": "Carretera cozar 35",
+    "direccion": "Carretera 00035",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -16459,7 +16459,7 @@ const empresas = [
   },
   {
     "empresa": "ALARCOS VIDEO, S.L.",
-    "direccion": "Calle tetuan 3",
+    "direccion": "Calle 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -16472,7 +16472,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO FC MEDIA, S.L",
-    "direccion": "Calle valencia s/n",
+    "direccion": "Calle 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -16485,7 +16485,7 @@ const empresas = [
   },
   {
     "empresa": "GEFISA GESTION, S.L.",
-    "direccion": "Calle seis de junio 113",
+    "direccion": "Calle de junio 00113",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -16498,7 +16498,7 @@ const empresas = [
   },
   {
     "empresa": "ACAI CULTURA OCIO Y FORMACION, S.L.L.",
-    "direccion": "Calle cardenal monescillo 15",
+    "direccion": "Calle monescillo 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -16511,7 +16511,7 @@ const empresas = [
   },
   {
     "empresa": "PRESTIMA,S.L.",
-    "direccion": "Calle antonio blazquez s/n 22",
+    "direccion": "Calle blazquez 00000 22",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -16524,7 +16524,7 @@ const empresas = [
   },
   {
     "empresa": "ARTRAVEL 2012, S.L.",
-    "direccion": "Calle misionero eusebio ortega 9",
+    "direccion": "Calle eusebio ortega 00009",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -16537,7 +16537,7 @@ const empresas = [
   },
   {
     "empresa": "FLEXIPLAN S.A. E.T.T.",
-    "direccion": "Carretera valdepeñas 17",
+    "direccion": "Carretera ñas 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16550,7 +16550,7 @@ const empresas = [
   },
   {
     "empresa": "MANPOWER TEAM ETT S.A.",
-    "direccion": "Carretera toledo 26 3",
+    "direccion": "Carretera 00026 3",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16563,7 +16563,7 @@ const empresas = [
   },
   {
     "empresa": "IMAN TEMPORING E.T.T. S.L.",
-    "direccion": "Carretera toledo 26 32",
+    "direccion": "Carretera 00026 32",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16576,7 +16576,7 @@ const empresas = [
   },
   {
     "empresa": "EUROFIRMS ETT, S.L.U.",
-    "direccion": "Calle toledo 26 52",
+    "direccion": "Calle 00026 52",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16589,7 +16589,7 @@ const empresas = [
   },
   {
     "empresa": "VIAJES CERVANTES, S.A.",
-    "direccion": "Calle montesa, entrada plaza pilar 1",
+    "direccion": "Calle , entrada plaza pilar 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -16602,7 +16602,7 @@ const empresas = [
   },
   {
     "empresa": "CIUSEGUR, S.L.",
-    "direccion": "Avenida del vino 53 b",
+    "direccion": "Avenida vino 00053 b",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -16615,7 +16615,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO CONTROL EMPRESA SEGURIDAD,S.A.",
-    "direccion": "Avenida d.antonio huertas 12",
+    "direccion": "Avenida huertas 00012",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -16628,7 +16628,7 @@ const empresas = [
   },
   {
     "empresa": "VIGILANCIA INTEGRADA DEL SUR SL",
-    "direccion": "Calle ronda de la mata 15 1 c",
+    "direccion": "Calle de la mata 00015 1 c",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -16641,7 +16641,7 @@ const empresas = [
   },
   {
     "empresa": "INNOVATIVE SECURITY CONCEPT SOCIEDAD LIMITADA",
-    "direccion": "Carretera de porzuna 1",
+    "direccion": "Carretera porzuna 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16654,7 +16654,7 @@ const empresas = [
   },
   {
     "empresa": "ASISTENCIA Y SEGURIDAD ESPAÑA, SOCIEDAD LIMITADA",
-    "direccion": "Calle peru esquina puerto rico 4",
+    "direccion": "Calle esquina puerto rico 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16667,7 +16667,7 @@ const empresas = [
   },
   {
     "empresa": "PULMAN SECURITY SL",
-    "direccion": "Lugar psfv brazatortas 2 s/n",
+    "direccion": "Lugar brazatortas 2 00000",
     "localidad": "BRAZATORTAS",
     "cp": "13450",
     "provincia": "CIUDAD REAL",
@@ -16680,7 +16680,7 @@ const empresas = [
   },
   {
     "empresa": "COMPAÑIA DE SEGURIDAD OMEGA S.A.",
-    "direccion": "Avenida quero 51",
+    "direccion": "Avenida 00051",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -16693,7 +16693,7 @@ const empresas = [
   },
   {
     "empresa": "SECURITAS DIRECT ESPAÑA, S.A.",
-    "direccion": "Avenida de europa, local 2 15",
+    "direccion": "Avenida europa, local 2 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16706,7 +16706,7 @@ const empresas = [
   },
   {
     "empresa": "CALIDAD Y VERIFICACION EN INSTALACIONES SAU",
-    "direccion": "Carretera comarcal 400, km,127 s/n",
+    "direccion": "Carretera 400, km,127 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -16719,7 +16719,7 @@ const empresas = [
   },
   {
     "empresa": "CIP CONTRAINCENDIOS Y SEGURIDAD, S.L.U.",
-    "direccion": "Polígono el cabezuelo ii, parc. 63 s/n",
+    "direccion": "Polígono cabezuelo ii, parc. 63 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -16732,7 +16732,7 @@ const empresas = [
   },
   {
     "empresa": "LAYSAN SEGURIDAD,S.L.",
-    "direccion": "Avenida herencia 20bj",
+    "direccion": "Avenida 00020bj",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -16745,7 +16745,7 @@ const empresas = [
   },
   {
     "empresa": "COMUNITELIA SEGURIDAD, SOCIEDAD LIMITADA",
-    "direccion": "Carretera argamasilla de alba km 0.7 s/n",
+    "direccion": "Carretera de alba km 0.7 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -16758,7 +16758,7 @@ const empresas = [
   },
   {
     "empresa": "VIGILIA GLOBAL SEGURIDAD, SL",
-    "direccion": "Cm almodovar a argamasilla s/n",
+    "direccion": "Camino almodovar a argamasilla 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -16771,7 +16771,7 @@ const empresas = [
   },
   {
     "empresa": "FULTON SERVICIOS INTEGRALES S.A.",
-    "direccion": "Carretera de argamasilla s/n",
+    "direccion": "Carretera argamasilla 00000",
     "localidad": "HERRERA DE LA MANCHA",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -16784,7 +16784,7 @@ const empresas = [
   },
   {
     "empresa": "ESC SERVICIOS GENERALES, S.L.",
-    "direccion": "Calle carretera de carrion 102",
+    "direccion": "Calle de carrion 00102",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -16797,7 +16797,7 @@ const empresas = [
   },
   {
     "empresa": "CIUNATUR HOTEL SL",
-    "direccion": "Avenida del vino 53 b",
+    "direccion": "Avenida vino 00053 b",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -16810,7 +16810,7 @@ const empresas = [
   },
   {
     "empresa": "IBERSERVICIOS 2019, SOCIEDAD LIMITADA",
-    "direccion": "Calle prim 44 of4",
+    "direccion": "Calle 00044 of4",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -16823,7 +16823,7 @@ const empresas = [
   },
   {
     "empresa": "UTE EXPERTOS EN TECNICAS EXENTIS",
-    "direccion": "Carretera carretera de argamasilla s/n",
+    "direccion": "Carretera de argamasilla 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -16836,7 +16836,7 @@ const empresas = [
   },
   {
     "empresa": "INDEL FACILITIES S.A.",
-    "direccion": "Calle obispo rafael torija s/n",
+    "direccion": "Calle rafael torija 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16849,7 +16849,7 @@ const empresas = [
   },
   {
     "empresa": "REMICA, S.A",
-    "direccion": "Calle bocoy 13",
+    "direccion": "Calle 00013",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -16862,7 +16862,7 @@ const empresas = [
   },
   {
     "empresa": "MULTIGREMIOS Y SERVICIOS LA MANCHA S.L.",
-    "direccion": "Calle licenciado pero perez 24",
+    "direccion": "Calle pero perez 00024",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -16875,7 +16875,7 @@ const empresas = [
   },
   {
     "empresa": "MITIE FACILITIES SERVICES S.A.",
-    "direccion": "Lugar provincia de ciudad real s/n",
+    "direccion": "Lugar de ciudad real 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -16888,7 +16888,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO ABETO SERVICIOS INTEGRADOS S.A.",
-    "direccion": "Avenida rey santo of santa lucia 8",
+    "direccion": "Avenida santo of santa lucia 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -16901,7 +16901,7 @@ const empresas = [
   },
   {
     "empresa": "SERLIMANCHA, S.L.",
-    "direccion": "Calle toledo 57",
+    "direccion": "Calle 00057",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -16914,7 +16914,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS LA PALOMA, S.L.",
-    "direccion": "Calle norte 7 1 izq",
+    "direccion": "Calle 00007 1 izq",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -16927,7 +16927,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS PULIMANCHA S.L.",
-    "direccion": "Calle general espartero 26",
+    "direccion": "Calle espartero 00026",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -16940,7 +16940,7 @@ const empresas = [
   },
   {
     "empresa": "COOPERATIVA DE TRABAJO ASOCIADO LA ALEGRIA",
-    "direccion": "Calle herrera 12",
+    "direccion": "Calle 00012",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -16953,7 +16953,7 @@ const empresas = [
   },
   {
     "empresa": "CENCIBEL, S.COOP.",
-    "direccion": "Polígono la paz. calle uruguay 4",
+    "direccion": "Polígono paz. calle uruguay 00004",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -16966,7 +16966,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPISOL LIMPIEZAS S.L.",
-    "direccion": "Calle brezos 55",
+    "direccion": "Calle 00055",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -16979,7 +16979,7 @@ const empresas = [
   },
   {
     "empresa": "BARBA SANCHEZ SOLEDAD",
-    "direccion": "Rdla mata 9 c 2 b",
+    "direccion": "Ronda mata 00009 c 2 b",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -16992,7 +16992,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS JUAN DE AUSTRIA S.C.T.A. DE CASTILLA LA MANCH",
-    "direccion": "Calle moraleja 7",
+    "direccion": "Calle 00007",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -17005,7 +17005,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS JUMAR, S.L.",
-    "direccion": "Avenida ferrocarril 13 bj",
+    "direccion": "Avenida 00013 bajo",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -17018,7 +17018,7 @@ const empresas = [
   },
   {
     "empresa": "SAUCE SERVICIOS INTEGRALES, S.L",
-    "direccion": "Calle la solana, poligono larache 60",
+    "direccion": "Calle solana, poligono larache 00060",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17031,7 +17031,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION COMARCAL PRO CAPACIDAD DE LA SOLANA",
-    "direccion": "Calle trafalgar 13",
+    "direccion": "Calle 00013",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -17044,7 +17044,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS SERNIVAL, S.L.",
-    "direccion": "Calle torrecillas 48",
+    "direccion": "Calle 00048",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -17057,7 +17057,7 @@ const empresas = [
   },
   {
     "empresa": "SERVIFLOT, S.A.",
-    "direccion": "Carretera manzanares a daimiel klm 17,200 s/n",
+    "direccion": "Carretera a daimiel klm 17,200 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -17070,7 +17070,7 @@ const empresas = [
   },
   {
     "empresa": "ARTE GESTION AMBIENTAL, S.L.",
-    "direccion": "Polígono el cabezuelo 33",
+    "direccion": "Polígono cabezuelo 00033",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -17083,7 +17083,7 @@ const empresas = [
   },
   {
     "empresa": "SDAD. COOP. DE TRABAJO ASOCIADO DE C.L.M. (CORLIMAD)",
-    "direccion": "Calle juan carlos i 43",
+    "direccion": "Calle carlos i 00043",
     "localidad": "CORTIJOS (LOS)",
     "cp": "13427",
     "provincia": "CIUDAD REAL",
@@ -17096,7 +17096,7 @@ const empresas = [
   },
   {
     "empresa": "RAMIREZ LARA JOSEFA",
-    "direccion": "Calle alabarderos 44",
+    "direccion": "Calle 00044",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -17109,7 +17109,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS Y PULIDOS MANCHEGOS, S.L.",
-    "direccion": "Calle campo 43",
+    "direccion": "Calle 00043",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -17122,7 +17122,7 @@ const empresas = [
   },
   {
     "empresa": "PROYECTOS DE LIMPIEZA MANCHEGOS SL",
-    "direccion": "Calle luna 13",
+    "direccion": "Calle 00013",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -17135,7 +17135,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS PUERTA SANTA MARIA, S.L.",
-    "direccion": "Calle delicias 4 2ºa",
+    "direccion": "Calle 00004 2ºa",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -17148,7 +17148,7 @@ const empresas = [
   },
   {
     "empresa": "LEAL RODRIGUEZ ROSARIO",
-    "direccion": "Calle rinconada santa ana 9",
+    "direccion": "Calle santa ana 00009",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -17161,7 +17161,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS CIUDAD REAL S.L.",
-    "direccion": "Calle portugal 10",
+    "direccion": "Calle 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17174,7 +17174,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN SERRANO MONTEMAYOR ROSARIO",
-    "direccion": "Calle valdepeñas 11",
+    "direccion": "Calle ñas 00011",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -17187,7 +17187,7 @@ const empresas = [
   },
   {
     "empresa": "MOLINA ESCUDEROS MANUELA",
-    "direccion": "Calle misericordia 26",
+    "direccion": "Calle 00026",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -17200,7 +17200,7 @@ const empresas = [
   },
   {
     "empresa": "GONZALEZ MUÑOZ PRIMITIVO",
-    "direccion": "Calle virgen de begoña 33",
+    "direccion": "Calle de begoña 00033",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -17213,7 +17213,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS Y MANTENIMIENTOS JULIA, S.L.",
-    "direccion": "Calle dolores ibarruri 19",
+    "direccion": "Calle ibarruri 00019",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -17226,7 +17226,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS DE MANTENIMIENTO Y LIMPIEZA CASTOR, S.L.",
-    "direccion": "Avenida tablas de daimiel s/n",
+    "direccion": "Avenida de daimiel 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -17239,7 +17239,7 @@ const empresas = [
   },
   {
     "empresa": "CALAHORRA RUIZ RAFAEL",
-    "direccion": "Avenida europa 23",
+    "direccion": "Avenida 00023",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17252,7 +17252,7 @@ const empresas = [
   },
   {
     "empresa": "GESTION SANIDAD AMBIENTAL.S.L.U.",
-    "direccion": "Calle canteria 3",
+    "direccion": "Calle 00003",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -17265,7 +17265,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS EL QUIJOTE, S.L.",
-    "direccion": "Calle cencibel 13",
+    "direccion": "Calle 00013",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -17278,7 +17278,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ MOZOS CARRION JOSEFA",
-    "direccion": "Calle jacinto benavente 25 2 b",
+    "direccion": "Calle benavente 00025 2 b",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -17291,7 +17291,7 @@ const empresas = [
   },
   {
     "empresa": "GARNICA S.A.",
-    "direccion": "Calle numancia 27",
+    "direccion": "Calle 00027",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -17304,7 +17304,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ MEJIAS LOURDES MARIA",
-    "direccion": "Calle juan antonio giraldo 2 1 2 a",
+    "direccion": "Calle antonio giraldo 00002 1 2 a",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -17317,7 +17317,7 @@ const empresas = [
   },
   {
     "empresa": "ICR GESTICOMSA,S.L.U.",
-    "direccion": "Calle camino de la guija 23 0101b",
+    "direccion": "Calle de la guija 00023 0101b",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17330,7 +17330,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS BARCINO S.A.",
-    "direccion": "Calle itinerante s/n",
+    "direccion": "Calle 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -17343,7 +17343,7 @@ const empresas = [
   },
   {
     "empresa": "ACCESA CENTRO ESPECIAL DE EMPLEO, S.L.",
-    "direccion": "Calle frude 18",
+    "direccion": "Calle 00018",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -17356,7 +17356,7 @@ const empresas = [
   },
   {
     "empresa": "GLOBAL DE SERVICIOS CIUDAD REAL",
-    "direccion": "Carretera toledo 26",
+    "direccion": "Carretera 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17369,7 +17369,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS Y SERVICIOS SALAMANCA, S.A.",
-    "direccion": "Calle gran maestre 2",
+    "direccion": "Calle maestre 00002",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -17382,7 +17382,7 @@ const empresas = [
   },
   {
     "empresa": "COMSA AUXILIARY SOLUTIONS,SLU",
-    "direccion": "Calle industria 3",
+    "direccion": "Calle 00003",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -17395,7 +17395,7 @@ const empresas = [
   },
   {
     "empresa": "LYMPER LIMP, S.L.",
-    "direccion": "Calle luz 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -17408,7 +17408,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTROSERVICIOS BELLON PARRA S",
-    "direccion": "Calle alabarderos 44",
+    "direccion": "Calle 00044",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -17421,7 +17421,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZA Y MANTENIMIENTO DE CENTROS EDUCATIVOS S.L.",
-    "direccion": "Paseo carlos eraña 19",
+    "direccion": "Paseo eraña 00019",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -17434,7 +17434,7 @@ const empresas = [
   },
   {
     "empresa": "GONZALEZ GONZALEZ ALEJA MARIA DOLORES",
-    "direccion": "Calle mediodia 1",
+    "direccion": "Calle 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -17447,7 +17447,7 @@ const empresas = [
   },
   {
     "empresa": "CASTEMANCHA DE CONSTRUCCIONES, SOCIEDAD LIMITADA",
-    "direccion": "Calle manterola 44",
+    "direccion": "Calle 00044",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -17460,7 +17460,7 @@ const empresas = [
   },
   {
     "empresa": "MULTISERVICIOS INTEGRALES JMEP, SOCIEDAD LIMITADA",
-    "direccion": "Calle cañas s/n 4 g",
+    "direccion": "Calle ñas 00000 4 g",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -17473,7 +17473,7 @@ const empresas = [
   },
   {
     "empresa": "JESANG LIMPIEZAS CLM, SOCIEDAD LIMITADA",
-    "direccion": "Calle villanueva de san carlos 28",
+    "direccion": "Calle de san carlos 00028",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -17486,7 +17486,7 @@ const empresas = [
   },
   {
     "empresa": "LINTON GREY, S.L.",
-    "direccion": "Rdde toledo 21",
+    "direccion": "Ronda toledo 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -17499,7 +17499,7 @@ const empresas = [
   },
   {
     "empresa": "PAROVESA INGENIERIA, ARQUITECTURA Y SERVICIOS SL",
-    "direccion": "Rdmanuel clemente 1",
+    "direccion": "Ronda clemente 00001",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -17512,7 +17512,7 @@ const empresas = [
   },
   {
     "empresa": "ESPAL SERVICIOS INTEGRALES, SOCIEDAD LIMITADA",
-    "direccion": "Calle real 13 2 b",
+    "direccion": "Calle 00013 2 b",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -17525,7 +17525,7 @@ const empresas = [
   },
   {
     "empresa": "SERVILIMPIO PROFESIONAL, S.L",
-    "direccion": "Avenida de los institutos 6 1 a",
+    "direccion": "Avenida los institutos 00006 1 a",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -17538,7 +17538,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS ECOLOGICOS MANCHEGOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle cristo rey 8",
+    "direccion": "Calle rey 00008",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -17551,7 +17551,7 @@ const empresas = [
   },
   {
     "empresa": "BALTAN SOSA ANIELA ARMICEN",
-    "direccion": "Calle maria pacheco 30 b",
+    "direccion": "Calle pacheco 00030 b",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -17564,7 +17564,7 @@ const empresas = [
   },
   {
     "empresa": "INNO GRUPO GESTION Y SERVICIOS SL",
-    "direccion": "Calle 965464459 1",
+    "direccion": "Calle 965464459 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17577,7 +17577,7 @@ const empresas = [
   },
   {
     "empresa": "EMPLEDIS MURCIA SL",
-    "direccion": "Calle antonio blazquez 105",
+    "direccion": "Calle blazquez 00105",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -17590,7 +17590,7 @@ const empresas = [
   },
   {
     "empresa": "EUROPEA DE SERVICIOS BLANCO SL",
-    "direccion": "Calle monte 65 3 a",
+    "direccion": "Calle 00065 3 a",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -17603,7 +17603,7 @@ const empresas = [
   },
   {
     "empresa": "FERRONOL SERVICIO INTEGRAL DE PRECISION SL",
-    "direccion": "Calle francia 7",
+    "direccion": "Calle 00007",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -17616,7 +17616,7 @@ const empresas = [
   },
   {
     "empresa": "LPC LIMPIEZA Y PINTURA PROFESIONAL, SOCIEDAD LIMITADA",
-    "direccion": "Avenida antonio huertas 143 4 1 a",
+    "direccion": "Avenida huertas 00143 4 1 a",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -17629,7 +17629,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ DONATE JOSE",
-    "direccion": "Paseo castilla la mancha 13",
+    "direccion": "Paseo la mancha 00013",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -17642,7 +17642,7 @@ const empresas = [
   },
   {
     "empresa": "A Y S GESTION, GESACT, SOCIEDAD LIMITADA",
-    "direccion": "Calle isaac peral 155 bj",
+    "direccion": "Calle peral 000155 bajo",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -17655,7 +17655,7 @@ const empresas = [
   },
   {
     "empresa": "GENERA QUATRO S.L.",
-    "direccion": "Calle greco 3",
+    "direccion": "Calle 00003",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -17668,7 +17668,7 @@ const empresas = [
   },
   {
     "empresa": "AF MAFINCA, S.L.",
-    "direccion": "Calle paloma 18 1 a",
+    "direccion": "Calle 00018 1 a",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -17681,7 +17681,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTROCALL SOLUTIONS, SOCIEDAD LIMITADA",
-    "direccion": "Calle guarnicioneros 10",
+    "direccion": "Calle 00010",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -17694,7 +17694,7 @@ const empresas = [
   },
   {
     "empresa": "GESTION DE PACIENTES QUIRONSALUD SLU",
-    "direccion": "Calle doctor gonzález merlo s/n",
+    "direccion": "Calle gonzález merlo 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -17707,7 +17707,7 @@ const empresas = [
   },
   {
     "empresa": "POMONA KEEPERS, S.L.U.",
-    "direccion": "Polígono industrial, calle xv parcela r-114 s/n bj",
+    "direccion": "Polígono , calle xv parcela r-114 00000 bajo",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -17720,7 +17720,7 @@ const empresas = [
   },
   {
     "empresa": "LA NAVA EVENTOS, S.L.",
-    "direccion": "Lugar finca barranco de la gomera s/n",
+    "direccion": "Lugar barranco de la gomera 00000",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -17733,7 +17733,7 @@ const empresas = [
   },
   {
     "empresa": "CONGELADOS VALENTINA; S:L:",
-    "direccion": "Calle don quijote 7",
+    "direccion": "Calle quijote 00007",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -17746,7 +17746,7 @@ const empresas = [
   },
   {
     "empresa": "TELIOS LOGISTICA, S.L.",
-    "direccion": "Carretera manzanares-arenas de san juan km.20 s/n",
+    "direccion": "Carretera -arenas de san juan km.20 00000",
     "localidad": "LABORES, LAS",
     "cp": "13660",
     "provincia": "CIUDAD REAL",
@@ -17759,7 +17759,7 @@ const empresas = [
   },
   {
     "empresa": "ROMAIVE, S.L.",
-    "direccion": "Polígono industrial alces parcela 23",
+    "direccion": "Polígono alces parcela 00023",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -17772,7 +17772,7 @@ const empresas = [
   },
   {
     "empresa": "INFRAESTRUCTURA DE LA FERIA Y EL ESPECTACULO, S.A.",
-    "direccion": "Carretera carrion km 243 nave 136 s/n",
+    "direccion": "Carretera km 243 nave 136 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17785,7 +17785,7 @@ const empresas = [
   },
   {
     "empresa": "RANDSTAND SALES AND TRADE SERVICES",
-    "direccion": "Lugar complejo industrial s/n",
+    "direccion": "Lugar industrial 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -17798,7 +17798,7 @@ const empresas = [
   },
   {
     "empresa": "EXPERTOS EN SOLUCIONES EMPRESARIALES D&J, S.L.",
-    "direccion": "Avenida de la vereda, local 2 46",
+    "direccion": "Avenida la vereda, local 2 00046",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -17811,7 +17811,7 @@ const empresas = [
   },
   {
     "empresa": "RECURSOS EN PUNTO DE VENTA, S.L.",
-    "direccion": "Plaza palacio 7",
+    "direccion": "Plaza 00007",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -17824,7 +17824,7 @@ const empresas = [
   },
   {
     "empresa": "INCATEMA, S.L.",
-    "direccion": "Carretera porzuna 4/poligono 204/parcela 177 4",
+    "direccion": "Carretera 4/poligono 204/parcela 177 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17837,7 +17837,7 @@ const empresas = [
   },
   {
     "empresa": "SOLARIG GESTION Y EXPLOTACION SL",
-    "direccion": "Carretera castilla la mancha cn 4114 km 4, 7 s/n",
+    "direccion": "Carretera la mancha cn 4114 km 4, 7 00000",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -17850,7 +17850,7 @@ const empresas = [
   },
   {
     "empresa": "ILUNION OUTSOURCING S.A.U.",
-    "direccion": "Avenida europa 1",
+    "direccion": "Avenida 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17863,7 +17863,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO BARAHONA INVERSIONES, SOCIEDAD LIMITADA",
-    "direccion": "Calle ronda del trenillo 15",
+    "direccion": "Calle del trenillo 00015",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -17876,7 +17876,7 @@ const empresas = [
   },
   {
     "empresa": "SUMA SOCIAL Y SERVICIOS S.L.U",
-    "direccion": "Calle centro itinerante s/n",
+    "direccion": "Calle itinerante 00000",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -17889,7 +17889,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ FERNANDEZ GABRIEL ANTONIO",
-    "direccion": "Calle capitan fillol 19",
+    "direccion": "Calle fillol 00019",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -17902,7 +17902,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO ELEMENTAL SPORTIA DE CIUDAD REAL",
-    "direccion": "Calle enebro 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -17915,7 +17915,7 @@ const empresas = [
   },
   {
     "empresa": "PARENTE RAMIREZ CARLOS",
-    "direccion": "Avenida tablas de daimiel s/n",
+    "direccion": "Avenida de daimiel 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -17928,7 +17928,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA BALTASAR RUIZ FRANCISCO",
-    "direccion": "Calle torrecilla 14",
+    "direccion": "Calle 00014",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -17941,7 +17941,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO TU SALUD, SOCIEDAD LIMITADA",
-    "direccion": "Calle humilladero 47",
+    "direccion": "Calle 00047",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -17954,7 +17954,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO BASICO ESCUELA DE FUTBOL VALDEPEÑAS",
-    "direccion": "Calle molineta s/n",
+    "direccion": "Calle 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -17967,7 +17967,7 @@ const empresas = [
   },
   {
     "empresa": "MOHINO MACARENO MARIA CARMEN",
-    "direccion": "Calle clavel 4 loc",
+    "direccion": "Calle 00004 loc",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -17980,7 +17980,7 @@ const empresas = [
   },
   {
     "empresa": "GESTIONAMUSICA PUERTOLLANO, S.L.",
-    "direccion": "Avenida primero de mayo (edif.tauro) 1 ep",
+    "direccion": "Avenida de mayo (edif.tauro) 00001 ep",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -17993,7 +17993,7 @@ const empresas = [
   },
   {
     "empresa": "MERINO LOPEZ DE LA FRANCA DAVID",
-    "direccion": "Pjde la merced 1",
+    "direccion": "Pasaje la merced 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -18006,7 +18006,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN MOLINA FEDERICO",
-    "direccion": "Calle de la paz 4",
+    "direccion": "Calle la paz 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -18019,7 +18019,7 @@ const empresas = [
   },
   {
     "empresa": "AGRUPACION MUSICAL SANTA CECILIA",
-    "direccion": "Calle cervaantes 61",
+    "direccion": "Calle 00061",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -18032,7 +18032,7 @@ const empresas = [
   },
   {
     "empresa": "ACADEMIC MUSIC LIFE, S.L",
-    "direccion": "Avenida tablas de daimiel 19",
+    "direccion": "Avenida de daimiel 00019",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18045,7 +18045,7 @@ const empresas = [
   },
   {
     "empresa": "PARENTE RAMIREZ CARLOS",
-    "direccion": "Calle giron 2",
+    "direccion": "Calle 00002",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -18058,7 +18058,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC MUSICAL D. JOSE GRACIA SANCHEZ",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -18071,7 +18071,7 @@ const empresas = [
   },
   {
     "empresa": "LA ESPADA PRODUCCIONES CERO NOVENTA Y NUEVE,S.L.U",
-    "direccion": "Calle reino unido 4",
+    "direccion": "Calle unido 00004",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -18084,7 +18084,7 @@ const empresas = [
   },
   {
     "empresa": "PROYECTO EMPRESARIAL LA MANCHA S",
-    "direccion": "Calle pozo 15",
+    "direccion": "Calle 00015",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -18097,7 +18097,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCCIONES ALBERCA, S.L.",
-    "direccion": "Calle los tulipanes 44",
+    "direccion": "Calle tulipanes 00044",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -18110,7 +18110,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS PUBLICAS ASLAN S.L",
-    "direccion": "Calle arroyo 15",
+    "direccion": "Calle 00015",
     "localidad": "BALLESTEROS DE CALATRAVA",
     "cp": "13432",
     "provincia": "CIUDAD REAL",
@@ -18123,7 +18123,7 @@ const empresas = [
   },
   {
     "empresa": "BINSAVO, S.A.",
-    "direccion": "Calle ruiz morote 5",
+    "direccion": "Calle morote 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -18136,7 +18136,7 @@ const empresas = [
   },
   {
     "empresa": "RECREATIVOS MANCHEGOS, S.L.",
-    "direccion": "Carretera nacional 420 km 286",
+    "direccion": "Carretera 420 km 00286",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -18149,7 +18149,7 @@ const empresas = [
   },
   {
     "empresa": "P. ARIAS 97, S.A.",
-    "direccion": "Calle pedro arias, s/n s/n",
+    "direccion": "Calle arias, s/n 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -18162,7 +18162,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOMATICOS ORENES, S.L.",
-    "direccion": "Polígono ind ctra carrion 126",
+    "direccion": "Polígono ctra carrion 00126",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18175,7 +18175,7 @@ const empresas = [
   },
   {
     "empresa": "STAR JOKER S.L.",
-    "direccion": "Calle ancha 48",
+    "direccion": "Calle 00048",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -18188,7 +18188,7 @@ const empresas = [
   },
   {
     "empresa": "LOCOMATIC, S.L.",
-    "direccion": "Calle colon 60",
+    "direccion": "Calle 00060",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -18201,7 +18201,7 @@ const empresas = [
   },
   {
     "empresa": "CR PLAY SL",
-    "direccion": "Avenida lagunas de ruidera 2",
+    "direccion": "Avenida de ruidera 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -18214,7 +18214,7 @@ const empresas = [
   },
   {
     "empresa": "PLAY ORENES, S.L.",
-    "direccion": "Calle benedicto antequera 10",
+    "direccion": "Calle antequera 00010",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -18227,7 +18227,7 @@ const empresas = [
   },
   {
     "empresa": "TEO SERVICIOS COMPARTIDOS CENTRO SL",
-    "direccion": "Carretera carrion 124",
+    "direccion": "Carretera 00124",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18240,7 +18240,7 @@ const empresas = [
   },
   {
     "empresa": "PATRONATO MUNICIPAL DE DEPORTES",
-    "direccion": "Plaza españa 5",
+    "direccion": "Plaza ña 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -18253,7 +18253,7 @@ const empresas = [
   },
   {
     "empresa": "PATRONATO MUNICIPAL DE DEPORTES",
-    "direccion": "Plaza españa 5",
+    "direccion": "Plaza ña 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -18266,7 +18266,7 @@ const empresas = [
   },
   {
     "empresa": "PATRONATO MUNICIPAL DE DEPORTES DE PUERTOLLANO",
-    "direccion": "Calle malagon s/n",
+    "direccion": "Calle 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -18279,7 +18279,7 @@ const empresas = [
   },
   {
     "empresa": "NUDOS PADEL CIUDAD REAL,S.L",
-    "direccion": "Carretera nacional 430 km 304 s/n",
+    "direccion": "Carretera 430 km 304 00000",
     "localidad": "POBLACHUELA, LA",
     "cp": "13197",
     "provincia": "CIUDAD REAL",
@@ -18292,7 +18292,7 @@ const empresas = [
   },
   {
     "empresa": "LA MOLINETA AGUA Y SALUD, S.L.",
-    "direccion": "Calle guardia civil s/n",
+    "direccion": "Calle civil 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -18305,7 +18305,7 @@ const empresas = [
   },
   {
     "empresa": "ALTHEA PADEL X CENTRO DEPORTIVO",
-    "direccion": "Calle asturias s/n",
+    "direccion": "Calle 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -18318,7 +18318,7 @@ const empresas = [
   },
   {
     "empresa": "FRAGOSO MATOS,S.L.",
-    "direccion": "Carretera playas vicario-complejo deportivo- s/n",
+    "direccion": "Carretera vicario-complejo deportivo- 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18331,7 +18331,7 @@ const empresas = [
   },
   {
     "empresa": "MASQUE GESTION Y DESARROLLO, S.L.",
-    "direccion": "Calle guadiana 14",
+    "direccion": "Calle 00014",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -18344,7 +18344,7 @@ const empresas = [
   },
   {
     "empresa": "SPORTS TEMPLES SOCIEDAD LIMITADA",
-    "direccion": "Carretera de argamasilla esquina hernán cortes108",
+    "direccion": "Carretera argamasilla esquina hernán cortes00108",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -18357,7 +18357,7 @@ const empresas = [
   },
   {
     "empresa": "GESPROM INTEGRAL CLUB DE CAMPO EL VICARIO S.L.",
-    "direccion": "Carretera toledo nacional 420 km180 s/n",
+    "direccion": "Carretera nacional 420 km180 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18370,7 +18370,7 @@ const empresas = [
   },
   {
     "empresa": "DON QUIJOTE ESCUELA DE PADEL Y TENIS, SOCIEDAD LIMITADA",
-    "direccion": "Carretera nacional 430 304",
+    "direccion": "Carretera 430 00304",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18383,7 +18383,7 @@ const empresas = [
   },
   {
     "empresa": "VALENCIA GARCIA SOTO MARIA JESUS",
-    "direccion": "Calle dulcinea 6",
+    "direccion": "Calle 00006",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -18396,7 +18396,7 @@ const empresas = [
   },
   {
     "empresa": "SYNERGYM HOLDING, S.L.",
-    "direccion": "Ru. ciruela 5",
+    "direccion": "Ru. ciruela 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -18409,7 +18409,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DE TENIS ALCAZAR",
-    "direccion": "Calle lanzarote, s/n apdo. 140 s/n",
+    "direccion": "Calle , s/n apdo. 140 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -18422,7 +18422,7 @@ const empresas = [
   },
   {
     "empresa": "CD FUTBOL SALA CIUDAD DEL VINO",
-    "direccion": "Avenida del sur-oficinas de deporte sn s/n",
+    "direccion": "Avenida sur-oficinas de deporte sn 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -18435,7 +18435,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB COMPLEJO DEPORTIVO DE TOMELLOSO",
-    "direccion": "Calle carretera toledo-albacete 130",
+    "direccion": "Calle toledo-albacete 00130",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -18448,7 +18448,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO BASICO CALVO SOTELO DE PUERTOLLANO",
-    "direccion": "Calle soledad 4 l 2",
+    "direccion": "Calle 00004 l 2",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -18461,7 +18461,7 @@ const empresas = [
   },
   {
     "empresa": "UNION DEPORTIVA SOCUELLAMOS CLUB DE FUTBOL.",
-    "direccion": "Calle deportes 5",
+    "direccion": "Calle 00005",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -18474,7 +18474,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO DE OCIO LA PISTA SL",
-    "direccion": "Carretera de puertollano 37",
+    "direccion": "Carretera puertollano 00037",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -18487,7 +18487,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO DE TENIS Y PÁDEL CIUDAD REAL",
-    "direccion": "Avenida descubrimiento de américa 23",
+    "direccion": "Avenida de américa 00023",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -18500,7 +18500,7 @@ const empresas = [
   },
   {
     "empresa": "ATHLETIC CLUB VALDEPEÑAS",
-    "direccion": "Calle molineta sn s/n",
+    "direccion": "Calle sn 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -18513,7 +18513,7 @@ const empresas = [
   },
   {
     "empresa": "CIUDAD REAL FUTBOL CLUB",
-    "direccion": "Calle juan ramon jimenez 4",
+    "direccion": "Calle ramon jimenez 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -18526,7 +18526,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO ELEMENTAL VOLEIBOL SOCUELLAMOS",
-    "direccion": "Calle humilladero 37",
+    "direccion": "Calle 00037",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -18539,7 +18539,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO BASICO CLUB BALON",
-    "direccion": "Carretera puertollano (quijote arena) km2 s/n",
+    "direccion": "Carretera (quijote arena) km2 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -18552,7 +18552,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEP BASICO MANZANARES FUTBO",
-    "direccion": "Calle perez galdos 34",
+    "direccion": "Calle galdos 00034",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -18565,7 +18565,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DE PORTIVO ASOCIACION DE CL",
-    "direccion": "Calle juventud s/n",
+    "direccion": "Calle 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -18578,7 +18578,7 @@ const empresas = [
   },
   {
     "empresa": "VIÑAXETAR VILLARRUBIA, C.F.",
-    "direccion": "Calle santander 3",
+    "direccion": "Calle 00003",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -18591,7 +18591,7 @@ const empresas = [
   },
   {
     "empresa": "CD BASKET CERVANTES",
-    "direccion": "Calle camino campillo sn s/n",
+    "direccion": "Calle campillo sn 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -18604,7 +18604,7 @@ const empresas = [
   },
   {
     "empresa": "GOLF CIUDAD REAL C.D.B",
-    "direccion": "Carretera toledo km 182 s/n",
+    "direccion": "Carretera km 182 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18617,7 +18617,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO BASICO BALONMANO POZUELO DE CALATRAVA",
-    "direccion": "Avenida nuestra señora de los santos 39",
+    "direccion": "Avenida señora de los santos 00039",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -18630,7 +18630,7 @@ const empresas = [
   },
   {
     "empresa": "CDE FUTBOL SALA LA SOLANA",
-    "direccion": "Calle agua 19",
+    "direccion": "Calle 00019",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -18643,7 +18643,7 @@ const empresas = [
   },
   {
     "empresa": "CDB BALONCESTO LA SOLANA",
-    "direccion": "Calle portillejo 13",
+    "direccion": "Calle 00013",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -18656,7 +18656,7 @@ const empresas = [
   },
   {
     "empresa": "CD FUTBOL SALA CIUDAD DEL VINO",
-    "direccion": "Avenida del sur oficina de deportes s/n",
+    "direccion": "Avenida sur oficina de deportes 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -18669,7 +18669,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO POZUELO JUNIOR",
-    "direccion": "Rdciruela 15",
+    "direccion": "Ronda 00015",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -18682,7 +18682,7 @@ const empresas = [
   },
   {
     "empresa": "TELLO TEBAR MARIA CARMEN",
-    "direccion": "Calle veracruz 21 bj",
+    "direccion": "Calle 00021 bajo",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -18695,7 +18695,7 @@ const empresas = [
   },
   {
     "empresa": "GYMTITANES SL",
-    "direccion": "Calle benefica 3",
+    "direccion": "Calle 00003",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -18708,7 +18708,7 @@ const empresas = [
   },
   {
     "empresa": "ORTIZ MUÑOZ JAVIER",
-    "direccion": "Calle alfonso eanes 12",
+    "direccion": "Calle eanes 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18721,7 +18721,7 @@ const empresas = [
   },
   {
     "empresa": "C. D. RITMICA ALEGRXA",
-    "direccion": "Calle santa teresa 29",
+    "direccion": "Calle teresa 00029",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -18734,7 +18734,7 @@ const empresas = [
   },
   {
     "empresa": "MERIDIAN FITNESS, SOCIEDAD LIMITADA",
-    "direccion": "Calle malagon 4",
+    "direccion": "Calle 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18747,7 +18747,7 @@ const empresas = [
   },
   {
     "empresa": "VITAL GROUP FN, SL",
-    "direccion": "Avenida isaac peral 4",
+    "direccion": "Avenida peral 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18760,7 +18760,7 @@ const empresas = [
   },
   {
     "empresa": "SALUS 2022, SOCIEDAD LIMITADA",
-    "direccion": "Paseo carlos eraña 36",
+    "direccion": "Paseo eraña 00036",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -18773,7 +18773,7 @@ const empresas = [
   },
   {
     "empresa": "GARDEN HOPE, S.L.",
-    "direccion": "Calle la solana 31",
+    "direccion": "Calle solana 00031",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -18786,7 +18786,7 @@ const empresas = [
   },
   {
     "empresa": "SPARTAN FITNESS CENTER, SOCIEDAD LIMITADA",
-    "direccion": "Calle segadores 22",
+    "direccion": "Calle 00022",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -18799,7 +18799,7 @@ const empresas = [
   },
   {
     "empresa": "KILIAN SPORT OCIO, SOCIEDAD LIMITADA",
-    "direccion": "Calle ramon y cajal 4",
+    "direccion": "Calle y cajal 00004",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -18812,7 +18812,7 @@ const empresas = [
   },
   {
     "empresa": "FISIOVITAL PUERTOLLANO SL",
-    "direccion": "Calle fuente 24",
+    "direccion": "Calle 00024",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -18825,7 +18825,7 @@ const empresas = [
   },
   {
     "empresa": "VIRAL CLUB DEPORTIVO, S.L",
-    "direccion": "Calle dehesa 26 b 2 a",
+    "direccion": "Calle 00026 b 2 a",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -18838,7 +18838,7 @@ const empresas = [
   },
   {
     "empresa": "JIMSECR, SOCIEDAD LIMITADA",
-    "direccion": "Avenida alfonso x el sabio 11",
+    "direccion": "Avenida x el sabio 00011",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -18851,7 +18851,7 @@ const empresas = [
   },
   {
     "empresa": "FEDERACION TERRITORIAL DE BALONCESTO CASTILLA LA MANCHA",
-    "direccion": "Calle francico de ocampo 1",
+    "direccion": "Calle de ocampo 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -18864,7 +18864,7 @@ const empresas = [
   },
   {
     "empresa": "EBONE SERVICIOS EDUCACION Y DEPORTE S.L.",
-    "direccion": "Calle malagon s/n",
+    "direccion": "Calle 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -18877,7 +18877,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO CIUDAD REAL",
-    "direccion": "Calle juan ramon jimenez 4bi",
+    "direccion": "Calle ramon jimenez 00004bi",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -18890,7 +18890,7 @@ const empresas = [
   },
   {
     "empresa": "BE FIT JJA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera andalucia 8",
+    "direccion": "Carretera 00008",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -18903,7 +18903,7 @@ const empresas = [
   },
   {
     "empresa": "INTERSERVI, S.A.",
-    "direccion": "Carretera nacional 420, km. 286 s/n",
+    "direccion": "Carretera 420, km. 286 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -18916,7 +18916,7 @@ const empresas = [
   },
   {
     "empresa": "INTERSERVI, S.A.",
-    "direccion": "Polígono la estrella c/ curtidores 22 nave 47",
+    "direccion": "Polígono estrella c/ curtidores 22 nave 00047",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -18929,7 +18929,7 @@ const empresas = [
   },
   {
     "empresa": "OCIO PALACIO DE LA SERNA, S.L.",
-    "direccion": "Calle cervantes 16",
+    "direccion": "Calle 00016",
     "localidad": "BALLESTEROS DE CALATRAVA",
     "cp": "13432",
     "provincia": "CIUDAD REAL",
@@ -18942,7 +18942,7 @@ const empresas = [
   },
   {
     "empresa": "TURISMO ACTIVO EN LA NATURALEZA Y DEPORTES MONTAÑA, S.L",
-    "direccion": "Calle calvo sotelo 53",
+    "direccion": "Calle sotelo 00053",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -18955,7 +18955,7 @@ const empresas = [
   },
   {
     "empresa": "D X T BASE SOCIEDAD COOP. DE ENSEÑANZA DE C.L.M",
-    "direccion": "Calle san gregorio 12 bj",
+    "direccion": "Calle gregorio 00012 bajo",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -18968,7 +18968,7 @@ const empresas = [
   },
   {
     "empresa": "NIEVES RECREATIVOS SL UNIPERSONA",
-    "direccion": "Calle vara del rey 92",
+    "direccion": "Calle del rey 00092",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -18981,7 +18981,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC LANTANA ATENCION SOCIAL Y PROMOCION SOCIOSANITARIA",
-    "direccion": "Calle olivo 8",
+    "direccion": "Calle 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -18994,7 +18994,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO ELEMENTAL",
-    "direccion": "Carretera piedrabuena s/n",
+    "direccion": "Carretera 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -19007,7 +19007,7 @@ const empresas = [
   },
   {
     "empresa": "RUIZ CABALLERO JESUS SALVADOR",
-    "direccion": "Calle quevedo 3",
+    "direccion": "Calle 00003",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -19020,7 +19020,7 @@ const empresas = [
   },
   {
     "empresa": "RUIZ RUIZ JOSE",
-    "direccion": "Calle alcantara 3 bjbar",
+    "direccion": "Calle 00003 bjbar",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -19033,7 +19033,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO OPTISERGO SL",
-    "direccion": "Calle emilio nieto 14",
+    "direccion": "Calle nieto 00014",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -19046,7 +19046,7 @@ const empresas = [
   },
   {
     "empresa": "GASOLEO HERMANOS 2022, SOCIEDAD LIMITADA",
-    "direccion": "Avenida primero de julio 52",
+    "direccion": "Avenida de julio 00052",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -19059,7 +19059,7 @@ const empresas = [
   },
   {
     "empresa": "HAHALAND CR, S.L.",
-    "direccion": "Carretera carrion 35",
+    "direccion": "Carretera 00035",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -19072,7 +19072,7 @@ const empresas = [
   },
   {
     "empresa": "SPORT CENTURY 21 DEPORTE Y OCIO, SOCIEDAD LIMITADA",
-    "direccion": "Calle malecon de santiago 27",
+    "direccion": "Calle de santiago 00027",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -19085,7 +19085,7 @@ const empresas = [
   },
   {
     "empresa": "OASIS PLAYA, S.L.",
-    "direccion": "Carretera puertollano 5",
+    "direccion": "Carretera 00005",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -19098,7 +19098,7 @@ const empresas = [
   },
   {
     "empresa": "COOP. AGRO-ALIMENTARIAS DE CLM - UNION DE COOPERATIVAS",
-    "direccion": "Avenida criptana 43",
+    "direccion": "Avenida 00043",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -19111,7 +19111,7 @@ const empresas = [
   },
   {
     "empresa": "CONFEDERACION REGIONAL EMPRESARIOS CASTILLA LA MANCHA",
-    "direccion": "Rdde la mata 1",
+    "direccion": "Ronda la mata 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -19124,7 +19124,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC. EMPR.DE CENTROS SOCIOSANIT.CATOLICOS CCAA. CLM",
-    "direccion": "Calle canalejas 8",
+    "direccion": "Calle 00008",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -19137,7 +19137,7 @@ const empresas = [
   },
   {
     "empresa": "OBISPADO PRIOR DE LAS ORDENES MILITARES",
-    "direccion": "Calle caballeros 5",
+    "direccion": "Calle 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19150,7 +19150,7 @@ const empresas = [
   },
   {
     "empresa": "OBISPADO PRIOR DE LAS ORDENES MILITARES",
-    "direccion": "Calle caballeros 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19163,7 +19163,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANAS DE LA COMPAÑIA DE LA CRUZ CURIA GENERAL",
-    "direccion": "Calle conde valmaseda 36",
+    "direccion": "Calle valmaseda 00036",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -19176,7 +19176,7 @@ const empresas = [
   },
   {
     "empresa": "CASA SACERDOTAL CIUDAD REAL",
-    "direccion": "Calle alarcos 20",
+    "direccion": "Calle 00020",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19189,7 +19189,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC.PROV.AFECTADOS SINDROME DE DOWN CAMINAR",
-    "direccion": "Plaza san francisco(apartado correos 200) 6 1 b",
+    "direccion": "Plaza francisco(apartado correos 200) 00006 1 b",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -19202,7 +19202,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC. DE FAMILIAS Y MUJERES DEL MEDIO RURAL",
-    "direccion": "Calle montesa 9 bjb",
+    "direccion": "Calle 00009 bjb",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19215,7 +19215,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACIÓN SALUD MENTAL CIUDAD REAL",
-    "direccion": "Rddel carmen s/n",
+    "direccion": "Ronda carmen 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -19228,7 +19228,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION CORAJE MALAGON",
-    "direccion": "Calle pintora gloria merino 6",
+    "direccion": "Calle gloria merino 00006",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -19241,7 +19241,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION DE FAMILIARES DE ENFERMOS DE ALZHEIMER",
-    "direccion": "Calle santa maria de alarcos 6",
+    "direccion": "Calle maria de alarcos 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -19254,7 +19254,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC DESARROLLO CABAÑEROS Y MONTES NORTE ENTREPARQUES",
-    "direccion": "Plaza mayor 1",
+    "direccion": "Plaza 00001",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -19267,7 +19267,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION LABORVALIA",
-    "direccion": "Plaza de la constitucion 1",
+    "direccion": "Plaza la constitucion 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19280,7 +19280,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION CULTURAL ALHAMBRA-TIERRA ROJA",
-    "direccion": "Plaza diputacion 3",
+    "direccion": "Plaza 00003",
     "localidad": "ALHAMBRA",
     "cp": "13248",
     "provincia": "CIUDAD REAL",
@@ -19293,7 +19293,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION DE MINUSVALIDOS FISICOS DE ALMAGRO",
-    "direccion": "Calle granada 14",
+    "direccion": "Calle 00014",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -19306,7 +19306,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC \"IN GENERO\" (INTERCULTURALIDAD Y GENERO)",
-    "direccion": "Calle caldereros 44",
+    "direccion": "Calle 00044",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -19319,7 +19319,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION JUAN IGNACIO GARCIA CARRION CORUJO",
-    "direccion": "Calle guarnicioneros s/n",
+    "direccion": "Calle 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -19332,7 +19332,7 @@ const empresas = [
   },
   {
     "empresa": "FEDERACION DE PLATAFORMAS SOCIALES PINARDI",
-    "direccion": "Avenida maria auxiliadora 18",
+    "direccion": "Avenida auxiliadora 00018",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -19345,7 +19345,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION CENTRO TECNOLOGICO METAL CASTILLA LA MANCHA",
-    "direccion": "Calle valle de alcudia s/n",
+    "direccion": "Calle de alcudia 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -19358,7 +19358,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC PARA NIÑOS CON NECESIDADES DE APOYO TE AYUDO",
-    "direccion": "Calle molinos de viento 21",
+    "direccion": "Calle de viento 00021",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -19371,7 +19371,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC DE ENFERMOS DE PARKINSON VI",
-    "direccion": "Calle madrid 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -19384,7 +19384,7 @@ const empresas = [
   },
   {
     "empresa": "CLUB DEPORTIVO BASICO BALONMANO PIO XII",
-    "direccion": "Calle sorolla 5 bjdrc",
+    "direccion": "Calle 00005 bjdrc",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -19397,7 +19397,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION ARTEMISAN",
-    "direccion": "Calle paz 10 bj",
+    "direccion": "Calle 00010 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -19410,7 +19410,7 @@ const empresas = [
   },
   {
     "empresa": "MOVIMIENTºPOR LA PAZ EL DESARME Y LA LIBERTAD DE MADRID",
-    "direccion": "Calle pozo dulce 16",
+    "direccion": "Calle dulce 00016",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19423,7 +19423,7 @@ const empresas = [
   },
   {
     "empresa": "LAVANDERIA INDUSTRIAL VILLANUEVA DE LOS INFANTES",
-    "direccion": "Calle pozo de las nieves s/n",
+    "direccion": "Calle de las nieves 00000",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -19436,7 +19436,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA JIMENEZ JESUS",
-    "direccion": "Calle alfred nobel 47",
+    "direccion": "Calle nobel 00047",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -19449,7 +19449,7 @@ const empresas = [
   },
   {
     "empresa": "LARA VILLAREJO CARMEN",
-    "direccion": "Calle feria 4 1",
+    "direccion": "Calle 00004 1",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -19462,7 +19462,7 @@ const empresas = [
   },
   {
     "empresa": "BARBERIA A MEDIDA, SOCIEDAD LIMITADA",
-    "direccion": "Calle paloma 20",
+    "direccion": "Calle 00020",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -19475,7 +19475,7 @@ const empresas = [
   },
   {
     "empresa": "ORGANIMAX BUSINESS, S.L.",
-    "direccion": "Calle lagunas de ruidera 18",
+    "direccion": "Calle de ruidera 00018",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -19488,7 +19488,7 @@ const empresas = [
   },
   {
     "empresa": "DEPILCLUB ESTETICA, S.L.",
-    "direccion": "Calle postas 4",
+    "direccion": "Calle 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19501,7 +19501,7 @@ const empresas = [
   },
   {
     "empresa": "DEPILCLUB CATALUÑA, S.L.",
-    "direccion": "Calle postas 4 1º",
+    "direccion": "Calle 00004 1º",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19514,7 +19514,7 @@ const empresas = [
   },
   {
     "empresa": "LITEC LASER INNOVATEC TECNOLOGY, S.L.",
-    "direccion": "Calle postas 4",
+    "direccion": "Calle 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19527,7 +19527,7 @@ const empresas = [
   },
   {
     "empresa": "NIEVES & NIEVES BELLEZA PUERTOLLANO, S.L.",
-    "direccion": "Calle ancha 22 bjdrc",
+    "direccion": "Calle 00022 bjdrc",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -19540,7 +19540,7 @@ const empresas = [
   },
   {
     "empresa": "BIENESTAR ANANDA, SOCIEDAD LIMITADA",
-    "direccion": "Calle doña crisanta 65",
+    "direccion": "Calle ña crisanta 00065",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -19553,7 +19553,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION PROVINCIAL CONTRA LAS TOXICOMANIAS",
-    "direccion": "Rdde alarcos 28",
+    "direccion": "Ronda alarcos 00028",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -19566,7 +19566,7 @@ const empresas = [
   },
   {
     "empresa": "AGROAMBIENTAL EL BULLAQUE, S.L.L.",
-    "direccion": "Calle camarin 5 1 c",
+    "direccion": "Calle 00005 1 c",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -19579,7 +19579,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION DE CATERING Y SERVICIOS DE LA TERCERA EDAD",
-    "direccion": "Calle rosario marquez 30",
+    "direccion": "Calle marquez 00030",
     "localidad": "CHILLON",
     "cp": "13412",
     "provincia": "CIUDAD REAL",
@@ -19592,7 +19592,7 @@ const empresas = [
   },
   {
     "empresa": "MANASLU MANCHA, SOCIEDAD LIMITADA",
-    "direccion": "Calle carlos vazquez 7",
+    "direccion": "Calle vazquez 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -19605,7 +19605,7 @@ const empresas = [
   },
   {
     "empresa": "CUEVALOSA, S.A.",
-    "direccion": "Lugar la cuevalosa 1",
+    "direccion": "Lugar cuevalosa 00001",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -19618,7 +19618,7 @@ const empresas = [
   },
   {
     "empresa": "LAS ENSANCHAS, S.A.",
-    "direccion": "Lugar finca las ensanchas 1",
+    "direccion": "Lugar las ensanchas 00001",
     "localidad": "TORRE DE JUAN ABAD",
     "cp": "13344",
     "provincia": "CIUDAD REAL",
@@ -19631,7 +19631,7 @@ const empresas = [
   },
   {
     "empresa": "DEHESA DE EL LOBILLO,S.A.",
-    "direccion": "Lugar finca el lobillo 1",
+    "direccion": "Lugar el lobillo 00001",
     "localidad": "ALHAMBRA",
     "cp": "13248",
     "provincia": "CIUDAD REAL",
@@ -19644,7 +19644,7 @@ const empresas = [
   },
   {
     "empresa": "MILLAS, S.A.T. Nº 7640",
-    "direccion": "Lugar finca doña ana, s/n s/n",
+    "direccion": "Lugar doña ana, s/n 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -19657,7 +19657,7 @@ const empresas = [
   },
   {
     "empresa": "LUANPER S.A.",
-    "direccion": "Lugar termino municipal alcazar san juan s/n",
+    "direccion": "Lugar municipal alcazar san juan 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -19670,7 +19670,7 @@ const empresas = [
   },
   {
     "empresa": "EXPLOTACIONES AGRICOLAS NAVALAVACA Y RETAMAR, S.A.",
-    "direccion": "Calle finca navalavaca, s/n 1",
+    "direccion": "Calle navalavaca, s/n 00001",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -19683,7 +19683,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ ALBARES FRANCO",
-    "direccion": "Calle bernabe huertas 40",
+    "direccion": "Calle huertas 00040",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -19696,7 +19696,7 @@ const empresas = [
   },
   {
     "empresa": "ANAYPA S.A.T. N 8947",
-    "direccion": "Carretera solana-villanueva de los infantes 15",
+    "direccion": "Carretera -villanueva de los infantes 00015",
     "localidad": "ALHAMBRA",
     "cp": "13248",
     "provincia": "CIUDAD REAL",
@@ -19709,7 +19709,7 @@ const empresas = [
   },
   {
     "empresa": "FINCA CABAÑAS, S.L.",
-    "direccion": "Calle finca cabañas s/n",
+    "direccion": "Calle cabañas 00000",
     "localidad": "VALENZUELA DE CALATRAVA",
     "cp": "13279",
     "provincia": "CIUDAD REAL",
@@ -19722,7 +19722,7 @@ const empresas = [
   },
   {
     "empresa": "CUARTO ALTO S.A.",
-    "direccion": "Calle finca sierra prieta, apartado 213 1",
+    "direccion": "Calle sierra prieta, apartado 213 00001",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -19735,7 +19735,7 @@ const empresas = [
   },
   {
     "empresa": "DIAZ GARAU, COM.B.",
-    "direccion": "Calle juan carlos i 43",
+    "direccion": "Calle carlos i 00043",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -19748,7 +19748,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS LA TORRE, S.L.",
-    "direccion": "Calle onesimo redondo 36",
+    "direccion": "Calle redondo 00036",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -19761,7 +19761,7 @@ const empresas = [
   },
   {
     "empresa": "SALCEDO POSADAS PEDRO IGNACIO",
-    "direccion": "Calle carrera 30",
+    "direccion": "Calle 00030",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -19774,7 +19774,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS MENDIETA, S.L.",
-    "direccion": "Lugar sierra del peral s/n",
+    "direccion": "Lugar del peral 00000",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -19787,7 +19787,7 @@ const empresas = [
   },
   {
     "empresa": "HNOS. MATEOS HIGUERA, S.L.",
-    "direccion": "Calle alhambra 67",
+    "direccion": "Calle 00067",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -19800,7 +19800,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA HNAS GIL VICO, S.L.",
-    "direccion": "Calle santa fe 61",
+    "direccion": "Calle fe 00061",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -19813,7 +19813,7 @@ const empresas = [
   },
   {
     "empresa": "BENITO MUÑOZ, COM.B.",
-    "direccion": "Calle iglesia 5",
+    "direccion": "Calle 00005",
     "localidad": "LLANOS DEL CAUDILLO",
     "cp": "13220",
     "provincia": "CIUDAD REAL",
@@ -19826,7 +19826,7 @@ const empresas = [
   },
   {
     "empresa": "ROECO INOX COMER.IND.MANCHEG",
-    "direccion": "Carretera argamasilla de alba km. 89 s/n",
+    "direccion": "Carretera de alba km. 89 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -19839,7 +19839,7 @@ const empresas = [
   },
   {
     "empresa": "RAGONOR, S.L.",
-    "direccion": "Calle los olivos 7",
+    "direccion": "Calle olivos 00007",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -19852,7 +19852,7 @@ const empresas = [
   },
   {
     "empresa": "S.A.T. LA NIÑA",
-    "direccion": "Carretera herencia-manzanar\"finca la niña\", km17",
+    "direccion": "Carretera -manzanar\"finca la niña\", km00017",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -19865,7 +19865,7 @@ const empresas = [
   },
   {
     "empresa": "INDOP ACTIVA, SL",
-    "direccion": "Carretera exp.cineg.monte fuent.crta.navalpino14",
+    "direccion": "Carretera fuent.crta.navalpino00014",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -19878,7 +19878,7 @@ const empresas = [
   },
   {
     "empresa": "LAS ENVIDIAS, S.COOP.AGRARIA CASTILLA LA MANCHA",
-    "direccion": "Calle los mayorales 2",
+    "direccion": "Calle mayorales 00002",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -19891,7 +19891,7 @@ const empresas = [
   },
   {
     "empresa": "AGROS DE BENITO Y BONILLO, S.L",
-    "direccion": "Carretera alcazar de san juan s/n",
+    "direccion": "Carretera de san juan 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -19904,7 +19904,7 @@ const empresas = [
   },
   {
     "empresa": "PEÑA TAJADA, S.L.",
-    "direccion": "Lugar finca la perdiguera s/n",
+    "direccion": "Lugar la perdiguera 00000",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -19917,7 +19917,7 @@ const empresas = [
   },
   {
     "empresa": "AGROMOBU, S.L.",
-    "direccion": "Calle monjas 13",
+    "direccion": "Calle 00013",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -19930,7 +19930,7 @@ const empresas = [
   },
   {
     "empresa": "GIGANTE NOVILLO BENITO",
-    "direccion": "Calle eras 6",
+    "direccion": "Calle 00006",
     "localidad": "SANTA CRUZ DE LOS CAÑAMO",
     "cp": "13327",
     "provincia": "CIUDAD REAL",
@@ -19943,7 +19943,7 @@ const empresas = [
   },
   {
     "empresa": "PATIÑO SAAVEDRA AURELIO ALEJAND",
-    "direccion": "Calle don quijote 2",
+    "direccion": "Calle quijote 00002",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -19956,7 +19956,7 @@ const empresas = [
   },
   {
     "empresa": "RIBERA JABALON, S.L.",
-    "direccion": "Carretera carrion 9",
+    "direccion": "Carretera 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -19969,7 +19969,7 @@ const empresas = [
   },
   {
     "empresa": "VALERO BALLESTEROS PEDRO",
-    "direccion": "Plaza plaza mayor 8",
+    "direccion": "Plaza mayor 00008",
     "localidad": "SANTA CRUZ DE LOS CAÑAMO",
     "cp": "13327",
     "provincia": "CIUDAD REAL",
@@ -19982,7 +19982,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ POZUELO TOMAS",
-    "direccion": "Calle pedro fernandez de sevilla 8",
+    "direccion": "Calle fernandez de sevilla 00008",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -19995,7 +19995,7 @@ const empresas = [
   },
   {
     "empresa": "AGROBORJA, S.L.",
-    "direccion": "Calle cristo del valle 17",
+    "direccion": "Calle del valle 00017",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -20008,7 +20008,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA EL CASTAÑO, S.L.U",
-    "direccion": "Calle nacional 430 km 57 s/n",
+    "direccion": "Calle 430 km 57 00000",
     "localidad": "LUCIANA",
     "cp": "13108",
     "provincia": "CIUDAD REAL",
@@ -20021,7 +20021,7 @@ const empresas = [
   },
   {
     "empresa": "JOSE LUIS ARROYO E HIJOS, S.L.",
-    "direccion": "Calle encomienda 11",
+    "direccion": "Calle 00011",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -20034,7 +20034,7 @@ const empresas = [
   },
   {
     "empresa": "JIMENEZ JIMENEZ JESUS ERNESTO",
-    "direccion": "Calle aire 12",
+    "direccion": "Calle 00012",
     "localidad": "VILLAMANRIQUE",
     "cp": "13343",
     "provincia": "CIUDAD REAL",
@@ -20047,7 +20047,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ RIVAS EVARISTO",
-    "direccion": "Calle monjas 18",
+    "direccion": "Calle 00018",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -20060,7 +20060,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS CONTRERAS SL",
-    "direccion": "Calle castilla 15",
+    "direccion": "Calle 00015",
     "localidad": "POZUELOS DE CALATRAVA, L",
     "cp": "13191",
     "provincia": "CIUDAD REAL",
@@ -20073,7 +20073,7 @@ const empresas = [
   },
   {
     "empresa": "CHOCANO Y LOPEZ CB",
-    "direccion": "Lugar varias parcelas s/n",
+    "direccion": "Lugar parcelas 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -20086,7 +20086,7 @@ const empresas = [
   },
   {
     "empresa": "BAFIMAR SL",
-    "direccion": "Carretera n-430, km.246,500 s/n",
+    "direccion": "Carretera -430, km.246,500 00000",
     "localidad": "LUCIANA",
     "cp": "13108",
     "provincia": "CIUDAD REAL",
@@ -20099,7 +20099,7 @@ const empresas = [
   },
   {
     "empresa": "RUIZ SERRANO FRANCISCO ANTON",
-    "direccion": "Calle darro 30",
+    "direccion": "Calle 00030",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -20112,7 +20112,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA EL TOCONAR SL",
-    "direccion": "Calle constitución 2",
+    "direccion": "Calle ón 00002",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -20125,7 +20125,7 @@ const empresas = [
   },
   {
     "empresa": "AGRARIA JIGAR SOCIEDAD LIMITADA",
-    "direccion": "Calle ramon y cajal 20",
+    "direccion": "Calle y cajal 00020",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -20138,7 +20138,7 @@ const empresas = [
   },
   {
     "empresa": "AGROLETICIA, SOCIEDAD LIMITADA",
-    "direccion": "Calle las tablas 34",
+    "direccion": "Calle tablas 00034",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -20151,7 +20151,7 @@ const empresas = [
   },
   {
     "empresa": "HORTI ECO CAMPO LOPEZ, S.L.",
-    "direccion": "Zzfinca rufinillo 1",
+    "direccion": "Zzfinca rufinillo 00001",
     "localidad": "CINCO CASAS",
     "cp": "13720",
     "provincia": "CIUDAD REAL",
@@ -20164,7 +20164,7 @@ const empresas = [
   },
   {
     "empresa": "PROREVOSA SL",
-    "direccion": "Carretera finca arroyo de la virgen s/n",
+    "direccion": "Carretera arroyo de la virgen 00000",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -20177,7 +20177,7 @@ const empresas = [
   },
   {
     "empresa": "NOVA PARDO JORGE",
-    "direccion": "Calle mayor 19",
+    "direccion": "Calle 00019",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -20190,7 +20190,7 @@ const empresas = [
   },
   {
     "empresa": "DIORTE 2010 SOCIEDAD LIMITADA",
-    "direccion": "Pwfinca la romera s/n",
+    "direccion": "Pwfinca la romera 00000",
     "localidad": "VILLAR, EL",
     "cp": "13597",
     "provincia": "CIUDAD REAL",
@@ -20203,7 +20203,7 @@ const empresas = [
   },
   {
     "empresa": "DE NOVA MUÑOZ RAMON",
-    "direccion": "Calle maestro lara 67",
+    "direccion": "Calle lara 00067",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -20216,7 +20216,7 @@ const empresas = [
   },
   {
     "empresa": "DEMETER --- ROBERT SEBASTIA",
-    "direccion": "Avenida ejercito español 23",
+    "direccion": "Avenida español 00023",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -20229,7 +20229,7 @@ const empresas = [
   },
   {
     "empresa": "PEÑARRUBIA DEL ALTO GUADIANA, S.L.",
-    "direccion": "Lugar finca peñarrubia s/n 1",
+    "direccion": "Lugar peñarrubia s/n 00001",
     "localidad": "VILLAHERMOSA",
     "cp": "13332",
     "provincia": "CIUDAD REAL",
@@ -20242,7 +20242,7 @@ const empresas = [
   },
   {
     "empresa": "AGROEXPLOTACIONES GIL SERRANO, SOC.COOP. CLM",
-    "direccion": "Calle cinco casas 34",
+    "direccion": "Calle casas 00034",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -20255,7 +20255,7 @@ const empresas = [
   },
   {
     "empresa": "JOCOLOVI, S.L.",
-    "direccion": "Calle pasos 51",
+    "direccion": "Calle 00051",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -20268,7 +20268,7 @@ const empresas = [
   },
   {
     "empresa": "S.A.T. AGROLLANOS Nº 470 CM",
-    "direccion": "Calle de la fuente 1",
+    "direccion": "Calle la fuente 00001",
     "localidad": "LLANOS DEL CAUDILLO",
     "cp": "13220",
     "provincia": "CIUDAD REAL",
@@ -20281,7 +20281,7 @@ const empresas = [
   },
   {
     "empresa": "EL MERCADO DE HORTALIZAS DEL GUADIANA, S.L.",
-    "direccion": "Calle alcazar 15",
+    "direccion": "Calle 00015",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -20294,7 +20294,7 @@ const empresas = [
   },
   {
     "empresa": "AGRO LOPEZ RUIZ, S.L.",
-    "direccion": "Avenida vereda 133",
+    "direccion": "Avenida 00133",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -20307,7 +20307,7 @@ const empresas = [
   },
   {
     "empresa": "AGROMERCANA S.L.",
-    "direccion": "Calle infantas 9",
+    "direccion": "Calle 00009",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -20320,7 +20320,7 @@ const empresas = [
   },
   {
     "empresa": "VILLANUEVA PARDO JOSE LUIS",
-    "direccion": "Calle real 83",
+    "direccion": "Calle 00083",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -20333,7 +20333,7 @@ const empresas = [
   },
   {
     "empresa": "AGROABELARDO, S.L.",
-    "direccion": "Lugar finca termino daimiel s/n",
+    "direccion": "Lugar termino daimiel 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -20346,7 +20346,7 @@ const empresas = [
   },
   {
     "empresa": "AGROFERCO DAIMIEL SL",
-    "direccion": "Calle faustino torquito 5",
+    "direccion": "Calle torquito 00005",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -20359,7 +20359,7 @@ const empresas = [
   },
   {
     "empresa": "VILLANUEVA PARDO EDUARDO",
-    "direccion": "Calle real 83",
+    "direccion": "Calle 00083",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -20372,7 +20372,7 @@ const empresas = [
   },
   {
     "empresa": "AGROVELAS MANCHA SOCIEDAD LIMIT",
-    "direccion": "Calle lope de vega 21",
+    "direccion": "Calle de vega 00021",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -20385,7 +20385,7 @@ const empresas = [
   },
   {
     "empresa": "ALAÑON MOYA JOSE LUIS",
-    "direccion": "Calle granados 82",
+    "direccion": "Calle 00082",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -20398,7 +20398,7 @@ const empresas = [
   },
   {
     "empresa": "HIDALGA TINTORERAS, SOCIEDAD LIMITADA",
-    "direccion": "Zzfinca en termino rural cinco casas s/n",
+    "direccion": "Zzfinca en termino rural cinco casas 00000",
     "localidad": "CINCO CASAS",
     "cp": "13720",
     "provincia": "CIUDAD REAL",
@@ -20411,7 +20411,7 @@ const empresas = [
   },
   {
     "empresa": "FINCA QUIXOTE DE LA MANCHA, S.L",
-    "direccion": "Calle seis de junio 41 3 a",
+    "direccion": "Calle de junio 00041 3 a",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -20424,7 +20424,7 @@ const empresas = [
   },
   {
     "empresa": "ECOAGRO CINCO CASAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle puerto lapice 23",
+    "direccion": "Calle lapice 00023",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -20437,7 +20437,7 @@ const empresas = [
   },
   {
     "empresa": "RURALMA PRODUCTOS AGRICOLAS, SOCIEDAD LIMITADA",
-    "direccion": "Polígono parcela 15 paraje nava 15",
+    "direccion": "Polígono 15 paraje nava 00015",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -20450,7 +20450,7 @@ const empresas = [
   },
   {
     "empresa": "NAVALAUMBRIA,S.L",
-    "direccion": "Zzfinca la nava s/n",
+    "direccion": "Zzfinca la nava 00000",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -20463,7 +20463,7 @@ const empresas = [
   },
   {
     "empresa": "S.A.T. N 6154 EXPLOT.AGRO-VINICOLAS SALCEDO BALMASEDA",
-    "direccion": "Calle fray luis de leon 1",
+    "direccion": "Calle luis de leon 00001",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -20476,7 +20476,7 @@ const empresas = [
   },
   {
     "empresa": "GUILLERMO MENDIETA JUAN ANTONIO",
-    "direccion": "Calle avda.cervera 61",
+    "direccion": "Calle 00061",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -20489,7 +20489,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA IZQUIERDO ANDRES",
-    "direccion": "Calle onesimo redondo 62",
+    "direccion": "Calle redondo 00062",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -20502,7 +20502,7 @@ const empresas = [
   },
   {
     "empresa": "S.A.T. HERMICA N. 5986",
-    "direccion": "Calle eras 14",
+    "direccion": "Calle 00014",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -20515,7 +20515,7 @@ const empresas = [
   },
   {
     "empresa": "SAT 8207 EL HONTARRON R.L.",
-    "direccion": "Calle emilio nieto 18",
+    "direccion": "Calle nieto 00018",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -20528,7 +20528,7 @@ const empresas = [
   },
   {
     "empresa": "SOBRINO HERMANOS, S.A.",
-    "direccion": "Calle finca las casillas 1",
+    "direccion": "Calle las casillas 00001",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -20541,7 +20541,7 @@ const empresas = [
   },
   {
     "empresa": "CARRERO RODRIGUEZ JOSE",
-    "direccion": "Calle arenas 6",
+    "direccion": "Calle 00006",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -20554,7 +20554,7 @@ const empresas = [
   },
   {
     "empresa": "DELCON AGRARIA S.L.",
-    "direccion": "Calle villarrobledo 3",
+    "direccion": "Calle 00003",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -20567,7 +20567,7 @@ const empresas = [
   },
   {
     "empresa": "DIAZ DIAZ BENITO",
-    "direccion": "Calle san francisco 4",
+    "direccion": "Calle francisco 00004",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -20580,7 +20580,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS ISLA S.L.",
-    "direccion": "Avenida de la paz 9",
+    "direccion": "Avenida la paz 00009",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -20593,7 +20593,7 @@ const empresas = [
   },
   {
     "empresa": "MOLINA MECINAS JOSE MARIA",
-    "direccion": "Calle bernardo balbuena 1",
+    "direccion": "Calle balbuena 00001",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -20606,7 +20606,7 @@ const empresas = [
   },
   {
     "empresa": "LOS MACHOS, S.A.T. N. 9479",
-    "direccion": "Calle independencia 10",
+    "direccion": "Calle 00010",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -20619,7 +20619,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA DE BOLAÑOS, S.L.",
-    "direccion": "Carretera moral 29",
+    "direccion": "Carretera 00029",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -20632,7 +20632,7 @@ const empresas = [
   },
   {
     "empresa": "FINCA LAS PACHECAS, COM.B.",
-    "direccion": "Carretera tomelloso-la solana km.13,5 s/n",
+    "direccion": "Carretera -la solana km.13,5 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -20645,7 +20645,7 @@ const empresas = [
   },
   {
     "empresa": "FINCA CUESTA BLANCA, S.L.",
-    "direccion": "Calle pedro arias 29",
+    "direccion": "Calle arias 00029",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -20658,7 +20658,7 @@ const empresas = [
   },
   {
     "empresa": "BRAVO MATA LUIS IGNACIO",
-    "direccion": "Lugar termino municipal de malagon s/n",
+    "direccion": "Lugar municipal de malagon 00000",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -20671,7 +20671,7 @@ const empresas = [
   },
   {
     "empresa": "FINCA MARI SANCHEZ, S.L.",
-    "direccion": "Calle valdepeñas a cozar, km. 12,8 s/n",
+    "direccion": "Calle ñas a cozar, km. 12,8 00000",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -20684,7 +20684,7 @@ const empresas = [
   },
   {
     "empresa": "VIÑA DE GAITANEJOS, S.L.",
-    "direccion": "Carretera porzuna, km. 16 s/n",
+    "direccion": "Carretera , km. 16 00000",
     "localidad": "CASAS, LAS",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -20697,7 +20697,7 @@ const empresas = [
   },
   {
     "empresa": "TIKALO, S.L.",
-    "direccion": "Carretera finca guadianeja, km. 29,6 s/n",
+    "direccion": "Carretera guadianeja, km. 29,6 00000",
     "localidad": "VILLAMANRIQUE",
     "cp": "13343",
     "provincia": "CIUDAD REAL",
@@ -20710,7 +20710,7 @@ const empresas = [
   },
   {
     "empresa": "TRUJILLO FERNANDEZ MARIA SIERRA",
-    "direccion": "Lugar fincas en moral de cva. s/n",
+    "direccion": "Lugar en moral de cva. 00000",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -20723,7 +20723,7 @@ const empresas = [
   },
   {
     "empresa": "GONZALEZ ARAQUE JACINTO",
-    "direccion": "Calle hidalgo 32 1 a",
+    "direccion": "Calle 00032 1 a",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -20736,7 +20736,7 @@ const empresas = [
   },
   {
     "empresa": "AGROMEDITERRANEA CABO DE GATA S.L.",
-    "direccion": "Calle galileo 2",
+    "direccion": "Calle 00002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -20749,7 +20749,7 @@ const empresas = [
   },
   {
     "empresa": "BENEITEZ ROMERO HELIODORO",
-    "direccion": "Paseo cervantes 32",
+    "direccion": "Paseo 00032",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -20762,7 +20762,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN ACEVEDO FELIX",
-    "direccion": "Calle castillo de calatrava 84",
+    "direccion": "Calle de calatrava 00084",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -20775,7 +20775,7 @@ const empresas = [
   },
   {
     "empresa": "NATURALEZA Y OLIVOS, S.L.",
-    "direccion": "Calle constitucion 97",
+    "direccion": "Calle 00097",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -20788,7 +20788,7 @@ const empresas = [
   },
   {
     "empresa": "KUESIN, S.L.",
-    "direccion": "Calle reverendo padre pedro 14",
+    "direccion": "Calle padre pedro 00014",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -20801,7 +20801,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA LOS MELQUIADES, COM.B.",
-    "direccion": "Calle don julio gil 11",
+    "direccion": "Calle julio gil 00011",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -20814,7 +20814,7 @@ const empresas = [
   },
   {
     "empresa": "EXPLOTACIONES GONZALEZ GARCIA, S.L.",
-    "direccion": "Calle hidalgo 32 1 a",
+    "direccion": "Calle 00032 1 a",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -20827,7 +20827,7 @@ const empresas = [
   },
   {
     "empresa": "CAIZ CARRIZAL, S.L.U.",
-    "direccion": "Carretera retuerta a navas de estena, km. 5",
+    "direccion": "Carretera a navas de estena, km. 00005",
     "localidad": "RETUERTA DE BULLAQUE",
     "cp": "13194",
     "provincia": "CIUDAD REAL",
@@ -20840,7 +20840,7 @@ const empresas = [
   },
   {
     "empresa": "MAGEJUL CB",
-    "direccion": "Calle duende 12",
+    "direccion": "Calle 00012",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -20853,7 +20853,7 @@ const empresas = [
   },
   {
     "empresa": "AGROTALLERO C.B.",
-    "direccion": "Calle herreros 42",
+    "direccion": "Calle 00042",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -20866,7 +20866,7 @@ const empresas = [
   },
   {
     "empresa": "JIMENEZ SANCHEZ CRUZADO BERNABE",
-    "direccion": "Calle virgen 50",
+    "direccion": "Calle 00050",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -20879,7 +20879,7 @@ const empresas = [
   },
   {
     "empresa": "EXPLOTACIONES HERMANOS DELGADO, S.L.",
-    "direccion": "Calle villarrobledo 37",
+    "direccion": "Calle 00037",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -20892,7 +20892,7 @@ const empresas = [
   },
   {
     "empresa": "VELA BASTANTE RUBEN",
-    "direccion": "Calle pozo de la villa 21",
+    "direccion": "Calle de la villa 00021",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -20905,7 +20905,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA FERCAN, S.L.",
-    "direccion": "Calle pizarro 21",
+    "direccion": "Calle 00021",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -20918,7 +20918,7 @@ const empresas = [
   },
   {
     "empresa": "FINCA CASAS DE VIDA SL",
-    "direccion": "Calle santa teresa 34",
+    "direccion": "Calle teresa 00034",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -20931,7 +20931,7 @@ const empresas = [
   },
   {
     "empresa": "LEON DE LA RUBIA FRANCISCO JESUS",
-    "direccion": "Calle perez galdos 2b",
+    "direccion": "Calle galdos 00002b",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -20944,7 +20944,7 @@ const empresas = [
   },
   {
     "empresa": "LARA SERRANO JOSE ANTONIO",
-    "direccion": "Calle oriente 1",
+    "direccion": "Calle 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -20957,7 +20957,7 @@ const empresas = [
   },
   {
     "empresa": "IZQUIERDO SOLANA JUAN BAUTISTA",
-    "direccion": "Paseo cervantes 17",
+    "direccion": "Paseo 00017",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -20970,7 +20970,7 @@ const empresas = [
   },
   {
     "empresa": "LOFER, C.B.",
-    "direccion": "Calle general prim 31",
+    "direccion": "Calle prim 00031",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -20983,7 +20983,7 @@ const empresas = [
   },
   {
     "empresa": "UTRILLA RUIZ DE PASCUAL AURELIO MANUEL",
-    "direccion": "Calle ciudad real 67",
+    "direccion": "Calle real 00067",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -20996,7 +20996,7 @@ const empresas = [
   },
   {
     "empresa": "SERNA DOMINGUEZ MIGUEL",
-    "direccion": "Calle hernan cortes 36",
+    "direccion": "Calle cortes 00036",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -21009,7 +21009,7 @@ const empresas = [
   },
   {
     "empresa": "MERINO VIOLERO JOSE MANUEL",
-    "direccion": "Calle dulciena 14",
+    "direccion": "Calle 00014",
     "localidad": "ARENALES DE SAN GREGORIO",
     "cp": "13619",
     "provincia": "CIUDAD REAL",
@@ -21022,7 +21022,7 @@ const empresas = [
   },
   {
     "empresa": "DELGADO ALARCON FRANCISCO JOSE",
-    "direccion": "Calle manzanares 2",
+    "direccion": "Calle 00002",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -21035,7 +21035,7 @@ const empresas = [
   },
   {
     "empresa": "LARA SERRANO JESUS",
-    "direccion": "Calle socuellamos 72",
+    "direccion": "Calle 00072",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -21048,7 +21048,7 @@ const empresas = [
   },
   {
     "empresa": "ARRIBAS SANCHEZ ISIDORO",
-    "direccion": "Calle calvo sotelo 33",
+    "direccion": "Calle sotelo 00033",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -21061,7 +21061,7 @@ const empresas = [
   },
   {
     "empresa": "RUBIO HUERTAS FRANCISCO",
-    "direccion": "Carretera santa cruz 45",
+    "direccion": "Carretera cruz 00045",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -21074,7 +21074,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGA VIÑEDOS TINEDO, S.L.",
-    "direccion": "Carretera cm 3102, km. 30 s/n",
+    "direccion": "Carretera 3102, km. 30 00000",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -21087,7 +21087,7 @@ const empresas = [
   },
   {
     "empresa": "MANZANARO CORRALES, S.L.",
-    "direccion": "Avenida santiago 4",
+    "direccion": "Avenida 00004",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -21100,7 +21100,7 @@ const empresas = [
   },
   {
     "empresa": "AGRARIA LOPEZ GARRIDO, S.C.",
-    "direccion": "Calle campo de criptana 30",
+    "direccion": "Calle campo de criptana 00030",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -21113,7 +21113,7 @@ const empresas = [
   },
   {
     "empresa": "AGRARIA CARPINTERO S.L.",
-    "direccion": "Carretera socuell - tomell finca los monteros 14",
+    "direccion": "Carretera - tomell finca los monteros 00014",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -21126,7 +21126,7 @@ const empresas = [
   },
   {
     "empresa": "ORTIZ CASERO JOVITA",
-    "direccion": "Calle estrella 23",
+    "direccion": "Calle 00023",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -21139,7 +21139,7 @@ const empresas = [
   },
   {
     "empresa": "SERRANO GARCIA MARIA MAR",
-    "direccion": "Avenida madrid(varias fincas) 50",
+    "direccion": "Avenida (varias fincas) 00050",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -21152,7 +21152,7 @@ const empresas = [
   },
   {
     "empresa": "ABALDEA NEGRETE EPIFANIO",
-    "direccion": "Lugar daimiel s/n",
+    "direccion": "Lugar 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -21165,7 +21165,7 @@ const empresas = [
   },
   {
     "empresa": "CHELO LOPEZ SL",
-    "direccion": "Zotermino de daimiel s/n",
+    "direccion": "Zotermino de daimiel 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -21178,7 +21178,7 @@ const empresas = [
   },
   {
     "empresa": "TIERRAS ALTAS RIBERA DEL GUADIAN",
-    "direccion": "Mndaimiel s/n",
+    "direccion": "Mndaimiel 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -21191,7 +21191,7 @@ const empresas = [
   },
   {
     "empresa": "LAGASCA 91 AGROINVEST SL",
-    "direccion": "Carretera de argamasilla de alba a ruidera 10",
+    "direccion": "Carretera argamasilla de alba a ruidera 00010",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -21204,7 +21204,7 @@ const empresas = [
   },
   {
     "empresa": "VEGA MADRIGAL SL",
-    "direccion": "Calle nueva 8 1 d",
+    "direccion": "Calle 00008 1 d",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -21217,7 +21217,7 @@ const empresas = [
   },
   {
     "empresa": "SALVADOR PEREZ ANGEL",
-    "direccion": "Carretera de montiel 22",
+    "direccion": "Carretera montiel 00022",
     "localidad": "SANTA CRUZ DE LOS CAÑAMO",
     "cp": "13327",
     "provincia": "CIUDAD REAL",
@@ -21230,7 +21230,7 @@ const empresas = [
   },
   {
     "empresa": "GARRIDO JIMENEZ VICENTE",
-    "direccion": "Calle nuestra señora de los llanos 33",
+    "direccion": "Calle señora de los llanos 00033",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -21243,7 +21243,7 @@ const empresas = [
   },
   {
     "empresa": "VILLENA FERRER JAIME",
-    "direccion": "Calle paraje marin s/n",
+    "direccion": "Calle marin 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -21256,7 +21256,7 @@ const empresas = [
   },
   {
     "empresa": "PONCE LARA LORENZO",
-    "direccion": "Csmalaba s/n",
+    "direccion": "Csmalaba 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -21269,7 +21269,7 @@ const empresas = [
   },
   {
     "empresa": "OLIVOS Y VIÑEDOS HERMANOS GONZALEZ, S.L.",
-    "direccion": "Calle cirujeda 4",
+    "direccion": "Calle 00004",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -21282,7 +21282,7 @@ const empresas = [
   },
   {
     "empresa": "BADEL VIXEDOS Y OLIVOS, S.L.",
-    "direccion": "Calle capitan garcia espinosa 82",
+    "direccion": "Calle garcia espinosa 00082",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -21295,7 +21295,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ GONZALEZ VICENTE",
-    "direccion": "Calle serrano 3",
+    "direccion": "Calle 00003",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -21308,7 +21308,7 @@ const empresas = [
   },
   {
     "empresa": "PINILLA MANRESA PILAR",
-    "direccion": "Carretera cinco casas a villarta de san juan s/n",
+    "direccion": "Carretera casas a villarta de san juan 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -21321,7 +21321,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA CASA GUERRAS SL",
-    "direccion": "Carretera arenas km 2,3 s/n",
+    "direccion": "Carretera km 2,3 00000",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -21334,7 +21334,7 @@ const empresas = [
   },
   {
     "empresa": "CASTRO MORA ANA VANESA",
-    "direccion": "Calle pellejero 12 a",
+    "direccion": "Calle 00012 a",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -21347,7 +21347,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA MILLAS .S.L.",
-    "direccion": "Mnfinca la jarilla y doña ana s/n",
+    "direccion": "Mnfinca la jarilla y doña ana 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -21360,7 +21360,7 @@ const empresas = [
   },
   {
     "empresa": "MAYORGA MENASALVAS JOSE MANUEL",
-    "direccion": "Zovarias parcelas s/n",
+    "direccion": "Zovarias parcelas 00000",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -21373,7 +21373,7 @@ const empresas = [
   },
   {
     "empresa": "LA HITA AGRICOLA S.L.",
-    "direccion": "Carretera madrid cadiz km 171 s/n",
+    "direccion": "Carretera cadiz km 171 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -21386,7 +21386,7 @@ const empresas = [
   },
   {
     "empresa": "BELLON JIMENEZ MIGUELA",
-    "direccion": "Xxparaje navaloscuentos s/n",
+    "direccion": "Xxparaje navaloscuentos 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -21399,7 +21399,7 @@ const empresas = [
   },
   {
     "empresa": "AGROELEMA, SOCIEDAD LIMITADA",
-    "direccion": "Calle numancia 24",
+    "direccion": "Calle 00024",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -21412,7 +21412,7 @@ const empresas = [
   },
   {
     "empresa": "BAEZA PRIVADO JESUS ANTON",
-    "direccion": "Lugar fincas rusticas en el municipio s/n",
+    "direccion": "Lugar rusticas en el municipio 00000",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -21425,7 +21425,7 @@ const empresas = [
   },
   {
     "empresa": "NOVENTA VARAS, SOCIEDAD LIMITADA",
-    "direccion": "Cmde la virgen 5km",
+    "direccion": "Camino la virgen 00005km",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -21438,7 +21438,7 @@ const empresas = [
   },
   {
     "empresa": "UTRILLA LAGUNA JESUS AURELIO",
-    "direccion": "Lugar varias parcelas s/n",
+    "direccion": "Lugar parcelas 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -21451,7 +21451,7 @@ const empresas = [
   },
   {
     "empresa": "GRAPE LIFE SL",
-    "direccion": "Cmquero 16",
+    "direccion": "Camino 00016",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -21464,7 +21464,7 @@ const empresas = [
   },
   {
     "empresa": "CORRAL JEREZ JESUS",
-    "direccion": "Calle labradores 7",
+    "direccion": "Calle 00007",
     "localidad": "ALCUBILLAS",
     "cp": "13391",
     "provincia": "CIUDAD REAL",
@@ -21477,7 +21477,7 @@ const empresas = [
   },
   {
     "empresa": "NAVARRO CAÑIZARES SILVANO",
-    "direccion": "Calle san pantaleon 3",
+    "direccion": "Calle pantaleon 00003",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -21490,7 +21490,7 @@ const empresas = [
   },
   {
     "empresa": "AGROCHAFERCO SL",
-    "direccion": "Plaza constitucion 16",
+    "direccion": "Plaza 00016",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -21503,7 +21503,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICULTURA SOSTENIBLE DE CASTILLA LA MANCHA, SL",
-    "direccion": "Calle finca montanchuelos s/n",
+    "direccion": "Calle montanchuelos 00000",
     "localidad": "GRANATULA DE CALATRAVA",
     "cp": "13360",
     "provincia": "CIUDAD REAL",
@@ -21516,7 +21516,7 @@ const empresas = [
   },
   {
     "empresa": "SERVIAGRI TOMELLOSO, S.L.U.",
-    "direccion": "Calle santa maria 11",
+    "direccion": "Calle maria 00011",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -21529,7 +21529,7 @@ const empresas = [
   },
   {
     "empresa": "SERRANO MARTINEZ FRANCISCO JAVIE",
-    "direccion": "Calle garces 1",
+    "direccion": "Calle 00001",
     "localidad": "LLANOS DEL CAUDILLO",
     "cp": "13220",
     "provincia": "CIUDAD REAL",
@@ -21542,7 +21542,7 @@ const empresas = [
   },
   {
     "empresa": "FESOYA, S.L.",
-    "direccion": "Cmfincas agrarias alhambra alcubillas s/n",
+    "direccion": "Camino agrarias alhambra alcubillas 00000",
     "localidad": "ALCUBILLAS",
     "cp": "13391",
     "provincia": "CIUDAD REAL",
@@ -21555,7 +21555,7 @@ const empresas = [
   },
   {
     "empresa": "AGRORODERO, S.L",
-    "direccion": "Calle san leon 51",
+    "direccion": "Calle leon 00051",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -21568,7 +21568,7 @@ const empresas = [
   },
   {
     "empresa": "GOMEZ LOPEZ CRISTOBAL",
-    "direccion": "Calle enseñanza 13",
+    "direccion": "Calle ñanza 00013",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -21581,7 +21581,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ DIAZ ANTONIO",
-    "direccion": "Lugar finca carrasco s/n",
+    "direccion": "Lugar carrasco 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -21594,7 +21594,7 @@ const empresas = [
   },
   {
     "empresa": "AGROLIFE TITULARIDAD COMPARTIDA DE EXPLOTACION AGRARIA",
-    "direccion": "Calle samuel ferrer 21 b",
+    "direccion": "Calle ferrer 00021 b",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -21607,7 +21607,7 @@ const empresas = [
   },
   {
     "empresa": "AGROUREÑA, S.L.",
-    "direccion": "Carretera manzanares a almagro km 20 pje ureñas/n",
+    "direccion": "Carretera a almagro km 20 pje ureña00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -21620,7 +21620,7 @@ const empresas = [
   },
   {
     "empresa": "LA CASA DEL PISTACHO, S.L.",
-    "direccion": "Calle casa de la viña s/n",
+    "direccion": "Calle de la viña 00000",
     "localidad": "ALHAMBRA",
     "cp": "13248",
     "provincia": "CIUDAD REAL",
@@ -21633,7 +21633,7 @@ const empresas = [
   },
   {
     "empresa": "M.PILAR GARCIA SAC Y 3 MAS",
-    "direccion": "Lugar final de agujetones s/n",
+    "direccion": "Lugar de agujetones 00000",
     "localidad": "TORRE DE JUAN ABAD",
     "cp": "13344",
     "provincia": "CIUDAD REAL",
@@ -21646,7 +21646,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ PIÑA BENIGNO",
-    "direccion": "Calle constitucion 43",
+    "direccion": "Calle 00043",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -21659,7 +21659,7 @@ const empresas = [
   },
   {
     "empresa": "OLMEDO ALVAREZ JOSE",
-    "direccion": "Calle cervantes 58",
+    "direccion": "Calle 00058",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -21672,7 +21672,7 @@ const empresas = [
   },
   {
     "empresa": "ZAFRA GOUJON ENRIQUE",
-    "direccion": "Carretera valdepeñas-daimiel, km. 21",
+    "direccion": "Carretera ñas-daimiel, km. 00021",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -21685,7 +21685,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ LAGUNA TOMAS",
-    "direccion": "Calle constitucion 14",
+    "direccion": "Calle 00014",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -21697,8 +21697,8 @@ const empresas = [
     "federacion": "FICA"
   },
   {
-    "empresa": "RUSTICAS DE L'HORTA NORD, S.L.",
-    "direccion": "Carretera carrizosa, km. 9 (finca el salido) s/n",
+    "empresa": "RUSTICAS DE LHORTA NORD, S.L.",
+    "direccion": "Carretera , km. 9 (finca el salido) 00000",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -21711,7 +21711,7 @@ const empresas = [
   },
   {
     "empresa": "RUBIO FUENTES EMILIO JOSE",
-    "direccion": "Calle duende 21",
+    "direccion": "Calle 00021",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -21724,7 +21724,7 @@ const empresas = [
   },
   {
     "empresa": "ABARCA CHAPARRO EUGENIO",
-    "direccion": "Calle rosa 31",
+    "direccion": "Calle 00031",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -21737,7 +21737,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA RIVAS JOSE MANUEL",
-    "direccion": "Calle la torre 14",
+    "direccion": "Calle torre 00014",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -21750,7 +21750,7 @@ const empresas = [
   },
   {
     "empresa": "RUBIO LOPEZ JESUS JAVIER",
-    "direccion": "Calle camino de castellon 1",
+    "direccion": "Calle de castellon 00001",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -21763,7 +21763,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ COBOS RAMON",
-    "direccion": "Calle granada 13",
+    "direccion": "Calle 00013",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -21776,7 +21776,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ RODRIGUEZ TOMAS",
-    "direccion": "Calle marilillo 48",
+    "direccion": "Calle 00048",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -21789,7 +21789,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ LOPEZ ANTONIO",
-    "direccion": "Calle guzman el bueno 17",
+    "direccion": "Calle el bueno 00017",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -21802,7 +21802,7 @@ const empresas = [
   },
   {
     "empresa": "RUBIO MEGIAS SANTIAGO",
-    "direccion": "Calle poniente 22",
+    "direccion": "Calle 00022",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -21815,7 +21815,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS OROZCO RUBIO, C.B.",
-    "direccion": "Calle horno 6",
+    "direccion": "Calle 00006",
     "localidad": "SANTA CRUZ DE LOS CAÑAMO",
     "cp": "13327",
     "provincia": "CIUDAD REAL",
@@ -21828,7 +21828,7 @@ const empresas = [
   },
   {
     "empresa": "DIANA SAEZ MARIA TERESA",
-    "direccion": "Calle molino 30",
+    "direccion": "Calle 00030",
     "localidad": "SANTA CRUZ DE LOS CAÑAMO",
     "cp": "13327",
     "provincia": "CIUDAD REAL",
@@ -21841,7 +21841,7 @@ const empresas = [
   },
   {
     "empresa": "VERA SANTOS GLORIA ANGELINE",
-    "direccion": "Avenida españa 13",
+    "direccion": "Avenida ña 00013",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -21854,7 +21854,7 @@ const empresas = [
   },
   {
     "empresa": "DOMINGUEZ ANAYA JOSE",
-    "direccion": "Calle postas 27",
+    "direccion": "Calle 00027",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -21867,7 +21867,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS RAMOS, COM.B.",
-    "direccion": "Calle miguel hernandez 13",
+    "direccion": "Calle hernandez 00013",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -21880,7 +21880,7 @@ const empresas = [
   },
   {
     "empresa": "SAT MARZAN 15",
-    "direccion": "Calle juan alcaide 50 1",
+    "direccion": "Calle alcaide 00050 1",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -21893,7 +21893,7 @@ const empresas = [
   },
   {
     "empresa": "RAMIREZ LORENZO LUIS MIGUEL",
-    "direccion": "Calle iglesia 26",
+    "direccion": "Calle 00026",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -21906,7 +21906,7 @@ const empresas = [
   },
   {
     "empresa": "COBOS GARCIA CARMEN",
-    "direccion": "Calle del oro 2",
+    "direccion": "Calle oro 00002",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -21919,7 +21919,7 @@ const empresas = [
   },
   {
     "empresa": "JIMENEZ GONZALEZ MIGUEL ANGEL",
-    "direccion": "Calle jacinto benavente 16",
+    "direccion": "Calle benavente 00016",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -21932,7 +21932,7 @@ const empresas = [
   },
   {
     "empresa": "TRUJILLO PRIETO RAMON",
-    "direccion": "Calle del gil 34",
+    "direccion": "Calle gil 00034",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -21945,7 +21945,7 @@ const empresas = [
   },
   {
     "empresa": "CANO BENAVENTE TOMAS",
-    "direccion": "Calle cervantes 12",
+    "direccion": "Calle 00012",
     "localidad": "TERRINCHES",
     "cp": "13341",
     "provincia": "CIUDAD REAL",
@@ -21958,7 +21958,7 @@ const empresas = [
   },
   {
     "empresa": "RUBIO GARCIA CHRISTIAN",
-    "direccion": "Calle dos de mayo 16 b",
+    "direccion": "Calle de mayo 00016 b",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -21971,7 +21971,7 @@ const empresas = [
   },
   {
     "empresa": "NAVAS GARCIA DE MARINA OSCAR",
-    "direccion": "Calle nuñez de balboa 42",
+    "direccion": "Calle ñez de balboa 00042",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -21984,7 +21984,7 @@ const empresas = [
   },
   {
     "empresa": "ANDROMEDA CB",
-    "direccion": "Lugar varias fincas s/n",
+    "direccion": "Lugar fincas 00000",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -21997,7 +21997,7 @@ const empresas = [
   },
   {
     "empresa": "MARCO BAOS JOSE ANGEL",
-    "direccion": "Calle san juan 1",
+    "direccion": "Calle juan 00001",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -22010,7 +22010,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ LOPEZ MARIA PILAR",
-    "direccion": "Calle jacinto guerrero 2",
+    "direccion": "Calle guerrero 00002",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -22023,7 +22023,7 @@ const empresas = [
   },
   {
     "empresa": "DONAIRE RUIZ JOSE JAVIER",
-    "direccion": "Avenida del santo 88 a",
+    "direccion": "Avenida santo 00088 a",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -22036,7 +22036,7 @@ const empresas = [
   },
   {
     "empresa": "VALLE FLORES ANTONIO",
-    "direccion": "Calle sara montiel 41",
+    "direccion": "Calle montiel 00041",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -22049,7 +22049,7 @@ const empresas = [
   },
   {
     "empresa": "LEAL SALIDO FRANCISCO JOSE",
-    "direccion": "Zzparcelas varias albaladejo s/n",
+    "direccion": "Zzparcelas varias albaladejo 00000",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -22062,7 +22062,7 @@ const empresas = [
   },
   {
     "empresa": "AGROLOSA 2019 SL",
-    "direccion": "Pjfinca las dehesillas s/n",
+    "direccion": "Pasaje las dehesillas 00000",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -22075,7 +22075,7 @@ const empresas = [
   },
   {
     "empresa": "SOBRINO MEDINA RUBEN",
-    "direccion": "Calle cristobal colon 40",
+    "direccion": "Calle colon 00040",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -22088,7 +22088,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ DE SEVILLAGUALDA MANUEL",
-    "direccion": "Calle solana 16",
+    "direccion": "Calle 00016",
     "localidad": "ALMEDINA",
     "cp": "13328",
     "provincia": "CIUDAD REAL",
@@ -22101,7 +22101,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA JIMENEZ LUIS ANGEL",
-    "direccion": "Calle canton 19",
+    "direccion": "Calle 00019",
     "localidad": "TERRINCHES",
     "cp": "13341",
     "provincia": "CIUDAD REAL",
@@ -22114,7 +22114,7 @@ const empresas = [
   },
   {
     "empresa": "PELAEZ PONCE PEDRO",
-    "direccion": "Calle rosales 1",
+    "direccion": "Calle 00001",
     "localidad": "CARRIZOSA",
     "cp": "13329",
     "provincia": "CIUDAD REAL",
@@ -22127,7 +22127,7 @@ const empresas = [
   },
   {
     "empresa": "NOVA TERCERO JUAN ANTONIO",
-    "direccion": "Calle noria 10",
+    "direccion": "Calle 00010",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -22140,7 +22140,7 @@ const empresas = [
   },
   {
     "empresa": "BAOS ALFONSO ALEJANDRO",
-    "direccion": "Calle cruz 2",
+    "direccion": "Calle 00002",
     "localidad": "TERRINCHES",
     "cp": "13341",
     "provincia": "CIUDAD REAL",
@@ -22153,7 +22153,7 @@ const empresas = [
   },
   {
     "empresa": "OLMEDO LOPEZ JOSE",
-    "direccion": "Aqparaje novillo s/n",
+    "direccion": "Aqparaje novillo 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -22166,7 +22166,7 @@ const empresas = [
   },
   {
     "empresa": "TARDIO LOPEZ FERNANDO",
-    "direccion": "Carretera almuradiel 2 a",
+    "direccion": "Carretera 00002 a",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -22179,7 +22179,7 @@ const empresas = [
   },
   {
     "empresa": "ALVARRACIN ORELLANA MARTHA MARIA",
-    "direccion": "Calle agustina de aragon 24",
+    "direccion": "Calle de aragon 00024",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -22192,7 +22192,7 @@ const empresas = [
   },
   {
     "empresa": "EXCAVACIONES VALERO BALLESTEROS SC",
-    "direccion": "Plaza mayor 8",
+    "direccion": "Plaza 00008",
     "localidad": "SANTA CRUZ DE LOS CAÑAMO",
     "cp": "13327",
     "provincia": "CIUDAD REAL",
@@ -22205,7 +22205,7 @@ const empresas = [
   },
   {
     "empresa": "SERRANO GARCIA VICTORIANO",
-    "direccion": "Avenida de la provincia 15",
+    "direccion": "Avenida la provincia 00015",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -22218,7 +22218,7 @@ const empresas = [
   },
   {
     "empresa": "AGREECULTURE PISTEA VILLADIEGO SL",
-    "direccion": "Carretera poblete-alarcos p.k. 2.2 s/n",
+    "direccion": "Carretera -alarcos p.k. 2.2 00000",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -22231,7 +22231,7 @@ const empresas = [
   },
   {
     "empresa": "HERNANDEZ LAREZ LUIS ALBERTO",
-    "direccion": "Calle huerta del moral 34 b",
+    "direccion": "Calle del moral 00034 b",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -22244,7 +22244,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRÍCOLAS JOSÉ ÁNGEL, S.L.U.",
-    "direccion": "Calle empedrada 23 1 a",
+    "direccion": "Calle 00023 1 a",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -22257,7 +22257,7 @@ const empresas = [
   },
   {
     "empresa": "PEREZ CENCILLO MARIA CARMEN",
-    "direccion": "Calle cm del portellejo 2",
+    "direccion": "Calle del portellejo 00002",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -22270,7 +22270,7 @@ const empresas = [
   },
   {
     "empresa": "CARRASCOSA GOMEZ LAURENTINO",
-    "direccion": "Lugar finca los manantiales s/n",
+    "direccion": "Lugar los manantiales 00000",
     "localidad": "RETUERTA DE BULLAQUE",
     "cp": "13194",
     "provincia": "CIUDAD REAL",
@@ -22283,7 +22283,7 @@ const empresas = [
   },
   {
     "empresa": "RUISECO S.C.",
-    "direccion": "Calle las tablillas 8",
+    "direccion": "Calle tablillas 00008",
     "localidad": "ROBLEDO, EL",
     "cp": "13114",
     "provincia": "CIUDAD REAL",
@@ -22296,7 +22296,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA MARTIN RUBIO, S.L.",
-    "direccion": "Carretera torrenueva, km. 6,600 (finca jaron) s/n",
+    "direccion": "Carretera , km. 6,600 (finca jaron) 00000",
     "localidad": "TORRE DE JUAN ABAD",
     "cp": "13344",
     "provincia": "CIUDAD REAL",
@@ -22309,7 +22309,7 @@ const empresas = [
   },
   {
     "empresa": "MUGABURU, S.L.",
-    "direccion": "Csfinca cinco navajos s/n",
+    "direccion": "Csfinca cinco navajos 00000",
     "localidad": "ALHAMBRA",
     "cp": "13248",
     "provincia": "CIUDAD REAL",
@@ -22322,7 +22322,7 @@ const empresas = [
   },
   {
     "empresa": "ALCALATEN, S.L.",
-    "direccion": "Lugar finca las terceras s/n",
+    "direccion": "Lugar las terceras 00000",
     "localidad": "TORRE DE JUAN ABAD",
     "cp": "13344",
     "provincia": "CIUDAD REAL",
@@ -22335,7 +22335,7 @@ const empresas = [
   },
   {
     "empresa": "CAMACHO AYUSO HERMANOS, S.L.",
-    "direccion": "Lugar poligono 30, parcela 5 s/n",
+    "direccion": "Lugar 30, parcela 5 00000",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -22348,7 +22348,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC NACION CRIADORES GANADO OVINO SELECTO RAZA MANCHEG",
-    "direccion": "Lugar finca la nava del conejo s/n",
+    "direccion": "Lugar la nava del conejo 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -22361,7 +22361,7 @@ const empresas = [
   },
   {
     "empresa": "OVINOS LACAUNES ESPAÑOLES, S.L.U.",
-    "direccion": "Carretera nacional 401 km157 s/n",
+    "direccion": "Carretera 401 km157 00000",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -22374,7 +22374,7 @@ const empresas = [
   },
   {
     "empresa": "CAMPO OVINO, S.L.",
-    "direccion": "Zzfinca navalcaballo s/n",
+    "direccion": "Zzfinca navalcaballo 00000",
     "localidad": "VILLAHERMOSA",
     "cp": "13332",
     "provincia": "CIUDAD REAL",
@@ -22387,7 +22387,7 @@ const empresas = [
   },
   {
     "empresa": "OVILACBA, SOCIEDAD LIMITADA",
-    "direccion": "Calle santa rita 84 1 a",
+    "direccion": "Calle rita 00084 1 a",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -22400,7 +22400,7 @@ const empresas = [
   },
   {
     "empresa": "GANADEROS ARTESANOS MANCHEGOS, S.L",
-    "direccion": "Calle don eugenio caja 42",
+    "direccion": "Calle eugenio caja 00042",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -22413,7 +22413,7 @@ const empresas = [
   },
   {
     "empresa": "ELKBIR SERVICIOS AGRARIOS, S.L",
-    "direccion": "Polígono poligono 201 y parcela 12 201",
+    "direccion": "Polígono 201 y parcela 12 00201",
     "localidad": "CASAS, LAS",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -22426,7 +22426,7 @@ const empresas = [
   },
   {
     "empresa": "GANADERIA PRIETO LUNA, S.L.",
-    "direccion": "Calle prolongacion virgen del carmen 6",
+    "direccion": "Calle virgen del carmen 00006",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -22439,7 +22439,7 @@ const empresas = [
   },
   {
     "empresa": "IBERICOS VALLEHERMOSO S.L.",
-    "direccion": "Carretera la solana-infantes, km. 9 s/n",
+    "direccion": "Carretera solana-infantes, km. 9 00000",
     "localidad": "ALHAMBRA",
     "cp": "13248",
     "provincia": "CIUDAD REAL",
@@ -22452,7 +22452,7 @@ const empresas = [
   },
   {
     "empresa": "BECERRA PONCE, S.L.",
-    "direccion": "Cmalcazar km. 1 1",
+    "direccion": "Camino km. 1 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -22465,7 +22465,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPERDIZ, S.L.",
-    "direccion": "Cmde los molinos s/n",
+    "direccion": "Camino los molinos 00000",
     "localidad": "PUEBLA DEL PRINCIPE",
     "cp": "13342",
     "provincia": "CIUDAD REAL",
@@ -22478,7 +22478,7 @@ const empresas = [
   },
   {
     "empresa": "GANADEROS SANGUL, S.L.",
-    "direccion": "Carretera almaden - saceruela 7",
+    "direccion": "Carretera - saceruela 00007",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -22491,7 +22491,7 @@ const empresas = [
   },
   {
     "empresa": "QUESOS LA CASOTA, S.L.",
-    "direccion": "Cmde los pajares s/n s/n",
+    "direccion": "Camino los pajares s/n 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -22504,7 +22504,7 @@ const empresas = [
   },
   {
     "empresa": "S.A.T. 47660 OLIVAR DEL VALLE",
-    "direccion": "Lugar finca olivar del valle s/n",
+    "direccion": "Lugar olivar del valle 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -22517,7 +22517,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA EL CONSUELO, S.L.",
-    "direccion": "Carretera san quintin km 7 s/n",
+    "direccion": "Carretera quintin km 7 00000",
     "localidad": "VILLAMAYOR DE CALATRAVA",
     "cp": "13595",
     "provincia": "CIUDAD REAL",
@@ -22530,7 +22530,7 @@ const empresas = [
   },
   {
     "empresa": "ARCAMPO, S.L.",
-    "direccion": "Calle toledo 7",
+    "direccion": "Calle 00007",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -22543,7 +22543,7 @@ const empresas = [
   },
   {
     "empresa": "SAT CARDEALBO 1077",
-    "direccion": "Calle alfonso x el sabio 3",
+    "direccion": "Calle x el sabio 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -22556,7 +22556,7 @@ const empresas = [
   },
   {
     "empresa": "MAGATENA, S.A.",
-    "direccion": "Calle obispo quesada 7",
+    "direccion": "Calle quesada 00007",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -22569,7 +22569,7 @@ const empresas = [
   },
   {
     "empresa": "AGRIMER, S.A.",
-    "direccion": "Lugar finca la granja s/n",
+    "direccion": "Lugar la granja 00000",
     "localidad": "TORRE DE JUAN ABAD",
     "cp": "13344",
     "provincia": "CIUDAD REAL",
@@ -22582,7 +22582,7 @@ const empresas = [
   },
   {
     "empresa": "ROMERO GOMEZ GREGORIO",
-    "direccion": "Calle finca dehesa de los caballos s/n s/n",
+    "direccion": "Calle dehesa de los caballos s/n 00000",
     "localidad": "BALLESTEROS DE CALATRAVA",
     "cp": "13432",
     "provincia": "CIUDAD REAL",
@@ -22595,7 +22595,7 @@ const empresas = [
   },
   {
     "empresa": "ALDONZA S.L.",
-    "direccion": "Lugar finca la cruz s/n",
+    "direccion": "Lugar la cruz 00000",
     "localidad": "VILLAMAYOR DE CALATRAVA",
     "cp": "13595",
     "provincia": "CIUDAD REAL",
@@ -22608,7 +22608,7 @@ const empresas = [
   },
   {
     "empresa": "MARANTONA, S.A.",
-    "direccion": "Calle nueva 3",
+    "direccion": "Calle 00003",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -22621,7 +22621,7 @@ const empresas = [
   },
   {
     "empresa": "OCRES Y ROJIZOS, S.L.",
-    "direccion": "Carretera infantes almedina km 9",
+    "direccion": "Carretera almedina km 00009",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -22634,7 +22634,7 @@ const empresas = [
   },
   {
     "empresa": "ENCOMIENDA CERVERA, S.L.",
-    "direccion": "Lugar finca cervera s/n",
+    "direccion": "Lugar cervera 00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -22647,7 +22647,7 @@ const empresas = [
   },
   {
     "empresa": "ROMEGIL, C.B.",
-    "direccion": "Lugar finca el pesebrillo cr.cristo 125",
+    "direccion": "Lugar el pesebrillo cr.cristo 00125",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -22660,7 +22660,7 @@ const empresas = [
   },
   {
     "empresa": "LOS TIRSOS S.COOP.DE CASTILLA LA MANCHA",
-    "direccion": "Calle san martin 13",
+    "direccion": "Calle san martin 00013",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -22673,7 +22673,7 @@ const empresas = [
   },
   {
     "empresa": "FUENTILLEZJOS, S.L.",
-    "direccion": "Carretera alarcos-corral de calatrava km. 4",
+    "direccion": "Carretera -corral de calatrava km. 00004",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -22686,7 +22686,7 @@ const empresas = [
   },
   {
     "empresa": "JIMENEZ POZO MARIA DEL ROSAR",
-    "direccion": "Avenida de la mancha 6",
+    "direccion": "Avenida la mancha 00006",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -22699,7 +22699,7 @@ const empresas = [
   },
   {
     "empresa": "CASTELUS ESPAÑA, S.L.",
-    "direccion": "Lugar el campillo s/n",
+    "direccion": "Lugar campillo 00000",
     "localidad": "ROBLEDO, EL",
     "cp": "13114",
     "provincia": "CIUDAD REAL",
@@ -22712,7 +22712,7 @@ const empresas = [
   },
   {
     "empresa": "PASARELA AGROPECUARIA,S.L.",
-    "direccion": "Calle cervantes 51",
+    "direccion": "Calle 00051",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -22725,7 +22725,7 @@ const empresas = [
   },
   {
     "empresa": "CORRIOS DE VERA, S.L.",
-    "direccion": "Carretera a-iv km 155 s/n",
+    "direccion": "Carretera -iv km 155 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -22738,7 +22738,7 @@ const empresas = [
   },
   {
     "empresa": "LOS CIGARRONES HOLSTEIN, SOCIEDAD LIMITADA",
-    "direccion": "Polígono 28 parcela 113 los cigarrones s/n",
+    "direccion": "Polígono 28 parcela 113 los cigarrones 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -22751,7 +22751,7 @@ const empresas = [
   },
   {
     "empresa": "LAS IRUELAS SL",
-    "direccion": "Lugar finca vallegarcia s/n s/n",
+    "direccion": "Lugar vallegarcia s/n 00000",
     "localidad": "CABEZARADOS",
     "cp": "13192",
     "provincia": "CIUDAD REAL",
@@ -22764,7 +22764,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS TREVIÑO R-C CB",
-    "direccion": "Pwparaje casa del rio parcela 89 s/n",
+    "direccion": "Pwparaje casa del rio parcela 89 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -22777,7 +22777,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS MUELA SAAVEDRA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera puertollano sn- poligono cabezuelo s/n",
+    "direccion": "Carretera sn- poligono cabezuelo 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -22790,7 +22790,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA ASESE SL",
-    "direccion": "Lugar finca la raña s/n",
+    "direccion": "Lugar la raña 00000",
     "localidad": "POZUELOS DE CALATRAVA, L",
     "cp": "13191",
     "provincia": "CIUDAD REAL",
@@ -22803,7 +22803,7 @@ const empresas = [
   },
   {
     "empresa": "EL RETAMOSO DE LA MANCHA 2 SL",
-    "direccion": "Lugar encomienda navas de la condesa s/n",
+    "direccion": "Lugar navas de la condesa 00000",
     "localidad": "VISO DEL MARQUES",
     "cp": "13770",
     "provincia": "CIUDAD REAL",
@@ -22816,7 +22816,7 @@ const empresas = [
   },
   {
     "empresa": "BARMIN AGROPECUARIA C.B.",
-    "direccion": "Calle conde de la cañada 1",
+    "direccion": "Calle de la cañada 00001",
     "localidad": "PICON",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -22829,7 +22829,7 @@ const empresas = [
   },
   {
     "empresa": "AGRARIA Y FORESTAL EL AVELLANAR SL",
-    "direccion": "Carretera cm-4157 km.46 finca el avellanar s/n",
+    "direccion": "Carretera -4157 km.46 finca el avellanar 00000",
     "localidad": "HORCAJO DE LOS MONTES",
     "cp": "13110",
     "provincia": "CIUDAD REAL",
@@ -22842,7 +22842,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA FONTANOSAS, S.A.",
-    "direccion": "Lugar finca la pañoleta s/n",
+    "direccion": "Lugar la pañoleta 00000",
     "localidad": "FONTANOSAS",
     "cp": "13473",
     "provincia": "CIUDAD REAL",
@@ -22855,7 +22855,7 @@ const empresas = [
   },
   {
     "empresa": "BROCHALES, S.A.",
-    "direccion": "Calle cortijo brochales 1",
+    "direccion": "Calle brochales 00001",
     "localidad": "ALMEDINA",
     "cp": "13328",
     "provincia": "CIUDAD REAL",
@@ -22868,7 +22868,7 @@ const empresas = [
   },
   {
     "empresa": "RUSTICA EL ACEBUCHAL, S.A.",
-    "direccion": "Carretera almagro a valdepeñas 1",
+    "direccion": "Carretera a valdepeñas 00001",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -22881,7 +22881,7 @@ const empresas = [
   },
   {
     "empresa": "MINAS DE ALMADEN Y ARRAYANES, S.A.",
-    "direccion": "Calle cerco s. teodoro(dehesa castilseras s/n",
+    "direccion": "Calle s. teodoro(dehesa castilseras 00000",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -22894,7 +22894,7 @@ const empresas = [
   },
   {
     "empresa": "REBOLLERA, S.A.",
-    "direccion": "Lugar finca la torrecilla 1",
+    "direccion": "Lugar la torrecilla 00001",
     "localidad": "SOLANA DEL PINO",
     "cp": "13593",
     "provincia": "CIUDAD REAL",
@@ -22907,7 +22907,7 @@ const empresas = [
   },
   {
     "empresa": "VILLAMAGNA, S.A.",
-    "direccion": "Calle cervantes 7",
+    "direccion": "Calle 00007",
     "localidad": "BRAZATORTAS",
     "cp": "13450",
     "provincia": "CIUDAD REAL",
@@ -22920,7 +22920,7 @@ const empresas = [
   },
   {
     "empresa": "SAN ISIDRO LABRADOR DE CIUDAD REAL",
-    "direccion": "Calle paloma 15",
+    "direccion": "Calle 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -22933,7 +22933,7 @@ const empresas = [
   },
   {
     "empresa": "SAKURA PRODUCTOS HOSPITALARI",
-    "direccion": "Carretera manzanares a moral calatrava s/n",
+    "direccion": "Carretera a moral calatrava 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -22946,7 +22946,7 @@ const empresas = [
   },
   {
     "empresa": "MONTE EL CRESPO, S.L.",
-    "direccion": "Cmdel crespo, s/n s/n",
+    "direccion": "Camino crespo, s/n 00000",
     "localidad": "FUENLLANA",
     "cp": "13333",
     "provincia": "CIUDAD REAL",
@@ -22959,7 +22959,7 @@ const empresas = [
   },
   {
     "empresa": "GLACAR S.L.",
-    "direccion": "Lugar finca las pilas s/n s/n",
+    "direccion": "Lugar las pilas s/n 00000",
     "localidad": "CORRAL DE CALATRAVA",
     "cp": "13190",
     "provincia": "CIUDAD REAL",
@@ -22972,7 +22972,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS LOPEZ, COM.B.",
-    "direccion": "Calle batanes 133",
+    "direccion": "Calle 000133",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -22985,7 +22985,7 @@ const empresas = [
   },
   {
     "empresa": "PAGO CASA DEL BLANCO, S.L.",
-    "direccion": "Carretera manzanares-moral (aptdo correos 143)1",
+    "direccion": "Carretera -moral (aptdo correos 143)00001",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -22998,7 +22998,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA MECANICA S.A.T.",
-    "direccion": "Calle alvarez de castro 5",
+    "direccion": "Calle de castro 00005",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -23011,7 +23011,7 @@ const empresas = [
   },
   {
     "empresa": "MAYORAZGO DEL LLANO, S.L.",
-    "direccion": "Lugar finca catagallos s/n",
+    "direccion": "Lugar catagallos 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -23024,7 +23024,7 @@ const empresas = [
   },
   {
     "empresa": "CANTAGALLOS AGROPECUARIA, S.L.",
-    "direccion": "Lugar finca cantagallos s/n",
+    "direccion": "Lugar cantagallos 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -23037,7 +23037,7 @@ const empresas = [
   },
   {
     "empresa": "SILES, S.A.T. LIMITADA",
-    "direccion": "Calle manifiesto 7",
+    "direccion": "Calle 00007",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -23050,7 +23050,7 @@ const empresas = [
   },
   {
     "empresa": "CULTIVOS Y REBAÑOS, S.L.",
-    "direccion": "Lugar termino de migulturra s/n",
+    "direccion": "Lugar de migulturra 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -23063,7 +23063,7 @@ const empresas = [
   },
   {
     "empresa": "AGROCEREVAL, S.L.",
-    "direccion": "Calle salida de los llanos 60",
+    "direccion": "Calle de los llanos 00060",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -23076,7 +23076,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS EL CACHORRO CB",
-    "direccion": "Calle ronda del trenillo 19",
+    "direccion": "Calle del trenillo 00019",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -23089,7 +23089,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA NAVAS FERNANDEZ PUEBLA PEDRO",
-    "direccion": "Calle carmen garcia navas 1",
+    "direccion": "Calle garcia navas 00001",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -23102,7 +23102,7 @@ const empresas = [
   },
   {
     "empresa": "RIO VELAZQUEZ MARIA PILAR",
-    "direccion": "Calle guzman el bueno 27 a",
+    "direccion": "Calle el bueno 00027 a",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -23115,7 +23115,7 @@ const empresas = [
   },
   {
     "empresa": "PLATAFORMA LOGISTICA FORESTAL, S.L.",
-    "direccion": "Apde correos 563",
+    "direccion": "Apde correos 00563",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -23127,8 +23127,8 @@ const empresas = [
     "federacion": "FICA"
   },
   {
-    "empresa": "MANOLITO'S NUTS S.L",
-    "direccion": "Calle herreros 18",
+    "empresa": "MANOLITOS NUTS S.L",
+    "direccion": "Calle 00018",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -23141,7 +23141,7 @@ const empresas = [
   },
   {
     "empresa": "AGROTORMO, COM.B.",
-    "direccion": "Calle jabalon 3",
+    "direccion": "Calle 00003",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -23154,7 +23154,7 @@ const empresas = [
   },
   {
     "empresa": "AGRO-RONCHA SERVICIOS AGRARIOS, S.L.",
-    "direccion": "Avenida maria 5",
+    "direccion": "Avenida 00005",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -23167,7 +23167,7 @@ const empresas = [
   },
   {
     "empresa": "IBEROPISTACHO . SL",
-    "direccion": "Avenida principal (ct civico) s/n 2 4",
+    "direccion": "Avenida (ct civico) 00000 2 4",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -23180,7 +23180,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS GARCIA DE MATEOS ALHAMB",
-    "direccion": "Calle mari trini garcía de mateos alhambra37 ga",
+    "direccion": "Calle trini garcía de mateos alhambra00037 ga",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -23193,7 +23193,7 @@ const empresas = [
   },
   {
     "empresa": "INVERSIONES LOGAVIC SL",
-    "direccion": "Calle campo 69",
+    "direccion": "Calle 00069",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23206,7 +23206,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRARIOS SERVICOR SLU",
-    "direccion": "Calle santa maria 9",
+    "direccion": "Calle maria 00009",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23219,7 +23219,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS JIMENEZ 2017 SLU",
-    "direccion": "Calle monjas 35",
+    "direccion": "Calle 00035",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -23232,7 +23232,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS POZO RUBIO, S.L.",
-    "direccion": "Calle poniente 8",
+    "direccion": "Calle 00008",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -23245,7 +23245,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA MONTOYA NIETO, S.L.",
-    "direccion": "Calle eloy gonzalo 10",
+    "direccion": "Calle gonzalo 00010",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -23258,7 +23258,7 @@ const empresas = [
   },
   {
     "empresa": "AGRIFIELDS SOCIEDAD LIMITADA",
-    "direccion": "Calle dulcinea 43",
+    "direccion": "Calle 00043",
     "localidad": "CINCO CASAS",
     "cp": "13720",
     "provincia": "CIUDAD REAL",
@@ -23271,7 +23271,7 @@ const empresas = [
   },
   {
     "empresa": "AGRO ALDEA DEL REY, S.L.",
-    "direccion": "Calle granados 1",
+    "direccion": "Calle 00001",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -23284,7 +23284,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS JARAVA VUJDEU S.L",
-    "direccion": "Calle francisco javier bustillo 1",
+    "direccion": "Calle javier bustillo 00001",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -23297,7 +23297,7 @@ const empresas = [
   },
   {
     "empresa": "OPREA --- ELENA LOREDANA",
-    "direccion": "Calle doctor ayllon 32 1 b",
+    "direccion": "Calle ayllon 00032 1 b",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23310,7 +23310,7 @@ const empresas = [
   },
   {
     "empresa": "SANTOS ROMAN DAVID",
-    "direccion": "Calle colon s/n",
+    "direccion": "Calle 00000",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -23323,7 +23323,7 @@ const empresas = [
   },
   {
     "empresa": "QUIROZ BARRIENTOS ADOLFO",
-    "direccion": "Calle cristo 21",
+    "direccion": "Calle 00021",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23336,7 +23336,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA ARJUS, SOCIEDAD LIMITADA",
-    "direccion": "Calle nueva 121",
+    "direccion": "Calle 00121",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23349,7 +23349,7 @@ const empresas = [
   },
   {
     "empresa": "MOTA VALLEZ JOSE LUIS",
-    "direccion": "Calle empedrada 17",
+    "direccion": "Calle 00017",
     "localidad": "GRANATULA DE CALATRAVA",
     "cp": "13360",
     "provincia": "CIUDAD REAL",
@@ -23362,7 +23362,7 @@ const empresas = [
   },
   {
     "empresa": "LEMA LEMA WILLIAN ORLANDO",
-    "direccion": "Calle via crucis 19 2 iz",
+    "direccion": "Calle crucis 00019 2 iz",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23375,7 +23375,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS SAHE 2019, SOCIEDAD LIMITADA",
-    "direccion": "Calle romera 7",
+    "direccion": "Calle 00007",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -23388,7 +23388,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS RUVILLA SC",
-    "direccion": "Calle jose maria rodriguez marin 60",
+    "direccion": "Calle maria rodriguez marin 00060",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -23401,7 +23401,7 @@ const empresas = [
   },
   {
     "empresa": "ARRIBAS ARROYO JESUS",
-    "direccion": "Plaza rodriguez 11 1 b",
+    "direccion": "Plaza 00011 1 b",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -23414,7 +23414,7 @@ const empresas = [
   },
   {
     "empresa": "AGRO CANARIOS Y J 2019, SOCIEDAD LIMITADA",
-    "direccion": "Calle aldea 33",
+    "direccion": "Calle 00033",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -23427,7 +23427,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS MAGE SL",
-    "direccion": "Calle duende 21",
+    "direccion": "Calle 00021",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -23440,7 +23440,7 @@ const empresas = [
   },
   {
     "empresa": "FELIPE LABRADOR SERGIO",
-    "direccion": "Calle dulcinea 58",
+    "direccion": "Calle 00058",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -23453,7 +23453,7 @@ const empresas = [
   },
   {
     "empresa": "ROMAN MARTINEZ MARIO",
-    "direccion": "Calle carretera de terrinches 11",
+    "direccion": "Calle de terrinches 00011",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -23466,7 +23466,7 @@ const empresas = [
   },
   {
     "empresa": "AGROEXPLOTACION SILVERIO JUAN, SOCIEDAD LIMITADA",
-    "direccion": "Calle de los maestros 4",
+    "direccion": "Calle los maestros 00004",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23479,7 +23479,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS ALAJO, SOCIEDAD LIMITADA",
-    "direccion": "Calle cristo 40",
+    "direccion": "Calle 00040",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23492,7 +23492,7 @@ const empresas = [
   },
   {
     "empresa": "VIVEROS LA MANCHA, S.L.",
-    "direccion": "Lugar bestozo pol 202 par 653 s/n",
+    "direccion": "Lugar pol 202 par 653 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -23505,7 +23505,7 @@ const empresas = [
   },
   {
     "empresa": "LEMA LEMA LUIS WALTHER",
-    "direccion": "Calle musico manuel almansa 18",
+    "direccion": "Calle manuel almansa 00018",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23518,7 +23518,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA 78GC RODRIGUEZ, SOCIEDAD LIMITADA",
-    "direccion": "Calle los gañanes 22",
+    "direccion": "Calle gañanes 00022",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23531,7 +23531,7 @@ const empresas = [
   },
   {
     "empresa": "TOMSA --- CORINA ADRIANA",
-    "direccion": "Calle valencia 40",
+    "direccion": "Calle 00040",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -23544,7 +23544,7 @@ const empresas = [
   },
   {
     "empresa": "COROAGRO 2021 SL",
-    "direccion": "Cl----- s/n",
+    "direccion": "Calle ----- 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -23557,7 +23557,7 @@ const empresas = [
   },
   {
     "empresa": "LACATUS --- PETRU",
-    "direccion": "Avenida antonio huertas 149 3 e",
+    "direccion": "Avenida huertas 00149 3 e",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23570,7 +23570,7 @@ const empresas = [
   },
   {
     "empresa": "AGRIBRUCAR, SOCIEDAD LIMITADA",
-    "direccion": "Calle doña crisanta 8 bj",
+    "direccion": "Calle ña crisanta 00008 bajo",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23583,7 +23583,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS PROCEL, SOCIEDAD LIMITADA",
-    "direccion": "Calle fray luis de bolaños 44 bjb",
+    "direccion": "Calle luis de bolaños 00044 bjb",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23596,7 +23596,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS SANTIMA, SOCIEDAD LIMITADA",
-    "direccion": "Calle pintor antonio lopez 14",
+    "direccion": "Calle antonio lopez 00014",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23609,7 +23609,7 @@ const empresas = [
   },
   {
     "empresa": "FML GONZAGA, S.L",
-    "direccion": "Avenida vereda 128",
+    "direccion": "Avenida 00128",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23622,7 +23622,7 @@ const empresas = [
   },
   {
     "empresa": "AGROGESTION DE PISTACHO, S.L",
-    "direccion": "Calle santiago 28",
+    "direccion": "Calle 00028",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -23635,7 +23635,7 @@ const empresas = [
   },
   {
     "empresa": "AGROMARQUITOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle cristo del valle 9",
+    "direccion": "Calle del valle 00009",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -23648,7 +23648,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS CASTILLA LA MANCHA S.L",
-    "direccion": "Calle lope de vega 30",
+    "direccion": "Calle de vega 00030",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23661,7 +23661,7 @@ const empresas = [
   },
   {
     "empresa": "VATAFU --- STELA",
-    "direccion": "Calle seis de junio 181 bj",
+    "direccion": "Calle de junio 00181 bajo",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -23674,7 +23674,7 @@ const empresas = [
   },
   {
     "empresa": "ALMENDRUN FRUTOS DE CASCARA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera tomelloso-socuellamos km.4 s/n",
+    "direccion": "Carretera -socuellamos km.4 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23687,7 +23687,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA TIERRA BLANCA, SOCIEDAD LIMITADA",
-    "direccion": "Calle quijote 9",
+    "direccion": "Calle 00009",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23700,7 +23700,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS R Y J, SOCIEDAD LIMITADA",
-    "direccion": "Calle colegio 3 2b",
+    "direccion": "Calle 00003 2b",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -23713,7 +23713,7 @@ const empresas = [
   },
   {
     "empresa": "AGRISAN SERVICIOS AGRICOLAS",
-    "direccion": "Calle carros 24 b",
+    "direccion": "Calle 00024 b",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -23726,7 +23726,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ AGRARIOS SC",
-    "direccion": "Calle dulcinea 5",
+    "direccion": "Calle 00005",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -23739,7 +23739,7 @@ const empresas = [
   },
   {
     "empresa": "TUZA LIMA RAMIRO ANTONIO",
-    "direccion": "Calle concordia 20 2 c",
+    "direccion": "Calle 00020 2 c",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23752,7 +23752,7 @@ const empresas = [
   },
   {
     "empresa": "DIAZ CRUZ ROQUE JACINTO",
-    "direccion": "Calle armaos 2 1 i",
+    "direccion": "Calle 00002 1 i",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -23765,7 +23765,7 @@ const empresas = [
   },
   {
     "empresa": "CORONADO CHAVEZ GALO PATRICIO",
-    "direccion": "Calle pelayo 67",
+    "direccion": "Calle 00067",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23778,7 +23778,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS SAME, SOCIEDAD LIMITADA",
-    "direccion": "Avenida virgen de las viñas 46",
+    "direccion": "Avenida de las viñas 00046",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23791,7 +23791,7 @@ const empresas = [
   },
   {
     "empresa": "EL MAATAOUI --- SAID",
-    "direccion": "Calle luna 12",
+    "direccion": "Calle 00012",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23804,7 +23804,7 @@ const empresas = [
   },
   {
     "empresa": "EXPLOTACIONES AGRICOLAS PLASENCIA, S.L.",
-    "direccion": "Calle bolaños 3 1",
+    "direccion": "Calle ños 00003 1",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23817,7 +23817,7 @@ const empresas = [
   },
   {
     "empresa": "SERVIAGRO DE LUIS, S.L.",
-    "direccion": "Calle de los maestros 4",
+    "direccion": "Calle los maestros 00004",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23830,7 +23830,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS LARBI, SOCIEDAD LIMITADA",
-    "direccion": "Calle cervantes 82",
+    "direccion": "Calle 00082",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23843,7 +23843,7 @@ const empresas = [
   },
   {
     "empresa": "GUERRERO RUIZ DINA MARIA",
-    "direccion": "Calle jose luis de arrese 42",
+    "direccion": "Calle luis de arrese 00042",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23856,7 +23856,7 @@ const empresas = [
   },
   {
     "empresa": "SEVILLA NAVARRO BRIAN",
-    "direccion": "Calle goya 7",
+    "direccion": "Calle 00007",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -23869,7 +23869,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS GUTIERREZ, S.L.",
-    "direccion": "Calle cid campeador 32",
+    "direccion": "Calle campeador 00032",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23882,7 +23882,7 @@ const empresas = [
   },
   {
     "empresa": "APOYO Y SOSTENIBILIDAD A LA AGRICULTURA, SOCIEDAD LIMIT",
-    "direccion": "Pjcasa orden s/n",
+    "direccion": "Pasaje orden 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -23895,7 +23895,7 @@ const empresas = [
   },
   {
     "empresa": "MULTISERVICIOS AGRICOLAS FERNANDO, SOCIEDAD LIMITADA",
-    "direccion": "Calle carboneros 10 1 e",
+    "direccion": "Calle 00010 1 e",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23908,7 +23908,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVI LA MANCHA, SOCIEDAD LIMITADA",
-    "direccion": "Calle claudio coello 99 3",
+    "direccion": "Calle coello 00099 3",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -23921,7 +23921,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS FARINANGO E HIJOS, S.L.",
-    "direccion": "Calle murillo 26",
+    "direccion": "Calle 00026",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23934,7 +23934,7 @@ const empresas = [
   },
   {
     "empresa": "COLQUE MONTE ANDRES",
-    "direccion": "Calle roldanes 2",
+    "direccion": "Calle 00002",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -23947,7 +23947,7 @@ const empresas = [
   },
   {
     "empresa": "RAMON GARCIA CERVIGON, S.L.",
-    "direccion": "Calle emilio nieto 58",
+    "direccion": "Calle nieto 00058",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -23960,7 +23960,7 @@ const empresas = [
   },
   {
     "empresa": "CESPEDES GUALEVE HERMINIA",
-    "direccion": "Calle cristobal colon 4",
+    "direccion": "Calle colon 00004",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -23973,7 +23973,7 @@ const empresas = [
   },
   {
     "empresa": "METOUALLI --- AMIN",
-    "direccion": "Calle rivera 50 bj d",
+    "direccion": "Calle 00050 bj d",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -23986,7 +23986,7 @@ const empresas = [
   },
   {
     "empresa": "EL KOMSI --- IHSANE",
-    "direccion": "Plaza manuel diaz fernandez 1 iz2 d",
+    "direccion": "Plaza diaz fernandez 00001 iz2 d",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -23999,7 +23999,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS AGROCADAVER, SOCIEDAD LIMITADA",
-    "direccion": "Calle teresa cepeda 9",
+    "direccion": "Calle cepeda 00009",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -24012,7 +24012,7 @@ const empresas = [
   },
   {
     "empresa": "TAMBOI --- ALEXANDRU CLAUD",
-    "direccion": "Calle infantas 19",
+    "direccion": "Calle 00019",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -24025,7 +24025,7 @@ const empresas = [
   },
   {
     "empresa": "ANAWANA AGRICOLA, SOCIEDAD LIMITADA",
-    "direccion": "Calle guadiana 35",
+    "direccion": "Calle 00035",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -24038,7 +24038,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS SAN LUCAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle nueva 53",
+    "direccion": "Calle 00053",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -24051,7 +24051,7 @@ const empresas = [
   },
   {
     "empresa": "GONZALES VASQUEZ MIRIAN SUYAPA",
-    "direccion": "Calle doctor ayllon 58",
+    "direccion": "Calle ayllon 00058",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24064,7 +24064,7 @@ const empresas = [
   },
   {
     "empresa": "MINTA GUAMAN JOHNNY XAVIER",
-    "direccion": "Calle recadero 26",
+    "direccion": "Calle 00026",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24077,7 +24077,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ BALDERRAMA ALCIRA",
-    "direccion": "Calle los gañanes 22 b",
+    "direccion": "Calle gañanes 00022 b",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -24090,7 +24090,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS AGROVISION, S.L.",
-    "direccion": "Calle agustin 26",
+    "direccion": "Calle 00026",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -24103,7 +24103,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS LUIS E HIJOS, S.L.",
-    "direccion": "Calle juan torres 7 1",
+    "direccion": "Calle torres 00007 1",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24116,7 +24116,7 @@ const empresas = [
   },
   {
     "empresa": "AGRO VIDA JJ, S.L.",
-    "direccion": "Calle cardenal cisneros 32",
+    "direccion": "Calle cisneros 00032",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24129,7 +24129,7 @@ const empresas = [
   },
   {
     "empresa": "SOLAGRO23, S.L.U.",
-    "direccion": "Calle serna 4",
+    "direccion": "Calle 00004",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -24142,7 +24142,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRICOLAS ZAKARI, SOCIEDAD LIMITADA",
-    "direccion": "Calle arenal 72",
+    "direccion": "Calle 00072",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -24155,7 +24155,7 @@ const empresas = [
   },
   {
     "empresa": "PULLAGUARI MARIZACA JOSE QUERUBIN",
-    "direccion": "Calle amargura 40 3 izq",
+    "direccion": "Calle 00040 3 izq",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -24168,7 +24168,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIO AGRARIO AGRO CHANGO MOLINA, S.L.",
-    "direccion": "Calle angosta 29 a",
+    "direccion": "Calle 00029 a",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -24181,7 +24181,7 @@ const empresas = [
   },
   {
     "empresa": "EL FORQANI --- YOUSSEF",
-    "direccion": "Calle virgen del monte 19",
+    "direccion": "Calle del monte 00019",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24194,7 +24194,7 @@ const empresas = [
   },
   {
     "empresa": "LAKHMAISS --- OUSAMA",
-    "direccion": "Calle paloma 3",
+    "direccion": "Calle 00003",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -24207,7 +24207,7 @@ const empresas = [
   },
   {
     "empresa": "MELENDEZ MARTINEZ MABELI JUNIETH",
-    "direccion": "Avenida vereda 131 01",
+    "direccion": "Avenida 00131 01",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24220,7 +24220,7 @@ const empresas = [
   },
   {
     "empresa": "AGRO DAFFE, SOCIEDAD LIMITADA",
-    "direccion": "Calle de los maestros 8 a",
+    "direccion": "Calle los maestros 00008 a",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24233,7 +24233,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSERVICIOS VERDE, SOCIEDAD LIMITADA",
-    "direccion": "Calle hernan cortes 10",
+    "direccion": "Calle cortes 00010",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -24246,7 +24246,7 @@ const empresas = [
   },
   {
     "empresa": "AGROSENDA SERVICIOS AGRICOLAS, S.L.",
-    "direccion": "Calle goya 1 a",
+    "direccion": "Calle 00001 a",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -24259,7 +24259,7 @@ const empresas = [
   },
   {
     "empresa": "AGROALSANIA, S.L.",
-    "direccion": "Calle maestro chapi 7",
+    "direccion": "Calle chapi 00007",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -24272,7 +24272,7 @@ const empresas = [
   },
   {
     "empresa": "BEAMUD ZAMORA JESUS",
-    "direccion": "Calle cantabria 13",
+    "direccion": "Calle 00013",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -24285,7 +24285,7 @@ const empresas = [
   },
   {
     "empresa": "AGRORUPER, S.R.L.",
-    "direccion": "Calle pedro morallon 68",
+    "direccion": "Calle morallon 00068",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -24298,7 +24298,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS AGRÍCOLAS CAMPO VIVO, SOCIEDAD LIMITADA",
-    "direccion": "Calle santisimo 9",
+    "direccion": "Calle 00009",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24311,7 +24311,7 @@ const empresas = [
   },
   {
     "empresa": "BANICA --- IONUT VALENTIN",
-    "direccion": "Calle reyes catolicos 24",
+    "direccion": "Calle catolicos 00024",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24324,7 +24324,7 @@ const empresas = [
   },
   {
     "empresa": "AGROINFANTES 1991, SOCIEDAD LIMITADA",
-    "direccion": "Calle jaen 15",
+    "direccion": "Calle 00015",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -24337,7 +24337,7 @@ const empresas = [
   },
   {
     "empresa": "LUCIAN IOAN ALECU",
-    "direccion": "Calle rodalnes 44",
+    "direccion": "Calle 00044",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -24350,7 +24350,7 @@ const empresas = [
   },
   {
     "empresa": "NAJIM --- ABDELKADER",
-    "direccion": "Calle pelayo i 36",
+    "direccion": "Calle i 00036",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24363,7 +24363,7 @@ const empresas = [
   },
   {
     "empresa": "MINA ROMERO DARWIN ROBERTO",
-    "direccion": "Calle jose maria serna 1 4 b",
+    "direccion": "Calle maria serna 00001 4 b",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -24376,7 +24376,7 @@ const empresas = [
   },
   {
     "empresa": "EL OUAHDANI --- RACHID",
-    "direccion": "Calle armaos 2 1 n",
+    "direccion": "Calle 00002 1 n",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -24389,7 +24389,7 @@ const empresas = [
   },
   {
     "empresa": "MOLINA PRADOS GOMEZ CALCERRADA JESUS",
-    "direccion": "Calle barataria 27",
+    "direccion": "Calle 00027",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -24402,7 +24402,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPECUARIA TORRE SANTIAGO, S.A.",
-    "direccion": "Calle quevedo 2",
+    "direccion": "Calle 00002",
     "localidad": "TORRE DE JUAN ABAD",
     "cp": "13344",
     "provincia": "CIUDAD REAL",
@@ -24415,7 +24415,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES LASECA, S.A.",
-    "direccion": "Carretera calzada de cva km.13 (valdeconejero)s/n",
+    "direccion": "Carretera de cva km.13 (valdeconejero)00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -24428,7 +24428,7 @@ const empresas = [
   },
   {
     "empresa": "DEFISERAGRO, S.L.",
-    "direccion": "Avenida de la industria s/n",
+    "direccion": "Avenida la industria 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -24441,7 +24441,7 @@ const empresas = [
   },
   {
     "empresa": "TECKEL GESTORA, S.L",
-    "direccion": "Lugar finca \"el lebracho\" s/n",
+    "direccion": "Lugar \"el lebracho\" 00000",
     "localidad": "SOLANA DEL PINO",
     "cp": "13593",
     "provincia": "CIUDAD REAL",
@@ -24454,7 +24454,7 @@ const empresas = [
   },
   {
     "empresa": "EXPLOTACIONES VARIAS, S.L",
-    "direccion": "Lugar finca el casarejo 1",
+    "direccion": "Lugar el casarejo 00001",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -24467,7 +24467,7 @@ const empresas = [
   },
   {
     "empresa": "COTO CAMILO, S.L.",
-    "direccion": "Lugar fincas en termino municipal montiel s/n",
+    "direccion": "Lugar en termino municipal montiel 00000",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -24480,7 +24480,7 @@ const empresas = [
   },
   {
     "empresa": "LA NAVA EVENTOS, S.L.",
-    "direccion": "Lugar finca barranco de la gomera s/n",
+    "direccion": "Lugar barranco de la gomera 00000",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -24493,7 +24493,7 @@ const empresas = [
   },
   {
     "empresa": "AGROPERDIZ, S.L.",
-    "direccion": "Calle ramirez lasala 27",
+    "direccion": "Calle lasala 00027",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -24506,7 +24506,7 @@ const empresas = [
   },
   {
     "empresa": "SECHS MINUTEN SL",
-    "direccion": "Zzfinca peñas blancas s/n",
+    "direccion": "Zzfinca peñas blancas 00000",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -24519,7 +24519,7 @@ const empresas = [
   },
   {
     "empresa": "HISPANINVER SL",
-    "direccion": "Cmfinca la romera s/n",
+    "direccion": "Camino la romera 00000",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -24532,7 +24532,7 @@ const empresas = [
   },
   {
     "empresa": "TRANSPORTES ARIDOS Y HORMIGONES",
-    "direccion": "Carretera nacional 415 km 92 5 s/n",
+    "direccion": "Carretera 415 km 92 5 00000",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -24545,7 +24545,7 @@ const empresas = [
   },
   {
     "empresa": "SODIRA IBERIA, S.L.",
-    "direccion": "Carretera de tomelloso km 8 s/n",
+    "direccion": "Carretera tomelloso km 8 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -24558,7 +24558,7 @@ const empresas = [
   },
   {
     "empresa": "ABENOJAR TUNGSTEN SA",
-    "direccion": "Avenida labradores 4",
+    "direccion": "Avenida 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -24571,7 +24571,7 @@ const empresas = [
   },
   {
     "empresa": "PETROFISICA IBERICA S.A.",
-    "direccion": "Calle ramon y cajal 5 2 a",
+    "direccion": "Calle y cajal 00005 2 a",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -24584,7 +24584,7 @@ const empresas = [
   },
   {
     "empresa": "PEDRIN E HIJOS, S.L.",
-    "direccion": "Calle encomienda 6",
+    "direccion": "Calle 00006",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -24597,7 +24597,7 @@ const empresas = [
   },
   {
     "empresa": "EMBUTIDOS NARANJO, S.L.",
-    "direccion": "Calle cristo 82",
+    "direccion": "Calle 00082",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24610,7 +24610,7 @@ const empresas = [
   },
   {
     "empresa": "MATADERO FRIGORIFICO BAUTISTA BENAVENT, S.L.U.",
-    "direccion": "Polígono alces parc. 5 y 7 s/n",
+    "direccion": "Polígono parc. 5 y 7 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -24623,7 +24623,7 @@ const empresas = [
   },
   {
     "empresa": "MATADERO FRIGORIFICO DE AGUDO, S.L.",
-    "direccion": "Lugar parcela 1. poligono 8",
+    "direccion": "Lugar 1. poligono 00008",
     "localidad": "AGUDO",
     "cp": "13410",
     "provincia": "CIUDAD REAL",
@@ -24636,7 +24636,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS SAEZ ALFARO S.L.",
-    "direccion": "Calle juan angel amador fresneda s/n",
+    "direccion": "Calle angel amador fresneda 00000",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -24649,7 +24649,7 @@ const empresas = [
   },
   {
     "empresa": "VEGACAZA SOCIEDAD LIMITADA",
-    "direccion": "Calle nueva 3",
+    "direccion": "Calle 00003",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -24662,7 +24662,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS FLORIDA,S.A.",
-    "direccion": "Carretera villarrobledo, km. 2 s/n",
+    "direccion": "Carretera , km. 2 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -24675,7 +24675,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO SADA P.A. S.A.",
-    "direccion": "Polígono el salobral c/ restauradores 2223",
+    "direccion": "Polígono salobral c/ restauradores 02223",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24688,7 +24688,7 @@ const empresas = [
   },
   {
     "empresa": "VACUNOPLUS, S.L.U.",
-    "direccion": "Carretera madrid cadiz, km 200 s/n",
+    "direccion": "Carretera cadiz, km 200 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -24701,7 +24701,7 @@ const empresas = [
   },
   {
     "empresa": "EMBUTIDOS ROJAS, S.L.",
-    "direccion": "Carretera horcajo 1",
+    "direccion": "Carretera 00001",
     "localidad": "ROBLEDO, EL",
     "cp": "13114",
     "provincia": "CIUDAD REAL",
@@ -24714,7 +24714,7 @@ const empresas = [
   },
   {
     "empresa": "CONSERVAS HUERTAS MUÑOZ, S.L.",
-    "direccion": "Carretera andalucia, km. 217 s/n",
+    "direccion": "Carretera , km. 217 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -24727,7 +24727,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ RIVERA JONATAN",
-    "direccion": "Calle falla 9",
+    "direccion": "Calle 00009",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -24740,7 +24740,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIAS CARNICAS ROYAL CHEF, S.L.",
-    "direccion": "Polígono industrial el raso c/ matilla 3",
+    "direccion": "Polígono el raso c/ matilla 00003",
     "localidad": "PICON",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -24753,7 +24753,7 @@ const empresas = [
   },
   {
     "empresa": "EMBUTIDOS ARTESANOS DEL PUEBLO S",
-    "direccion": "Calle yeseros 71",
+    "direccion": "Calle 00071",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -24766,7 +24766,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN CONSUEGRA BECERRA ANTONIO",
-    "direccion": "Calle zuacorta 12",
+    "direccion": "Calle 00012",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -24779,7 +24779,7 @@ const empresas = [
   },
   {
     "empresa": "CARNICAS LOS HERMANOS MACELARII,S.L",
-    "direccion": "Calle malvasia 5",
+    "direccion": "Calle 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -24792,7 +24792,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA CARRION 1890,S.L.",
-    "direccion": "Polígono guarnicionero s/n",
+    "direccion": "Polígono 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -24805,7 +24805,7 @@ const empresas = [
   },
   {
     "empresa": "FINCA LA ROSALA SL",
-    "direccion": "Calle real 105",
+    "direccion": "Calle 00105",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -24818,7 +24818,7 @@ const empresas = [
   },
   {
     "empresa": "PISTACHOS DEL SOL, S.L.",
-    "direccion": "Calle arroyo pellejero 10x",
+    "direccion": "Calle pellejero 00010x",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -24831,7 +24831,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS DIAZ CAÑAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle vistillas de santiago 16 b",
+    "direccion": "Calle de santiago 00016 b",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -24844,7 +24844,7 @@ const empresas = [
   },
   {
     "empresa": "CORTIJO DE CALATRAVA, S.L",
-    "direccion": "Carretera torralba 6",
+    "direccion": "Carretera 00006",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -24857,7 +24857,7 @@ const empresas = [
   },
   {
     "empresa": "IBEROPISTACHO . SL",
-    "direccion": "Polígono parcela 6 del poligono 82 s/n",
+    "direccion": "Polígono 6 del poligono 82 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -24870,7 +24870,7 @@ const empresas = [
   },
   {
     "empresa": "COOPERATIVA AGRICOLA SANTISIMO CRISTO",
-    "direccion": "Calle fundadores cooperativa 69",
+    "direccion": "Calle cooperativa 00069",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -24883,7 +24883,7 @@ const empresas = [
   },
   {
     "empresa": "COOP.OLIVARERA NUESTRA SEÑORA DEL PILAR",
-    "direccion": "Carretera almuradiel 16",
+    "direccion": "Carretera 00016",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -24896,7 +24896,7 @@ const empresas = [
   },
   {
     "empresa": "VIRGEN DEL VALLE, SDAD COOP DE CASTILLA LA MANCHA",
-    "direccion": "Avenida cooperativa 2",
+    "direccion": "Avenida 00002",
     "localidad": "VISO DEL MARQUES",
     "cp": "13770",
     "provincia": "CIUDAD REAL",
@@ -24909,7 +24909,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP. DEL CAMPO NRTA SRA DE LA FE",
-    "direccion": "Avenida avda la provincia s/n 1",
+    "direccion": "Avenida la provincia s/n 00001",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -24922,7 +24922,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP. DEL CAMPO NRTA SRA DE LA ENCARNACION",
-    "direccion": "Calle avda ciudad real 72",
+    "direccion": "Calle ciudad real 00072",
     "localidad": "ABENOJAR",
     "cp": "13180",
     "provincia": "CIUDAD REAL",
@@ -24935,7 +24935,7 @@ const empresas = [
   },
   {
     "empresa": "ACEITES MALAGON S.L.",
-    "direccion": "Calle real de la plata 2",
+    "direccion": "Calle de la plata 00002",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -24948,7 +24948,7 @@ const empresas = [
   },
   {
     "empresa": "ACEITES BAOS, S.A.",
-    "direccion": "Calle egido del carmen 3",
+    "direccion": "Calle del carmen 00003",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -24961,7 +24961,7 @@ const empresas = [
   },
   {
     "empresa": "COOP.OLIVARERA DE VALDEPENAS",
-    "direccion": "Carretera ciudad real-murcia 1",
+    "direccion": "Carretera real-murcia 00001",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -24974,7 +24974,7 @@ const empresas = [
   },
   {
     "empresa": "JUDISAN, S.L.",
-    "direccion": "Trcalatrava 2",
+    "direccion": "Travesía 00002",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -24987,7 +24987,7 @@ const empresas = [
   },
   {
     "empresa": "COOPERATIVA ALMAZARERA ENCARNACION",
-    "direccion": "Avenida de la encarnacion 15",
+    "direccion": "Avenida la encarnacion 00015",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -25000,7 +25000,7 @@ const empresas = [
   },
   {
     "empresa": "PAULINO BUENO, S.L.",
-    "direccion": "Calle vara del rey 7",
+    "direccion": "Calle del rey 00007",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -25013,7 +25013,7 @@ const empresas = [
   },
   {
     "empresa": "SOC. COOP. SANTISIMO CRISTO DEL VALLE",
-    "direccion": "Cmmembrilla, s/n s/n",
+    "direccion": "Camino , s/n 00000",
     "localidad": "SAN CARLOS DEL VALLE",
     "cp": "13247",
     "provincia": "CIUDAD REAL",
@@ -25026,7 +25026,7 @@ const empresas = [
   },
   {
     "empresa": "OLEO-PEPILLO, S.L.",
-    "direccion": "Calle barril s/n s/n",
+    "direccion": "Calle s/n 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -25039,7 +25039,7 @@ const empresas = [
   },
   {
     "empresa": "HEREDAD DE MONTEAGUDO, S.L.",
-    "direccion": "Carretera valdepeñas-torrenueva, km 8,5 s/n",
+    "direccion": "Carretera ñas-torrenueva, km 8,5 00000",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -25052,7 +25052,7 @@ const empresas = [
   },
   {
     "empresa": "UNION DE SANTIAGO Y SAN MIGUEL SDAD COOP CASTILLA LA MA",
-    "direccion": "Avenida la mancha 21",
+    "direccion": "Avenida mancha 00021",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -25065,7 +25065,7 @@ const empresas = [
   },
   {
     "empresa": "OLIVAPALACIOS, S.L.",
-    "direccion": "Carretera daimiel-bolaños (finca los palacios)s/n",
+    "direccion": "Carretera -bolaños (finca los palacios)00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -25078,7 +25078,7 @@ const empresas = [
   },
   {
     "empresa": "AZZAYT AGROALIMENTARIA,S.L.",
-    "direccion": "Carretera ciudad real-valdepeñas km. 97",
+    "direccion": "Carretera real-valdepeñas km. 00097",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -25091,7 +25091,7 @@ const empresas = [
   },
   {
     "empresa": "IBIGELAT . SL",
-    "direccion": "Plaza mayor 21",
+    "direccion": "Plaza 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -25104,7 +25104,7 @@ const empresas = [
   },
   {
     "empresa": "LACTEAS GARCIA BAQUERO, S.A.",
-    "direccion": "Polígono industrial alces 23",
+    "direccion": "Polígono alces 00023",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -25117,7 +25117,7 @@ const empresas = [
   },
   {
     "empresa": "QUESOS LA CASOTA, S.L.",
-    "direccion": "Calle madrid 18",
+    "direccion": "Calle madrid 00018",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -25130,7 +25130,7 @@ const empresas = [
   },
   {
     "empresa": "QUESERIA ARTESANAL LA SOLANA, S.L.",
-    "direccion": "Avenida de los industriales s/n s/n",
+    "direccion": "Avenida los industriales s/n 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -25143,7 +25143,7 @@ const empresas = [
   },
   {
     "empresa": "OVINOS LACAUNES ESPAÑOLES, S.L.U.",
-    "direccion": "Carretera nacional 401, km. 157 s/n",
+    "direccion": "Carretera 401, km. 157 00000",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -25156,7 +25156,7 @@ const empresas = [
   },
   {
     "empresa": "QUESOS DON MIGUELSL",
-    "direccion": "Avenida de la industria 15",
+    "direccion": "Avenida la industria 00015",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -25169,7 +25169,7 @@ const empresas = [
   },
   {
     "empresa": "CAMPO DE SAN JUAN SL",
-    "direccion": "Calle syrah 4",
+    "direccion": "Calle 00004",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -25182,7 +25182,7 @@ const empresas = [
   },
   {
     "empresa": "ARTESANOS PRECORTADOS SL",
-    "direccion": "Calle calle uno-ampliacion peri p.i 11",
+    "direccion": "Calle uno-ampliacion peri p.i 00011",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -25195,7 +25195,7 @@ const empresas = [
   },
   {
     "empresa": "QUESOS DON APOLONIO SL",
-    "direccion": "Carretera daimiel s/n",
+    "direccion": "Carretera 00000",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -25208,7 +25208,7 @@ const empresas = [
   },
   {
     "empresa": "QUESOS CARPUELA, SOCIEDAD LIMITADA",
-    "direccion": "Polígono industrial, calle de los caleros 15",
+    "direccion": "Polígono , calle de los caleros 00015",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -25221,7 +25221,7 @@ const empresas = [
   },
   {
     "empresa": "LACTEOS MANCHEGOS, S.A.",
-    "direccion": "Polígono industrial alces 32",
+    "direccion": "Polígono alces 00032",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -25234,7 +25234,7 @@ const empresas = [
   },
   {
     "empresa": "GARIN COBIAN S.A.",
-    "direccion": "Lugar finca cantarranas s/n",
+    "direccion": "Lugar cantarranas 00000",
     "localidad": "VALVERDE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -25247,7 +25247,7 @@ const empresas = [
   },
   {
     "empresa": "EBESA BEBIDAS VINOS Y DERIVADOS, S.A.L.",
-    "direccion": "Avenida de la virgen 104",
+    "direccion": "Avenida la virgen 00104",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -25260,7 +25260,7 @@ const empresas = [
   },
   {
     "empresa": "HARINAS BELTRAN, S.A.",
-    "direccion": "Calle alvarez quintero 5",
+    "direccion": "Calle quintero 00005",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -25273,7 +25273,7 @@ const empresas = [
   },
   {
     "empresa": "HARINAS PALMERO, S.L.",
-    "direccion": "Calle mesones 11",
+    "direccion": "Calle 00011",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -25286,7 +25286,7 @@ const empresas = [
   },
   {
     "empresa": "FRANCARIS, S.L.",
-    "direccion": "Polígono alces parcela 13",
+    "direccion": "Polígono parcela 00013",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -25299,7 +25299,7 @@ const empresas = [
   },
   {
     "empresa": "EL CATETO, S.L.U",
-    "direccion": "Calle molino 3",
+    "direccion": "Calle 00003",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -25312,7 +25312,7 @@ const empresas = [
   },
   {
     "empresa": "FLORES MUÑOZ MARTINA A",
-    "direccion": "Calle zorreras s/n",
+    "direccion": "Calle 00000",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -25325,7 +25325,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ MARTINEZ JESUS MARIA",
-    "direccion": "Calle palacios 7",
+    "direccion": "Calle 00007",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -25338,7 +25338,7 @@ const empresas = [
   },
   {
     "empresa": "PECASAN, S.L.",
-    "direccion": "Calle herencia 17",
+    "direccion": "Calle 00017",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -25351,7 +25351,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN DE LA LEONA, S.L.",
-    "direccion": "Calle marmaria 13",
+    "direccion": "Calle 00013",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -25364,7 +25364,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS ROMAN ALAMINOS, S.L.",
-    "direccion": "Calle las tinajas s/n 1y2. pol.ind.alces s/n",
+    "direccion": "Calle tinajas s/n 1y2. pol.ind.alces 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -25377,7 +25377,7 @@ const empresas = [
   },
   {
     "empresa": "TAHONA ARTESANOS DE PAN, S.L.L.",
-    "direccion": "Calle charcazo 31",
+    "direccion": "Calle 00031",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -25390,7 +25390,7 @@ const empresas = [
   },
   {
     "empresa": "ORTIZ RECUERO TOMAS",
-    "direccion": "Calle catalina ruiz 4",
+    "direccion": "Calle ruiz 00004",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -25403,7 +25403,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS SANTDUL, S.L.",
-    "direccion": "Polígono indust. \"la serna\" calle \"b-1\" 8",
+    "direccion": "Polígono \"la serna\" calle \"b-1\" 00008",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -25416,7 +25416,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS GALINDO, COM.B.",
-    "direccion": "Calle victoria 13",
+    "direccion": "Calle 00013",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -25429,7 +25429,7 @@ const empresas = [
   },
   {
     "empresa": "PANADERIA SAN JUAN DE VALDEPEÑAS, S.L.",
-    "direccion": "Calle pocico 3",
+    "direccion": "Calle 00003",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -25442,7 +25442,7 @@ const empresas = [
   },
   {
     "empresa": "ARTESANOS PANADEROS DE PICON, S.L.",
-    "direccion": "Calle estrella 6",
+    "direccion": "Calle 00006",
     "localidad": "PICON",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -25455,7 +25455,7 @@ const empresas = [
   },
   {
     "empresa": "ASTILLERO GARZAS JOSE MARIA",
-    "direccion": "Calle jesus 14",
+    "direccion": "Calle 00014",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -25468,7 +25468,7 @@ const empresas = [
   },
   {
     "empresa": "DISTRIBUCIONES CAMPOSPAN S.L.",
-    "direccion": "Calle zacatena s/n_nave 55 s/n",
+    "direccion": "Calle s/n_nave 55 00000",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -25481,7 +25481,7 @@ const empresas = [
   },
   {
     "empresa": "PANADEROS ARTESANOS J SANCHEZ, S.L.",
-    "direccion": "Calle ismael de tomelloso 64",
+    "direccion": "Calle de tomelloso 00064",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -25494,7 +25494,7 @@ const empresas = [
   },
   {
     "empresa": "PANADERIA PASTELERIA GONCAHER,S.L",
-    "direccion": "Calle almagro 13",
+    "direccion": "Calle 00013",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -25507,7 +25507,7 @@ const empresas = [
   },
   {
     "empresa": "PANADERIA MANZANEQUE, S.L.",
-    "direccion": "Calle panaderia 1",
+    "direccion": "Calle 00001",
     "localidad": "ALAMEDA DE CERVERA",
     "cp": "13690",
     "provincia": "CIUDAD REAL",
@@ -25520,7 +25520,7 @@ const empresas = [
   },
   {
     "empresa": "EL LEÑADOR 2010, S.L.",
-    "direccion": "Calle dean de alba 18",
+    "direccion": "Calle de alba 00018",
     "localidad": "CORRAL DE CALATRAVA",
     "cp": "13190",
     "provincia": "CIUDAD REAL",
@@ -25533,7 +25533,7 @@ const empresas = [
   },
   {
     "empresa": "PASTELERIA PILAR, C.B.",
-    "direccion": "Calle castellanos 114",
+    "direccion": "Calle 00114",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -25546,7 +25546,7 @@ const empresas = [
   },
   {
     "empresa": "PANADERIA BOLLERIA FEGOPAN SOCI",
-    "direccion": "Calle jose mora 11",
+    "direccion": "Calle mora 00011",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -25559,7 +25559,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ RUIZ JULIO",
-    "direccion": "Calle goya 4",
+    "direccion": "Calle 00004",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -25572,7 +25572,7 @@ const empresas = [
   },
   {
     "empresa": "EL HORNO DE PASTELERIA PIÑA,S.L.",
-    "direccion": "Calle san sebastian 9",
+    "direccion": "Calle sebastian 00009",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -25585,7 +25585,7 @@ const empresas = [
   },
   {
     "empresa": "BEAMUD ORTEGA, SL",
-    "direccion": "Calle dulcinea 14",
+    "direccion": "Calle 00014",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -25598,7 +25598,7 @@ const empresas = [
   },
   {
     "empresa": "PANADERIA IMEDIO, SOCIEDAD LIMITADA",
-    "direccion": "Calle cardenal monescillo 38",
+    "direccion": "Calle monescillo 00038",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -25611,7 +25611,7 @@ const empresas = [
   },
   {
     "empresa": "PANAMAN 2022 SOCIEDAD LIMITADA",
-    "direccion": "Calle valdepñas 12",
+    "direccion": "Calle ñas 00012",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -25624,7 +25624,7 @@ const empresas = [
   },
   {
     "empresa": "PANIFICADORA PEDRO Y MIGUEL SL",
-    "direccion": "Calle juan ramon jimenez 4",
+    "direccion": "Calle ramon jimenez 00004",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -25637,7 +25637,7 @@ const empresas = [
   },
   {
     "empresa": "PETKOV PETKOV PRESLAV",
-    "direccion": "Calle cardenal monescillo 16",
+    "direccion": "Calle monescillo 00016",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -25650,7 +25650,7 @@ const empresas = [
   },
   {
     "empresa": "EL HORNO DE ESTHER BAKERY, SOCIEDAD LIMITADA",
-    "direccion": "Calle candelaria 12",
+    "direccion": "Calle 00012",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -25663,7 +25663,7 @@ const empresas = [
   },
   {
     "empresa": "MECO BLAZQUEZ JOSE MIGUEL",
-    "direccion": "Avenida hispanidad-c/v-cl garcia leon s/n",
+    "direccion": "Avenida -c/v-cl garcia leon 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -25676,7 +25676,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS ARENAS S.L.",
-    "direccion": "Calle maria cristina 78",
+    "direccion": "Calle cristina 00078",
     "localidad": "CORRAL DE CALATRAVA",
     "cp": "13190",
     "provincia": "CIUDAD REAL",
@@ -25689,7 +25689,7 @@ const empresas = [
   },
   {
     "empresa": "COBODUL, S.L.",
-    "direccion": "Calle paloma 1",
+    "direccion": "Calle 00001",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -25702,7 +25702,7 @@ const empresas = [
   },
   {
     "empresa": "QUIROS CORTES JESUS JAVIER",
-    "direccion": "Calle emilio castelar 43",
+    "direccion": "Calle castelar 00043",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -25715,7 +25715,7 @@ const empresas = [
   },
   {
     "empresa": "RODADO RODERO MARIANA",
-    "direccion": "Calle sabina (local 3) 1",
+    "direccion": "Calle (local 3) 00001",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -25728,7 +25728,7 @@ const empresas = [
   },
   {
     "empresa": "MAZALMENDRA S.L.",
-    "direccion": "Calle magallanes 3",
+    "direccion": "Calle 00003",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -25741,7 +25741,7 @@ const empresas = [
   },
   {
     "empresa": "DULYMAZ . SLL",
-    "direccion": "Calle murcia (p.i las viñas) 64",
+    "direccion": "Calle (p.i las viñas) 00064",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -25754,7 +25754,7 @@ const empresas = [
   },
   {
     "empresa": "DESARROLLO GASTRONOMICO S.L.",
-    "direccion": "Polígono campo de aviacion 40",
+    "direccion": "Polígono de aviacion 00040",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -25767,7 +25767,7 @@ const empresas = [
   },
   {
     "empresa": "LABORATORIOS ANUR,S.L",
-    "direccion": "Polígono la pagarilla s/n c/ comerciantes s/n",
+    "direccion": "Polígono la pagarilla s/n c/ comerciantes 00000",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -25780,7 +25780,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS CHACON HERMANOS, S.A.",
-    "direccion": "Calle animas 30",
+    "direccion": "Calle 00030",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -25793,7 +25793,7 @@ const empresas = [
   },
   {
     "empresa": "CABEZUELO FOODS, S.L.",
-    "direccion": "Calle campo de criptana 86",
+    "direccion": "Calle de criptana 00086",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -25806,7 +25806,7 @@ const empresas = [
   },
   {
     "empresa": "CONGELADOS CABEZUELO, S.L.",
-    "direccion": "Calle campo de criptana 74",
+    "direccion": "Calle de criptana 00074",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -25819,7 +25819,7 @@ const empresas = [
   },
   {
     "empresa": "CHURRERIA BEATRIZ, S.L.U.",
-    "direccion": "Avenida constitucion s/n",
+    "direccion": "Avenida 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -25832,7 +25832,7 @@ const empresas = [
   },
   {
     "empresa": "HORNEADOS VEGETALES, S.A.",
-    "direccion": "Polígono industrial calle iii parcelas 38y39 s/n",
+    "direccion": "Polígono calle iii parcelas 38y39 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -25845,7 +25845,7 @@ const empresas = [
   },
   {
     "empresa": "PISTAMANCHA SOCIEDAD COOPERATIVA DE C-LM",
-    "direccion": "Carretera crp-6032 km 5,1855 s/n",
+    "direccion": "Carretera -6032 km 5,1855 00000",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -25858,7 +25858,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS AZAXON DESARROLLO DE AP",
-    "direccion": "Calle de la industria 9",
+    "direccion": "Calle la industria 00009",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -25871,7 +25871,7 @@ const empresas = [
   },
   {
     "empresa": "FRITOS SEVILLA, S.L.",
-    "direccion": "Carretera valdepeñas s/n",
+    "direccion": "Carretera ñas 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -25884,7 +25884,7 @@ const empresas = [
   },
   {
     "empresa": "MANUFACTURAS GASCON SOCIEDAD LI",
-    "direccion": "Calle campo de criptana 86",
+    "direccion": "Calle de criptana 00086",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -25897,7 +25897,7 @@ const empresas = [
   },
   {
     "empresa": "GESTION Y TRANSFORMACION, SOCIEDAD LIMITADA",
-    "direccion": "Calle campo de criptana 86",
+    "direccion": "Calle de criptana 00086",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -25910,7 +25910,7 @@ const empresas = [
   },
   {
     "empresa": "PISTALIFE S.COOP.C-LM",
-    "direccion": "Calle transportistas s/n",
+    "direccion": "Calle 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -25923,7 +25923,7 @@ const empresas = [
   },
   {
     "empresa": "INNOVACIÓN ALIMENTARIA 2025, SOCIEDAD LIMITADA",
-    "direccion": "Calle campo de criptana 86",
+    "direccion": "Calle de criptana 00086",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -25936,7 +25936,7 @@ const empresas = [
   },
   {
     "empresa": "VITAL HEALTHY FOOD, SOCIEDAD LIMITADA",
-    "direccion": "Calle pog. industrial calle 2, parcela 59 s/n sn",
+    "direccion": "Calle industrial calle 2, parcela 59 00000 sn",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -25949,7 +25949,7 @@ const empresas = [
   },
   {
     "empresa": "INICIATIVAS ALIMENTARIAS, S.A.",
-    "direccion": "Calle dehesa del campo plg ind la vega 73",
+    "direccion": "Calle del campo plg ind la vega 00073",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -25962,7 +25962,7 @@ const empresas = [
   },
   {
     "empresa": "BLAS PRETINA, S.L.",
-    "direccion": "Calle rinconada de la iglesia 3",
+    "direccion": "Calle de la iglesia 00003",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -25975,7 +25975,7 @@ const empresas = [
   },
   {
     "empresa": "PIENSOS THURMA SL",
-    "direccion": "Avenida europa - poligono la nava ii 10",
+    "direccion": "Avenida - poligono la nava ii 00010",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -25988,7 +25988,7 @@ const empresas = [
   },
   {
     "empresa": "D.V.T. ESPAÑA S.A.",
-    "direccion": "Carretera tomelloso-socuellamos km 1,800 s/n",
+    "direccion": "Carretera -socuellamos km 1,800 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -26001,7 +26001,7 @@ const empresas = [
   },
   {
     "empresa": "MIRAMAR SATIE S.L.",
-    "direccion": "Calle noruega 1",
+    "direccion": "Calle 00001",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -26014,7 +26014,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS SIMBOLO S.COOP. CLM NUESTRA SEÑORA DE CRIPTANA",
-    "direccion": "Calle concepcion 105",
+    "direccion": "Calle 00105",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -26027,7 +26027,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP. NUESTRA SEÑORA DE LA PAZ",
-    "direccion": "Calle cervantes 96",
+    "direccion": "Calle 00096",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -26040,7 +26040,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP. AGRARIA DE CASTILLA LA MANCHA SAN LORENZO",
-    "direccion": "Calle cervantes 30",
+    "direccion": "Calle 00030",
     "localidad": "ALAMEDA DE CERVERA",
     "cp": "13690",
     "provincia": "CIUDAD REAL",
@@ -26053,7 +26053,7 @@ const empresas = [
   },
   {
     "empresa": "VINICOLA DE CASTILLA, S.A.",
-    "direccion": "Polígono pol.ind. c\\union europea parc.5 s/n",
+    "direccion": "Polígono c\\union europea parc.5 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -26066,7 +26066,7 @@ const empresas = [
   },
   {
     "empresa": "SAN BERNABE APOSTOL, S.COOP. DE CASTILLA LA MANCHA",
-    "direccion": "Carretera crta villarta 22",
+    "direccion": "Carretera villarta 00022",
     "localidad": "ARENAS DE SAN JUAN",
     "cp": "13679",
     "provincia": "CIUDAD REAL",
@@ -26079,7 +26079,7 @@ const empresas = [
   },
   {
     "empresa": "COOPERATIVA DEL CAMPO VIRGEN DEL CARMEN DE ALMODOVAR",
-    "direccion": "Carretera tirteafuera s/n",
+    "direccion": "Carretera 00000",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -26092,7 +26092,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS DE VITICULTURA, S.A.",
-    "direccion": "Carretera de las tablas s/n",
+    "direccion": "Carretera las tablas 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -26105,7 +26105,7 @@ const empresas = [
   },
   {
     "empresa": "COOPERATIVA SANTIAGO APOSTOL",
-    "direccion": "Calle san blas 2",
+    "direccion": "Calle blas 00002",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -26118,7 +26118,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS CENTRO ESPAÑOLAS, S.A.",
-    "direccion": "Carretera alcazar km.1 1",
+    "direccion": "Carretera km.1 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -26131,7 +26131,7 @@ const empresas = [
   },
   {
     "empresa": "CONCENTRADOS DE UVA, S.A.",
-    "direccion": "Polígono alces, s/n 1",
+    "direccion": "Polígono , s/n 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -26144,7 +26144,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS MENDIETA, S.L.",
-    "direccion": "Carretera malagon, s/n 1",
+    "direccion": "Carretera , s/n 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -26157,7 +26157,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIAS VINICOLAS LOS CANDIALES , S.L.",
-    "direccion": "Calle prim 9",
+    "direccion": "Calle 00009",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -26170,7 +26170,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS NARANJO, S.L.",
-    "direccion": "Calle felipe ii 5",
+    "direccion": "Calle ii 00005",
     "localidad": "CARRION DE CALATRAVA",
     "cp": "13150",
     "provincia": "CIUDAD REAL",
@@ -26183,7 +26183,7 @@ const empresas = [
   },
   {
     "empresa": "J.A. MEGIA E HIJOS, S.L.",
-    "direccion": "Calle magdalena 33",
+    "direccion": "Calle 00033",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26196,7 +26196,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS NAVARRO LOPEZ, S.L.",
-    "direccion": "Carretera madrid-cadiz. km 193",
+    "direccion": "Carretera -cadiz. km 00193",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26209,7 +26209,7 @@ const empresas = [
   },
   {
     "empresa": "VINOS Y BODEGAS, S.A.",
-    "direccion": "Carretera de las mesas, km. 1 s/n",
+    "direccion": "Carretera las mesas, km. 1 00000",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -26222,7 +26222,7 @@ const empresas = [
   },
   {
     "empresa": "GLOMOL, S.L.",
-    "direccion": "Calle campo 55",
+    "direccion": "Calle 00055",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -26235,7 +26235,7 @@ const empresas = [
   },
   {
     "empresa": "ALEJANDRO FERNANDEZ TINTO PESQUERA, S.L.",
-    "direccion": "Avenida juan carlos i, s/n s/n",
+    "direccion": "Avenida carlos i, s/n 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -26248,7 +26248,7 @@ const empresas = [
   },
   {
     "empresa": "COOPERATIVA CAMPO CASTILLO SALVATIERRA, S.C.L.",
-    "direccion": "Calle san anton 34",
+    "direccion": "Calle anton 00034",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -26261,7 +26261,7 @@ const empresas = [
   },
   {
     "empresa": "VIÑA GINESA RESERVAS, S.L.",
-    "direccion": "Calle real 84",
+    "direccion": "Calle 00084",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26274,7 +26274,7 @@ const empresas = [
   },
   {
     "empresa": "EXPLOTACIONES HERMANOS DELGADO SL",
-    "direccion": "Cmde los santos, km. 5,5 s/n",
+    "direccion": "Camino los santos, km. 5,5 00000",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -26287,7 +26287,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS FERNANDO CASTRO, S.L.",
-    "direccion": "Pocastelar 70",
+    "direccion": "Pocastelar 00070",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -26300,7 +26300,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP. AGRARIA COZAR DE LA SIERRA",
-    "direccion": "Calle maestro lara 65",
+    "direccion": "Calle lara 00065",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -26313,7 +26313,7 @@ const empresas = [
   },
   {
     "empresa": "OLEOVINICOLA CAMPO DE CALATRAVA DE BOLAÑOS, S.C. DE CLM",
-    "direccion": "Carretera torralba 1",
+    "direccion": "Carretera 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -26326,7 +26326,7 @@ const empresas = [
   },
   {
     "empresa": "PAGO DE VALLEGARCIA, S.A.",
-    "direccion": "Lugar finca vallegarcia s/n",
+    "direccion": "Lugar vallegarcia 00000",
     "localidad": "RETUERTA DE BULLAQUE",
     "cp": "13194",
     "provincia": "CIUDAD REAL",
@@ -26339,7 +26339,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS MORALIA, S.L.",
-    "direccion": "Calle vendimia 1",
+    "direccion": "Calle 00001",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -26352,7 +26352,7 @@ const empresas = [
   },
   {
     "empresa": "MUREDA ALIMENTACION, S.L.",
-    "direccion": "Carretera autovia andalucia (la consolacion)km184",
+    "direccion": "Carretera andalucia (la consolacion)km00184",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26365,7 +26365,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP. CLM GALAN DE MEMBRILLA-BODEGAS REZUELO",
-    "direccion": "Calle san miguel 36",
+    "direccion": "Calle miguel 00036",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -26378,7 +26378,7 @@ const empresas = [
   },
   {
     "empresa": "FELIX SOLIS, S.L.",
-    "direccion": "Carretera autovia madrid-cadiz km 199",
+    "direccion": "Carretera madrid-cadiz km 00199",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26391,7 +26391,7 @@ const empresas = [
   },
   {
     "empresa": "ENCOMIENDA CERVERA, S.L.",
-    "direccion": "Calle arzobispo cañizares 1",
+    "direccion": "Calle cañizares 00001",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -26404,7 +26404,7 @@ const empresas = [
   },
   {
     "empresa": "CAIZ CARRIZAL, S.L.U.",
-    "direccion": "Carretera de returta a navas de estena, km. 5",
+    "direccion": "Carretera returta a navas de estena, km. 00005",
     "localidad": "RETUERTA DE BULLAQUE",
     "cp": "13194",
     "provincia": "CIUDAD REAL",
@@ -26417,7 +26417,7 @@ const empresas = [
   },
   {
     "empresa": "AGRICOLA CASA DE LA VIÑA, S.L.",
-    "direccion": "Avenida herencia 28",
+    "direccion": "Avenida 00028",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -26430,7 +26430,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS VIDAL DEL SAZ S.L.",
-    "direccion": "Polígono industrial pozo hondo 4950",
+    "direccion": "Polígono pozo hondo 0004950",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -26443,7 +26443,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS DON QUIJOTE, S.A.",
-    "direccion": "Polígono manzanares fase 2 parc 14-216 s/n",
+    "direccion": "Polígono fase 2 parc 14-216 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -26456,7 +26456,7 @@ const empresas = [
   },
   {
     "empresa": "DCOOP, S.C.A.",
-    "direccion": "Avenida de los vinos (pg.ind. alces) s/n",
+    "direccion": "Avenida los vinos (pg.ind. alces) 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -26469,7 +26469,7 @@ const empresas = [
   },
   {
     "empresa": "VINICOLA DE VALDEPEXAS S COOP DE",
-    "direccion": "Carretera autovia madrid andalucia km 198.3 198",
+    "direccion": "Carretera madrid andalucia km 198.3 00198",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26482,7 +26482,7 @@ const empresas = [
   },
   {
     "empresa": "QUINTA DE AVES, SOCIEDAD LIMITADA",
-    "direccion": "Lugar ctra. cr-p 5222 km 11,200 s/n",
+    "direccion": "Lugar cr-p 5222 km 11,200 00000",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -26495,7 +26495,7 @@ const empresas = [
   },
   {
     "empresa": "PARTICIPACIONES LA CARTUJA SL",
-    "direccion": "Carretera argamasilla alba/cinco casas cm3113 s/n",
+    "direccion": "Carretera alba/cinco casas cm3113 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -26508,7 +26508,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGA CASA LOBOS S.L.",
-    "direccion": "Polígono poligono 1 parcela 11 dehesa boyal s/n",
+    "direccion": "Polígono 1 parcela 11 dehesa boyal 00000",
     "localidad": "PICON",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -26521,7 +26521,7 @@ const empresas = [
   },
   {
     "empresa": "MOSTOS Y VINOS DE LA MANCHA SOC COOP DE CLM",
-    "direccion": "Avenida juan carlos i 81",
+    "direccion": "Avenida carlos i 00081",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -26534,7 +26534,7 @@ const empresas = [
   },
   {
     "empresa": "ALBAR WINES SL",
-    "direccion": "Calle ciriaco cruz 2",
+    "direccion": "Calle cruz 00002",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26547,7 +26547,7 @@ const empresas = [
   },
   {
     "empresa": "LA CRIPTANENSE, S.L.",
-    "direccion": "Avenida castilla leon 9",
+    "direccion": "Avenida leon 00009",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -26560,7 +26560,7 @@ const empresas = [
   },
   {
     "empresa": "AGUA MANCHA, S.L",
-    "direccion": "Carretera cm 4169 punto kilometrico 3 s/n",
+    "direccion": "Carretera 4169 punto kilometrico 3 00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -26573,7 +26573,7 @@ const empresas = [
   },
   {
     "empresa": "MANITU TIME, SL",
-    "direccion": "Calle antonio fresneda 4",
+    "direccion": "Calle fresneda 00004",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -26586,7 +26586,7 @@ const empresas = [
   },
   {
     "empresa": "ZORBA TEXTIL, COM.B.",
-    "direccion": "Calle norte 35",
+    "direccion": "Calle 00035",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -26599,7 +26599,7 @@ const empresas = [
   },
   {
     "empresa": "DECOCRISTI, S.L.",
-    "direccion": "Avenida juan carlos i 103",
+    "direccion": "Avenida carlos i 00103",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -26612,7 +26612,7 @@ const empresas = [
   },
   {
     "empresa": "TAPIZADOS MARGOFER SOCIEDAD LIM",
-    "direccion": "Calle de los yeseros (poligono industrial)39",
+    "direccion": "Calle los yeseros (poligono industrial)00039",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -26625,7 +26625,7 @@ const empresas = [
   },
   {
     "empresa": "FERROBOT, SOCIEDAD LIMITADA",
-    "direccion": "Calle camino de aldea del rey 7",
+    "direccion": "Calle de aldea del rey 00007",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -26638,7 +26638,7 @@ const empresas = [
   },
   {
     "empresa": "COMPRA IDEAL, S.L.",
-    "direccion": "Carretera cm-4174 12",
+    "direccion": "Carretera -4174 00012",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -26651,7 +26651,7 @@ const empresas = [
   },
   {
     "empresa": "FRESMARVI S.L.",
-    "direccion": "Calle cervantes 21 bj",
+    "direccion": "Calle 00021 bajo",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -26664,7 +26664,7 @@ const empresas = [
   },
   {
     "empresa": "BORDADOS DAFRANKA,S.L.",
-    "direccion": "Calle cuerda 42",
+    "direccion": "Calle 00042",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -26677,7 +26677,7 @@ const empresas = [
   },
   {
     "empresa": "RODADO RIVERA FELIX EXALTACIO",
-    "direccion": "Calle garcia lorca 21",
+    "direccion": "Calle lorca 00021",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -26690,7 +26690,7 @@ const empresas = [
   },
   {
     "empresa": "CONFECCIONES MODICO, S.L.",
-    "direccion": "Trcanteras 3",
+    "direccion": "Travesía 00003",
     "localidad": "CARRIZOSA",
     "cp": "13329",
     "provincia": "CIUDAD REAL",
@@ -26703,7 +26703,7 @@ const empresas = [
   },
   {
     "empresa": "VALERO FACTORY, S.L.",
-    "direccion": "Pogenovevo garcia alamo 39",
+    "direccion": "Pogenovevo garcia alamo 00039",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -26716,7 +26716,7 @@ const empresas = [
   },
   {
     "empresa": "LENCERIA Y PUNTO HERNANDEZ, S.L.",
-    "direccion": "Calle orense 17 b",
+    "direccion": "Calle 00017 b",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -26729,7 +26729,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL TARFEHI, S.L.",
-    "direccion": "Avenida gregorio prieto 44",
+    "direccion": "Avenida prieto 00044",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26742,7 +26742,7 @@ const empresas = [
   },
   {
     "empresa": "TORRENOVA Y GARCIA C.B.",
-    "direccion": "Calle torre quevedo 3",
+    "direccion": "Calle quevedo 00003",
     "localidad": "TORNO, EL",
     "cp": "13194",
     "provincia": "CIUDAD REAL",
@@ -26755,7 +26755,7 @@ const empresas = [
   },
   {
     "empresa": "TEXMAR FACTORY SL",
-    "direccion": "Calle mediodia 14",
+    "direccion": "Calle 00014",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26768,7 +26768,7 @@ const empresas = [
   },
   {
     "empresa": "ESTELAM 2024, S",
-    "direccion": "Calle magdalena 52 b",
+    "direccion": "Calle 00052 b",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26781,7 +26781,7 @@ const empresas = [
   },
   {
     "empresa": "ENTRE TELARES Y COSTURAS 2023, SOCIEDAD LIMITADA",
-    "direccion": "Calle gomez montalban 5",
+    "direccion": "Calle montalban 00005",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -26794,7 +26794,7 @@ const empresas = [
   },
   {
     "empresa": "ANTONIO MATEOS DE LA HIGUERA, S.L.",
-    "direccion": "Calle carrera 145",
+    "direccion": "Calle 00145",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -26807,7 +26807,7 @@ const empresas = [
   },
   {
     "empresa": "CONFECCIONES PINTADO, S.L.",
-    "direccion": "Calle martinez falero 17",
+    "direccion": "Calle falero 00017",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -26820,7 +26820,7 @@ const empresas = [
   },
   {
     "empresa": "PLANCHASOL, S.L.",
-    "direccion": "Calle segadores 3",
+    "direccion": "Calle 00003",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -26833,7 +26833,7 @@ const empresas = [
   },
   {
     "empresa": "CONFECCIONES GRAN, S.L.",
-    "direccion": "Calle jose maria del moral 1",
+    "direccion": "Calle maria del moral 00001",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -26846,7 +26846,7 @@ const empresas = [
   },
   {
     "empresa": "COTHERGA, S. COOP. DE CASTILLA LA MANCHA",
-    "direccion": "Calle unamuno, s/n s/n",
+    "direccion": "Calle , s/n 00000",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -26859,7 +26859,7 @@ const empresas = [
   },
   {
     "empresa": "CORTE Y CONF. RUSKYSOL, S.L.",
-    "direccion": "Avenida industriales 57",
+    "direccion": "Avenida 000057",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -26872,7 +26872,7 @@ const empresas = [
   },
   {
     "empresa": "CORTE CONFECCION BADOS ROJO S.L.",
-    "direccion": "Calle quevedo 20",
+    "direccion": "Calle 00020",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -26885,7 +26885,7 @@ const empresas = [
   },
   {
     "empresa": "TORRES DELGADO JOSE MARIA",
-    "direccion": "Calle doctor marañon 11",
+    "direccion": "Calle marañon 00011",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -26898,7 +26898,7 @@ const empresas = [
   },
   {
     "empresa": "SOLUCIONES EMOGEST SL",
-    "direccion": "Calle poligono industrial del vino c/pelle26",
+    "direccion": "Calle industrial del vino c/pelle00026",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26911,7 +26911,7 @@ const empresas = [
   },
   {
     "empresa": "CONFECCIONES BEIJO, S.L.",
-    "direccion": "Avenida de la constitucion 68",
+    "direccion": "Avenida la constitucion 00068",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -26924,7 +26924,7 @@ const empresas = [
   },
   {
     "empresa": "STEIMEL TEXTIL, SOCIEDAD LIMITADA",
-    "direccion": "Calle san juan 8",
+    "direccion": "Calle juan 00008",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -26937,7 +26937,7 @@ const empresas = [
   },
   {
     "empresa": "MUMA CONFECCIONES SL",
-    "direccion": "Avenida primero de julio 78",
+    "direccion": "Avenida de julio 00078",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -26950,7 +26950,7 @@ const empresas = [
   },
   {
     "empresa": "CONFECCIONES GALLEGO CARRIZOSA S.L.",
-    "direccion": "Calle canteras 6",
+    "direccion": "Calle 00006",
     "localidad": "CARRIZOSA",
     "cp": "13329",
     "provincia": "CIUDAD REAL",
@@ -26963,7 +26963,7 @@ const empresas = [
   },
   {
     "empresa": "QUALITY DIRECTION SL",
-    "direccion": "Plaza arcángeles 9",
+    "direccion": "Plaza ángeles 00009",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -26976,7 +26976,7 @@ const empresas = [
   },
   {
     "empresa": "ADVERSIA, S.L.",
-    "direccion": "Calle alfareros 6",
+    "direccion": "Calle 00006",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -26989,7 +26989,7 @@ const empresas = [
   },
   {
     "empresa": "GORRAS BEIRETS, S.L.",
-    "direccion": "Calle naranjo 1",
+    "direccion": "Calle 00001",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -27002,7 +27002,7 @@ const empresas = [
   },
   {
     "empresa": "CONFECCIONES CARGONGA, S.L.",
-    "direccion": "Calle perez galdos 74",
+    "direccion": "Calle galdos 00074",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -27015,7 +27015,7 @@ const empresas = [
   },
   {
     "empresa": "CONFECCIONES VICOTEX S.L.",
-    "direccion": "Avenida de la mancha 159",
+    "direccion": "Avenida la mancha 00159",
     "localidad": "VILLAHERMOSA",
     "cp": "13332",
     "provincia": "CIUDAD REAL",
@@ -27028,7 +27028,7 @@ const empresas = [
   },
   {
     "empresa": "TROUSEPT SIGLO XXI , S.L.U.",
-    "direccion": "Avenida castilla la mancha 159",
+    "direccion": "Avenida la mancha 00159",
     "localidad": "VILLAHERMOSA",
     "cp": "13332",
     "provincia": "CIUDAD REAL",
@@ -27041,7 +27041,7 @@ const empresas = [
   },
   {
     "empresa": "CONFECCIONES DOMINGUEZ E HIJOS, S.L.",
-    "direccion": "Polígono las viñas c/valencia 33",
+    "direccion": "Polígono viñas c/valencia 00033",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -27054,7 +27054,7 @@ const empresas = [
   },
   {
     "empresa": "SHIRTMANN FACTORY, S.L.",
-    "direccion": "Calle antigua carretera madrid-andalucia 11",
+    "direccion": "Calle carretera madrid-andalucia 00011",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -27067,7 +27067,7 @@ const empresas = [
   },
   {
     "empresa": "LOSAL TM, SDAD. COOP.",
-    "direccion": "Carretera nacional 430, km. 385 s/n",
+    "direccion": "Carretera 430, km. 385 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -27080,7 +27080,7 @@ const empresas = [
   },
   {
     "empresa": "INDUTECMA SL",
-    "direccion": "Calle asuncion cepeda 16",
+    "direccion": "Calle cepeda 00016",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27093,7 +27093,7 @@ const empresas = [
   },
   {
     "empresa": "CARPINTERIAS DE TOMELLOSO, S.L.",
-    "direccion": "Polígono los portales cl los ceramistas 7",
+    "direccion": "Polígono portales cl los ceramistas 00007",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27106,7 +27106,7 @@ const empresas = [
   },
   {
     "empresa": "SHITECMA, S.L.",
-    "direccion": "Calle moraleja 31",
+    "direccion": "Calle 00031",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -27119,7 +27119,7 @@ const empresas = [
   },
   {
     "empresa": "IMPREGNACIONES Y MONTAJES, S.L.",
-    "direccion": "Carretera puerto lapice, km 2",
+    "direccion": "Carretera lapice, km 00002",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -27132,7 +27132,7 @@ const empresas = [
   },
   {
     "empresa": "INSTACAR MADERA S.L.",
-    "direccion": "Calle severo ochoa 18",
+    "direccion": "Calle ochoa 00018",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -27145,7 +27145,7 @@ const empresas = [
   },
   {
     "empresa": "CARPINTERIA MADERA PUERTAS MOLINA S.L.",
-    "direccion": "Calle manuel sancho gomez manzanares 36",
+    "direccion": "Calle sancho gomez manzanares 00036",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -27158,7 +27158,7 @@ const empresas = [
   },
   {
     "empresa": "GIMENEZ GANGA,S.L.U.",
-    "direccion": "Avenida p.i pozo-hondo -avda castilla y leon36",
+    "direccion": "Avenida pozo-hondo -avda castilla y leon00036",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -27171,7 +27171,7 @@ const empresas = [
   },
   {
     "empresa": "RIVAS SANCHEZ CARPINTEROS SL",
-    "direccion": "Calle cariñena 1920",
+    "direccion": "Calle ñena 0001920",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -27184,7 +27184,7 @@ const empresas = [
   },
   {
     "empresa": "JESUS SANCHEZ CARPINTEROS, S.L.",
-    "direccion": "Avenida herencia 25",
+    "direccion": "Avenida 00025",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -27197,7 +27197,7 @@ const empresas = [
   },
   {
     "empresa": "EMBALAJES Y BIOMASA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera nacional 420 s/n",
+    "direccion": "Carretera 420 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -27210,7 +27210,7 @@ const empresas = [
   },
   {
     "empresa": "EMBALAJES MANCHEGOS, S.L.",
-    "direccion": "Calle avda ciencia pol emilio castro 13",
+    "direccion": "Calle ciencia pol emilio castro 00013",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -27223,7 +27223,7 @@ const empresas = [
   },
   {
     "empresa": "DOBLE C. SERIGRAFIA S.L.",
-    "direccion": "Polígono indus la estrella, c curtidores 28",
+    "direccion": "Polígono la estrella, c curtidores 00028",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -27236,7 +27236,7 @@ const empresas = [
   },
   {
     "empresa": "LINCE ARTES GRAFICAS, S.L..",
-    "direccion": "Avenida isaac peral cv hnos.lumierre s/n. s/n d",
+    "direccion": "Avenida peral cv hnos.lumierre s/n. 00000 d",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -27249,7 +27249,7 @@ const empresas = [
   },
   {
     "empresa": "GRAFICAS GARRIDO, S.L.",
-    "direccion": "Calle solana, poligono larache 42",
+    "direccion": "Calle , poligono larache 00042",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -27262,7 +27262,7 @@ const empresas = [
   },
   {
     "empresa": "GRAFICAS TOMELLOSO, S.L.U",
-    "direccion": "Carretera socuellamos, km.0,800 s/n",
+    "direccion": "Carretera , km.0,800 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27275,7 +27275,7 @@ const empresas = [
   },
   {
     "empresa": "COLOR GRAFICO ETIQUETAS, S.L.",
-    "direccion": "Avenida francia 24",
+    "direccion": "Avenida 00024",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -27288,7 +27288,7 @@ const empresas = [
   },
   {
     "empresa": "LAS IDEAS DEL ATICO, S.L.L.",
-    "direccion": "Calle azucena 22 bj",
+    "direccion": "Calle 00022 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -27301,7 +27301,7 @@ const empresas = [
   },
   {
     "empresa": "ARIAS COMUNICACION GRAFICA, S.L.",
-    "direccion": "Calle calle cariñena con calle airen s/n",
+    "direccion": "Calle cariñena con calle airen 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -27314,7 +27314,7 @@ const empresas = [
   },
   {
     "empresa": "INTRAPSA, SOCIEDAD LIMITADA",
-    "direccion": "Calle espronceda 14",
+    "direccion": "Calle 00014",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -27327,7 +27327,7 @@ const empresas = [
   },
   {
     "empresa": "GRAFICAS CARRASCOSA VALDEPEÑAS, S.L",
-    "direccion": "Calle bocoy 17",
+    "direccion": "Calle 00017",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -27340,7 +27340,7 @@ const empresas = [
   },
   {
     "empresa": "ENCUADERNACIONES ALCAIDE, S.L.",
-    "direccion": "Avenida estudiantes 86",
+    "direccion": "Avenida 00086",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -27353,7 +27353,7 @@ const empresas = [
   },
   {
     "empresa": "INERNACIONAL DE ALCOHOLES SA",
-    "direccion": "Calle mencia, pc m 80",
+    "direccion": "Calle , pc m 00080",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -27366,7 +27366,7 @@ const empresas = [
   },
   {
     "empresa": "NIMO INICIATIVAS SL",
-    "direccion": "Calle francia 4",
+    "direccion": "Calle 00004",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -27379,7 +27379,7 @@ const empresas = [
   },
   {
     "empresa": "CARBOTECNIA, S.L.",
-    "direccion": "Polígono industral calle ix s/n",
+    "direccion": "Polígono calle ix 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -27392,7 +27392,7 @@ const empresas = [
   },
   {
     "empresa": "CRILUX S.L.",
-    "direccion": "Polígono poligono \"el cabezuelo\" s.n. 1",
+    "direccion": "Polígono \"el cabezuelo\" s.n. 00001",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -27405,7 +27405,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS TERMICOS DEL CENTRO, S.L.",
-    "direccion": "Calle camino del campo, s/n s/n",
+    "direccion": "Calle del campo, s/n 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27418,7 +27418,7 @@ const empresas = [
   },
   {
     "empresa": "MORTEROS EL SOL, S.L.",
-    "direccion": "Calle granada 22",
+    "direccion": "Calle 00022",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -27431,7 +27431,7 @@ const empresas = [
   },
   {
     "empresa": "PINTURAS RUMA, S.L.",
-    "direccion": "Calle camino de membrilla, s/n s/n",
+    "direccion": "Calle de membrilla, s/n 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -27444,7 +27444,7 @@ const empresas = [
   },
   {
     "empresa": "HMEN X LIMP, S.L.",
-    "direccion": "Calle p.i. sepes nave 708 708",
+    "direccion": "Calle sepes nave 708 00708",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -27457,7 +27457,7 @@ const empresas = [
   },
   {
     "empresa": "TRUMI QUIMICA, SOCIEDAD LIMITADA",
-    "direccion": "Polígono campo de la aviacion 12",
+    "direccion": "Polígono de la aviacion 00012",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -27470,7 +27470,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCTOS AGROVIN, S.A.",
-    "direccion": "Calle poligono alces, s/n 1",
+    "direccion": "Calle alces, s/n 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -27483,7 +27483,7 @@ const empresas = [
   },
   {
     "empresa": "LAMIRSA SOLUTIONS SL",
-    "direccion": "Calle aduana 10",
+    "direccion": "Calle 00010",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -27496,7 +27496,7 @@ const empresas = [
   },
   {
     "empresa": "LABORATORIOS MENARINI S.A.",
-    "direccion": "Calle doña ana 2",
+    "direccion": "Calle ña ana 00002",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -27509,7 +27509,7 @@ const empresas = [
   },
   {
     "empresa": "RECICLAJES LA MANCHA, S.L.",
-    "direccion": "Carretera nacional, km. 299,70 s/n",
+    "direccion": "Carretera , km. 299,70 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -27522,7 +27522,7 @@ const empresas = [
   },
   {
     "empresa": "VULCANIZADOS MANCHEGOS SLU",
-    "direccion": "Avenida juan carlos i 124",
+    "direccion": "Avenida carlos i 00124",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -27535,7 +27535,7 @@ const empresas = [
   },
   {
     "empresa": "TUBEST SISTEMAS DE RIEGO, S.L.",
-    "direccion": "Carretera a-43,km.89100 s/n",
+    "direccion": "Carretera -43,km.89100 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27548,7 +27548,7 @@ const empresas = [
   },
   {
     "empresa": "PLASTICOS ABLA, S.L.U.",
-    "direccion": "Polígono industrial, parcela,91 1",
+    "direccion": "Polígono , parcela,91 00001",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -27561,7 +27561,7 @@ const empresas = [
   },
   {
     "empresa": "AKAR SERVICIOS INTEGRALES, S.L.U.",
-    "direccion": "Polígono ind. el cabezuelo s/n",
+    "direccion": "Polígono el cabezuelo 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -27574,7 +27574,7 @@ const empresas = [
   },
   {
     "empresa": "SOMAN P.V.C., S.L.",
-    "direccion": "Carretera argamasilla, km s/n",
+    "direccion": "Carretera , km 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27587,7 +27587,7 @@ const empresas = [
   },
   {
     "empresa": "UNIGALA INNOVA SL",
-    "direccion": "Carretera autovia a43 km 91800 s/n",
+    "direccion": "Carretera a43 km 91800 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27600,7 +27600,7 @@ const empresas = [
   },
   {
     "empresa": "LUMANCHA, S.L.L.",
-    "direccion": "Polígono el salobral calle camioneros s/n",
+    "direccion": "Polígono salobral calle camioneros 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -27613,7 +27613,7 @@ const empresas = [
   },
   {
     "empresa": "TRENCADIS INNOVACION, S.L.",
-    "direccion": "Calle ctuz de villanueva 2",
+    "direccion": "Calle de villanueva 00002",
     "localidad": "VILLAMANRIQUE",
     "cp": "13343",
     "provincia": "CIUDAD REAL",
@@ -27626,7 +27626,7 @@ const empresas = [
   },
   {
     "empresa": "CERAMICAS VALERA. S.A.",
-    "direccion": "Calle canalejas s.n. 1",
+    "direccion": "Calle s.n. 00001",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -27639,7 +27639,7 @@ const empresas = [
   },
   {
     "empresa": "CERAMICA MATEO, S.L.",
-    "direccion": "Cmde la muela s/n",
+    "direccion": "Camino la muela 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -27652,7 +27652,7 @@ const empresas = [
   },
   {
     "empresa": "RUSTICOS LA MANCHA, S.A.",
-    "direccion": "Carretera autovia andalucia, km 213",
+    "direccion": "Carretera andalucia, km 00213",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -27665,7 +27665,7 @@ const empresas = [
   },
   {
     "empresa": "CEMENTOS Y MORTEROS DEL CENTRO, S.L",
-    "direccion": "Carretera tomelloso km 8 \"fabrica la solana\" s/n",
+    "direccion": "Carretera km 8 \"fabrica la solana\" 00000",
     "localidad": "ALHAMBRA",
     "cp": "13248",
     "provincia": "CIUDAD REAL",
@@ -27678,7 +27678,7 @@ const empresas = [
   },
   {
     "empresa": "HORMIGONES CRIPTANA, S.L.",
-    "direccion": "Carretera nacional 420 km 297 s/n",
+    "direccion": "Carretera 420 km 297 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -27691,7 +27691,7 @@ const empresas = [
   },
   {
     "empresa": "HORMIGONES GICASA SL",
-    "direccion": "Calle lirio 35",
+    "direccion": "Calle 00035",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -27704,7 +27704,7 @@ const empresas = [
   },
   {
     "empresa": "FORMAC, S.A.",
-    "direccion": "Carretera fuente el fresno, km. 8,600 s/n",
+    "direccion": "Carretera el fresno, km. 8,600 00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -27717,7 +27717,7 @@ const empresas = [
   },
   {
     "empresa": "BRONCE INVERSIONES, S.L.",
-    "direccion": "Carretera autovia a4 km.800 s/n",
+    "direccion": "Carretera a4 km.800 00000",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -27730,7 +27730,7 @@ const empresas = [
   },
   {
     "empresa": "PREFADHOR, S.L.",
-    "direccion": "Carretera de alcazar, s/n s/n",
+    "direccion": "Carretera alcazar, s/n 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -27743,7 +27743,7 @@ const empresas = [
   },
   {
     "empresa": "ANROTECH CAR PARK, SOCIEDAD LIMITADA",
-    "direccion": "Carretera villarrobledo km 4 s/n",
+    "direccion": "Carretera km 4 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27756,7 +27756,7 @@ const empresas = [
   },
   {
     "empresa": "PREFABRICADOS VILLAS SL",
-    "direccion": "Calle simon bolivar s/n",
+    "direccion": "Calle bolivar 00000",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -27769,7 +27769,7 @@ const empresas = [
   },
   {
     "empresa": "VIGUETAS Y FORJADOS ALGABA, S.A.",
-    "direccion": "Carretera la solana, km.2,500 s/n",
+    "direccion": "Carretera solana, km.2,500 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -27782,7 +27782,7 @@ const empresas = [
   },
   {
     "empresa": "MARMOLES PEDROTEÑOS, S.L.",
-    "direccion": "Avenida constitucion 24",
+    "direccion": "Avenida 00024",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -27795,7 +27795,7 @@ const empresas = [
   },
   {
     "empresa": "MARMOLES Y GRANITOS RUEDAS S.L.",
-    "direccion": "Calle paloma 47",
+    "direccion": "Calle 00047",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -27808,7 +27808,7 @@ const empresas = [
   },
   {
     "empresa": "PIEDRAS NATURALES CARRETERO, S.L.",
-    "direccion": "Polígono el bombo-c/metalúrgicos/parcela 42",
+    "direccion": "Polígono bombo-c/metalúrgicos/parcela 00042",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27821,7 +27821,7 @@ const empresas = [
   },
   {
     "empresa": "DIAZ ESPINOSA EDUARDO",
-    "direccion": "Calle francia poligono industrial 42",
+    "direccion": "Calle poligono industrial 00042",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -27834,7 +27834,7 @@ const empresas = [
   },
   {
     "empresa": "HIDALGO MARMOLES Y GRANITOS S.L.",
-    "direccion": "Carretera ciudad real a piedrabuena km 282,40000282",
+    "direccion": "Carretera real a piedrabuena km 282,40000282",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -27847,7 +27847,7 @@ const empresas = [
   },
   {
     "empresa": "STONES INMOPROJECT, S.L.",
-    "direccion": "Carretera fuente el fresno, km 1,300 s/n",
+    "direccion": "Carretera el fresno, km 1,300 00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -27860,7 +27860,7 @@ const empresas = [
   },
   {
     "empresa": "EURORREMATE, S.A.",
-    "direccion": "Avenida julian saez, 34-35 (pg ind serycal) s/n",
+    "direccion": "Avenida saez, 34-35 (pg ind serycal) 00000",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -27873,7 +27873,7 @@ const empresas = [
   },
   {
     "empresa": "DISEÑO INDUSTRIAL DE LA MANCHA",
-    "direccion": "Calle alcoholeros pol ind el bombo 8",
+    "direccion": "Calle pol ind el bombo 00008",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27886,7 +27886,7 @@ const empresas = [
   },
   {
     "empresa": "PERFILADOS ORTIZ CANO SL",
-    "direccion": "Cmdel campo, parc 6 s/n",
+    "direccion": "Camino campo, parc 6 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27899,7 +27899,7 @@ const empresas = [
   },
   {
     "empresa": "E AND B PIPING, SOCIEDAD LIMITADA- UNIPERSONAL-.",
-    "direccion": "Cmcamino del campo, parc 7 s/n",
+    "direccion": "Camino del campo, parc 7 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -27912,7 +27912,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS Y MONTAJES MI-PAC, S.L.",
-    "direccion": "Calle castroviejo 23",
+    "direccion": "Calle 00023",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -27925,7 +27925,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS GABIN SANCHEZ, S.L.",
-    "direccion": "Calle fundadores cooperativa 63",
+    "direccion": "Calle cooperativa 00063",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -27938,7 +27938,7 @@ const empresas = [
   },
   {
     "empresa": "MANUFACTURAS Y TRATAMIENTOS , SOCIEDAD LIMITADA",
-    "direccion": "Calle nueva.- polig ind. las viñas 12",
+    "direccion": "Calle - polig ind. las viñas 00012",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -27951,7 +27951,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES Y CRISTALERIAS AMAR, S.L.",
-    "direccion": "Lugar pol.ind. alces 2 f. c/d parcela e3 s/n",
+    "direccion": "Lugar alces 2 f. c/d parcela e3 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -27964,7 +27964,7 @@ const empresas = [
   },
   {
     "empresa": "SOMIMANCHA, S.L.",
-    "direccion": "Cmchaparral 1",
+    "direccion": "Camino 00001",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -27977,7 +27977,7 @@ const empresas = [
   },
   {
     "empresa": "METALICAS PARME, S.L.",
-    "direccion": "Carretera de la puebla, crp 5121, km. 2,200 1",
+    "direccion": "Carretera la puebla, crp 5121, km. 2,200 00001",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -27990,7 +27990,7 @@ const empresas = [
   },
   {
     "empresa": "FABRICACIONES METALICAS SERRANO, S.L.",
-    "direccion": "Calle extramuros, s/n s/n",
+    "direccion": "Calle , s/n 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -28003,7 +28003,7 @@ const empresas = [
   },
   {
     "empresa": "TOMAJO ALUMINIOS, S.L.",
-    "direccion": "Polígono indus.escaparate. ctra.n-420 km.160 s/n",
+    "direccion": "Polígono ctra.n-420 km.160 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -28016,7 +28016,7 @@ const empresas = [
   },
   {
     "empresa": "CERRAMIENTOS METALICOS MONTES FAFER, S.L.",
-    "direccion": "Calle legion extranjera 17",
+    "direccion": "Calle extranjera 00017",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -28029,7 +28029,7 @@ const empresas = [
   },
   {
     "empresa": "HIJOS DE FRANCISCO MERINO, S.L.L.",
-    "direccion": "Avenida martires, s/n s/n",
+    "direccion": "Avenida , s/n 00000",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -28042,7 +28042,7 @@ const empresas = [
   },
   {
     "empresa": "PARDO MOBILIARIO DE COMERCIO, S.L.",
-    "direccion": "Calle cervantes 23",
+    "direccion": "Calle 00023",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -28055,7 +28055,7 @@ const empresas = [
   },
   {
     "empresa": "VENTO LA MANCHA, S.L.",
-    "direccion": "Avenida los industriales, pol ind el bombo 17",
+    "direccion": "Avenida industriales, pol ind el bombo 00017",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28068,7 +28068,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOSEÑAL INSTALACIONES Y SERVICIOS, S.L.U",
-    "direccion": "Polígono industrial parcela p23 12",
+    "direccion": "Polígono parcela p23 00012",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -28081,7 +28081,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES Y CERRAJERIA SEVILLA, S.L.L.",
-    "direccion": "Calle pizarro 8",
+    "direccion": "Calle 00008",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28094,7 +28094,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICAS DEL ALUMINIO MANUEL SEVILLA, S.L.",
-    "direccion": "Avenida juan carlos i 80",
+    "direccion": "Avenida carlos i 00080",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -28107,7 +28107,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS GARCIA JOIMA, S.L.",
-    "direccion": "Calle calvario 66",
+    "direccion": "Calle 00066",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -28120,7 +28120,7 @@ const empresas = [
   },
   {
     "empresa": "AISLAMIENTOS Y CALORIFUGADOS CRIPTANA, S.L.",
-    "direccion": "Calle mineria 8",
+    "direccion": "Calle 00008",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -28133,7 +28133,7 @@ const empresas = [
   },
   {
     "empresa": "CONFORT CARPINTERIA MANCHEGA, S.L.L.",
-    "direccion": "Calle lanza 36",
+    "direccion": "Calle 00036",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -28146,7 +28146,7 @@ const empresas = [
   },
   {
     "empresa": "CARPINTERIA GRAN CAPITAN, S.L.",
-    "direccion": "Calle gran capitan s/n",
+    "direccion": "Calle capitan 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -28159,7 +28159,7 @@ const empresas = [
   },
   {
     "empresa": "JIMERO, COM.B.",
-    "direccion": "Calle ejido san juan 54",
+    "direccion": "Calle san juan 00054",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -28172,7 +28172,7 @@ const empresas = [
   },
   {
     "empresa": "ALUMINIOS QUIXOTE, S.L.",
-    "direccion": "Calle socuellamos 2",
+    "direccion": "Calle 00002",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -28185,7 +28185,7 @@ const empresas = [
   },
   {
     "empresa": "FACHALTEC, S.L.",
-    "direccion": "Avenida comunidad de valencia 17",
+    "direccion": "Avenida de valencia 00017",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -28198,7 +28198,7 @@ const empresas = [
   },
   {
     "empresa": "METALICA GASCON, S.L.",
-    "direccion": "Calle labradores 4",
+    "direccion": "Calle 00004",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -28211,7 +28211,7 @@ const empresas = [
   },
   {
     "empresa": "MAXMETAL CR S.L.",
-    "direccion": "Carretera socuellamos km o,500-p.i. itv, naves9",
+    "direccion": "Carretera km o,500-p.i. itv, naves00009",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28224,7 +28224,7 @@ const empresas = [
   },
   {
     "empresa": "MANCHA 3 SOCIEDAD LIMITADA",
-    "direccion": "Calle peralvillo 3",
+    "direccion": "Calle 00003",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -28237,7 +28237,7 @@ const empresas = [
   },
   {
     "empresa": "INSAMETAL S.A.",
-    "direccion": "Calle antonio guijarro esq. federico garcis/n",
+    "direccion": "Calle guijarro esq. federico garci00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -28250,7 +28250,7 @@ const empresas = [
   },
   {
     "empresa": "METALICAS MEYPE SOCIEDAD LIMITA",
-    "direccion": "Avenida juan carlos i s/n",
+    "direccion": "Avenida carlos i 00000",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -28263,7 +28263,7 @@ const empresas = [
   },
   {
     "empresa": "METALICAS ANGRO SL",
-    "direccion": "Calle de los yeseros 23",
+    "direccion": "Calle los yeseros 00023",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -28276,7 +28276,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIAS METALICAS Y MONTAJES MECANICOS JAROS, S.L.",
-    "direccion": "Calle salida del peral 54 b",
+    "direccion": "Calle del peral 00054 b",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -28289,7 +28289,7 @@ const empresas = [
   },
   {
     "empresa": "EDEMINOX, S.L.",
-    "direccion": "Trlope de vega 1",
+    "direccion": "Travesía de vega 00001",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -28302,7 +28302,7 @@ const empresas = [
   },
   {
     "empresa": "STRUGAL SOLAR SOCIEDAD LIMITADA",
-    "direccion": "Polígono manzanares c/ xiv, nº145, 146, 147 s/n",
+    "direccion": "Polígono c/ xiv, nº145, 146, 147 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -28315,7 +28315,7 @@ const empresas = [
   },
   {
     "empresa": "CERRAJERIA Y MONTAJE CAT, SOCIEDAD LIMITADA",
-    "direccion": "Calle godello 10",
+    "direccion": "Calle 00010",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -28328,7 +28328,7 @@ const empresas = [
   },
   {
     "empresa": "ALUMITEC CRIPTANA, SOCIEDAD LIMITADA",
-    "direccion": "Calle san isidro 90",
+    "direccion": "Calle isidro 00090",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -28341,7 +28341,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICAS J. MATA, S.L.",
-    "direccion": "Calle los huertos 25",
+    "direccion": "Calle huertos 00025",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -28354,7 +28354,7 @@ const empresas = [
   },
   {
     "empresa": "ALTOBE PVC, SOCIEDAD LIMITADA",
-    "direccion": "Calle pintor ribera s/n",
+    "direccion": "Calle ribera 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28367,7 +28367,7 @@ const empresas = [
   },
   {
     "empresa": "METALICAS REAL, SOCIEDAD LIMITADA",
-    "direccion": "Calle almagro 6",
+    "direccion": "Calle 00006",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -28380,7 +28380,7 @@ const empresas = [
   },
   {
     "empresa": "ALGIBE ALUMINIOS Y PVC, SOCIEDAD LIMITADA",
-    "direccion": "Calle paseo de las cooperativas s/n",
+    "direccion": "Calle de las cooperativas 00000",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -28393,7 +28393,7 @@ const empresas = [
   },
   {
     "empresa": "PORTILLO BURGOS ANGEL",
-    "direccion": "Calle ancha 46",
+    "direccion": "Calle 00046",
     "localidad": "CORRAL DE CALATRAVA",
     "cp": "13190",
     "provincia": "CIUDAD REAL",
@@ -28406,7 +28406,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO INERZA 24H, S.L",
-    "direccion": "Calle p.i. el llano cl. bélgica 15",
+    "direccion": "Calle el llano cl. bélgica 00015",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -28419,7 +28419,7 @@ const empresas = [
   },
   {
     "empresa": "METALICAS COBOS MARIN, S.L.",
-    "direccion": "Calle gloria s/n s/n",
+    "direccion": "Calle s/n 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -28432,7 +28432,7 @@ const empresas = [
   },
   {
     "empresa": "GIMENEZ GANGA,S.L.U.",
-    "direccion": "Polígono industrial las viñas 55",
+    "direccion": "Polígono las viñas 00055",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -28445,7 +28445,7 @@ const empresas = [
   },
   {
     "empresa": "METALICAS UREÑA, S.L.L.",
-    "direccion": "Calle colon 14",
+    "direccion": "Calle 00014",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -28458,7 +28458,7 @@ const empresas = [
   },
   {
     "empresa": "A.G.N. CERRAJERIA Y ESTRUCTURAS TOMELLOSO 2003, S.L.",
-    "direccion": "Pqind. los portales av. los oficios 6",
+    "direccion": "Pqind. los portales av. los oficios 00006",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28471,7 +28471,7 @@ const empresas = [
   },
   {
     "empresa": "PERFILADOS ALVAREZ ARAGONES, S.L.",
-    "direccion": "Carretera cordoba tarragona__km 272,5 s/n",
+    "direccion": "Carretera tarragona__km 272,5 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -28484,7 +28484,7 @@ const empresas = [
   },
   {
     "empresa": "MEDINA JAVEGA JOSE MANUEL",
-    "direccion": "Calle don claudiano garcia quilon s/n 6 1 c",
+    "direccion": "Calle claudiano garcia quilon 00000 6 1 c",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -28497,7 +28497,7 @@ const empresas = [
   },
   {
     "empresa": "DESARROLLOS Y APLICACIONES METAL",
-    "direccion": "Calle alcazar 19",
+    "direccion": "Calle 00019",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -28510,7 +28510,7 @@ const empresas = [
   },
   {
     "empresa": "SIDEROGAMU SL",
-    "direccion": "Carretera arenas km 2,3 s/n",
+    "direccion": "Carretera km 2,3 00000",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -28523,7 +28523,7 @@ const empresas = [
   },
   {
     "empresa": "MALDONADO METALWORK S.L.",
-    "direccion": "Calle corredera de san pedro 37",
+    "direccion": "Calle de san pedro 00037",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -28536,7 +28536,7 @@ const empresas = [
   },
   {
     "empresa": "METALURGICA Y DECORACION, S.L.",
-    "direccion": "Calle airén (pol. ind. alces) 6",
+    "direccion": "Calle én (pol. ind. alces) 00006",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -28549,7 +28549,7 @@ const empresas = [
   },
   {
     "empresa": "METAL LAND QUALITY SYSTEMS SOCI",
-    "direccion": "Calle caldereria 15",
+    "direccion": "Calle 00015",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -28562,7 +28562,7 @@ const empresas = [
   },
   {
     "empresa": "CURVADOS GOMEZ, SOCIEDAD LIMITADA",
-    "direccion": "Avenida labradora 92",
+    "direccion": "Avenida 00092",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -28575,7 +28575,7 @@ const empresas = [
   },
   {
     "empresa": "FERRALLA FUENTE EL FRESNO, SOCIEDAD LIMITADA",
-    "direccion": "Carretera nacional 401 km 158,500 s/n",
+    "direccion": "Carretera 401 km 158,500 00000",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -28588,7 +28588,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICA Y CALDERERIA, S.A.L.",
-    "direccion": "Polígono alces - c/ garnacha 10",
+    "direccion": "Polígono - c/ garnacha 00010",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -28601,7 +28601,7 @@ const empresas = [
   },
   {
     "empresa": "ROECO INOX COMER.IND.MANCHEG",
-    "direccion": "Carretera argamasilla 1",
+    "direccion": "Carretera 00001",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -28614,7 +28614,7 @@ const empresas = [
   },
   {
     "empresa": "FARCINOX, S.A.",
-    "direccion": "Avenida julian saez-poligono industrial 7",
+    "direccion": "Avenida saez-poligono industrial 00007",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -28627,7 +28627,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES MANZA, COM.B.",
-    "direccion": "Avenida comunidad de murcia pog. pozo hondo 86",
+    "direccion": "Avenida de murcia pog. pozo hondo 00086",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -28640,7 +28640,7 @@ const empresas = [
   },
   {
     "empresa": "FONCAL PARRA, S.L.",
-    "direccion": "Calle nueva 79",
+    "direccion": "Calle 00079",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28653,7 +28653,7 @@ const empresas = [
   },
   {
     "empresa": "TACMAN 2000, S.A.",
-    "direccion": "Polígono industrial sepes, p-401-421-422 s/n",
+    "direccion": "Polígono sepes, p-401-421-422 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -28666,7 +28666,7 @@ const empresas = [
   },
   {
     "empresa": "TUBYTANK GRUP, S.L.L.",
-    "direccion": "Calle guacamayo 5",
+    "direccion": "Calle 00005",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28679,7 +28679,7 @@ const empresas = [
   },
   {
     "empresa": "ACRYNOX, S.L.",
-    "direccion": "Polígono emilio castro cl industria 7",
+    "direccion": "Polígono castro cl industria 00007",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -28692,7 +28692,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS ALISES ROPERO, S.L.",
-    "direccion": "Avenida cristo rey 64 bj",
+    "direccion": "Avenida rey 00064 bajo",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -28705,7 +28705,7 @@ const empresas = [
   },
   {
     "empresa": "TUBASYS, S.L.U.",
-    "direccion": "Polígono de la nava , parcela m-1.1 s/n",
+    "direccion": "Polígono la nava , parcela m-1.1 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -28718,7 +28718,7 @@ const empresas = [
   },
   {
     "empresa": "DEYMA LA MANCHA S.L.",
-    "direccion": "Carretera nacional 310, p.k 93.700 s/n",
+    "direccion": "Carretera 310, p.k 93.700 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28731,7 +28731,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAJES INDUSTRIALES MEZCUA Y GARCIA, S.L.",
-    "direccion": "Calle trasera 1",
+    "direccion": "Calle 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28744,7 +28744,7 @@ const empresas = [
   },
   {
     "empresa": "TUBERIA Y CALDERERIA CASTILLA-LA",
-    "direccion": "Calle matadero 70",
+    "direccion": "Calle 00070",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28757,7 +28757,7 @@ const empresas = [
   },
   {
     "empresa": "FX SISTEMAS DE CORTE, S.L.",
-    "direccion": "Avenida juan carlos i 96",
+    "direccion": "Avenida carlos i 00096",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -28770,7 +28770,7 @@ const empresas = [
   },
   {
     "empresa": "EXPRES LASSER SL",
-    "direccion": "Calle de los jaboneros 28",
+    "direccion": "Calle los jaboneros 00028",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -28783,7 +28783,7 @@ const empresas = [
   },
   {
     "empresa": "STAMPH TANK HEADS, SOCIEDAD LIMITADA",
-    "direccion": "Calle cataluña 5",
+    "direccion": "Calle ña 00005",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -28796,7 +28796,7 @@ const empresas = [
   },
   {
     "empresa": "LASER BESTEEL, S.L.",
-    "direccion": "Calle cariñena 8",
+    "direccion": "Calle ñena 00008",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -28809,7 +28809,7 @@ const empresas = [
   },
   {
     "empresa": "PARROS OBRAS, S.L.",
-    "direccion": "Carretera ntra.sra.del monte km. 1",
+    "direccion": "Carretera monte km. 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -28822,7 +28822,7 @@ const empresas = [
   },
   {
     "empresa": "PINDECON GRANALLADOS Y APLICACIONES DE PINTURA, S.L",
-    "direccion": "Calle campo de montiel 14",
+    "direccion": "Calle de montiel 00014",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28835,7 +28835,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS HUERTAS CASTELLANOS, S.L.",
-    "direccion": "Avenida holanda parcela 36-4 pg.ind entrecams/n",
+    "direccion": "Avenida parcela 36-4 pg.ind entrecam00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -28848,7 +28848,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES DISFRAN MORENO, S.L.",
-    "direccion": "Polígono ind. alces fase 2 cl. moravia s/n s/n",
+    "direccion": "Polígono alces fase 2 cl. moravia s/n 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -28861,7 +28861,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES MENCHEN LOPEZ, S.L.",
-    "direccion": "Avenida julian saez pog. i. serycal 14",
+    "direccion": "Avenida saez pog. i. serycal 00014",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -28874,7 +28874,7 @@ const empresas = [
   },
   {
     "empresa": "CALDERERIA Y MECANIZADOS TOMELLOSO, S.L.",
-    "direccion": "Carretera cm-3109 1",
+    "direccion": "Carretera -3109 00001",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -28887,7 +28887,7 @@ const empresas = [
   },
   {
     "empresa": "SISTEMAS DE FILTRADO YAÑEZ, S.L.",
-    "direccion": "Carretera argamasilla de alba s/n",
+    "direccion": "Carretera de alba 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28900,7 +28900,7 @@ const empresas = [
   },
   {
     "empresa": "ANSEL SYSTEMS, SOCIEDAD LIMITADA",
-    "direccion": "Calle carmen laforet 3",
+    "direccion": "Calle laforet 00003",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -28913,7 +28913,7 @@ const empresas = [
   },
   {
     "empresa": "JESUS JULIO JESUS MEKAL, S.A.L.",
-    "direccion": "Polígono alces parcela 76",
+    "direccion": "Polígono parcela 00076",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -28926,7 +28926,7 @@ const empresas = [
   },
   {
     "empresa": "RODIAL LUMINOSOS Y ROTULACION, S.L.L",
-    "direccion": "Polígono alces fase ii parcela 44",
+    "direccion": "Polígono fase ii parcela 00044",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -28939,7 +28939,7 @@ const empresas = [
   },
   {
     "empresa": "M.ROMO INNOVA,S.L",
-    "direccion": "Calle ramon y cajal 1",
+    "direccion": "Calle y cajal 00001",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -28952,7 +28952,7 @@ const empresas = [
   },
   {
     "empresa": "MECANIZADOS NARANJO, S.L.",
-    "direccion": "Paseo avenida de la innovacion 9",
+    "direccion": "Paseo de la innovacion 00009",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -28965,7 +28965,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES MECANIZADOS ORTIZ, S.L.",
-    "direccion": "Trdon quijote 1",
+    "direccion": "Travesía quijote 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -28978,7 +28978,7 @@ const empresas = [
   },
   {
     "empresa": "FORTECERCAS, S.L.",
-    "direccion": "Calle reina sofia 1",
+    "direccion": "Calle sofia 00001",
     "localidad": "QUILES (LOS)",
     "cp": "13428",
     "provincia": "CIUDAD REAL",
@@ -28991,7 +28991,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOLOGIA SEÑALETICA, S.L.",
-    "direccion": "Polígono pol. ind. parcelas 16-17 s/n",
+    "direccion": "Polígono ind. parcelas 16-17 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29004,7 +29004,7 @@ const empresas = [
   },
   {
     "empresa": "HIERROS DE TORO, C.B.",
-    "direccion": "Polígono industrial el salobral 1",
+    "direccion": "Polígono el salobral 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -29017,7 +29017,7 @@ const empresas = [
   },
   {
     "empresa": "CENDCOR MANUFACTURAS SL",
-    "direccion": "Calle camioneros 41",
+    "direccion": "Calle 00041",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -29030,7 +29030,7 @@ const empresas = [
   },
   {
     "empresa": "UBOTICA TECNOLOGIAS SPAIN, S.L.",
-    "direccion": "Cmde moledores s/n",
+    "direccion": "Camino moledores 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -29043,7 +29043,7 @@ const empresas = [
   },
   {
     "empresa": "DBLUX SIGNAL SYSTEMS SL",
-    "direccion": "Calle los jaboneros 14",
+    "direccion": "Calle jaboneros 00014",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29056,7 +29056,7 @@ const empresas = [
   },
   {
     "empresa": "TORYTRANS, S.L.",
-    "direccion": "Carretera valdepeñas km 1,5 calle pitagoras 1",
+    "direccion": "Carretera ñas km 1,5 calle pitagoras 00001",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -29069,7 +29069,7 @@ const empresas = [
   },
   {
     "empresa": "SOLUCIONES MULTIPLEXADAS DE INGE",
-    "direccion": "Calle de la automocion (pi emilio castro) 3",
+    "direccion": "Calle la automocion (pi emilio castro) 00003",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -29082,7 +29082,7 @@ const empresas = [
   },
   {
     "empresa": "COCEMFE ORETANIA C.E.E., S.L.",
-    "direccion": "Calle harineros 76",
+    "direccion": "Calle 00076",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -29095,7 +29095,7 @@ const empresas = [
   },
   {
     "empresa": "ROTULOS OLMEDO, S.L.",
-    "direccion": "Polígono santa ana parcelas 17-18-19 s/n",
+    "direccion": "Polígono ana parcelas 17-18-19 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29108,7 +29108,7 @@ const empresas = [
   },
   {
     "empresa": "ALTA TECNOLOGIA INDUSTRIAL SUCCION, S.L.",
-    "direccion": "Avenida julian saez 3",
+    "direccion": "Avenida saez 00003",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -29121,7 +29121,7 @@ const empresas = [
   },
   {
     "empresa": "DUPLEX ELEVACION, S.L.U.",
-    "direccion": "Calle la siega 16 b bjizq",
+    "direccion": "Calle siega 00016 b bjizq",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -29134,7 +29134,7 @@ const empresas = [
   },
   {
     "empresa": "ASCENSORES INGAR, S.A.",
-    "direccion": "Calle castelar 5",
+    "direccion": "Calle 00005",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -29147,7 +29147,7 @@ const empresas = [
   },
   {
     "empresa": "STADLER SELECCIONA S.L.U.",
-    "direccion": "Calle quimica 4",
+    "direccion": "Calle 00004",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -29160,7 +29160,7 @@ const empresas = [
   },
   {
     "empresa": "REMOLQUES BELLON, S.L.",
-    "direccion": "Carretera de la solana 23",
+    "direccion": "Carretera la solana 00023",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -29173,7 +29173,7 @@ const empresas = [
   },
   {
     "empresa": "ADIX INGENIERIA S.L.",
-    "direccion": "Calle hojalateros_pol ind los portales 3",
+    "direccion": "Calle _pol ind los portales 00003",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29186,7 +29186,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ BEATO MAQUINARIA AGRICOLA SLL",
-    "direccion": "Avenida juan carlos i 108",
+    "direccion": "Avenida carlos i 00108",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -29199,7 +29199,7 @@ const empresas = [
   },
   {
     "empresa": "BAUTISTA SANTILLANA, SOCIEDAD LIMITADA",
-    "direccion": "Calle san antonio abad 22",
+    "direccion": "Calle antonio abad 00022",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -29212,7 +29212,7 @@ const empresas = [
   },
   {
     "empresa": "SYMAGA S.A.",
-    "direccion": "Carretera arenas km 2,3 s/n",
+    "direccion": "Carretera km 2,3 00000",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -29225,7 +29225,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIAS MORA Y RINCON, S.L.",
-    "direccion": "Carretera las labores km 2.1 s/n",
+    "direccion": "Carretera labores km 2.1 00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -29238,7 +29238,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOMATISMOS Y ROBOTICA MANCHEGOS, S.L.",
-    "direccion": "Calle peñarroya 5",
+    "direccion": "Calle ñarroya 00005",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29251,7 +29251,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES PRADILLOS, S.L.",
-    "direccion": "Carretera tomelloso-arg.alba km2/p.i.nave 28 s/n",
+    "direccion": "Carretera -arg.alba km2/p.i.nave 28 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29264,7 +29264,7 @@ const empresas = [
   },
   {
     "empresa": "IANUS INGENIERIA SL",
-    "direccion": "Avenida juan carlos i 111",
+    "direccion": "Avenida carlos i 00111",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -29277,7 +29277,7 @@ const empresas = [
   },
   {
     "empresa": "TAINMA-TALLERES DE LA MANCHA, S.L.L.",
-    "direccion": "Carretera n-310, km. 93,7 p.i. 99, parc.3-4-5 s/n",
+    "direccion": "Carretera -310, km. 93,7 p.i. 99, parc.3-4-5 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29290,7 +29290,7 @@ const empresas = [
   },
   {
     "empresa": "MECAFA, S.A.",
-    "direccion": "Calle nuestra señora de la paz 12",
+    "direccion": "Calle señora de la paz 00012",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -29303,7 +29303,7 @@ const empresas = [
   },
   {
     "empresa": "GROWKET, S.L.",
-    "direccion": "Carretera arenas km 2,3 s/n",
+    "direccion": "Carretera km 2,3 00000",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -29316,7 +29316,7 @@ const empresas = [
   },
   {
     "empresa": "BOMBAS PARRA LA MANCHA, S.L.",
-    "direccion": "Avenida julian saez-parcela 80- 38",
+    "direccion": "Avenida saez-parcela 80- 00038",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -29329,7 +29329,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES ESPI SERRANO, S.L.",
-    "direccion": "Carretera alcazar san juan, km o,5 s/n",
+    "direccion": "Carretera san juan, km o,5 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29342,7 +29342,7 @@ const empresas = [
   },
   {
     "empresa": "INNOVACIONES TECNOLOGICAS DE LA MANCHA, S.L.",
-    "direccion": "Urla paz, casa 61",
+    "direccion": "Urla paz, casa 00061",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29355,7 +29355,7 @@ const empresas = [
   },
   {
     "empresa": "DESTILACION Y CALDERERIA DE TOMELLOSO, S.L.L.",
-    "direccion": "Carretera socuellamos km 0.5 s/n",
+    "direccion": "Carretera km 0.5 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29368,7 +29368,7 @@ const empresas = [
   },
   {
     "empresa": "DESTILACION CALDERERIA Y MONTAJES, S.L.",
-    "direccion": "Calle transportistas 2",
+    "direccion": "Calle 00002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29381,7 +29381,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAJES IND. TOMELLOSO METAL WORKS, S.L.",
-    "direccion": "Polígono el bombo c/ constructores 1",
+    "direccion": "Polígono bombo c/ constructores 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29394,7 +29394,7 @@ const empresas = [
   },
   {
     "empresa": "ARTIPISTILOS, S.L.",
-    "direccion": "Calle prim 41",
+    "direccion": "Calle 00041",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -29407,7 +29407,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO TECNOCOR, S.A.",
-    "direccion": "Cmdel valle s/n",
+    "direccion": "Camino valle 00000",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -29420,7 +29420,7 @@ const empresas = [
   },
   {
     "empresa": "SRCICUENDEZ, S.L.",
-    "direccion": "Calle rioja 8",
+    "direccion": "Calle 00008",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -29433,7 +29433,7 @@ const empresas = [
   },
   {
     "empresa": "NORDEX ELECTROLYZERS SL",
-    "direccion": "Polígono pol. la nava, calle grecia s/n",
+    "direccion": "Polígono la nava, calle grecia 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -29446,7 +29446,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOVE, S.L.",
-    "direccion": "Calle peinadoras 2",
+    "direccion": "Calle 00002",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29459,7 +29459,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOVE FIBERGLASS, S.L.",
-    "direccion": "Calle de los caleros - pg.industrial 3",
+    "direccion": "Calle los caleros - pg.industrial 00003",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29472,7 +29472,7 @@ const empresas = [
   },
   {
     "empresa": "TECHNOLOGY AND SECURITY DEVELOPMENTS, S.L.",
-    "direccion": "Calle los jaboneros poligono industrial 14",
+    "direccion": "Calle jaboneros poligono industrial 00014",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29485,7 +29485,7 @@ const empresas = [
   },
   {
     "empresa": "AGRO BELLON, S.L.",
-    "direccion": "Carretera de la solana, s/n s/n",
+    "direccion": "Carretera la solana, s/n 00000",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -29498,7 +29498,7 @@ const empresas = [
   },
   {
     "empresa": "TOMELLOSO CISTERNAS, S.L.",
-    "direccion": "Carretera argamasilla de alba km 2 s/n",
+    "direccion": "Carretera de alba km 2 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29511,7 +29511,7 @@ const empresas = [
   },
   {
     "empresa": "DAVID INDUSTRIAS METALICAS, S.L.",
-    "direccion": "Avenida alarcos 1",
+    "direccion": "Avenida 00001",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -29524,7 +29524,7 @@ const empresas = [
   },
   {
     "empresa": "DIVISEGUR, S.L.",
-    "direccion": "Calle los caleros poligono industrial 5",
+    "direccion": "Calle caleros poligono industrial 00005",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29537,7 +29537,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOVE CUSTOM TRUCKS, S.L.",
-    "direccion": "Polígono industrial de herenca calle yeseros 2021",
+    "direccion": "Polígono de herenca calle yeseros 0002021",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29550,7 +29550,7 @@ const empresas = [
   },
   {
     "empresa": "HENALES ALVAREZ SL",
-    "direccion": "Calle manigua 32",
+    "direccion": "Calle 00032",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -29563,7 +29563,7 @@ const empresas = [
   },
   {
     "empresa": "ENGINEERED LAND SYSTEMS, S.L.",
-    "direccion": "Calle carreteros, s/n. p.i. los portales s/n",
+    "direccion": "Calle , s/n. p.i. los portales 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29576,7 +29576,7 @@ const empresas = [
   },
   {
     "empresa": "HIDROMAYORAL SOCIEDAD LIMITADA",
-    "direccion": "Carretera cm 420 km 82400 s/n",
+    "direccion": "Carretera 420 km 82400 00000",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -29589,7 +29589,7 @@ const empresas = [
   },
   {
     "empresa": "IRHUALCA SOUGENEN, S.L.",
-    "direccion": "Avenida de la labradora 43",
+    "direccion": "Avenida la labradora 00043",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29602,7 +29602,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOVE BUSINESS GROUP, S.L.",
-    "direccion": "Polígono industrial de herencia parcelas 1617",
+    "direccion": "Polígono de herencia parcelas 0001617",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29615,7 +29615,7 @@ const empresas = [
   },
   {
     "empresa": "MARZASA-MARTIN ZABALLOS, S.A.",
-    "direccion": "Carretera autovia a4, km 171",
+    "direccion": "Carretera a4, km 00171",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -29628,7 +29628,7 @@ const empresas = [
   },
   {
     "empresa": "FAVELIM MEDIO AMBIENTE SL",
-    "direccion": "Calle rioja 13",
+    "direccion": "Calle 00013",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -29641,7 +29641,7 @@ const empresas = [
   },
   {
     "empresa": "TSD RAIL SL",
-    "direccion": "Calle caleros 26",
+    "direccion": "Calle 00026",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29654,7 +29654,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS APARICIO DONOSO, S.L.",
-    "direccion": "Carretera granatula 1",
+    "direccion": "Carretera 00001",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -29667,7 +29667,7 @@ const empresas = [
   },
   {
     "empresa": "J. MEGIAS FERRERO, S.L.",
-    "direccion": "Polígono industrial c/ asturais s/n",
+    "direccion": "Polígono c/ asturais 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -29680,7 +29680,7 @@ const empresas = [
   },
   {
     "empresa": "EUROMUEBLES 21 S.A.L.",
-    "direccion": "Carretera torralba de cva. km. 12",
+    "direccion": "Carretera de cva. km. 00012",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -29693,7 +29693,7 @@ const empresas = [
   },
   {
     "empresa": "SIUX, S.L.L.",
-    "direccion": "Calle claudio coello 55",
+    "direccion": "Calle coello 00055",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29706,7 +29706,7 @@ const empresas = [
   },
   {
     "empresa": "HISPABAÑO 2000, S.COOP.LTDA.",
-    "direccion": "Carretera daimiel s/n apartado correos 113 s/n",
+    "direccion": "Carretera s/n apartado correos 113 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -29719,7 +29719,7 @@ const empresas = [
   },
   {
     "empresa": "BAÑOS REAL, S.COOP.LTDA.",
-    "direccion": "Calle virgen del monte, s/n s/n",
+    "direccion": "Calle del monte, s/n 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -29732,7 +29732,7 @@ const empresas = [
   },
   {
     "empresa": "LIMOBEL INWO, S.L.",
-    "direccion": "Carretera ciudad real-valdepeñas 12",
+    "direccion": "Carretera real-valdepeñas 00012",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -29745,7 +29745,7 @@ const empresas = [
   },
   {
     "empresa": "BARNIZADOS INDUSTRIALES BOLAÑOS, S.L.L.",
-    "direccion": "Calle salobral 8",
+    "direccion": "Calle 00008",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -29758,7 +29758,7 @@ const empresas = [
   },
   {
     "empresa": "MANLAHU, S.L.",
-    "direccion": "Avenida andalucia 36 6 a",
+    "direccion": "Avenida 00036 6 a",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -29771,7 +29771,7 @@ const empresas = [
   },
   {
     "empresa": "MUEBLES LOS PEPOTES, S.L.",
-    "direccion": "Polígono las escuadras parc.13-28 s/n",
+    "direccion": "Polígono escuadras parc.13-28 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -29784,7 +29784,7 @@ const empresas = [
   },
   {
     "empresa": "CEJUDO SANCHEZ BERMEJO MANUEL JESUS",
-    "direccion": "Polígono industrial las tablas parcela 2b",
+    "direccion": "Polígono las tablas parcela 00002b",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -29797,7 +29797,7 @@ const empresas = [
   },
   {
     "empresa": "HERGO SILLERIA, S.L.",
-    "direccion": "Calle valencia 51",
+    "direccion": "Calle 00051",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -29810,7 +29810,7 @@ const empresas = [
   },
   {
     "empresa": "CHAVES UREÑA JESUS MANUEL",
-    "direccion": "Calle las tablas 7",
+    "direccion": "Calle tablas 00007",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -29823,7 +29823,7 @@ const empresas = [
   },
   {
     "empresa": "DESCANSO . VIP",
-    "direccion": "Avenida la laguna nave 2",
+    "direccion": "Avenida laguna nave 00002",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -29836,7 +29836,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIA DEL MUEBLE CIUDAD REAL",
-    "direccion": "Calle san sebastian 15",
+    "direccion": "Calle sebastian 00015",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -29849,7 +29849,7 @@ const empresas = [
   },
   {
     "empresa": "CARPINTERIA MUEBLES MIRAFLORES",
-    "direccion": "Calle labradores 54",
+    "direccion": "Calle 00054",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -29862,7 +29862,7 @@ const empresas = [
   },
   {
     "empresa": "IDECORA MUEBLES MACHEGOS S.L.",
-    "direccion": "Calle olivo 4",
+    "direccion": "Calle 00004",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -29875,7 +29875,7 @@ const empresas = [
   },
   {
     "empresa": "STEEL LOCKERS SOCIEDAD LIMITADA",
-    "direccion": "Carretera ciudad real - valdepeñas 12",
+    "direccion": "Carretera real - valdepeñas 00012",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -29888,7 +29888,7 @@ const empresas = [
   },
   {
     "empresa": "CASTILLA RETAIL & DESIGN SL",
-    "direccion": "Calle jaboneros 11",
+    "direccion": "Calle 00011",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29901,7 +29901,7 @@ const empresas = [
   },
   {
     "empresa": "CIUPERCA --- STEFAN IULIAN",
-    "direccion": "Calle calatrava 59",
+    "direccion": "Calle 00059",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -29914,7 +29914,7 @@ const empresas = [
   },
   {
     "empresa": "ORFEBRERIA OROVIO DE LA TORRE, S.L.",
-    "direccion": "Cndel santo s/n",
+    "direccion": "Cndel santo 00000",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -29927,7 +29927,7 @@ const empresas = [
   },
   {
     "empresa": "SPORT TECHNICAL MULTIJUEGOS SL",
-    "direccion": "Avenida comunidad valenciana 10",
+    "direccion": "Avenida valenciana 00010",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -29940,7 +29940,7 @@ const empresas = [
   },
   {
     "empresa": "MANCHEGOS LABORATORIOS DE PROTESIS DENTAL, S.L.",
-    "direccion": "Calle antonio lopez garcia 2 2 1 a",
+    "direccion": "Calle lopez garcia 00002 2 1 a",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -29953,7 +29953,7 @@ const empresas = [
   },
   {
     "empresa": "CATALANO DENTAL MANCHA-CENTRO SL",
-    "direccion": "Polígono residencial alces 17",
+    "direccion": "Polígono alces 00017",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -29966,7 +29966,7 @@ const empresas = [
   },
   {
     "empresa": "ODONTECH LABORATORIO DENTAL, SOCIEDAD LIMITADA",
-    "direccion": "Calle santiago 3",
+    "direccion": "Calle 00003",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -29979,7 +29979,7 @@ const empresas = [
   },
   {
     "empresa": "DIGITALDENT INVESTMENTS, S.L.",
-    "direccion": "Avenida comunidad de murcia 10",
+    "direccion": "Avenida de murcia 00010",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -29992,7 +29992,7 @@ const empresas = [
   },
   {
     "empresa": "TALLER DE ARTE RELIGIOSO SALMERON, S.L.",
-    "direccion": "Polígono industrial el llano cl. croacia 81",
+    "direccion": "Polígono el llano cl. croacia 00081",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -30005,7 +30005,7 @@ const empresas = [
   },
   {
     "empresa": "CARROCERIAS SEVILLA, S.L.",
-    "direccion": "Rdglorieta 23",
+    "direccion": "Ronda 00023",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -30018,7 +30018,7 @@ const empresas = [
   },
   {
     "empresa": "METALICAS BUJAN, S.L.",
-    "direccion": "Calle caleros 18",
+    "direccion": "Calle 00018",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -30031,7 +30031,7 @@ const empresas = [
   },
   {
     "empresa": "ALMODOVENSA S.L.",
-    "direccion": "Polígono sepes calle 3 parcela 403 s/n",
+    "direccion": "Polígono calle 3 parcela 403 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -30044,7 +30044,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES MARIN VEHICULOS INDUSTRIALES, S.L.",
-    "direccion": "Lugar autovia andalucia km 217 s/n",
+    "direccion": "Lugar andalucia km 217 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -30057,7 +30057,7 @@ const empresas = [
   },
   {
     "empresa": "E.B. SERVITECMAN, S.L.",
-    "direccion": "Calle torres quevedo 28 b",
+    "direccion": "Calle quevedo 00028 b",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -30070,7 +30070,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES JESUS MORALES, S.L.",
-    "direccion": "Carretera pedro muñoz, km 0,600 s/n",
+    "direccion": "Carretera muñoz, km 0,600 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -30083,7 +30083,7 @@ const empresas = [
   },
   {
     "empresa": "RECUPERACIONES OVIDIO, S.L.",
-    "direccion": "Avenida de los industriales s/n",
+    "direccion": "Avenida los industriales 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -30096,7 +30096,7 @@ const empresas = [
   },
   {
     "empresa": "REPARACION Y MANTENIMIENTOS GARCIA, S.L.",
-    "direccion": "Polígono industrial alces parcela 111",
+    "direccion": "Polígono alces parcela 00111",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -30109,7 +30109,7 @@ const empresas = [
   },
   {
     "empresa": "TECNORGAN S.L.",
-    "direccion": "Polígono ind el llano, cl grecia, parcela 92 s/n",
+    "direccion": "Polígono el llano, cl grecia, parcela 92 00000",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -30122,7 +30122,7 @@ const empresas = [
   },
   {
     "empresa": "UCEDA-BELLON-CRIADO ELECTRICIDAD INDUSTRIAL E INSTA,SLL",
-    "direccion": "Calle industriales (pol. industrial) s/n s/n",
+    "direccion": "Calle (pol. industrial) s/n 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -30135,7 +30135,7 @@ const empresas = [
   },
   {
     "empresa": "BAYFER,S.L.",
-    "direccion": "Calle quevedo 17",
+    "direccion": "Calle 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -30148,7 +30148,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES VILLALBA ALCAZAR, S.L.",
-    "direccion": "Calle cariñena c/v cl airen, s/n s/n",
+    "direccion": "Calle ñena c/v cl airen, s/n 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -30161,7 +30161,7 @@ const empresas = [
   },
   {
     "empresa": "JM CORDON CARRETILLAS SOCIEDAD",
-    "direccion": "Calle maria guerrero 15",
+    "direccion": "Calle guerrero 00015",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -30174,7 +30174,7 @@ const empresas = [
   },
   {
     "empresa": "TAJADA BARRIO S.L.",
-    "direccion": "Carretera argamasilla 93",
+    "direccion": "Carretera 00093",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -30187,7 +30187,7 @@ const empresas = [
   },
   {
     "empresa": "HISPABAN 2002, S.L.",
-    "direccion": "Carretera argamasilla de alba km 1,1 nave 4 -500000",
+    "direccion": "Carretera de alba km 1,1 nave 4 -500000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -30200,7 +30200,7 @@ const empresas = [
   },
   {
     "empresa": "IBERICA DE MANTENIMIENTO, S.A.",
-    "direccion": "Calle obispo rafael torija s/n",
+    "direccion": "Calle rafael torija 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -30213,7 +30213,7 @@ const empresas = [
   },
   {
     "empresa": "VENTAS Y MANTENIMIENTOS INTEGRALES , SOCIEDAD LIMITADA",
-    "direccion": "Calle la solana 18",
+    "direccion": "Calle solana 00018",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -30226,7 +30226,7 @@ const empresas = [
   },
   {
     "empresa": "NEO SCAFFOLDING INSULATION AND CLEANING,S.L",
-    "direccion": "Carretera carretera calzada s/n",
+    "direccion": "Carretera calzada 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -30239,7 +30239,7 @@ const empresas = [
   },
   {
     "empresa": "CODAITRANS SERVICIOS AUXILIARES, S.L.",
-    "direccion": "Polígono industrial sepes, c/herreros 48",
+    "direccion": "Polígono sepes, c/herreros 00048",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -30252,7 +30252,7 @@ const empresas = [
   },
   {
     "empresa": "BRUXIA MODULARES, S.L.",
-    "direccion": "Avenida de las bodegas 4",
+    "direccion": "Avenida las bodegas 00004",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -30265,7 +30265,7 @@ const empresas = [
   },
   {
     "empresa": "TECNILOGISTICA AM SL",
-    "direccion": "Calle paraguay 3",
+    "direccion": "Calle 00003",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -30278,7 +30278,7 @@ const empresas = [
   },
   {
     "empresa": "CONTROL Y MONTAJES INDUSTRIALES CYMI, S.L.",
-    "direccion": "Carretera calzada calatrava, km. 27 1",
+    "direccion": "Carretera calatrava, km. 27 00001",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -30291,7 +30291,7 @@ const empresas = [
   },
   {
     "empresa": "ESTRUCTURAS INDUSTRIALES BIANSA 2004, S.L.",
-    "direccion": "Polígono la nava3, calle noruega parc.1f 10 s/n",
+    "direccion": "Polígono nava3, calle noruega parc.1f 10 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -30304,7 +30304,7 @@ const empresas = [
   },
   {
     "empresa": "MAXCORPORATIVO, SOCIEDAD LIMITADA",
-    "direccion": "Calle barataria 60",
+    "direccion": "Calle 00060",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -30317,7 +30317,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO SISTEMAS FOTOVOLTAICOS DE CONCENTRACION, S.A.",
-    "direccion": "Calle francia po. industrial la navaiii 7",
+    "direccion": "Calle po. industrial la navaiii 00007",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -30330,7 +30330,7 @@ const empresas = [
   },
   {
     "empresa": "GAS NATURAL FENOSA RENOVABLES S.L.U",
-    "direccion": "Calle lanza 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -30343,7 +30343,7 @@ const empresas = [
   },
   {
     "empresa": "P.W.R. CAPITAL ENERGY SL",
-    "direccion": "Rdsanta maria 8",
+    "direccion": "Ronda maria 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -30356,7 +30356,7 @@ const empresas = [
   },
   {
     "empresa": "SOLCLEF CSP O&M 1, SL",
-    "direccion": "Carretera cm 3113, villarta de san juan km 11 11",
+    "direccion": "Carretera 3113, villarta de san juan km 11 00011",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -30369,7 +30369,7 @@ const empresas = [
   },
   {
     "empresa": "UFD DISTRIBUCION ELECTRICIDAD S.A.",
-    "direccion": "Calle cardenal monescillo 1",
+    "direccion": "Calle monescillo 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -30382,7 +30382,7 @@ const empresas = [
   },
   {
     "empresa": "TENGO TRANSPORTES Y LOGISTICA, S.L.",
-    "direccion": "Pqempresarial entrecaminos 14 a",
+    "direccion": "Pqempresarial entrecaminos 00014 a",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -30395,7 +30395,7 @@ const empresas = [
   },
   {
     "empresa": "INFOENERGYASOLUCIONES S.L.",
-    "direccion": "Avenida ciudad real 4",
+    "direccion": "Avenida real 00004",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -30408,7 +30408,7 @@ const empresas = [
   },
   {
     "empresa": "ACCIONA AGUA, S.A.",
-    "direccion": "Calle perez galdos 67",
+    "direccion": "Calle galdos 00067",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -30421,7 +30421,7 @@ const empresas = [
   },
   {
     "empresa": "AQUAMBIENTE SERV.PARA EL SECTOR DEL AGUA S.A.",
-    "direccion": "Plpilar 5",
+    "direccion": "Plpilar 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -30434,7 +30434,7 @@ const empresas = [
   },
   {
     "empresa": "ACCIONA AGUA SERVICIOS, S.L.",
-    "direccion": "Calle gran via 2",
+    "direccion": "Calle via 00002",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -30447,7 +30447,7 @@ const empresas = [
   },
   {
     "empresa": "AQLARA CICLO INTEGRAL DEL AGUA SA",
-    "direccion": "Cmarroyo del lino s/n",
+    "direccion": "Camino del lino 00000",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -30460,7 +30460,7 @@ const empresas = [
   },
   {
     "empresa": "IGNEA MEDIOAMBIENTE, S.L.",
-    "direccion": "Carretera moral de ctva.km 1.5 finc herrerias s/n",
+    "direccion": "Carretera de ctva.km 1.5 finc herrerias 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -30473,7 +30473,7 @@ const empresas = [
   },
   {
     "empresa": "M.T.ALISES, S.L",
-    "direccion": "Lugar paraje anorias poligono 1 parc. 147600000",
+    "direccion": "Lugar anorias poligono 1 parc. 147600000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -30486,7 +30486,7 @@ const empresas = [
   },
   {
     "empresa": "AURINKA PHOTOVOLTAIC GROUP S.L.",
-    "direccion": "Calle francia 10",
+    "direccion": "Calle 00010",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -30499,7 +30499,7 @@ const empresas = [
   },
   {
     "empresa": "ALUSER, S.L.",
-    "direccion": "Calle san francisco 45",
+    "direccion": "Calle francisco 00045",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -30512,7 +30512,7 @@ const empresas = [
   },
   {
     "empresa": "COMSA S.A.U.",
-    "direccion": "Carretera nacional 420, km 174 s/n",
+    "direccion": "Carretera 420, km 174 00000",
     "localidad": "CARACUEL DE CALATRAVA",
     "cp": "13191",
     "provincia": "CIUDAD REAL",
@@ -30525,7 +30525,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES SANTA TERESA COOPERATIVA DE TRABAJO ASOC",
-    "direccion": "Avenida castilla-leon 12",
+    "direccion": "Avenida -leon 00012",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -30538,7 +30538,7 @@ const empresas = [
   },
   {
     "empresa": "LARA GARCIA ANTONIO",
-    "direccion": "Calle pizarro 9",
+    "direccion": "Calle 00009",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -30551,7 +30551,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES HERMANOS DELGADO JEREZ, S.L.",
-    "direccion": "Calle jacinto guerrero 6",
+    "direccion": "Calle guerrero 00006",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -30564,7 +30564,7 @@ const empresas = [
   },
   {
     "empresa": "LILLO Y DEL HOYO, S.L.",
-    "direccion": "Calle santisimo 8 baj",
+    "direccion": "Calle 00008 baj",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -30577,7 +30577,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES GRACIA CASTEJON, S.L.",
-    "direccion": "Calle pintor lizcano 61 b",
+    "direccion": "Calle lizcano 00061 b",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -30590,7 +30590,7 @@ const empresas = [
   },
   {
     "empresa": "PROMOCIONES Y CONSTRUCCIONES MARTIN, S.L.",
-    "direccion": "Calle obispo quesada 6 bjb",
+    "direccion": "Calle quesada 00006 bjb",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -30603,7 +30603,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES ESCOPILLO, S.L.",
-    "direccion": "Calle herrera 41 bj",
+    "direccion": "Calle 00041 bajo",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -30616,7 +30616,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES RAMOS 2006, S.L.",
-    "direccion": "Calle rondilla de cruz verde local 1 34",
+    "direccion": "Calle de cruz verde local 1 00034",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -30629,7 +30629,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES MARESVE, S.L.",
-    "direccion": "Calle blas tello 25",
+    "direccion": "Calle tello 00025",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -30642,7 +30642,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES GUIAL, S.L.",
-    "direccion": "Calle prim 8",
+    "direccion": "Calle 00008",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -30655,7 +30655,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES MANOLO Y MANOLO, S.L.",
-    "direccion": "Calle republica argentina 21",
+    "direccion": "Calle argentina 00021",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -30668,7 +30668,7 @@ const empresas = [
   },
   {
     "empresa": "QUINTANA GARCIA SEBASTIAN",
-    "direccion": "Calle amor 20",
+    "direccion": "Calle 00020",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -30681,7 +30681,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y MATERIALES LOS CASTORES, S.L.",
-    "direccion": "Calle vicente torres 45",
+    "direccion": "Calle torres 00045",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -30694,7 +30694,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAÑES ALDEA, S.L.",
-    "direccion": "Plaza del trillo 3",
+    "direccion": "Plaza trillo 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -30707,7 +30707,7 @@ const empresas = [
   },
   {
     "empresa": "FCC CONSTRUCCION, S.A.",
-    "direccion": "Calle libertad 37",
+    "direccion": "Calle 00037",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -30720,7 +30720,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y EXCAVACIONES VALLE DE ALCUDIA, S.L.",
-    "direccion": "Calle doctor ferraz 6",
+    "direccion": "Calle ferraz 00006",
     "localidad": "ALAMILLO",
     "cp": "13413",
     "provincia": "CIUDAD REAL",
@@ -30733,7 +30733,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES HNOS AMOROS FERNANDEZ, S.L.",
-    "direccion": "Calle reyes catolicos 2",
+    "direccion": "Calle catolicos 00002",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -30746,7 +30746,7 @@ const empresas = [
   },
   {
     "empresa": "CARLOS ARIAS, S.L.",
-    "direccion": "Carretera islas, s/n 1",
+    "direccion": "Carretera , s/n 00001",
     "localidad": "ROBLEDO, EL",
     "cp": "13114",
     "provincia": "CIUDAD REAL",
@@ -30759,7 +30759,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES RAMARMI, S.L.",
-    "direccion": "Calle tonel 7",
+    "direccion": "Calle 00007",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -30772,7 +30772,7 @@ const empresas = [
   },
   {
     "empresa": "INNOVACION Y EDIFICACION HNOS. GARCIA, S.L.",
-    "direccion": "Calle andorra 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -30785,7 +30785,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS ROMERO SOTO, S.L.",
-    "direccion": "Calle san miguel 31",
+    "direccion": "Calle miguel 00031",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -30798,7 +30798,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICOS INNOVADORES EN CLIMATIZACION, S.L.",
-    "direccion": "Polígono aragonesas 502",
+    "direccion": "Polígono 00502",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -30811,7 +30811,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS Y CONSTRUCCIONES BASTANTE, S.L.",
-    "direccion": "Calle guadiana 14",
+    "direccion": "Calle 00014",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -30824,7 +30824,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES T.L.G., S.L.",
-    "direccion": "Calle constitucion 14",
+    "direccion": "Calle 00014",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -30837,7 +30837,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES PRAKISAMA, S.L.",
-    "direccion": "Calle perez galdos 15",
+    "direccion": "Calle galdos 00015",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -30850,7 +30850,7 @@ const empresas = [
   },
   {
     "empresa": "S.COOP. DE TRABAJO ASOCIADO CONSTRUCCIONES CERVERA",
-    "direccion": "Avenida de las regiones 13",
+    "direccion": "Avenida las regiones 00013",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -30863,7 +30863,7 @@ const empresas = [
   },
   {
     "empresa": "MAESA OBRAS Y CONSTRUCCIONES, S.L.",
-    "direccion": "Calle concepcion 13",
+    "direccion": "Calle 00013",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -30876,7 +30876,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y PROMOCIONES SAN LUIS 32 S.A.",
-    "direccion": "Calle san luis 32",
+    "direccion": "Calle luis 00032",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -30889,7 +30889,7 @@ const empresas = [
   },
   {
     "empresa": "ACCIONA CONSTRUCCION, S.A.",
-    "direccion": "Calle pozo concejo 3",
+    "direccion": "Calle concejo 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -30902,7 +30902,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES PANIZO RAMIREZ, S.L.",
-    "direccion": "Calle rafael gasset 45",
+    "direccion": "Calle gasset 00045",
     "localidad": "CHILLON",
     "cp": "13412",
     "provincia": "CIUDAD REAL",
@@ -30915,7 +30915,7 @@ const empresas = [
   },
   {
     "empresa": "ALCAÑIZ DE LA GUIA, S.L.",
-    "direccion": "Trmonte 8",
+    "direccion": "Travesía 00008",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -30928,7 +30928,7 @@ const empresas = [
   },
   {
     "empresa": "ARECEM 2000, S.L.",
-    "direccion": "Calle pimienta 20",
+    "direccion": "Calle 00020",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -30941,7 +30941,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES MARIANO 1999 S.L.L.",
-    "direccion": "Calle carrera de san jeronimo s/n",
+    "direccion": "Calle de san jeronimo 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -30954,7 +30954,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES SILGADO BENADERO, S.L.",
-    "direccion": "Calle velazquez 17",
+    "direccion": "Calle 00017",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -30967,7 +30967,7 @@ const empresas = [
   },
   {
     "empresa": "ESTRUCTURAS COHERME, S.L.",
-    "direccion": "Calle ronda eras 182",
+    "direccion": "Calle eras 00182",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -30980,7 +30980,7 @@ const empresas = [
   },
   {
     "empresa": "LAGUNA SIERRA JOSE LUIS",
-    "direccion": "Calle principe felipe 4",
+    "direccion": "Calle felipe 00004",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -30993,7 +30993,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES MASFRI, S.L.",
-    "direccion": "Avenida comunidad de murcia, par 72 23",
+    "direccion": "Avenida de murcia, par 72 00023",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -31006,7 +31006,7 @@ const empresas = [
   },
   {
     "empresa": "VIANRI, S.L.",
-    "direccion": "Calle real 81",
+    "direccion": "Calle 00081",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -31019,7 +31019,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES EL GEMELO MARTINEZ, S.L.",
-    "direccion": "Calle ramos 41",
+    "direccion": "Calle 00041",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -31032,7 +31032,7 @@ const empresas = [
   },
   {
     "empresa": "AQUARRUBIA, S.L.",
-    "direccion": "Avenida del carmen 42",
+    "direccion": "Avenida carmen 00042",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -31045,7 +31045,7 @@ const empresas = [
   },
   {
     "empresa": "URBACON CRIPTANA, S.A.",
-    "direccion": "Calle san luis 10 1 b",
+    "direccion": "Calle luis 00010 1 b",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -31058,7 +31058,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS MANZANEQUE LOZANO SL",
-    "direccion": "Calle luna 14",
+    "direccion": "Calle 00014",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -31071,7 +31071,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES PEINADO DIAZ, S.L.",
-    "direccion": "Calle sagunto 53",
+    "direccion": "Calle 00053",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -31084,7 +31084,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES FRANCISCO Y RAUL SL",
-    "direccion": "Calle gran capitan 29",
+    "direccion": "Calle capitan 00029",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -31097,7 +31097,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS VICENTE GOMEZ 2001, S.L.U.",
-    "direccion": "Calle san sebastian 19 bj",
+    "direccion": "Calle sebastian 00019 bajo",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -31110,7 +31110,7 @@ const empresas = [
   },
   {
     "empresa": "FELIX BLANCO ESPINOSA, S.L.",
-    "direccion": "Calle la cruz 26",
+    "direccion": "Calle cruz 00026",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -31123,7 +31123,7 @@ const empresas = [
   },
   {
     "empresa": "SOLADOS Y ALICATADOS SANHER, S.L.",
-    "direccion": "Calle villanueva de san carlos 18",
+    "direccion": "Calle de san carlos 00018",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -31136,7 +31136,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES COBO-MECINAS, C.B.",
-    "direccion": "Calle carrera san jeronimo 23",
+    "direccion": "Calle san jeronimo 00023",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31149,7 +31149,7 @@ const empresas = [
   },
   {
     "empresa": "PROYECTOS Y CONTRATAS ERGOCAN, S.L.",
-    "direccion": "Calle lopez rojas 2",
+    "direccion": "Calle rojas 00002",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -31162,7 +31162,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES SALVADOR MARTINEZ SANCHEZ, S.L.",
-    "direccion": "Calle campo 7 3002",
+    "direccion": "Calle 00007 03002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31175,7 +31175,7 @@ const empresas = [
   },
   {
     "empresa": "PARDO MORA FRANCISCO",
-    "direccion": "Calle real 28",
+    "direccion": "Calle 00028",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -31188,7 +31188,7 @@ const empresas = [
   },
   {
     "empresa": "VALLE NUÑO FELIPE",
-    "direccion": "Calle zacatin 21",
+    "direccion": "Calle 00021",
     "localidad": "VISO DEL MARQUES",
     "cp": "13770",
     "provincia": "CIUDAD REAL",
@@ -31201,7 +31201,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS Y REFORMAS LOS GALANES, S.L.L.",
-    "direccion": "Calle manigeros 6",
+    "direccion": "Calle 00006",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -31214,7 +31214,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES JESUS QUEVEDO, S.L.",
-    "direccion": "Calle antonio lopez 16",
+    "direccion": "Calle lopez 00016",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31227,7 +31227,7 @@ const empresas = [
   },
   {
     "empresa": "BERMEJO RODRIGUEZ PEDRO",
-    "direccion": "Calle san isidro 22",
+    "direccion": "Calle isidro 00022",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -31240,7 +31240,7 @@ const empresas = [
   },
   {
     "empresa": "ESTRUCTURAS ALGESA, S.L.",
-    "direccion": "Paseo del cordon 64",
+    "direccion": "Paseo cordon 00064",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -31253,7 +31253,7 @@ const empresas = [
   },
   {
     "empresa": "REFORMAS Y CONSTRUCCIONES VIDAL SL",
-    "direccion": "Calle baleares 9",
+    "direccion": "Calle 00009",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -31266,7 +31266,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES JUMA MORAL, S.L.",
-    "direccion": "Calle peñalba 15",
+    "direccion": "Calle ñalba 00015",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -31279,7 +31279,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES JAVIER CAÑEGO, S.L.",
-    "direccion": "Calle del agua 8",
+    "direccion": "Calle agua 00008",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -31292,7 +31292,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS RICO, S.L",
-    "direccion": "Calle navarra 7",
+    "direccion": "Calle 00007",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -31305,7 +31305,7 @@ const empresas = [
   },
   {
     "empresa": "PALOMERA VALENCIA MIGUEL",
-    "direccion": "Calle arapiles 19",
+    "direccion": "Calle 00019",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -31318,7 +31318,7 @@ const empresas = [
   },
   {
     "empresa": "SANJOCRIP, S.L.",
-    "direccion": "Calle moro 50",
+    "direccion": "Calle 00050",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -31331,7 +31331,7 @@ const empresas = [
   },
   {
     "empresa": "ROMEDCONS S.L.",
-    "direccion": "Calle ciudad real 15",
+    "direccion": "Calle real 00015",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -31344,7 +31344,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICAS DE ENCOFRADO LEAL,S.L",
-    "direccion": "Calle convento 27 3 a",
+    "direccion": "Calle 00027 3 a",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -31357,7 +31357,7 @@ const empresas = [
   },
   {
     "empresa": "URBACONCIR, S.L.",
-    "direccion": "Carretera toledo 40",
+    "direccion": "Carretera 00040",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -31370,7 +31370,7 @@ const empresas = [
   },
   {
     "empresa": "DAIMIEL OBRAS Y SERVICIOS,S.L",
-    "direccion": "Calle virgen de las cruces 5 3 a",
+    "direccion": "Calle de las cruces 00005 3 a",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -31383,7 +31383,7 @@ const empresas = [
   },
   {
     "empresa": "MORESMA OBRAS, S.L.",
-    "direccion": "Urla paz 24",
+    "direccion": "Urla paz 00024",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31396,7 +31396,7 @@ const empresas = [
   },
   {
     "empresa": "BELLON ARROYO GASPAR",
-    "direccion": "Calle norte 1",
+    "direccion": "Calle 00001",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -31409,7 +31409,7 @@ const empresas = [
   },
   {
     "empresa": "SOLADOS Y ALICATADOS DOCLE, S.L.",
-    "direccion": "Calle carlos morales 39",
+    "direccion": "Calle morales 00039",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31422,7 +31422,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS Y VIALES GUADIANA, S.L.",
-    "direccion": "Calle italia 6 b",
+    "direccion": "Calle 00006 b",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -31435,7 +31435,7 @@ const empresas = [
   },
   {
     "empresa": "EDIFICACIONES Y CONTRATAS LORENZO PECO S.L.",
-    "direccion": "Calle solidaridad 7",
+    "direccion": "Calle 00007",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -31448,7 +31448,7 @@ const empresas = [
   },
   {
     "empresa": "PROYECTOS Y CONSTRUCCIONES JUAN ANTONIO GONZALEZ, S.L.",
-    "direccion": "Calle emilio castellar 63",
+    "direccion": "Calle castellar 00063",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -31461,7 +31461,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES PLANILLAS, C.B.",
-    "direccion": "Calle animas 35",
+    "direccion": "Calle 00035",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -31474,7 +31474,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES CRISTOBAL ABENGOZAR",
-    "direccion": "Calle general prim 24 b 1 dch",
+    "direccion": "Calle prim 00024 b 1 dch",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -31487,7 +31487,7 @@ const empresas = [
   },
   {
     "empresa": "ENCOFRADOS VIRGEN DE LA SIERRA, S.L.",
-    "direccion": "Avenida carmen 63 b",
+    "direccion": "Avenida 00063 b",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -31500,7 +31500,7 @@ const empresas = [
   },
   {
     "empresa": "HIJOS DE SAUL S.L.L.",
-    "direccion": "Calle lope de vega 25",
+    "direccion": "Calle de vega 00025",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -31513,7 +31513,7 @@ const empresas = [
   },
   {
     "empresa": "HUERTOS DE CASCANA, S.L.",
-    "direccion": "Avenida de la paz s/n 1º",
+    "direccion": "Avenida la paz 00000 1º",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -31526,7 +31526,7 @@ const empresas = [
   },
   {
     "empresa": "FUENTE PICA 2000 S.L.",
-    "direccion": "Avenida españa 25",
+    "direccion": "Avenida ña 00025",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -31539,7 +31539,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS ARECAS 2008, S.L.",
-    "direccion": "Calle jose luis de arrese 35",
+    "direccion": "Calle luis de arrese 00035",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -31552,7 +31552,7 @@ const empresas = [
   },
   {
     "empresa": "DECENNIAL, S.L.",
-    "direccion": "Calle fortuny 6",
+    "direccion": "Calle 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -31565,7 +31565,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y SERVICIOS CONSERTOM, S.L.U.",
-    "direccion": "Calle urbanizacion la paz 87",
+    "direccion": "Calle la paz 00087",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31578,7 +31578,7 @@ const empresas = [
   },
   {
     "empresa": "VYLLU CONSTRUCCIONES Y REFORMAS S.L.",
-    "direccion": "Calle pardillo 50",
+    "direccion": "Calle 00050",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -31591,7 +31591,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES EDIFITOM, S.L.",
-    "direccion": "Calle santa juliana 52",
+    "direccion": "Calle juliana 00052",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31604,7 +31604,7 @@ const empresas = [
   },
   {
     "empresa": "IBERCONS PROYECTOS E INSTALACIONES S.L.",
-    "direccion": "Calle avenida alcazar de san juan s/n",
+    "direccion": "Calle alcazar de san juan 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -31617,7 +31617,7 @@ const empresas = [
   },
   {
     "empresa": "JOSE ANTONIO REBATO RUIZ, S.L.",
-    "direccion": "Calle hidalgo 56",
+    "direccion": "Calle hidalgo 00056",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31630,7 +31630,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES ICONO 2010, S.L.",
-    "direccion": "Calle castillo 44 3 f",
+    "direccion": "Calle 00044 3 f",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31643,7 +31643,7 @@ const empresas = [
   },
   {
     "empresa": "CAMUÑAS JIMENEZ RUBEN",
-    "direccion": "Calle nueva 2",
+    "direccion": "Calle 00002",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -31656,7 +31656,7 @@ const empresas = [
   },
   {
     "empresa": "CONSIME, S.L.",
-    "direccion": "Calle calvario 2",
+    "direccion": "Calle 00002",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -31669,7 +31669,7 @@ const empresas = [
   },
   {
     "empresa": "CONTRATAS GARCI MANCHA S.L.",
-    "direccion": "Trmencia 5",
+    "direccion": "Travesía 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -31682,7 +31682,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCCIONES Y REFORMAS GUILLEM PARRADO, S.L.",
-    "direccion": "Calle el torno 3",
+    "direccion": "Calle torno 00003",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -31695,7 +31695,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES EMRUCO, S.L.U.",
-    "direccion": "Calle campo 111",
+    "direccion": "Calle 00111",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31708,7 +31708,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES POLO 2010,S.L",
-    "direccion": "Calle cruz de hierro 36",
+    "direccion": "Calle de hierro 00036",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -31721,7 +31721,7 @@ const empresas = [
   },
   {
     "empresa": "ESCOBAR SOLIS ANDRES",
-    "direccion": "Calle nueva 11",
+    "direccion": "Calle 00011",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -31734,7 +31734,7 @@ const empresas = [
   },
   {
     "empresa": "INVERSIONES E INSTALACIONES NUÑEZ, S.L.U.",
-    "direccion": "Calle maranon esq cl el toboso s/n",
+    "direccion": "Calle esq cl el toboso 00000",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -31747,7 +31747,7 @@ const empresas = [
   },
   {
     "empresa": "RALECO, S.L.",
-    "direccion": "Calle luna 10 bjb",
+    "direccion": "Calle 00010 bjb",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -31760,7 +31760,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES VICENTE MEJIAS, S.L.",
-    "direccion": "Calle grupo renfe 25",
+    "direccion": "Calle renfe 00025",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -31773,7 +31773,7 @@ const empresas = [
   },
   {
     "empresa": "JUPEROCRIS S.L.",
-    "direccion": "Avenida castilla la mancha 112",
+    "direccion": "Avenida la mancha 00112",
     "localidad": "CORTIJOS (LOS)",
     "cp": "13427",
     "provincia": "CIUDAD REAL",
@@ -31786,7 +31786,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES TREJENA, S.L.",
-    "direccion": "Calle ciudad real 23",
+    "direccion": "Calle real 00023",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -31799,7 +31799,7 @@ const empresas = [
   },
   {
     "empresa": "TEDYCONS CR, S.L.U.",
-    "direccion": "Calle pielago 16",
+    "direccion": "Calle 00016",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -31812,7 +31812,7 @@ const empresas = [
   },
   {
     "empresa": "PROMINVER ENTERTAINMENT, S.L.",
-    "direccion": "Calle caidas 2b",
+    "direccion": "Calle 00002b",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -31825,7 +31825,7 @@ const empresas = [
   },
   {
     "empresa": "ENCOFRADOS MANCHEGOS, S.L.",
-    "direccion": "Plaza cristo del amor 2 1 c",
+    "direccion": "Plaza del amor 00002 1 c",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -31838,7 +31838,7 @@ const empresas = [
   },
   {
     "empresa": "TREXCOM DAIMIEL S.L.",
-    "direccion": "Calle varios s/n",
+    "direccion": "Calle 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -31851,7 +31851,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS Y CONSTRUCCIONES CHAPARRO DE LA HOZ,S.L",
-    "direccion": "Calle alcazar 15",
+    "direccion": "Calle 00015",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -31864,7 +31864,7 @@ const empresas = [
   },
   {
     "empresa": "GALLEGO DOMINGUEZ JULIAN",
-    "direccion": "Calle san gabriel 3",
+    "direccion": "Calle gabriel 00003",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -31877,7 +31877,7 @@ const empresas = [
   },
   {
     "empresa": "NACO, CONTRATAS Y ACABADOS DE OBRA,S.L.",
-    "direccion": "Calle la fabrica 12",
+    "direccion": "Calle fabrica 00012",
     "localidad": "ALCOLEA DE CALATRAVA",
     "cp": "13107",
     "provincia": "CIUDAD REAL",
@@ -31890,7 +31890,7 @@ const empresas = [
   },
   {
     "empresa": "INCAI INGENIERIA Y CONSTRUCCION S.L.",
-    "direccion": "Calle torrecillas 59 2 d",
+    "direccion": "Calle 00059 2 d",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -31903,7 +31903,7 @@ const empresas = [
   },
   {
     "empresa": "PROGREDI CONSTRUCCION, S.L.",
-    "direccion": "Calle juan caba 1 2",
+    "direccion": "Calle caba 00001 2",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -31916,7 +31916,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES . JUANGARVELSL",
-    "direccion": "Carretera torrenueva, s/n s/n",
+    "direccion": "Carretera , s/n 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -31929,7 +31929,7 @@ const empresas = [
   },
   {
     "empresa": "GESTION DE PROCESOS Y PROYECTOS ARQUITECTURA, S.L.U.",
-    "direccion": "Calle enrique fernandez 2 2 bj5",
+    "direccion": "Calle fernandez 00002 2 bj5",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -31942,7 +31942,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES RIJOPA SL",
-    "direccion": "Calle andres segovia 61",
+    "direccion": "Calle segovia 00061",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -31955,7 +31955,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES SANTOS ROPERO SL",
-    "direccion": "Calle tirante 13 b",
+    "direccion": "Calle 00013 b",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -31968,7 +31968,7 @@ const empresas = [
   },
   {
     "empresa": "LOPEZ DE LERMA DELGADO JUAN MIGUEL",
-    "direccion": "Calle general margallo 29",
+    "direccion": "Calle margallo 00029",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -31981,7 +31981,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES CASTILLO LILLO SL",
-    "direccion": "Calle del rio 10",
+    "direccion": "Calle rio 00010",
     "localidad": "ABENOJAR",
     "cp": "13180",
     "provincia": "CIUDAD REAL",
@@ -31994,7 +31994,7 @@ const empresas = [
   },
   {
     "empresa": "ASER STYLE, S.L.",
-    "direccion": "Calle estrella 4",
+    "direccion": "Calle 00004",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -32007,7 +32007,7 @@ const empresas = [
   },
   {
     "empresa": "CAMBIOS AHORA SOCIEDAD LIMITADA",
-    "direccion": "Calle doctor mazuecos 20",
+    "direccion": "Calle mazuecos 00020",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -32020,7 +32020,7 @@ const empresas = [
   },
   {
     "empresa": "URIEL ROMERO CONSTRUCCION Y DESARROLLO S.L.",
-    "direccion": "Plaza canalejas s/n",
+    "direccion": "Plaza 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -32033,7 +32033,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES GARBU S.C.",
-    "direccion": "Calle matadero 18",
+    "direccion": "Calle 00018",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32046,7 +32046,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS HERMANOS VILLOLDO GIGANTE, S.L.",
-    "direccion": "Calle ibi 36",
+    "direccion": "Calle 00036",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32059,7 +32059,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES LUBEMAN SOCIEDAD",
-    "direccion": "Carretera comarcal 403 km 88 s/n",
+    "direccion": "Carretera 403 km 88 00000",
     "localidad": "PICON",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -32072,7 +32072,7 @@ const empresas = [
   },
   {
     "empresa": "PROMOCIONES JESAL 2006 SL",
-    "direccion": "Calle orden de montesa 13",
+    "direccion": "Calle de montesa 00013",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -32085,7 +32085,7 @@ const empresas = [
   },
   {
     "empresa": "VERTIZE SOLUCIONES INTEGRALES SL",
-    "direccion": "Calle carmen martin gaite 13",
+    "direccion": "Calle martin gaite 00013",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -32098,7 +32098,7 @@ const empresas = [
   },
   {
     "empresa": "MUÑOZ CHAMON JOAQUIN",
-    "direccion": "Carretera ciudad real 286",
+    "direccion": "Carretera real 00286",
     "localidad": "ALCOLEA DE CALATRAVA",
     "cp": "13107",
     "provincia": "CIUDAD REAL",
@@ -32111,7 +32111,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES MORENO DIAZ MALA",
-    "direccion": "Calle vicente barrera 34",
+    "direccion": "Calle barrera 00034",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -32124,7 +32124,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICAS CONSTRUCTIVAS Y MEDIO AMBIENTALES, S.L.",
-    "direccion": "Calle los olivos 7",
+    "direccion": "Calle olivos 00007",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -32137,7 +32137,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES URBAPRASERNA SO",
-    "direccion": "Avenida alcazar 50",
+    "direccion": "Avenida 00050",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -32150,7 +32150,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES CAUTELA, S.L.",
-    "direccion": "Calle croacia esq cl alemania pol ind s/n",
+    "direccion": "Calle esq cl alemania pol ind 00000",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -32163,7 +32163,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES SM SANTREX S.L.",
-    "direccion": "Calle ciudad real 45",
+    "direccion": "Calle real 00045",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32176,7 +32176,7 @@ const empresas = [
   },
   {
     "empresa": "JM AGROSIN SOCIEDAD LIMITADA",
-    "direccion": "Calle principe de españa 15",
+    "direccion": "Calle de españa 00015",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -32189,7 +32189,7 @@ const empresas = [
   },
   {
     "empresa": "KESADA GOLDEROS, S.L.",
-    "direccion": "Calle libertad 8",
+    "direccion": "Calle 00008",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -32202,7 +32202,7 @@ const empresas = [
   },
   {
     "empresa": "ROANSERVI INTEGRAL SOCIEDAD LI",
-    "direccion": "Avenida de las bodegas 71",
+    "direccion": "Avenida las bodegas 00071",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -32215,7 +32215,7 @@ const empresas = [
   },
   {
     "empresa": "GESTION Y PROYECTOS LA MANCHA",
-    "direccion": "Avenida comunidad valenciana 12b 1",
+    "direccion": "Avenida valenciana 00012b 1",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -32228,7 +32228,7 @@ const empresas = [
   },
   {
     "empresa": "GESTION DIRECCION Y CONSTRUCCION",
-    "direccion": "Carretera de herencia s/n",
+    "direccion": "Carretera herencia 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -32241,7 +32241,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES LAFUENTE DIAZ FD",
-    "direccion": "Calle don quijote 27",
+    "direccion": "Calle quijote 00027",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -32254,7 +32254,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y ENCOFRADOS HERM",
-    "direccion": "Calle ayuntameinto viejo 74",
+    "direccion": "Calle viejo 00074",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -32267,7 +32267,7 @@ const empresas = [
   },
   {
     "empresa": "L.A.A.R. APARO, S.L.",
-    "direccion": "Calle conde de barcelona 3 7",
+    "direccion": "Calle de barcelona 00003 7",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -32280,7 +32280,7 @@ const empresas = [
   },
   {
     "empresa": "J&P VITALIA CONSTRUCCIONES 2019, SOCIEDAD LIMITADA",
-    "direccion": "Calle la paz 92",
+    "direccion": "Calle paz 00092",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32293,7 +32293,7 @@ const empresas = [
   },
   {
     "empresa": "GOMEZ VILLARREAL, S.L.",
-    "direccion": "Calle aldonza 3",
+    "direccion": "Calle 00003",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -32306,7 +32306,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS Y SERVICIOS PIEDRABUENA, SOCIEDAD LIMITADA",
-    "direccion": "Polígono la pajarilla 25",
+    "direccion": "Polígono pajarilla 00025",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -32319,7 +32319,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES ALFONSO LERIDA, S.R.L.",
-    "direccion": "Trcalvario 9",
+    "direccion": "Travesía 00009",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -32332,7 +32332,7 @@ const empresas = [
   },
   {
     "empresa": "SOLARIA DAIMIEL CONST Y SERVICIOS, S L",
-    "direccion": "Calle suecia 11",
+    "direccion": "Calle 00011",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -32345,7 +32345,7 @@ const empresas = [
   },
   {
     "empresa": "PV13 REFORMAS INTEGRALES, S.L.",
-    "direccion": "Calle canal del gran prior 149",
+    "direccion": "Calle del gran prior 00149",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -32358,7 +32358,7 @@ const empresas = [
   },
   {
     "empresa": "PROYECTOS, ESTRUCTURAS Y CONSTRUCCIONES SANCHEZ, SL",
-    "direccion": "Trde las eras 5",
+    "direccion": "Travesía las eras 00005",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -32371,7 +32371,7 @@ const empresas = [
   },
   {
     "empresa": "INNOVACIONES MARTÍNEZ, SOCIEDAD LIMITADA",
-    "direccion": "Calle campo 7 3 4",
+    "direccion": "Calle 00007 3 4",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32384,7 +32384,7 @@ const empresas = [
   },
   {
     "empresa": "ACROMANTULA REHABILITACION TECNICA, SOCIEDAD LIMITADA",
-    "direccion": "Calle sor candida 6",
+    "direccion": "Calle candida 00006",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -32397,7 +32397,7 @@ const empresas = [
   },
   {
     "empresa": "MENENDEZ CONSTRUCCION INTEGRAL, S.L.U.",
-    "direccion": "Calle peñafiel 24",
+    "direccion": "Calle ñafiel 00024",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -32410,7 +32410,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ MANZANEQUE JOSE RAMON",
-    "direccion": "Calle fernandez calzuelas 3 2 2 b",
+    "direccion": "Calle calzuelas 00003 2 2 b",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -32423,7 +32423,7 @@ const empresas = [
   },
   {
     "empresa": "LA PAZ CONSTRUCCIONES Y ALBAÑILERIA, SOCIEDAD LIMITADA",
-    "direccion": "Avenida castilla la mancha 37",
+    "direccion": "Avenida la mancha 00037",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -32436,7 +32436,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES HIJOS DE CRIPTANA, SOCIEDAD LIMITADA",
-    "direccion": "Avenida comunidad de madrid 12",
+    "direccion": "Avenida de madrid 00012",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -32449,7 +32449,7 @@ const empresas = [
   },
   {
     "empresa": "RENOVA FOTOSOLAR XII SL",
-    "direccion": "Calle la virgen 27",
+    "direccion": "Calle virgen 00027",
     "localidad": "GARGANTIEL",
     "cp": "13414",
     "provincia": "CIUDAD REAL",
@@ -32462,7 +32462,7 @@ const empresas = [
   },
   {
     "empresa": "ROSAMPER OBRAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle carmen 16",
+    "direccion": "Calle 00016",
     "localidad": "BRAZATORTAS",
     "cp": "13450",
     "provincia": "CIUDAD REAL",
@@ -32475,7 +32475,7 @@ const empresas = [
   },
   {
     "empresa": "REHABILITACIONES JUAN CARLOS JIMENEZ, SOCIEDAD LIMITADA",
-    "direccion": "Calle don quijote 25",
+    "direccion": "Calle quijote 00025",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32488,7 +32488,7 @@ const empresas = [
   },
   {
     "empresa": "ANIANKA OBRAS Y SERVICIOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle primero de mayo 4",
+    "direccion": "Calle de mayo 00004",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -32501,7 +32501,7 @@ const empresas = [
   },
   {
     "empresa": "AMB OBRAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle medrano 2 8",
+    "direccion": "Calle 00002 8",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32514,7 +32514,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES GUILLEN Y VISO, SOCIEDAD LIMITADA",
-    "direccion": "Trmatallana 26",
+    "direccion": "Travesía 00026",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -32527,7 +32527,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS VGD, SOCIEDAD LIMITADA",
-    "direccion": "Calle rosa del azafran 73",
+    "direccion": "Calle del azafran 00073",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -32540,7 +32540,7 @@ const empresas = [
   },
   {
     "empresa": "GESTIONA INFRAESTRUCTURAS S. L.",
-    "direccion": "Calle antonio blazquez 47 1",
+    "direccion": "Calle blazquez 00047 1",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -32553,7 +32553,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCION SOSTENIBLE DAIMIEL SL",
-    "direccion": "Calle prim 44 2",
+    "direccion": "Calle 00044 2",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -32566,7 +32566,7 @@ const empresas = [
   },
   {
     "empresa": "O ZONE CONSTRUCCION INTEGRAL SL",
-    "direccion": "Calle malagon 5",
+    "direccion": "Calle 00005",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -32579,7 +32579,7 @@ const empresas = [
   },
   {
     "empresa": "NEW RUZCON, SOCIEDAD LIMITADA",
-    "direccion": "Calle ciruela 7 6 b",
+    "direccion": "Calle 00007 6 b",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -32592,7 +32592,7 @@ const empresas = [
   },
   {
     "empresa": "JSMOBRAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle cuba 19",
+    "direccion": "Calle 00019",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -32605,7 +32605,7 @@ const empresas = [
   },
   {
     "empresa": "NIETO REFORMAS E INTERIORISMO S.L",
-    "direccion": "Calle rosalia de castro 1 1 1 3 b",
+    "direccion": "Calle de castro 00001 1 1 3 b",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -32618,7 +32618,7 @@ const empresas = [
   },
   {
     "empresa": "AR CONSTRUCCIONES Y LIMPIEZAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle carmen 33",
+    "direccion": "Calle 00033",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -32631,7 +32631,7 @@ const empresas = [
   },
   {
     "empresa": "MULTISERVICIOS DOBLE E, SOCIEDAD LIMITADA",
-    "direccion": "Calle marqueses de torremejia 20",
+    "direccion": "Calle de torremejia 00020",
     "localidad": "VALENZUELA DE CALATRAVA",
     "cp": "13279",
     "provincia": "CIUDAD REAL",
@@ -32644,7 +32644,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS PICAYO S.L.",
-    "direccion": "Avenida españa 27",
+    "direccion": "Avenida ña 00027",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -32657,7 +32657,7 @@ const empresas = [
   },
   {
     "empresa": "HERVIMANCHA CONSTRUCCIONES S.L",
-    "direccion": "Calle triunfo ave maria 43 d",
+    "direccion": "Calle ave maria 00043 d",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32670,7 +32670,7 @@ const empresas = [
   },
   {
     "empresa": "LANTANIA SA",
-    "direccion": "Carretera manzanares s/n",
+    "direccion": "Carretera 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -32683,7 +32683,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES MARSAN MOYA, S.L",
-    "direccion": "Avenida españa 19",
+    "direccion": "Avenida ña 00019",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -32696,7 +32696,7 @@ const empresas = [
   },
   {
     "empresa": "ADENAM OBRAS,S.L",
-    "direccion": "Calle cinco casas 67",
+    "direccion": "Calle casas 00067",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -32709,7 +32709,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS Y PROYECTOS CENTAX SOLDER S.L.",
-    "direccion": "Calle juan hasten 27",
+    "direccion": "Calle hasten 00027",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -32722,7 +32722,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS KEIN 2023, SOCIEDAD LIMITADA",
-    "direccion": "Calle general fernandez urrutia 4",
+    "direccion": "Calle fernandez urrutia 00004",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -32735,7 +32735,7 @@ const empresas = [
   },
   {
     "empresa": "EDIFICACIONES TECNICAS 2023 SL",
-    "direccion": "Calle manterola 106",
+    "direccion": "Calle 00106",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32748,7 +32748,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ-INFANTES INGENIERIA Y CONSTRUCCION, S.L",
-    "direccion": "Calle virgen de las cruces 6 4 b",
+    "direccion": "Calle de las cruces 00006 4 b",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -32761,7 +32761,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES LOPEZ GALINDOS 2024, S.L",
-    "direccion": "Calle goya 42",
+    "direccion": "Calle 00042",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -32774,7 +32774,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS MORA RUIZ, SOCIEDAD LIMITADA",
-    "direccion": "Calle alcalde guillermo navas 11",
+    "direccion": "Calle guillermo navas 00011",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -32787,7 +32787,7 @@ const empresas = [
   },
   {
     "empresa": "HVC OBRAS Y ESTRUCTURAS SL",
-    "direccion": "Calle ebanistas s/n",
+    "direccion": "Calle 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -32800,7 +32800,7 @@ const empresas = [
   },
   {
     "empresa": "OCAÑA OBRAS Y SERVICIOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle san carlos del valle 3 2 c",
+    "direccion": "Calle carlos del valle 00003 2 c",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -32813,7 +32813,7 @@ const empresas = [
   },
   {
     "empresa": "CONSZA 2013, SOCIEDAD LIMITADA",
-    "direccion": "Calle alfonso xxii 8",
+    "direccion": "Calle xxii 00008",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -32826,7 +32826,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS CORREAS SC",
-    "direccion": "Calle murcia 33",
+    "direccion": "Calle 00033",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32839,7 +32839,7 @@ const empresas = [
   },
   {
     "empresa": "RESIDENCIAL GIRALDO DE MERLO, SOCIEDAD LIMITADA",
-    "direccion": "Pjalcor 3 1 f",
+    "direccion": "Pasaje 00003 1 f",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -32852,7 +32852,7 @@ const empresas = [
   },
   {
     "empresa": "TECNICAS ECOENERGETICAS, SOCIEDAD LIMITADA",
-    "direccion": "Avenida isaac peral 12",
+    "direccion": "Avenida peral 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -32865,7 +32865,7 @@ const empresas = [
   },
   {
     "empresa": "COTTON WAVES, SOCIEDAD LIMITADA",
-    "direccion": "Calle jose 18",
+    "direccion": "Calle 00018",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -32878,7 +32878,7 @@ const empresas = [
   },
   {
     "empresa": "ARQUITECTURA Y TRABAJOS DE ALBAÑILERIA, SOCIEDAD LIMITA",
-    "direccion": "Calle santa ana 7",
+    "direccion": "Calle ana 00007",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -32891,7 +32891,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS PEREZ DE BUSTOS, SOCIEDAD LIM",
-    "direccion": "Calle donantes de sangre 23",
+    "direccion": "Calle de sangre 00023",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -32904,7 +32904,7 @@ const empresas = [
   },
   {
     "empresa": "OCG CASTILLA LA MANCHA, SOCIEDAD LIMITADA",
-    "direccion": "Calle san isidro 11",
+    "direccion": "Calle isidro 00011",
     "localidad": "RETUERTA DE BULLAQUE",
     "cp": "13194",
     "provincia": "CIUDAD REAL",
@@ -32917,7 +32917,7 @@ const empresas = [
   },
   {
     "empresa": "AYM BUILDING SL",
-    "direccion": "Calle prim 20 e3",
+    "direccion": "Calle 00020 e3",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -32930,7 +32930,7 @@ const empresas = [
   },
   {
     "empresa": "FACTORIA CONTINENTAL,S.L.",
-    "direccion": "Calle manuel manzanaque 16 1 c",
+    "direccion": "Calle manzanaque 00016 1 c",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -32943,7 +32943,7 @@ const empresas = [
   },
   {
     "empresa": "INTERIA MANCHEGA, SOCIEDAD LIMITADA",
-    "direccion": "Calle rio bañuelos 9",
+    "direccion": "Calle bañuelos 00009",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -32956,7 +32956,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES SANCHEZ MEZCUA 2025, SOCIEDAD LIMITADA",
-    "direccion": "Calle santos burillo 36 1",
+    "direccion": "Calle burillo 00036 1",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32969,7 +32969,7 @@ const empresas = [
   },
   {
     "empresa": "GUAPALSA SOCIEDAD LIMITADA",
-    "direccion": "Carretera de porzuna cruce con la cr-412 s/n",
+    "direccion": "Carretera porzuna cruce con la cr-412 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -32982,7 +32982,7 @@ const empresas = [
   },
   {
     "empresa": "ZEPHYR-TECH, SL",
-    "direccion": "Calle independencia 16",
+    "direccion": "Calle 00016",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -32995,7 +32995,7 @@ const empresas = [
   },
   {
     "empresa": "AM LEVEL CONSTRUCCIONES, SOCIEDAD LIMITADA",
-    "direccion": "Calle pintor mendoza 43 1 b",
+    "direccion": "Calle mendoza 00043 1 b",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -33008,7 +33008,7 @@ const empresas = [
   },
   {
     "empresa": "ENCOFRADOS MACAIZ 2025, SLU",
-    "direccion": "Calle poligono 4",
+    "direccion": "Calle 00004",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -33021,7 +33021,7 @@ const empresas = [
   },
   {
     "empresa": "ARSAOBRA, SOCIEDAD LIMITADA",
-    "direccion": "Calle de los transportistas s/n",
+    "direccion": "Calle los transportistas 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -33034,7 +33034,7 @@ const empresas = [
   },
   {
     "empresa": "AZVI S.A.U.",
-    "direccion": "Avenida de la ciencia 1",
+    "direccion": "Avenida la ciencia 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -33047,7 +33047,7 @@ const empresas = [
   },
   {
     "empresa": "JOASRA, S.L.",
-    "direccion": "Calle general muñoz grandes 8 bjdch",
+    "direccion": "Calle muñoz grandes 00008 bjdch",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -33060,7 +33060,7 @@ const empresas = [
   },
   {
     "empresa": "PARROS OBRAS, S.L.",
-    "direccion": "Carretera ntra.sra.del monte km. 1",
+    "direccion": "Carretera monte km. 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -33073,7 +33073,7 @@ const empresas = [
   },
   {
     "empresa": "IMPROGES CABEZUELO, S.L.",
-    "direccion": "Calle san anton 31 bj",
+    "direccion": "Calle anton 00031 bajo",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -33086,7 +33086,7 @@ const empresas = [
   },
   {
     "empresa": "QUALITY SPORT 2014",
-    "direccion": "Calle comunidad de galicia 5",
+    "direccion": "Calle de galicia 00005",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -33099,7 +33099,7 @@ const empresas = [
   },
   {
     "empresa": "MORENO SERENO ANGEL",
-    "direccion": "Calle antonio machado 36",
+    "direccion": "Calle machado 00036",
     "localidad": "CHILLON",
     "cp": "13412",
     "provincia": "CIUDAD REAL",
@@ -33112,7 +33112,7 @@ const empresas = [
   },
   {
     "empresa": "VAQUERO FERNANDEZ CHECA LUIS DIEGO",
-    "direccion": "Calle manuel manzaneque 10 1 b",
+    "direccion": "Calle manzaneque 00010 1 b",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -33125,7 +33125,7 @@ const empresas = [
   },
   {
     "empresa": "ARQUITECTURA Y PROMOCIONES AYSSER, SOCIEDAD LIMITADA",
-    "direccion": "Calle empedrada 113 0 c",
+    "direccion": "Calle 00113 0 c",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -33138,7 +33138,7 @@ const empresas = [
   },
   {
     "empresa": "ANROTECH CAR PARK, SOCIEDAD LIMITADA",
-    "direccion": "Carretera villarrobledo, km. 4 s/n",
+    "direccion": "Carretera , km. 4 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -33151,7 +33151,7 @@ const empresas = [
   },
   {
     "empresa": "PEALMAR CONSTRUCCIONES, SOCIEDAD LIMITADA",
-    "direccion": "Calle tinajeros 29",
+    "direccion": "Calle 00029",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -33164,7 +33164,7 @@ const empresas = [
   },
   {
     "empresa": "COYS CR, S.L",
-    "direccion": "Calle huertos 14 1 2 d",
+    "direccion": "Calle 00014 1 2 d",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -33177,7 +33177,7 @@ const empresas = [
   },
   {
     "empresa": "PROYECTOS Y GESTIONES DEL NORTE, S.L.",
-    "direccion": "Carretera nacional 420 - kms 154 154",
+    "direccion": "Carretera 420 - kms 154 00154",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -33190,7 +33190,7 @@ const empresas = [
   },
   {
     "empresa": "GOMEZ TROYA ISABEL",
-    "direccion": "Polígono 5 parcela 1630 carabinas s/n",
+    "direccion": "Polígono 5 parcela 1630 carabinas 00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -33203,7 +33203,7 @@ const empresas = [
   },
   {
     "empresa": "NOUEL VELASCO ADOLFO DEL CORO",
-    "direccion": "Avenida de la mancha 7 d i",
+    "direccion": "Avenida la mancha 00007 d i",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -33216,7 +33216,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOVIA DE LOS VIÑEDOS, S.A. CONCESIONARIA DE LA JCLM",
-    "direccion": "Carretera manzanares km 1,3 apartado correos 246",
+    "direccion": "Carretera km 1,3 apartado correos 00246",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -33229,7 +33229,7 @@ const empresas = [
   },
   {
     "empresa": "INGENIERIA, ASFALTOS Y SERVICIOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle solana 36",
+    "direccion": "Calle 00036",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -33242,7 +33242,7 @@ const empresas = [
   },
   {
     "empresa": "SACYR CONSERVACION S.A.U. CONSTRUCCIONES ANTOLIN GARCIA",
-    "direccion": "Carretera n430 pk 278 s/n",
+    "direccion": "Carretera 430 pk 278 00000",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -33255,7 +33255,7 @@ const empresas = [
   },
   {
     "empresa": "TECSA EMPRESA CONSTRUCTORA S.A.",
-    "direccion": "Carretera n-420. pk 174",
+    "direccion": "Carretera -420. pk 00174",
     "localidad": "VILLAMAYOR DE CALATRAVA",
     "cp": "13595",
     "provincia": "CIUDAD REAL",
@@ -33268,7 +33268,7 @@ const empresas = [
   },
   {
     "empresa": "UTE MANTENIMIENTO CALATRAVA",
-    "direccion": "Carretera n-420, pk-174 base adif av calatravas/n",
+    "direccion": "Carretera -420, pk-174 base adif av calatrava00000",
     "localidad": "VILLAMAYOR DE CALATRAVA",
     "cp": "13595",
     "provincia": "CIUDAD REAL",
@@ -33281,7 +33281,7 @@ const empresas = [
   },
   {
     "empresa": "UTE MIV CENTRO 2025-2027",
-    "direccion": "Calle cariñena e4 sector 3 s/n",
+    "direccion": "Calle ñena e4 sector 3 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -33294,7 +33294,7 @@ const empresas = [
   },
   {
     "empresa": "PAVALCO OBRA CIVIL S.L",
-    "direccion": "Carretera a moral de calatrava, km. 1.5 s/n",
+    "direccion": "Carretera moral de calatrava, km. 1.5 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -33307,7 +33307,7 @@ const empresas = [
   },
   {
     "empresa": "NUNVELA OBRAS, S.L.U",
-    "direccion": "Rdalarcos 48",
+    "direccion": "Ronda 00048",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -33320,7 +33320,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS MEYCA, S.L.",
-    "direccion": "Calle felix rodriguez de la fuente 9",
+    "direccion": "Calle rodriguez de la fuente 00009",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -33333,7 +33333,7 @@ const empresas = [
   },
   {
     "empresa": "DARECO AND CO, S.L.",
-    "direccion": "Calle general espartero 28 bj",
+    "direccion": "Calle espartero 00028 bajo",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -33346,7 +33346,7 @@ const empresas = [
   },
   {
     "empresa": "HITACHI RAIL GTS SPAIN S.A.U.",
-    "direccion": "Edtecnico ave - estacion renfe s/n",
+    "direccion": "Edtecnico ave - estacion renfe 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -33359,7 +33359,7 @@ const empresas = [
   },
   {
     "empresa": "SOGEOSA-SOCIEDAD GENERAL DE OBRAS, S.A.",
-    "direccion": "Calle las balsas 1",
+    "direccion": "Calle balsas 00001",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -33372,7 +33372,7 @@ const empresas = [
   },
   {
     "empresa": "INGENIERIA TECNICA DEL HORMIGON, S.L.",
-    "direccion": "Polígono industrial alces, parcela m-5 1",
+    "direccion": "Polígono alces, parcela m-5 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -33385,7 +33385,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES OCAÑA CAÑAS, S.L.",
-    "direccion": "Pisepes 703",
+    "direccion": "Pisepes 00703",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -33398,7 +33398,7 @@ const empresas = [
   },
   {
     "empresa": "ESTRUCTURAS Y CERRAJERIA METALPINO, S.L.",
-    "direccion": "Polígono industrial c/14 parcela 211 s/n",
+    "direccion": "Polígono c/14 parcela 211 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -33411,7 +33411,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES DESGRAN, S.L.",
-    "direccion": "Avenida principal. parcela 51 b",
+    "direccion": "Avenida parcela 00051 b",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -33424,7 +33424,7 @@ const empresas = [
   },
   {
     "empresa": "JIMENEZ RODERO VICENTE",
-    "direccion": "Calle la mesta 52",
+    "direccion": "Calle mesta 00052",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -33437,7 +33437,7 @@ const empresas = [
   },
   {
     "empresa": "TSM VOINEA, S.L.U.",
-    "direccion": "Calle pradillos 17",
+    "direccion": "Calle 00017",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -33450,7 +33450,7 @@ const empresas = [
   },
   {
     "empresa": "AGENCIA COMERCIAL HERENCIANA, S.L.",
-    "direccion": "Calle huertas 17",
+    "direccion": "Calle 00017",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -33463,7 +33463,7 @@ const empresas = [
   },
   {
     "empresa": "ESTRUCTURAS DIMAL SOCIEDAD LIMI",
-    "direccion": "Calle emilio castelar 75",
+    "direccion": "Calle castelar 00075",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -33476,7 +33476,7 @@ const empresas = [
   },
   {
     "empresa": "ANVIGAR REFORMAS Y CONSTRUCCIONES S.L.",
-    "direccion": "Calle arzollar 8",
+    "direccion": "Calle 00008",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -33489,7 +33489,7 @@ const empresas = [
   },
   {
     "empresa": "SOLAR BUILD INGENIERIA Y CONSTRUCCION,S.L.",
-    "direccion": "Carretera n420 s/n",
+    "direccion": "Carretera 420 00000",
     "localidad": "BRAZATORTAS",
     "cp": "13450",
     "provincia": "CIUDAD REAL",
@@ -33502,7 +33502,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS AGROCANO OBRAS Y SERVICIOS, S.L",
-    "direccion": "Calle conde de la cañada 4",
+    "direccion": "Calle de la cañada 00004",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -33515,7 +33515,7 @@ const empresas = [
   },
   {
     "empresa": "GRAVILLAS NUFERSA S.L.",
-    "direccion": "Calle nogal 18 b",
+    "direccion": "Calle 00018 b",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -33528,7 +33528,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS RUIZ DE LA RUBIA, S.L.",
-    "direccion": "Cmcasablanca/aptdo correos 111 s/n",
+    "direccion": "Camino /aptdo correos 111 00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -33541,7 +33541,7 @@ const empresas = [
   },
   {
     "empresa": "BARAHONA OBRAS Y SERVICIOS, S.L.",
-    "direccion": "Calle ronda del trenillo 15",
+    "direccion": "Calle del trenillo 00015",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -33554,7 +33554,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y EXCAVACIONES MORENO NAVAS, S.L.",
-    "direccion": "Calle castilla la mancha 5",
+    "direccion": "Calle la mancha 00005",
     "localidad": "ABENOJAR",
     "cp": "13180",
     "provincia": "CIUDAD REAL",
@@ -33567,7 +33567,7 @@ const empresas = [
   },
   {
     "empresa": "EXCAVACIONES CULETE, S.L.",
-    "direccion": "Calle cardenal cisneros 40",
+    "direccion": "Calle cisneros 00040",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -33580,7 +33580,7 @@ const empresas = [
   },
   {
     "empresa": "EXCAVACIONES MELLADO, S.L.U.",
-    "direccion": "Calle alegria 20",
+    "direccion": "Calle 00020",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -33593,7 +33593,7 @@ const empresas = [
   },
   {
     "empresa": "FIRMES Y EXCAVACIONES DE LA MANCHA S.L.",
-    "direccion": "Carretera de la ossa s/n s/n",
+    "direccion": "Carretera la ossa s/n 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -33606,7 +33606,7 @@ const empresas = [
   },
   {
     "empresa": "LOGAN OBRAS, SL",
-    "direccion": "Calle jose antonio gutierrez de la vega 8",
+    "direccion": "Calle antonio gutierrez de la vega 00008",
     "localidad": "MONTIEL",
     "cp": "13326",
     "provincia": "CIUDAD REAL",
@@ -33619,7 +33619,7 @@ const empresas = [
   },
   {
     "empresa": "EXCAVACIONES LABRANDERO S.L.",
-    "direccion": "Cmcolada alarcos la noria b20 s/n",
+    "direccion": "Camino alarcos la noria b20 00000",
     "localidad": "POBLACHUELA, LA",
     "cp": "13197",
     "provincia": "CIUDAD REAL",
@@ -33632,7 +33632,7 @@ const empresas = [
   },
   {
     "empresa": "DIAZ SANCHEZ JOSE JAVIER",
-    "direccion": "Calle reyes catolicos 1",
+    "direccion": "Calle catolicos 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -33645,7 +33645,7 @@ const empresas = [
   },
   {
     "empresa": "ADJUDECO . SL",
-    "direccion": "Calle romero 3",
+    "direccion": "Calle 00003",
     "localidad": "ALCOLEA DE CALATRAVA",
     "cp": "13107",
     "provincia": "CIUDAD REAL",
@@ -33658,7 +33658,7 @@ const empresas = [
   },
   {
     "empresa": "EXCAVACIONES SENDARRUBIAS, S.L.",
-    "direccion": "Calle francisco fernandez ordoñez 1",
+    "direccion": "Calle fernandez ordoñez 00001",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -33671,7 +33671,7 @@ const empresas = [
   },
   {
     "empresa": "EXCAVACIONES Y CONTRATAS KAPITAL SL",
-    "direccion": "Calle santa lucia 181b 4 b",
+    "direccion": "Calle lucia 000181b 4 b",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -33684,7 +33684,7 @@ const empresas = [
   },
   {
     "empresa": "AGROMORAL OBRAS Y SERVICIOS S.L.",
-    "direccion": "Avenida capitan camilo labrador saez 44",
+    "direccion": "Avenida camilo labrador saez 00044",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -33697,7 +33697,7 @@ const empresas = [
   },
   {
     "empresa": "EXCAVACIONES LOYPA",
-    "direccion": "Calle edison 57x",
+    "direccion": "Calle 00057x",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -33710,7 +33710,7 @@ const empresas = [
   },
   {
     "empresa": "EXCLASA SERVICIOS SLU",
-    "direccion": "Calle monte 130",
+    "direccion": "Calle 00130",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -33723,7 +33723,7 @@ const empresas = [
   },
   {
     "empresa": "BASCUÑANA FERNANDEZ MONTES, SOCIEDAD LIMITADA",
-    "direccion": "Calle alcazar de san juan 28",
+    "direccion": "Calle de san juan 00028",
     "localidad": "LLANOS DEL CAUDILLO",
     "cp": "13220",
     "provincia": "CIUDAD REAL",
@@ -33736,7 +33736,7 @@ const empresas = [
   },
   {
     "empresa": "CJM MOVIMIENTOS DE TIERRA, SOCIEDAD LIMITADA",
-    "direccion": "Calle quevedo 35",
+    "direccion": "Calle 00035",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -33749,7 +33749,7 @@ const empresas = [
   },
   {
     "empresa": "MOLINA VILLANUEVA ANGEL",
-    "direccion": "Calle cruz 35",
+    "direccion": "Calle 00035",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -33762,7 +33762,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES ELECTRICAS VOLTAGRO, S.L.",
-    "direccion": "Calle socuellamos 43",
+    "direccion": "Calle 00043",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -33775,7 +33775,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTRICIDAD JESUS BARCENAS S.R.L.",
-    "direccion": "Calle avenida del vino 54",
+    "direccion": "Calle del vino 00054",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -33788,7 +33788,7 @@ const empresas = [
   },
   {
     "empresa": "TECMOELECTRIC, S.L.",
-    "direccion": "Calle bodegueros c/v carreteros parc 60 s/n",
+    "direccion": "Calle c/v carreteros parc 60 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -33801,7 +33801,7 @@ const empresas = [
   },
   {
     "empresa": "MARFILUZ, S.L.",
-    "direccion": "Calle gran capitan 6",
+    "direccion": "Calle capitan 00006",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -33814,7 +33814,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTRICA DEL PUERTO LAPICE, S.L.",
-    "direccion": "Calle cervantes 35",
+    "direccion": "Calle 00035",
     "localidad": "PUERTO LAPICE",
     "cp": "13650",
     "provincia": "CIUDAD REAL",
@@ -33827,7 +33827,7 @@ const empresas = [
   },
   {
     "empresa": "A. RISUEÑO, S.L.",
-    "direccion": "Polígono el llano, c/ belgica 140",
+    "direccion": "Polígono llano, c/ belgica 00140",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -33840,7 +33840,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES ELECTRICAS RISUEÑO S.L.",
-    "direccion": "Calle general primo de rivera 3",
+    "direccion": "Calle primo de rivera 00003",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -33853,7 +33853,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTRONICA MANTENIMIENTO Y GAS, S.L..",
-    "direccion": "Calle reverenddo eliseo ramirez 4",
+    "direccion": "Calle eliseo ramirez 00004",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -33866,7 +33866,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOVE SOLUCIONES ELECTRICAS, S.L.",
-    "direccion": "Calle de los caleros (poligono industrial)17",
+    "direccion": "Calle los caleros (poligono industrial)00017",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -33879,7 +33879,7 @@ const empresas = [
   },
   {
     "empresa": "GARRIDO FERNANDEZ CONCEPCION",
-    "direccion": "Avenida fundadores cooperativa 41",
+    "direccion": "Avenida cooperativa 00041",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -33892,7 +33892,7 @@ const empresas = [
   },
   {
     "empresa": "PECALUX, S.L.",
-    "direccion": "Calle san luis 18",
+    "direccion": "Calle san luis 00018",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -33905,7 +33905,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAJES PROYELEC, S.L.",
-    "direccion": "Calle julio melgar, 13 lc",
+    "direccion": "Calle melgar, 00013 lc",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -33918,7 +33918,7 @@ const empresas = [
   },
   {
     "empresa": "MAROTO ELECTRICIDAD, S.L.",
-    "direccion": "Calle ctra de manzanares 8",
+    "direccion": "Calle de manzanares 00008",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -33931,7 +33931,7 @@ const empresas = [
   },
   {
     "empresa": "JACINTO PARDO, S.L.",
-    "direccion": "Calle campo 97",
+    "direccion": "Calle 00097",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -33944,7 +33944,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAJES ELECTRICOS CRESCENCIO PEREZ, S.L.",
-    "direccion": "Carretera carrion, nave 82 s/n",
+    "direccion": "Carretera , nave 82 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -33957,7 +33957,7 @@ const empresas = [
   },
   {
     "empresa": "INTELEC LA MANCHA, S.L.",
-    "direccion": "Calle espino, 6",
+    "direccion": "Calle , 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -33970,7 +33970,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES ELECTRICAS DONADO, S.L.",
-    "direccion": "Calle constitucion 70",
+    "direccion": "Calle 00070",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -33983,7 +33983,7 @@ const empresas = [
   },
   {
     "empresa": "SEALCI, S.L.",
-    "direccion": "Calle herreros pol ind la estrella 8",
+    "direccion": "Calle pol ind la estrella 00008",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -33996,7 +33996,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTRICIDAD FRANCISCO Y JULIAN, S.L.L.",
-    "direccion": "Urel jaraiz 21",
+    "direccion": "Urel jaraiz 00021",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34009,7 +34009,7 @@ const empresas = [
   },
   {
     "empresa": "RAMIREZ APLICACIONES TECNOLOGICAS, S.L",
-    "direccion": "Calle sara montiel 29",
+    "direccion": "Calle montiel 00029",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -34022,7 +34022,7 @@ const empresas = [
   },
   {
     "empresa": "INELTOM, S.L.",
-    "direccion": "Calle pizarro 15",
+    "direccion": "Calle 00015",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34035,7 +34035,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAJES ELECTRICOS SAGAS, S.L.L.",
-    "direccion": "Calle real 25",
+    "direccion": "Calle 00025",
     "localidad": "CASAS, LAS",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -34048,7 +34048,7 @@ const empresas = [
   },
   {
     "empresa": "ALEXMA INSTALACIONES, S.L.",
-    "direccion": "Polígono industrial el llano calle b 16",
+    "direccion": "Polígono el llano calle b 00016",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -34061,7 +34061,7 @@ const empresas = [
   },
   {
     "empresa": "ALEXMA MATERIALES E INSTALACIONES, S.L.",
-    "direccion": "Calle pg. ind. el llano (calle b-pc 17 s/n",
+    "direccion": "Calle ind. el llano (calle b-pc 17 00000",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -34087,7 +34087,7 @@ const empresas = [
   },
   {
     "empresa": "ORIENTACION SUR CONSULTORIA, S.L.",
-    "direccion": "Avenida primero de julio 70 l-4",
+    "direccion": "Avenida de julio 00070 l-4",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -34100,7 +34100,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTROVALLE INSTALACIONES Y PROYECTOS, S.L.",
-    "direccion": "Calle antonio naranjo 46",
+    "direccion": "Calle naranjo 00046",
     "localidad": "SAN CARLOS DEL VALLE",
     "cp": "13247",
     "provincia": "CIUDAD REAL",
@@ -34113,7 +34113,7 @@ const empresas = [
   },
   {
     "empresa": "SEYMO ELECTRICIDAD S.L.L.",
-    "direccion": "Calle san pedro 6",
+    "direccion": "Calle pedro 00006",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -34126,7 +34126,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTROMONTAJES CRIPTANA, S.L.",
-    "direccion": "Avenida comunidad valenciana 8",
+    "direccion": "Avenida valenciana 00008",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -34139,7 +34139,7 @@ const empresas = [
   },
   {
     "empresa": "INTELIGENCIA PARA EL AHORRO ENERGÉTICO, S.L.",
-    "direccion": "Calle curtidores 42",
+    "direccion": "Calle 00042",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -34152,7 +34152,7 @@ const empresas = [
   },
   {
     "empresa": "INGEREIN, S.L.U.",
-    "direccion": "Calle toledo 40",
+    "direccion": "Calle 00040",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -34165,7 +34165,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y ELECTRICIDAD NIMON,S.L",
-    "direccion": "Avenida ntra sra de los santos 32",
+    "direccion": "Avenida sra de los santos 00032",
     "localidad": "POZUELO DE CALATRAVA",
     "cp": "13179",
     "provincia": "CIUDAD REAL",
@@ -34178,7 +34178,7 @@ const empresas = [
   },
   {
     "empresa": "ALARMAS, EXTINTORES Y MATERIALES, S.A.",
-    "direccion": "Piel llano, calle b, parcela 65 s/n",
+    "direccion": "Piel llano, calle b, parcela 65 00000",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -34191,7 +34191,7 @@ const empresas = [
   },
   {
     "empresa": "BRAZATORTAS MONTAJES ELECTRICOS, S.L.",
-    "direccion": "Calle real 72",
+    "direccion": "Calle 00072",
     "localidad": "BRAZATORTAS",
     "cp": "13450",
     "provincia": "CIUDAD REAL",
@@ -34204,7 +34204,7 @@ const empresas = [
   },
   {
     "empresa": "J&J ELECTROCLIMA, S.L.",
-    "direccion": "Calle maestro hermogenes rodriguez 38",
+    "direccion": "Calle hermogenes rodriguez 00038",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -34217,7 +34217,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTRIA GLOBAL ENERGY, S.L.",
-    "direccion": "Avenida ferrocarril 11",
+    "direccion": "Avenida 00011",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -34230,7 +34230,7 @@ const empresas = [
   },
   {
     "empresa": "ZUNIX SOLUCIONES TECNICAS, S.L.",
-    "direccion": "Cmde alcazar 40 18",
+    "direccion": "Camino alcazar 00040 18",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34243,7 +34243,7 @@ const empresas = [
   },
   {
     "empresa": "BLACKSWAM & CUSTODIUS, S.L.",
-    "direccion": "Calle zorreras 7",
+    "direccion": "Calle 00007",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -34256,7 +34256,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTRICIDAD HERENCIA INSTALACIO",
-    "direccion": "Calle colon 9",
+    "direccion": "Calle 00009",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -34269,7 +34269,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO DE ARQUITECTURA Y OBRA CIVIL, S.L.",
-    "direccion": "Calle marconi c/v avenida isaac peral s/n",
+    "direccion": "Calle c/v avenida isaac peral 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -34282,7 +34282,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTROSOLARES . CABRERA",
-    "direccion": "Paseo san gregorio 20 bj3",
+    "direccion": "Paseo gregorio 00020 bj3",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -34295,7 +34295,7 @@ const empresas = [
   },
   {
     "empresa": "BIOENERGIA LA MANCHA-SOLUCIONES",
-    "direccion": "Calle antonio espin 21 1 c",
+    "direccion": "Calle espin 00021 1 c",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -34308,7 +34308,7 @@ const empresas = [
   },
   {
     "empresa": "PRODIEL ENERGY ESPAÑA, S.L.",
-    "direccion": "Polígono parcelas 1,3,4,1000 y 10001 4",
+    "direccion": "Polígono 1,3,4,1000 y 10001 00004",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -34321,7 +34321,7 @@ const empresas = [
   },
   {
     "empresa": "CARRERO INGENIEROS SL",
-    "direccion": "Avenida de la tecnologia 11",
+    "direccion": "Avenida la tecnologia 00011",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -34334,7 +34334,7 @@ const empresas = [
   },
   {
     "empresa": "ENERGIAS JESUS BARCENAS SOCIEDA",
-    "direccion": "Calle virgen 45",
+    "direccion": "Calle 00045",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -34347,7 +34347,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES ELECTRICAS FERCASA SL",
-    "direccion": "Polígono psfv brazatortas s/n",
+    "direccion": "Polígono brazatortas 00000",
     "localidad": "BRAZATORTAS",
     "cp": "13450",
     "provincia": "CIUDAD REAL",
@@ -34360,7 +34360,7 @@ const empresas = [
   },
   {
     "empresa": "VALCAT DESARROLLOS RENOVABLES, SOCIEDAD LIMITADA",
-    "direccion": "Cmsancho rey 20 1 4 b",
+    "direccion": "Camino rey 00020 1 4 b",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -34373,7 +34373,7 @@ const empresas = [
   },
   {
     "empresa": "INGENIERIA ENERGETICA SOSTENIBLE, SL",
-    "direccion": "Calle malagon 10",
+    "direccion": "Calle 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -34386,7 +34386,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTRO-ALMODOVAR SL",
-    "direccion": "Plaza del pilar sn s/n",
+    "direccion": "Plaza pilar sn 00000",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -34399,7 +34399,7 @@ const empresas = [
   },
   {
     "empresa": "TELCONET SISTEMAS SL",
-    "direccion": "Avenida de los vinos 5 1 f",
+    "direccion": "Avenida los vinos 00005 1 f",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -34412,7 +34412,7 @@ const empresas = [
   },
   {
     "empresa": "FESSA SOLAR, SOCIEDAD LIMITADA",
-    "direccion": "Cmde alcazar, nave 14",
+    "direccion": "Camino alcazar, nave 00014",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34425,7 +34425,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO TEC SERVICIOS AVANZADOS, S.A.",
-    "direccion": "Carretera cm-3107 pk40+868 pol s/n",
+    "direccion": "Carretera -3107 pk40+868 pol 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -34438,7 +34438,7 @@ const empresas = [
   },
   {
     "empresa": "CEMOEL, S.L.U.",
-    "direccion": "Carretera de la calzada s/n (comp.ind.repsol) s/n",
+    "direccion": "Carretera la calzada s/n (comp.ind.repsol) 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -34451,7 +34451,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES LUCENERGY, SOCIEDAD LIMITADA",
-    "direccion": "Calle diez de agosto 31",
+    "direccion": "Calle de agosto 00031",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -34464,7 +34464,7 @@ const empresas = [
   },
   {
     "empresa": "SUMYMANCHA, SOCIEDAD LIMITADA",
-    "direccion": "Avenida rey santo 22 3 b",
+    "direccion": "Avenida santo 00022 3 b",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -34477,7 +34477,7 @@ const empresas = [
   },
   {
     "empresa": "SERELEGA, SOCIEDAD LIMITADA",
-    "direccion": "Calle pintor velazquez 9",
+    "direccion": "Calle velazquez 00009",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34490,7 +34490,7 @@ const empresas = [
   },
   {
     "empresa": "CLIMALUZ TOMELLOSO SLU",
-    "direccion": "Calle antonio lopez garcia 13 1 d",
+    "direccion": "Calle lopez garcia 00013 1 d",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34503,7 +34503,7 @@ const empresas = [
   },
   {
     "empresa": "ARIAS SOLUCIONES ELECTRICAS, SOCIEDAD LIMITADA",
-    "direccion": "Paseo san gregorio 20 bj2a",
+    "direccion": "Paseo gregorio 00020 bj2a",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -34516,7 +34516,7 @@ const empresas = [
   },
   {
     "empresa": "SYNEOX RAIL, S.L.U.",
-    "direccion": "Carretera n-420 km 174 s/n",
+    "direccion": "Carretera -420 km 174 00000",
     "localidad": "CARACUEL DE CALATRAVA",
     "cp": "13433",
     "provincia": "CIUDAD REAL",
@@ -34529,7 +34529,7 @@ const empresas = [
   },
   {
     "empresa": "STIN ERGY SL",
-    "direccion": "Carretera cm3107 s/n",
+    "direccion": "Carretera 3107 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -34542,7 +34542,7 @@ const empresas = [
   },
   {
     "empresa": "GRCN SOLAR ENERGIA, SOCIEDAD LIMITADA",
-    "direccion": "Calle san antonio 15 1 c",
+    "direccion": "Calle antonio 00015 1 c",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -34555,7 +34555,7 @@ const empresas = [
   },
   {
     "empresa": "CV ENERLY, S.L.",
-    "direccion": "Carretera cm-400 km-127 s/n",
+    "direccion": "Carretera -400 km-127 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34568,7 +34568,7 @@ const empresas = [
   },
   {
     "empresa": "REBATO PANADERO FRANCISCO JOSE",
-    "direccion": "Calle juan carlos 1 6 1 1a",
+    "direccion": "Calle carlos 1 00006 1 1a",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -34581,7 +34581,7 @@ const empresas = [
   },
   {
     "empresa": "PRONARCEA SL",
-    "direccion": "Polígono sepes 222",
+    "direccion": "Polígono 00222",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -34594,7 +34594,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO GT 2023, S.L",
-    "direccion": "Calle manterola 103",
+    "direccion": "Calle 00103",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34607,7 +34607,7 @@ const empresas = [
   },
   {
     "empresa": "IBERICA DE CABLES AISLADOS DE ALTA TENSION SL",
-    "direccion": "Calle francisco vela siller 31",
+    "direccion": "Calle vela siller 00031",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -34620,7 +34620,7 @@ const empresas = [
   },
   {
     "empresa": "SIEMSA CONTROL Y SISTEMAS,S.A.",
-    "direccion": "Polígono industrial sepes, cal s/n",
+    "direccion": "Polígono sepes, cal 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -34633,7 +34633,7 @@ const empresas = [
   },
   {
     "empresa": "DOMOCONTROL INGENIERIA, SOCIEDAD LIMITADA",
-    "direccion": "Calle las huertas 19 d",
+    "direccion": "Calle huertas 00019 d",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -34646,7 +34646,7 @@ const empresas = [
   },
   {
     "empresa": "ANGOSOLAR, S.L.",
-    "direccion": "Avenida juan carlos i 23",
+    "direccion": "Avenida carlos i 00023",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34659,7 +34659,7 @@ const empresas = [
   },
   {
     "empresa": "SANTOS DEL FRESNO ANTONIO JOSE",
-    "direccion": "Calle union 27",
+    "direccion": "Calle 00027",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -34672,7 +34672,7 @@ const empresas = [
   },
   {
     "empresa": "A.T.C. INSTALACIONES, S.L.",
-    "direccion": "Polígono poligono industrial parcela 45",
+    "direccion": "Polígono industrial parcela 00045",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -34685,7 +34685,7 @@ const empresas = [
   },
   {
     "empresa": "ELPIDIO, S.L.",
-    "direccion": "Calle poligono industrial cr carrion s/n 1",
+    "direccion": "Calle poligono industrial cr carrion s/n 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -34698,7 +34698,7 @@ const empresas = [
   },
   {
     "empresa": "GONZAGARRI, S.L.",
-    "direccion": "Polígono industrial vereda real calle a1-2 s/n",
+    "direccion": "Polígono vereda real calle a1-2 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -34711,7 +34711,7 @@ const empresas = [
   },
   {
     "empresa": "FONTANERIA Y SANEAMIENTO COFOMAN S.L.",
-    "direccion": "Calle curtidores pog la estrella 9",
+    "direccion": "Calle pog la estrella 00009",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -34724,7 +34724,7 @@ const empresas = [
   },
   {
     "empresa": "HIJA DE JUAN HERVAS, S.L.",
-    "direccion": "Polígono industrial. c/xi par.r-120 1 1",
+    "direccion": "Polígono c/xi par.r-120 1 00001",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -34737,7 +34737,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIAS CAMARA CALEFACCION CLIMAT, S.L.",
-    "direccion": "Avenida san esteban 13",
+    "direccion": "Avenida esteban 00013",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -34750,7 +34750,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES DE FRIO Y CALOR REFRICAL, S.L.",
-    "direccion": "Avenida tablas de daimiel 7 4",
+    "direccion": "Avenida de daimiel 00007 4",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -34763,7 +34763,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES CORONEL, S.L.",
-    "direccion": "Calle zancara 6",
+    "direccion": "Calle 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -34776,7 +34776,7 @@ const empresas = [
   },
   {
     "empresa": "FONTANERIA Y CALEFACCION INSTOM, S.L.",
-    "direccion": "Calle campo 138",
+    "direccion": "Calle 00138",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34789,7 +34789,7 @@ const empresas = [
   },
   {
     "empresa": "CALEFACCIONES MIGUEL GONZALEZ, S.L.",
-    "direccion": "Calle hoces solaneras 14",
+    "direccion": "Calle solaneras 00014",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -34802,7 +34802,7 @@ const empresas = [
   },
   {
     "empresa": "FALCON OLMEDO S. COOP. DE CLM",
-    "direccion": "Calle ruidera 8",
+    "direccion": "Calle 00008",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -34815,7 +34815,7 @@ const empresas = [
   },
   {
     "empresa": "J. PORRERO-HIJOS, S.L.",
-    "direccion": "Calle cardenal cisneros 36",
+    "direccion": "Calle cisneros 00036",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -34828,7 +34828,7 @@ const empresas = [
   },
   {
     "empresa": "ENERGIA MANTENIMIENTO CLIMATIZACON JESUS MOYA, S.L.",
-    "direccion": "Calle alisos 40",
+    "direccion": "Calle 00040",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -34841,7 +34841,7 @@ const empresas = [
   },
   {
     "empresa": "ORLANDO FERNANDEZ, S.L.",
-    "direccion": "Calle juan carlos i 9 1 n1",
+    "direccion": "Calle carlos i 00009 1 n1",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -34854,7 +34854,7 @@ const empresas = [
   },
   {
     "empresa": "FRIGARMO FRIO INDUSTRIAL, S.L.",
-    "direccion": "Calle don tomas el medico 51",
+    "direccion": "Calle tomas el medico 00051",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -34867,7 +34867,7 @@ const empresas = [
   },
   {
     "empresa": "ERBE LA MANCHA, S.L.",
-    "direccion": "Avenida de la industria 14",
+    "direccion": "Avenida la industria 00014",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -34880,7 +34880,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES Y MANTENIMIENTOS FONCAIR, S.L.",
-    "direccion": "Calle calatrava 26",
+    "direccion": "Calle 00026",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -34893,7 +34893,7 @@ const empresas = [
   },
   {
     "empresa": "JUAN PEDRO CORONEL S.T., S.L.",
-    "direccion": "Calle azucena 6 bjdch",
+    "direccion": "Calle 00006 bjdch",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -34906,7 +34906,7 @@ const empresas = [
   },
   {
     "empresa": "JESUS CABANES, S.L.",
-    "direccion": "Calle calle ii, parcela 23 (pol.ind.) s/n",
+    "direccion": "Calle ii, parcela 23 (pol.ind.) 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -34919,7 +34919,7 @@ const empresas = [
   },
   {
     "empresa": "MUELA DEL CAMPO JAVIER",
-    "direccion": "Carretera valdepeñas 8",
+    "direccion": "Carretera ñas 00008",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -34932,7 +34932,7 @@ const empresas = [
   },
   {
     "empresa": "INSTAPOZO,S.L.",
-    "direccion": "Calle pablo ruiz picasso s/n",
+    "direccion": "Calle ruiz picasso 00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -34945,7 +34945,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES FONTANERIA Y CALEFACCION HNOS ARENAS S.L",
-    "direccion": "Calle socuellamos 39",
+    "direccion": "Calle 00039",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -34958,7 +34958,7 @@ const empresas = [
   },
   {
     "empresa": "ARCADI INGENIERIA E INSTALACIONES INNOVADORAS, S.L.",
-    "direccion": "Calle luis pasteur (polig.ind.cierva) s/n",
+    "direccion": "Calle pasteur (polig.ind.cierva) 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -34971,7 +34971,7 @@ const empresas = [
   },
   {
     "empresa": "EMPRESA DE TTOS. Y SERVICIOS DE CASTILLA LA MANCHA,S.L.",
-    "direccion": "Calle jupiter 8",
+    "direccion": "Calle 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -34984,7 +34984,7 @@ const empresas = [
   },
   {
     "empresa": "NOVAGAS CRIOGENIA, S.L.",
-    "direccion": "Calle fernando zobel 33",
+    "direccion": "Calle zobel 00033",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -34997,7 +34997,7 @@ const empresas = [
   },
   {
     "empresa": "AIRE COMPRIMIDO CIUDAD REAL, S.L.",
-    "direccion": "Polígono industrial, calle i, parcela 8",
+    "direccion": "Polígono , calle i, parcela 00008",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -35010,7 +35010,7 @@ const empresas = [
   },
   {
     "empresa": "HERGALL ESPECIALISTAS, S.L.",
-    "direccion": "Calle jose grueso 49",
+    "direccion": "Calle grueso 00049",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -35023,7 +35023,7 @@ const empresas = [
   },
   {
     "empresa": "FRIEX MANTENIMIENTO, S.L.",
-    "direccion": "Calle de la luz 1",
+    "direccion": "Calle la luz 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -35036,7 +35036,7 @@ const empresas = [
   },
   {
     "empresa": "RECOVER BUSINESS SL",
-    "direccion": "Calle luis pasteur 4",
+    "direccion": "Calle pasteur 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -35049,7 +35049,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES MA ROSAN SOCIEDAD",
-    "direccion": "Calle castilla la mancha 9",
+    "direccion": "Calle la mancha 00009",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -35062,7 +35062,7 @@ const empresas = [
   },
   {
     "empresa": "INSTALACIONES Y MANTENIMIENTOS",
-    "direccion": "Calle zarza 5",
+    "direccion": "Calle 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -35075,7 +35075,7 @@ const empresas = [
   },
   {
     "empresa": "HG ENERGIA GLOBAL SERVICE SL",
-    "direccion": "Calle hornos 10 1",
+    "direccion": "Calle 00010 1",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -35088,7 +35088,7 @@ const empresas = [
   },
   {
     "empresa": "PROLAY FIRE CONTROL SL",
-    "direccion": "Avenida de las tinajas 11",
+    "direccion": "Avenida las tinajas 00011",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -35101,7 +35101,7 @@ const empresas = [
   },
   {
     "empresa": "SOCENERGY, S.L.",
-    "direccion": "Calle socuellamos 19",
+    "direccion": "Calle 00019",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -35114,7 +35114,7 @@ const empresas = [
   },
   {
     "empresa": "MANTENIMIENTO Y SERVICIOS RV, S.L.U.",
-    "direccion": "Calle eruelas 31 b",
+    "direccion": "Calle 00031 b",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -35127,7 +35127,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS Y MONTAJES JCP, SOCIEDAD LIMITADA",
-    "direccion": "Polígono calle ii 23",
+    "direccion": "Polígono ii 00023",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -35140,7 +35140,7 @@ const empresas = [
   },
   {
     "empresa": "TEGALAIR TECNICAS DEL AIRE,S.L.",
-    "direccion": "Calle damaso alonso 38",
+    "direccion": "Calle alonso 00038",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -35153,7 +35153,7 @@ const empresas = [
   },
   {
     "empresa": "CEROFUGAS, SOCIEDAD LIMITADA",
-    "direccion": "Calle manzanares 19 2 dch",
+    "direccion": "Calle 00019 2 dch",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -35166,7 +35166,7 @@ const empresas = [
   },
   {
     "empresa": "HIMDESAT CLM SL",
-    "direccion": "Calle almeria 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -35179,7 +35179,7 @@ const empresas = [
   },
   {
     "empresa": "ALUARTE ALCAZAR, S.L.",
-    "direccion": "Polígono alces, calle godello s/n, nave 2",
+    "direccion": "Polígono , calle godello s/n, nave 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -35192,7 +35192,7 @@ const empresas = [
   },
   {
     "empresa": "MAYBECON AISLAMIENTOS, SOCIEDAD LIMITADA",
-    "direccion": "Clángel izquierdo 41 3 a",
+    "direccion": "Calle ángel izquierdo 00041 3 a",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -35205,7 +35205,7 @@ const empresas = [
   },
   {
     "empresa": "IMP IMPERMEABILIZACIONES MATEOS APARICIO, SOCIEDAD LIMI",
-    "direccion": "Calle guadalupe 51",
+    "direccion": "Calle 00051",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -35218,7 +35218,7 @@ const empresas = [
   },
   {
     "empresa": "INDUSTRIAS MAQUIESCENIC, S.L.",
-    "direccion": "Carretera alcazar de san juan km 1",
+    "direccion": "Carretera de san juan km 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -35231,7 +35231,7 @@ const empresas = [
   },
   {
     "empresa": "INTRAMEDER, S.L.L.",
-    "direccion": "Calle lope lopez 3",
+    "direccion": "Calle lopez 00003",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -35244,7 +35244,7 @@ const empresas = [
   },
   {
     "empresa": "AISLAMIENTOS Y CALORIFUGADOS CRIPTANA, S.L.",
-    "direccion": "Calle mineria 8",
+    "direccion": "Calle 00008",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -35257,7 +35257,7 @@ const empresas = [
   },
   {
     "empresa": "METALURGICA MANCHEGA MIALCHE, S.L.",
-    "direccion": "Calle de la industria 2",
+    "direccion": "Calle la industria 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -35270,7 +35270,7 @@ const empresas = [
   },
   {
     "empresa": "AQUILICE SISTEMAS DE MONTAJE, S.L",
-    "direccion": "Calle herreros 29",
+    "direccion": "Calle 00029",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -35283,7 +35283,7 @@ const empresas = [
   },
   {
     "empresa": "PUERTONARCEA, S.L.",
-    "direccion": "Calle luxemburgo-p.i.la nava iii.parc1j02 s/n",
+    "direccion": "Calle -p.i.la nava iii.parc1j02 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -35296,7 +35296,7 @@ const empresas = [
   },
   {
     "empresa": "PUERTAS AUTOMATICAS LA MANCHA, S.L.",
-    "direccion": "Polígono industrial alces 2º fase p. 113 s/n",
+    "direccion": "Polígono alces 2º fase p. 113 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -35309,7 +35309,7 @@ const empresas = [
   },
   {
     "empresa": "COALVAL, S.L.",
-    "direccion": "Polígono industrial. parcela 40",
+    "direccion": "Polígono parcela 00040",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -35322,7 +35322,7 @@ const empresas = [
   },
   {
     "empresa": "ASCENSORES ENINTER, SL",
-    "direccion": "Rdde alarcos 20 bj",
+    "direccion": "Ronda alarcos 00020 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -35335,7 +35335,7 @@ const empresas = [
   },
   {
     "empresa": "CREALIA MULTISERVICIOS, S.L.",
-    "direccion": "Calle regente maria cristina 4",
+    "direccion": "Calle maria cristina 00004",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -35348,7 +35348,7 @@ const empresas = [
   },
   {
     "empresa": "CAMETO INTECH GROUP, SOCIEDAD LIMITADA",
-    "direccion": "Carretera cm-3109, km 1",
+    "direccion": "Carretera -3109, km 00001",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -35361,7 +35361,7 @@ const empresas = [
   },
   {
     "empresa": "ALUMINIOS CRIPTANA, S.L.",
-    "direccion": "Polígono pozo hondo av. comunidad madrid 11",
+    "direccion": "Polígono hondo av. comunidad madrid 00011",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -35374,7 +35374,7 @@ const empresas = [
   },
   {
     "empresa": "CARPINTERIA CALATRAVA, S.L.",
-    "direccion": "Calle real 53",
+    "direccion": "Calle 00053",
     "localidad": "CALZADA DE CALATRAVA",
     "cp": "13370",
     "provincia": "CIUDAD REAL",
@@ -35387,7 +35387,7 @@ const empresas = [
   },
   {
     "empresa": "VIVIENDAS DAYPE SL",
-    "direccion": "Avenida de la vereda 46 bjc",
+    "direccion": "Avenida la vereda 00046 bjc",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -35400,7 +35400,7 @@ const empresas = [
   },
   {
     "empresa": "FERROAL GRUPO EMPRESARIAL",
-    "direccion": "Avenida del desarrollo 40",
+    "direccion": "Avenida desarrollo 00040",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -35413,7 +35413,7 @@ const empresas = [
   },
   {
     "empresa": "COMPLEJOS INMOBILIARIOS OBRAS Y",
-    "direccion": "Calle cruz de ana maria 11",
+    "direccion": "Calle de ana maria 00011",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -35426,7 +35426,7 @@ const empresas = [
   },
   {
     "empresa": "CARPINTERIA NUDOS DAIMIEL, SOCIEDAD LIMITADA",
-    "direccion": "Calle investigacion pg ind sur 47",
+    "direccion": "Calle pg ind sur 00047",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -35439,7 +35439,7 @@ const empresas = [
   },
   {
     "empresa": "ARTIDECOR PAVIMENTOS SL",
-    "direccion": "Calle veracruz 17",
+    "direccion": "Calle 00017",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -35452,7 +35452,7 @@ const empresas = [
   },
   {
     "empresa": "PARAMENTOS MICROFER SL",
-    "direccion": "Avenida capitan camilo labrador saez 67",
+    "direccion": "Avenida camilo labrador saez 00067",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -35465,7 +35465,7 @@ const empresas = [
   },
   {
     "empresa": "AISMOR UREXA SLU",
-    "direccion": "Calle fray serafin linares 78",
+    "direccion": "Calle serafin linares 00078",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -35478,7 +35478,7 @@ const empresas = [
   },
   {
     "empresa": "ELITE REVESTIMIENTOS CONTINUOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle asturias 165",
+    "direccion": "Calle 00165",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -35491,7 +35491,7 @@ const empresas = [
   },
   {
     "empresa": "MANCHA STONE SL",
-    "direccion": "Carretera carrion s/n nacional 430, km 313 s/n",
+    "direccion": "Carretera s/n nacional 430, km 313 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -35504,7 +35504,7 @@ const empresas = [
   },
   {
     "empresa": "AISLAMIENTO EXTERIOR Y REVOCOS MANCHEGOS, SL",
-    "direccion": "Calle puertollano s/n",
+    "direccion": "Calle 00000",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -35517,7 +35517,7 @@ const empresas = [
   },
   {
     "empresa": "PALOMINO SOLADOS Y ALICATADOS, S.L.",
-    "direccion": "Calle ciudad real 13 1",
+    "direccion": "Calle real 00013 1",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -35530,7 +35530,7 @@ const empresas = [
   },
   {
     "empresa": "LIDEPAR INSTALACIONES, SOCIEDAD LIMITADA",
-    "direccion": "Calle moreria 9",
+    "direccion": "Calle 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -35543,7 +35543,7 @@ const empresas = [
   },
   {
     "empresa": "SOLMANCHA DAIMIEL, SOCIEDAD LIMITADA",
-    "direccion": "Avenida de los poetas 72",
+    "direccion": "Avenida los poetas 00072",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -35556,7 +35556,7 @@ const empresas = [
   },
   {
     "empresa": "LOZ PER, S.L.",
-    "direccion": "Polígono el cabezuelo calle b nave 8",
+    "direccion": "Polígono cabezuelo calle b nave 00008",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -35569,7 +35569,7 @@ const empresas = [
   },
   {
     "empresa": "PINTURAS G.R., S.L.",
-    "direccion": "Carretera ctra. nacional 420. km.162 s/n",
+    "direccion": "Carretera nacional 420. km.162 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -35582,7 +35582,7 @@ const empresas = [
   },
   {
     "empresa": "LOIN DECORACIONES S.L.",
-    "direccion": "Calle dehesa 3",
+    "direccion": "Calle 00003",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -35595,7 +35595,7 @@ const empresas = [
   },
   {
     "empresa": "PINTURA Y DECORACION LUIS RODRIGUEZ, S.L.",
-    "direccion": "Polígono industrial, parcela 42 s/n",
+    "direccion": "Polígono , parcela 42 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -35608,7 +35608,7 @@ const empresas = [
   },
   {
     "empresa": "JOSE LUIS MORENO APLICACIONES DE PINTURA, S.L.",
-    "direccion": "Calle orden del temple 5",
+    "direccion": "Calle del temple 00005",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -35621,7 +35621,7 @@ const empresas = [
   },
   {
     "empresa": "APLICACIONES ALVIDECOR, S.L.",
-    "direccion": "Calle rioja 1",
+    "direccion": "Calle 00001",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -35634,7 +35634,7 @@ const empresas = [
   },
   {
     "empresa": "NUÑEZ BERMEJO S.L.L.",
-    "direccion": "Calle gran capitan 7",
+    "direccion": "Calle capitan 00007",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -35647,7 +35647,7 @@ const empresas = [
   },
   {
     "empresa": "PINTURAS PEDRO CAMPOS, S.L.",
-    "direccion": "Calle pablo iglesias 59 1ºb",
+    "direccion": "Calle iglesias 00059 1ºb",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -35660,7 +35660,7 @@ const empresas = [
   },
   {
     "empresa": "MANSER 2015, S.L.",
-    "direccion": "Calle echegaray 80",
+    "direccion": "Calle 00080",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -35673,7 +35673,7 @@ const empresas = [
   },
   {
     "empresa": "SANTOS VIGO PEDRO MANUEL",
-    "direccion": "Calle molinos de viento 18",
+    "direccion": "Calle de viento 00018",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -35686,7 +35686,7 @@ const empresas = [
   },
   {
     "empresa": "LACADOS Y PINTURAS INDUSTRIALES HERMANOS OLMEDO, S.L.",
-    "direccion": "Calle campo 7 3º4",
+    "direccion": "Calle 00007 3º4",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -35699,7 +35699,7 @@ const empresas = [
   },
   {
     "empresa": "DECOMAN ALCAZAR, SOCIEDAD LIMITADA",
-    "direccion": "Calle godello 35",
+    "direccion": "Calle 00035",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -35712,7 +35712,7 @@ const empresas = [
   },
   {
     "empresa": "MARTINEZ ALANON ANTONIO",
-    "direccion": "Calle lirio 18 3ºb",
+    "direccion": "Calle 00018 3ºb",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -35725,7 +35725,7 @@ const empresas = [
   },
   {
     "empresa": "ALVAREZ PERALES JOSE CARLOS",
-    "direccion": "Trpelayo 5",
+    "direccion": "Travesía 00005",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -35738,7 +35738,7 @@ const empresas = [
   },
   {
     "empresa": "AMALIOS STONE MARBLE SL",
-    "direccion": "Avenida alfareros 3 4 e",
+    "direccion": "Avenida 00003 4 e",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -35751,7 +35751,7 @@ const empresas = [
   },
   {
     "empresa": "IPROYECT, S.L.",
-    "direccion": "Carretera cm-3113 11",
+    "direccion": "Carretera -3113 00011",
     "localidad": "CINCO CASAS",
     "cp": "13720",
     "provincia": "CIUDAD REAL",
@@ -35764,7 +35764,7 @@ const empresas = [
   },
   {
     "empresa": "RUIZ GRACIA DAVID",
-    "direccion": "Calle ramirez llasala 47",
+    "direccion": "Calle llasala 00047",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -35777,7 +35777,7 @@ const empresas = [
   },
   {
     "empresa": "CARMELO LOPEZ MARTINEZ, S.L.",
-    "direccion": "Avenida constitucion 167",
+    "direccion": "Avenida 00167",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -35790,7 +35790,7 @@ const empresas = [
   },
   {
     "empresa": "SPAPRACHE, S.L.",
-    "direccion": "Calle tonel (pol. industrial) 58",
+    "direccion": "Calle (pol. industrial) 00058",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -35803,7 +35803,7 @@ const empresas = [
   },
   {
     "empresa": "IPC GOTERAS Y FILTRACIONES SL",
-    "direccion": "Calle goya 8 4 a",
+    "direccion": "Calle 00008 4 a",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -35816,7 +35816,7 @@ const empresas = [
   },
   {
     "empresa": "RUITER ENCOFRADOS, SOCIEDAD LIMITADA",
-    "direccion": "Calle ebanistas 1",
+    "direccion": "Calle 00001",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -35829,7 +35829,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS TRESPES, S.L.",
-    "direccion": "Calle gustavo adolfo becquer 4 a",
+    "direccion": "Calle adolfo becquer 00004 a",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -35842,7 +35842,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAJES GOMEZ 2014 SL",
-    "direccion": "Calle pintor isidro parra 5 bjb",
+    "direccion": "Calle isidro parra 00005 bjb",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -35855,7 +35855,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTRIA GLOBAL ENERGY, S.L.",
-    "direccion": "Avenida del ferrocarril 11",
+    "direccion": "Avenida ferrocarril 00011",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -35868,7 +35868,7 @@ const empresas = [
   },
   {
     "empresa": "GRUAS CAMBRONERO, S.L.",
-    "direccion": "Polígono industrial ctra. carrion 45",
+    "direccion": "Polígono ctra. carrion 00045",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -35881,7 +35881,7 @@ const empresas = [
   },
   {
     "empresa": "LA INFANTEÑA, S.L.",
-    "direccion": "Carretera valdepeñas km 1 s/n",
+    "direccion": "Carretera ñas km 1 00000",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -35894,7 +35894,7 @@ const empresas = [
   },
   {
     "empresa": "AQUAMAN, S.L.",
-    "direccion": "Carretera nacional 420 km 249 s/n",
+    "direccion": "Carretera 420 km 249 00000",
     "localidad": "ARENAS DE SAN JUAN",
     "cp": "13679",
     "provincia": "CIUDAD REAL",
@@ -35907,7 +35907,7 @@ const empresas = [
   },
   {
     "empresa": "EX IN TECNICAS TUBULARES, S.L.",
-    "direccion": "Polígono industrial sepes, parcelas 507-508 s/n",
+    "direccion": "Polígono sepes, parcelas 507-508 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -35920,7 +35920,7 @@ const empresas = [
   },
   {
     "empresa": "ANROBOX S.L.U.",
-    "direccion": "Carretera villarrobledo km 4",
+    "direccion": "Carretera km 00004",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -35933,7 +35933,7 @@ const empresas = [
   },
   {
     "empresa": "MONVEGO, S.L.",
-    "direccion": "Avenida de la provincia 12",
+    "direccion": "Avenida la provincia 00012",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -35946,7 +35946,7 @@ const empresas = [
   },
   {
     "empresa": "PROMOCIONES AGRAUR, S.L.",
-    "direccion": "Carretera nacional iv, km 147",
+    "direccion": "Carretera iv, km 00147",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -35959,7 +35959,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS VALMANCHA, S.L.",
-    "direccion": "Calle rinconada de santa ana 20",
+    "direccion": "Calle de santa ana 00020",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -35972,7 +35972,7 @@ const empresas = [
   },
   {
     "empresa": "DOMINGO Y FIDEL MUÑOZ, S.L.",
-    "direccion": "Avenida industriales 1",
+    "direccion": "Avenida 00001",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -35985,7 +35985,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAJES Y CUBIERTAS DE MALAGON CUBERGON, S.L.",
-    "direccion": "Calle santa quiteria 11",
+    "direccion": "Calle quiteria 00011",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -35998,7 +35998,7 @@ const empresas = [
   },
   {
     "empresa": "ESTRUPOL ENCOFRADOS Y CIMENTACIONES, S.L.",
-    "direccion": "Calle maravillas 54",
+    "direccion": "Calle 00054",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -36011,7 +36011,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAJES ROPERO JIMENEZ S.L.U.",
-    "direccion": "Calle industrial la serna, alfareria 5",
+    "direccion": "Calle la serna, alfareria 00005",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -36024,7 +36024,7 @@ const empresas = [
   },
   {
     "empresa": "PROYECTOS Y EDIFICACIONES RODRISAN, S.L.",
-    "direccion": "Calle pozuelo 37",
+    "direccion": "Calle 00037",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -36037,7 +36037,7 @@ const empresas = [
   },
   {
     "empresa": "PROIMANCHA INGENIERIA Y CONSTRUCCIÓN, S.L.",
-    "direccion": "Carretera navalpino 5",
+    "direccion": "Carretera 00005",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -36050,7 +36050,7 @@ const empresas = [
   },
   {
     "empresa": "IBERCESA FIRMES, S.L.",
-    "direccion": "Cmde los marrones s/n 1",
+    "direccion": "Camino los marrones 00000 1",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -36063,7 +36063,7 @@ const empresas = [
   },
   {
     "empresa": "ACEROUNO RESTAURACION INTELIGENTE, S.L.",
-    "direccion": "Calle pintor francisco carretero 36",
+    "direccion": "Calle francisco carretero 00036",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36076,7 +36076,7 @@ const empresas = [
   },
   {
     "empresa": "ANDAMIOS Y SISTEMAS TUBULARES EUROPEOS, S.L.U.",
-    "direccion": "Polígono industrial sepes - parcela 101 s/n",
+    "direccion": "Polígono sepes - parcela 101 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -36089,7 +36089,7 @@ const empresas = [
   },
   {
     "empresa": "MONTAJES PADILLA GIJON-BONALES SL",
-    "direccion": "Calle arbollon 21",
+    "direccion": "Calle 00021",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -36102,7 +36102,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCCIONES Y REFORMAS GONZAL",
-    "direccion": "Calle molino 1",
+    "direccion": "Calle 00001",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -36115,7 +36115,7 @@ const empresas = [
   },
   {
     "empresa": "MONTPLAKIVAL SOCIEDAD LIMITADA",
-    "direccion": "Calle alameda 32",
+    "direccion": "Calle 00032",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -36128,7 +36128,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO TORREBLANCA 2020, S.L",
-    "direccion": "Polígono la vega calle arroyo pellejero nave 13",
+    "direccion": "Polígono vega calle arroyo pellejero nave 00013",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -36141,7 +36141,7 @@ const empresas = [
   },
   {
     "empresa": "VALTUBEX MANTENIMIENTO INDUSTRIAL Y ENERGIA SOLAR S.L.",
-    "direccion": "Calle unnamed road s/n",
+    "direccion": "Calle road 00000",
     "localidad": "CINCO CASAS",
     "cp": "13720",
     "provincia": "CIUDAD REAL",
@@ -36154,7 +36154,7 @@ const empresas = [
   },
   {
     "empresa": "INGENIERIA E INTALACIONES PARMA, SOC DE RESPON LIMITADA",
-    "direccion": "Calle subteniente manuel manzano 7",
+    "direccion": "Calle manuel manzano 00007",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -36167,7 +36167,7 @@ const empresas = [
   },
   {
     "empresa": "UTE CONSERVACION CIUDAD REAL",
-    "direccion": "Polígono ind.calle moravia s/n",
+    "direccion": "Polígono moravia 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -36180,7 +36180,7 @@ const empresas = [
   },
   {
     "empresa": "DISCOVER THE QUALITY, SL",
-    "direccion": "Calle nueva de la sierra 32",
+    "direccion": "Calle de la sierra 00032",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -36193,7 +36193,7 @@ const empresas = [
   },
   {
     "empresa": "STIN SERVICIOS NO MECANICOS SL",
-    "direccion": "Calle europa (pol. ind. la nava 2) (nave3)7",
+    "direccion": "Calle (pol. ind. la nava 2) (nave3)00007",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -36206,7 +36206,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS Y SERVICIOS TOMCAMAN, S.L.",
-    "direccion": "Calle victoria 69",
+    "direccion": "Calle 00069",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36219,7 +36219,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO SOLTECNICA RENOVABLES SL",
-    "direccion": "Avenida españa 16",
+    "direccion": "Avenida ña 00016",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -36232,7 +36232,7 @@ const empresas = [
   },
   {
     "empresa": "MECANICA FOTOVOLTAICA SL",
-    "direccion": "Pqfotovoltaico alcazar de san juan s/n",
+    "direccion": "Pqfotovoltaico alcazar de san juan 00000",
     "localidad": "CINCO CASAS",
     "cp": "13720",
     "provincia": "CIUDAD REAL",
@@ -36245,7 +36245,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN CONSUEGRA QUIÑONEZ JAIME AMALIO",
-    "direccion": "Calle pez 34",
+    "direccion": "Calle 00034",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -36258,7 +36258,7 @@ const empresas = [
   },
   {
     "empresa": "DESGUACES N-430, S.L.",
-    "direccion": "Polígono cerro de las horcas 1 a",
+    "direccion": "Polígono de las horcas 00001 a",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -36271,7 +36271,7 @@ const empresas = [
   },
   {
     "empresa": "MENCHERO Y RUBIO, S.L.",
-    "direccion": "Carretera ctra.madrid-cadiz, km.147 1",
+    "direccion": "Carretera -cadiz, km.147 00001",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -36284,7 +36284,7 @@ const empresas = [
   },
   {
     "empresa": "CARBURANTES Y DISTRIBUCION MONTES NORTE, S.L.",
-    "direccion": "Carretera navalpino s/n s/n",
+    "direccion": "Carretera s/n 00000",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -36297,7 +36297,7 @@ const empresas = [
   },
   {
     "empresa": "COMBUSTIBLES LA SOLANA, S.L.",
-    "direccion": "Carretera manzanares, s.n. s/n",
+    "direccion": "Carretera , s.n. 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -36310,7 +36310,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS ROBLES COMBUSTIBLES Y CARBURANTES, S.L.",
-    "direccion": "Carretera n 420 km.231,5 1",
+    "direccion": "Carretera 420 km.231,5 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -36323,7 +36323,7 @@ const empresas = [
   },
   {
     "empresa": "VINHOLAN, S.A.",
-    "direccion": "Carretera autovía andalucía, km. 145,330 s/n",
+    "direccion": "Carretera ía andalucía, km. 145,330 00000",
     "localidad": "VILLARTA DE SAN JUAN",
     "cp": "13210",
     "provincia": "CIUDAD REAL",
@@ -36336,7 +36336,7 @@ const empresas = [
   },
   {
     "empresa": "TOMAS TERA E HIJOS, S.L.",
-    "direccion": "Carretera piedrabuena, km. 1,5 s/n",
+    "direccion": "Carretera , km. 1,5 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -36349,7 +36349,7 @@ const empresas = [
   },
   {
     "empresa": "CONSTRUCTORA LAGUNA E HIJOS, S.A.",
-    "direccion": "Avenida vino, 0,700 s/n",
+    "direccion": "Avenida , 0,700 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -36362,7 +36362,7 @@ const empresas = [
   },
   {
     "empresa": "NANI ALMADEN, S.L.",
-    "direccion": "Calle mayor 36",
+    "direccion": "Calle 00036",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -36375,7 +36375,7 @@ const empresas = [
   },
   {
     "empresa": "EXPLOTACION ESTACION DE SERVICIO, S.A.",
-    "direccion": "Carretera n-iv, km. 191,536 s/n",
+    "direccion": "Carretera -iv, km. 191,536 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -36388,7 +36388,7 @@ const empresas = [
   },
   {
     "empresa": "DELTA OIL, S.L.",
-    "direccion": "Carretera daimiel, s/n s/n",
+    "direccion": "Carretera , s/n 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -36401,7 +36401,7 @@ const empresas = [
   },
   {
     "empresa": "OCTANOIL, S.L.",
-    "direccion": "Rdtoledo 21",
+    "direccion": "Ronda 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -36414,7 +36414,7 @@ const empresas = [
   },
   {
     "empresa": "GASOLEOS MALAGON, S.L.",
-    "direccion": "Polígono industrial parcela 39 s/n",
+    "direccion": "Polígono parcela 39 00000",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -36427,7 +36427,7 @@ const empresas = [
   },
   {
     "empresa": "CALORHOGAR HERMANOS MONCADA, S.L.",
-    "direccion": "Carretera vva. fuente-villahermosa, s/n s/n",
+    "direccion": "Carretera fuente-villahermosa, s/n 00000",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -36440,7 +36440,7 @@ const empresas = [
   },
   {
     "empresa": "ESTACIONES DE SERVICIO CALATRAVA, S.L.",
-    "direccion": "Carretera nacional 430, km. 317",
+    "direccion": "Carretera 430, km. 00317",
     "localidad": "CARRION DE CALATRAVA",
     "cp": "13150",
     "provincia": "CIUDAD REAL",
@@ -36453,7 +36453,7 @@ const empresas = [
   },
   {
     "empresa": "GASOGAS CALEFACCION, S.L.U.",
-    "direccion": "Calle doctor cajal 18",
+    "direccion": "Calle cajal 00018",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36466,7 +36466,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANAS DE HUERTAS & EGIDO C.B.",
-    "direccion": "Carretera nacional iv, km. 217,300 s/n",
+    "direccion": "Carretera iv, km. 217,300 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -36479,7 +36479,7 @@ const empresas = [
   },
   {
     "empresa": "MACMAOIL, S.L.",
-    "direccion": "Avenida de la tecnologia (p.i.emilio castro)12",
+    "direccion": "Avenida la tecnologia (p.i.emilio castro)00012",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -36492,7 +36492,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN LOPEZ CARBURANTES, S.L.",
-    "direccion": "Zzautovia km 216,9 dirección cordoba s/n",
+    "direccion": "Zzautovia km 216,9 dirección cordoba 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -36505,7 +36505,7 @@ const empresas = [
   },
   {
     "empresa": "SOLAR NOVA ENERGIA RENOVABLE SL",
-    "direccion": "Carretera carretera argamasilla de calatrava 50",
+    "direccion": "Carretera argamasilla de calatrava 00050",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -36518,7 +36518,7 @@ const empresas = [
   },
   {
     "empresa": "TERA PETROLEOS SOCIEDAD LIMITA",
-    "direccion": "Carretera ciudad real-valdepeñas, km. 4'5 s/n",
+    "direccion": "Carretera real-valdepeñas, km. 4'5 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -36531,7 +36531,7 @@ const empresas = [
   },
   {
     "empresa": "FAMILY ENERGY SOCIEDAD LIMITADA",
-    "direccion": "Carretera nacional 310 km 93 s/n",
+    "direccion": "Carretera 310 km 93 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36544,7 +36544,7 @@ const empresas = [
   },
   {
     "empresa": "PLENERGY GRUPO, S.L.",
-    "direccion": "Calle manzanares esquina c/ cooperativa 9",
+    "direccion": "Calle esquina c/ cooperativa 00009",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -36557,7 +36557,7 @@ const empresas = [
   },
   {
     "empresa": "BRISA CENTROS DE LAVADO, SOCIEDAD LIMITADA",
-    "direccion": "Calle rocinante 13",
+    "direccion": "Calle 00013",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36570,7 +36570,7 @@ const empresas = [
   },
   {
     "empresa": "SIS CARBURANTES Y GASOCENTRO CIUDAD REAL SL",
-    "direccion": "Carretera carretera de carrion 24",
+    "direccion": "Carretera de carrion 00024",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -36583,7 +36583,7 @@ const empresas = [
   },
   {
     "empresa": "ABORGA GESTION, S.L.",
-    "direccion": "Carretera autovia andalucia, km 232 s/n",
+    "direccion": "Carretera andalucia, km 232 00000",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -36596,7 +36596,7 @@ const empresas = [
   },
   {
     "empresa": "ATEN OIL, S.L.",
-    "direccion": "Carretera autovia sur km 185 s/n",
+    "direccion": "Carretera sur km 185 00000",
     "localidad": "VILLANUEVA DE FRANCO",
     "cp": "13310",
     "provincia": "CIUDAD REAL",
@@ -36609,7 +36609,7 @@ const empresas = [
   },
   {
     "empresa": "INGENIERIA DE GESTION INDUSTRIAL, S.L.",
-    "direccion": "Avenida de las regiones__(apartado 241) 5",
+    "direccion": "Avenida las regiones__(apartado 241) 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -36622,7 +36622,7 @@ const empresas = [
   },
   {
     "empresa": "JOSE MARIA VILLASANTE, S.L.",
-    "direccion": "Calle calvario 4",
+    "direccion": "Calle 00004",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36635,7 +36635,7 @@ const empresas = [
   },
   {
     "empresa": "ITV VALDEPEÑAS, S.L.",
-    "direccion": "Polígono industrial, c/ fudre 6",
+    "direccion": "Polígono , c/ fudre 00006",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -36648,7 +36648,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN-CONSUEGRA INSPECCION TECNICA DE VEHICULOS, S.L.",
-    "direccion": "Carretera manzanares s/n",
+    "direccion": "Carretera 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -36661,7 +36661,7 @@ const empresas = [
   },
   {
     "empresa": "HNOS. ORTIZ JAREÑO, S.L.",
-    "direccion": "Carretera socuellamos km. 0,500 s/n",
+    "direccion": "Carretera km. 0,500 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36674,7 +36674,7 @@ const empresas = [
   },
   {
     "empresa": "SOHISCERT S.A.",
-    "direccion": "Calle amargura 2 bj",
+    "direccion": "Calle 00002 bajo",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -36687,7 +36687,7 @@ const empresas = [
   },
   {
     "empresa": "SIMA INGENIERIA SL",
-    "direccion": "Calle giraldo de merlo 7",
+    "direccion": "Calle de merlo 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -36700,7 +36700,7 @@ const empresas = [
   },
   {
     "empresa": "CERQUO ITV INFANTES, S.L.",
-    "direccion": "Calle pozo de san pedro 2",
+    "direccion": "Calle de san pedro 00002",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -36713,7 +36713,7 @@ const empresas = [
   },
   {
     "empresa": "ITV LA SAGRA SUR SL",
-    "direccion": "Calle plaza industrial i 115",
+    "direccion": "Calle industrial i 00115",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -36726,7 +36726,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ CABRERA SERGIO",
-    "direccion": "Carretera nacional 430 p.k.276,700 s/n",
+    "direccion": "Carretera 430 p.k.276,700 00000",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -36739,7 +36739,7 @@ const empresas = [
   },
   {
     "empresa": "CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS",
-    "direccion": "Avenida camilo jose cela s/n",
+    "direccion": "Avenida jose cela 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -36752,7 +36752,7 @@ const empresas = [
   },
   {
     "empresa": "CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS",
-    "direccion": "Avenida camilo jose cela s/n",
+    "direccion": "Avenida jose cela 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -36765,7 +36765,7 @@ const empresas = [
   },
   {
     "empresa": "DEIMOS ENGINEERING AND SYSTEMS S.L.U",
-    "direccion": "Calle francia-pol. indust. la nava iii 9",
+    "direccion": "Calle -pol. indust. la nava iii 00009",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -36778,7 +36778,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO SISTEMAS FOTOVOLTAICOS DE CONCENTRACION, S.A.",
-    "direccion": "Calle francia, pl industrial la nava iii, 7",
+    "direccion": "Calle , pl industrial la nava iii, 00007",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -36791,7 +36791,7 @@ const empresas = [
   },
   {
     "empresa": "SIGNOVA SOCIEDAD LIMITADA",
-    "direccion": "Calle giraldo de merlo 7",
+    "direccion": "Calle de merlo 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -36804,7 +36804,7 @@ const empresas = [
   },
   {
     "empresa": "LIMPIEZAS EXPRES DE LA MANCHA, S.L",
-    "direccion": "Calle angel pereira 6 14",
+    "direccion": "Calle pereira 00006 14",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -36817,7 +36817,7 @@ const empresas = [
   },
   {
     "empresa": "ROMERO ANGEL GUSTAVO",
-    "direccion": "Calle santa maria 7",
+    "direccion": "Calle maria 00007",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -36830,7 +36830,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIO TECNICO INTEGRAL MANCHEGO S.L.",
-    "direccion": "Calle herencia 2 bj",
+    "direccion": "Calle 00002 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -36843,7 +36843,7 @@ const empresas = [
   },
   {
     "empresa": "TOLPIN, S.A.",
-    "direccion": "Carretera argamasilla s/n 1",
+    "direccion": "Carretera s/n 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36856,7 +36856,7 @@ const empresas = [
   },
   {
     "empresa": "MUÑOZ Y GONZALEZ REPARACION DE AUTOMOVILES, COM.B.",
-    "direccion": "Carretera puertollano 49",
+    "direccion": "Carretera 00049",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -36869,7 +36869,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES HERMANOS GOMEZ RUIZ, S.L.",
-    "direccion": "Rdcrtra. carrion fase 2 nave 4 20",
+    "direccion": "Ronda carrion fase 2 nave 4 00020",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -36882,7 +36882,7 @@ const empresas = [
   },
   {
     "empresa": "R. PEINADO, S.A.",
-    "direccion": "Calle poligono industrial, s/n s/n",
+    "direccion": "Calle industrial, s/n 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -36895,7 +36895,7 @@ const empresas = [
   },
   {
     "empresa": "LAVADO Y EVAPORIZADOS HERMANOS CULEBRAS, S.L.",
-    "direccion": "Carretera argamasilla cva.vte.pllano-repsol,1100000",
+    "direccion": "Carretera cva.vte.pllano-repsol,1100000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -36908,7 +36908,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES NUÑEZ E HIJOS, S.L.",
-    "direccion": "Carretera manzanares s/n 1",
+    "direccion": "Carretera s/n 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -36921,7 +36921,7 @@ const empresas = [
   },
   {
     "empresa": "AUTORRECAMBIOS MANSILLA, S.R.L.",
-    "direccion": "Calle carretas 123",
+    "direccion": "Calle 00123",
     "localidad": "AGUDO",
     "cp": "13410",
     "provincia": "CIUDAD REAL",
@@ -36934,7 +36934,7 @@ const empresas = [
   },
   {
     "empresa": "LAVADO Y ENGRASE VALDEPENAS, S.L.",
-    "direccion": "Avenida del vino, parcela 69 s/n",
+    "direccion": "Avenida vino, parcela 69 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -36947,7 +36947,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES DANIEL GARCIA GRANDE, S.L.",
-    "direccion": "Carretera argamasilla km.2 2",
+    "direccion": "Carretera km.2 00002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36960,7 +36960,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO TRACTOR, S.L.",
-    "direccion": "Avenida principe alfonso s/n",
+    "direccion": "Avenida alfonso 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -36973,7 +36973,7 @@ const empresas = [
   },
   {
     "empresa": "G.Y B.PUERTOMOTOR, S.L.",
-    "direccion": "Calle juan de herrera 66",
+    "direccion": "Calle de herrera 00066",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -36986,7 +36986,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES GARCIA VILLARACO, S.L.",
-    "direccion": "Calle calvario 45",
+    "direccion": "Calle 00045",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -36999,7 +36999,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES BONI, S.L.",
-    "direccion": "Calle bota (de la) polig. ind. del vino 7",
+    "direccion": "Calle (de la) polig. ind. del vino 00007",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -37012,7 +37012,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA DE LA REINA, S.L.",
-    "direccion": "Calle calatrava 10",
+    "direccion": "Calle 00010",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -37025,7 +37025,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOMOCION LOZANO, S.L.",
-    "direccion": "Polígono industrial, calle xi p1 s/n",
+    "direccion": "Polígono , calle xi p1 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37038,7 +37038,7 @@ const empresas = [
   },
   {
     "empresa": "SAHER CHAPA Y PINTURA, S.L.",
-    "direccion": "Calle merlot-parc d10 pg alces iii fase s/n",
+    "direccion": "Calle -parc d10 pg alces iii fase 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -37051,7 +37051,7 @@ const empresas = [
   },
   {
     "empresa": "TOMELLOSO MOTOR, S.L.",
-    "direccion": "Carretera argamasilla km.0,350 1",
+    "direccion": "Carretera km.0,350 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -37064,7 +37064,7 @@ const empresas = [
   },
   {
     "empresa": "MORALES PARRILLA JUAN JESUS",
-    "direccion": "Carretera n iv, km 232",
+    "direccion": "Carretera iv, km 00232",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -37077,7 +37077,7 @@ const empresas = [
   },
   {
     "empresa": "REPUESTOS MOYA, S.L.",
-    "direccion": "Carretera ruidera, km. 0 s/n",
+    "direccion": "Carretera , km. 0 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -37090,7 +37090,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES Y GRUAS ELOAUTO, SOCIEDAD LIMITADA",
-    "direccion": "Carretera autovia madrid-cadiz km 232 s/n",
+    "direccion": "Carretera madrid-cadiz km 232 00000",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -37103,7 +37103,7 @@ const empresas = [
   },
   {
     "empresa": "INDIESELMAN S.L.",
-    "direccion": "Avenida reina victoria 2",
+    "direccion": "Avenida victoria 00002",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -37116,7 +37116,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES CENTRO MOTOR, S.L.L.",
-    "direccion": "Polígono ind. herencia 6",
+    "direccion": "Polígono herencia 00006",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -37129,7 +37129,7 @@ const empresas = [
   },
   {
     "empresa": "SERVI-AUTO CIUDAD REAL, S.L.",
-    "direccion": "Carretera carrion 108",
+    "direccion": "Carretera 00108",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37142,7 +37142,7 @@ const empresas = [
   },
   {
     "empresa": "VEHICULOS Y PERSONAS, S.L.",
-    "direccion": "Carretera carrion, parque e. guadiana 5",
+    "direccion": "Carretera , parque e. guadiana 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37155,7 +37155,7 @@ const empresas = [
   },
   {
     "empresa": "MANUEL Y CANDIDO CABRERO, S.L.",
-    "direccion": "Carretera la solana 2",
+    "direccion": "Carretera solana 00002",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -37168,7 +37168,7 @@ const empresas = [
   },
   {
     "empresa": "COMERCIAL MANCHEGA DE TURISMO, S.L.",
-    "direccion": "Carretera carrion, nave 108",
+    "direccion": "Carretera , nave 00108",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37181,7 +37181,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES DESGRAN, S.L.",
-    "direccion": "Avenida principal, parcela 51 b",
+    "direccion": "Avenida , parcela 00051 b",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37194,7 +37194,7 @@ const empresas = [
   },
   {
     "empresa": "GRUAS JAIME PECO, S.L.",
-    "direccion": "Calle socuellamos 10",
+    "direccion": "Calle 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37207,7 +37207,7 @@ const empresas = [
   },
   {
     "empresa": "TECNIAUTO MULTIMARCA, S.L.",
-    "direccion": "Calle herreros, pol ind la estrella s/n",
+    "direccion": "Calle , pol ind la estrella 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -37220,7 +37220,7 @@ const empresas = [
   },
   {
     "empresa": "ELECTROFRIO O. ZARATE ESPARZA, S.L.",
-    "direccion": "Polígono industrial cl. dos parcela 19",
+    "direccion": "Polígono cl. dos parcela 00019",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37233,7 +37233,7 @@ const empresas = [
   },
   {
     "empresa": "PATON PIÑA OSCAR",
-    "direccion": "Carretera autov madrid-cadiz, pk 217 n.1 mod cs/n",
+    "direccion": "Carretera madrid-cadiz, pk 217 n.1 mod c00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -37246,7 +37246,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES ASTASIO, S.L",
-    "direccion": "Carretera austria c/v avenida holanda s/n",
+    "direccion": "Carretera c/v avenida holanda 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -37259,7 +37259,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES PALACIOS LLORENTE, S.L.L.",
-    "direccion": "Calle prolongacion de huertas 10",
+    "direccion": "Calle de huertas 00010",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -37272,7 +37272,7 @@ const empresas = [
   },
   {
     "empresa": "LAVADEROS DE CASTILLA-LA MANCHA S.A.",
-    "direccion": "Calle mompo 2",
+    "direccion": "Calle 00002",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -37285,7 +37285,7 @@ const empresas = [
   },
   {
     "empresa": "CHAPA Y PINTURA JAVIER S.L.",
-    "direccion": "Calle bodegueros 4",
+    "direccion": "Calle 00004",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -37298,7 +37298,7 @@ const empresas = [
   },
   {
     "empresa": "MECANITRUCK, C.B.",
-    "direccion": "Avenida pardillo 20",
+    "direccion": "Avenida 00020",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -37311,7 +37311,7 @@ const empresas = [
   },
   {
     "empresa": "CIUDAUTO, S.L.",
-    "direccion": "Carretera carrion km 313 s/n",
+    "direccion": "Carretera km 313 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37324,7 +37324,7 @@ const empresas = [
   },
   {
     "empresa": "ASTASIO DEL FRESNO VICTORIANO",
-    "direccion": "Calle barril parcela 77 pol industrial s/n",
+    "direccion": "Calle parcela 77 pol industrial 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -37337,7 +37337,7 @@ const empresas = [
   },
   {
     "empresa": "CHAPA Y PINTURA MANZANARES, S.L.L.",
-    "direccion": "Lugar poligono industrial cl.xi nave 122 s/n",
+    "direccion": "Lugar industrial cl.xi nave 122 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37350,7 +37350,7 @@ const empresas = [
   },
   {
     "empresa": "BUENA GENTE, S.L.",
-    "direccion": "Carretera argamasilla de alba km 85,10 s/n",
+    "direccion": "Carretera de alba km 85,10 00000",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -37363,7 +37363,7 @@ const empresas = [
   },
   {
     "empresa": "MAESO JAREÑO, S.L.",
-    "direccion": "Polígono industrial, parcela r-190 s/n",
+    "direccion": "Polígono , parcela r-190 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37376,7 +37376,7 @@ const empresas = [
   },
   {
     "empresa": "TECNIAGRO 2000, S.L.",
-    "direccion": "Polígono industrial avda.ppal p-25 s/n",
+    "direccion": "Polígono avda.ppal p-25 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37389,7 +37389,7 @@ const empresas = [
   },
   {
     "empresa": "APLICACIONES ALVIDECOR, S.L.",
-    "direccion": "Calle zancara 50",
+    "direccion": "Calle 00050",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -37402,7 +37402,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO COCHE VALDEPEÑAS,S.L.",
-    "direccion": "Calle bota 100",
+    "direccion": "Calle 00100",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -37415,7 +37415,7 @@ const empresas = [
   },
   {
     "empresa": "VULCANIZADOS Y ACCESORIOS, S.L.",
-    "direccion": "Calle bodegueros (poligono el cristo) s/n",
+    "direccion": "Calle (poligono el cristo) 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -37428,7 +37428,7 @@ const empresas = [
   },
   {
     "empresa": "REPARAUTO CIUDAD REAL, SDAD.COOP. DE CASTILLA LA MANCHA",
-    "direccion": "Carretera carrion nave 80 31",
+    "direccion": "Carretera nave 80 00031",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37441,7 +37441,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES AUTO REAL,S.L.",
-    "direccion": "Carretera carrion 13",
+    "direccion": "Carretera 00013",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37454,7 +37454,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOCARROCERIAS MALAGON, S.L.",
-    "direccion": "Avenida fundadores cooperativa 39",
+    "direccion": "Avenida cooperativa 00039",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -37467,7 +37467,7 @@ const empresas = [
   },
   {
     "empresa": "NEUMATICOS SERGIO NAVAS SL",
-    "direccion": "Calle torres quevedo 24",
+    "direccion": "Calle quevedo 00024",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37480,7 +37480,7 @@ const empresas = [
   },
   {
     "empresa": "VOLVO TRUCK CENTER SL",
-    "direccion": "Calle industrial xii 78",
+    "direccion": "Calle xii 00078",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37493,7 +37493,7 @@ const empresas = [
   },
   {
     "empresa": "MARZABU HERMANOS SOCIEDAD LIMITA",
-    "direccion": "Polígono indutrial 125",
+    "direccion": "Polígono 00125",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37506,7 +37506,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES Y MULTISERVICIOS MJ 2017, S.L.",
-    "direccion": "Calle las eras 4",
+    "direccion": "Calle eras 00004",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -37519,7 +37519,7 @@ const empresas = [
   },
   {
     "empresa": "CARGLASS,S.L.",
-    "direccion": "Calle tomelloso 18",
+    "direccion": "Calle 00018",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37532,7 +37532,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS ANGULO FERNANDEZ SC",
-    "direccion": "Avenida castilla leon 7",
+    "direccion": "Avenida leon 00007",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -37545,7 +37545,7 @@ const empresas = [
   },
   {
     "empresa": "ALBAMOCION . SL",
-    "direccion": "Avenida de la ciencia 10",
+    "direccion": "Avenida la ciencia 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37558,7 +37558,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOMOCION RXA CB",
-    "direccion": "Avenida de la serna 7",
+    "direccion": "Avenida la serna 00007",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -37571,7 +37571,7 @@ const empresas = [
   },
   {
     "empresa": "TRADILO INVERSIONES, S.L.",
-    "direccion": "Carretera argamasilla de calatrava s/n",
+    "direccion": "Carretera de calatrava 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -37584,7 +37584,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOMOCION RUBIO RODRIGO, S.A",
-    "direccion": "Calle industrial xii 76",
+    "direccion": "Calle xii 00076",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37597,7 +37597,7 @@ const empresas = [
   },
   {
     "empresa": "TALLERES GRUAS Y AUTOMOVILES GOM",
-    "direccion": "Plaza san nicasio s/n",
+    "direccion": "Plaza nicasio 00000",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -37610,7 +37610,7 @@ const empresas = [
   },
   {
     "empresa": "TALCAMION SL",
-    "direccion": "Calle carreteros s/n",
+    "direccion": "Calle 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37623,7 +37623,7 @@ const empresas = [
   },
   {
     "empresa": "HERNANDEZ AYALA, SOCIEDAD LIMITADA",
-    "direccion": "Calle paseo de la estacion 4",
+    "direccion": "Calle de la estacion 00004",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -37636,7 +37636,7 @@ const empresas = [
   },
   {
     "empresa": "M&M CRISTALAUTO SL",
-    "direccion": "Calle rondilla cruz verde 28",
+    "direccion": "Calle cruz verde 00028",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -37649,7 +37649,7 @@ const empresas = [
   },
   {
     "empresa": "CAIRHUAL LOGYDIS, S.L.",
-    "direccion": "Calle talabarteros 14",
+    "direccion": "Calle 00014",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -37662,7 +37662,7 @@ const empresas = [
   },
   {
     "empresa": "OCASION PLUS, S.L.",
-    "direccion": "Avenida francia 48",
+    "direccion": "Avenida 00048",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -37675,7 +37675,7 @@ const empresas = [
   },
   {
     "empresa": "JOMISA MENCHERO, SOCIEDAD LIMITADA",
-    "direccion": "Avenida vereda 197",
+    "direccion": "Avenida 00197",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -37688,7 +37688,7 @@ const empresas = [
   },
   {
     "empresa": "BEMAR CARROCERIAS S. L.",
-    "direccion": "Carretera de los llanos parcela 55",
+    "direccion": "Carretera los llanos parcela 00055",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -37701,7 +37701,7 @@ const empresas = [
   },
   {
     "empresa": "LUVAL AUTOMOCION, SOCIEDAD LIMITADA",
-    "direccion": "Calle malagon 11",
+    "direccion": "Calle 00011",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37714,7 +37714,7 @@ const empresas = [
   },
   {
     "empresa": "IZSETRACK,S.L",
-    "direccion": "Calle olivillas 4",
+    "direccion": "Calle 00004",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -37727,7 +37727,7 @@ const empresas = [
   },
   {
     "empresa": "KENTO MOTOR, S.L.",
-    "direccion": "Calle segadores 42",
+    "direccion": "Calle 00042",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -37740,7 +37740,7 @@ const empresas = [
   },
   {
     "empresa": "RENTAGRIC, SOCIEDAD LIMITADA",
-    "direccion": "Carretera argamasilla de alba 47",
+    "direccion": "Carretera de alba 00047",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -37753,7 +37753,7 @@ const empresas = [
   },
   {
     "empresa": "ACECAN TRANSPORTES S.L.",
-    "direccion": "Avenida principe alfonso 7",
+    "direccion": "Avenida alfonso 00007",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -37766,7 +37766,7 @@ const empresas = [
   },
   {
     "empresa": "CRM AUTOMOCION 2020, SOCIEDAD LIMITADA",
-    "direccion": "Carretera carrión 76",
+    "direccion": "Carretera ón 00076",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -37779,7 +37779,7 @@ const empresas = [
   },
   {
     "empresa": "H-CERO INGENIERIA Y OBRAS, S.L.",
-    "direccion": "Plaza cervantes 4 iz",
+    "direccion": "Plaza 00004 iz",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -37792,7 +37792,7 @@ const empresas = [
   },
   {
     "empresa": "FOMECAM TERRA,S.L",
-    "direccion": "Calle aragón 43 bjb",
+    "direccion": "Calle ón 00043 bjb",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -37805,7 +37805,7 @@ const empresas = [
   },
   {
     "empresa": "OBRAS PUBLICAS Y EXCAVACIONES JESUS NICOLAS,S.L.",
-    "direccion": "Calle cuatro esquinas 12",
+    "direccion": "Calle esquinas 00012",
     "localidad": "PUEBLA DE DON RODRIGO",
     "cp": "13109",
     "provincia": "CIUDAD REAL",
@@ -37818,7 +37818,7 @@ const empresas = [
   },
   {
     "empresa": "OYSFOR OBRAS Y SERVICIOS FORESTALES, S.L.",
-    "direccion": "Calle agua, s/n s/n",
+    "direccion": "Calle , s/n 00000",
     "localidad": "PUEBLO NUEVO DEL BULLAQU",
     "cp": "13194",
     "provincia": "CIUDAD REAL",
@@ -37831,7 +37831,7 @@ const empresas = [
   },
   {
     "empresa": "DEFESA RECUPERACIONES CASTILLA LA MANCHA, S.L.",
-    "direccion": "Trcolombia 1",
+    "direccion": "Travesía 00001",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -37844,7 +37844,7 @@ const empresas = [
   },
   {
     "empresa": "PATRONATO Y MEDIO AMBIENTE MANCOMUNIDAD SERVC COMSERMAN",
-    "direccion": "Calle lorenzo rivas 25",
+    "direccion": "Calle rivas 00025",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -37857,7 +37857,7 @@ const empresas = [
   },
   {
     "empresa": "RE-INICIAR ALTERNATIVAS SOLIDARIAS S.L.",
-    "direccion": "Calle caballeros 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -37870,7 +37870,7 @@ const empresas = [
   },
   {
     "empresa": "RECUPERACIONES ALCAZAR, SOCIEDAD LIMITADA",
-    "direccion": "Polígono alces calle macabeo 2",
+    "direccion": "Polígono calle macabeo 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -37883,7 +37883,7 @@ const empresas = [
   },
   {
     "empresa": "FONTALCAZAR, S.L.",
-    "direccion": "Calle albariño 4",
+    "direccion": "Calle ño 00004",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -37896,7 +37896,7 @@ const empresas = [
   },
   {
     "empresa": "J TOLDOS RECICLAJES MANCHEGOS SL",
-    "direccion": "Calle lepanto 16",
+    "direccion": "Calle 00016",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -37909,7 +37909,7 @@ const empresas = [
   },
   {
     "empresa": "RECYCLED GARBAGE SYSTEM 2, S.L.",
-    "direccion": "Avenida alemania, pg alces 4º fase sec.noroes/n",
+    "direccion": "Avenida , pg alces 4º fase sec.noroe00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -37922,7 +37922,7 @@ const empresas = [
   },
   {
     "empresa": "PLANTA DE RESIDUOS DE CONSTRUCCION MANZANARES SUR, SOCI",
-    "direccion": "Polígono industrial, calle ii, parcela 2425",
+    "direccion": "Polígono , calle ii, parcela 0002425",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -37935,7 +37935,7 @@ const empresas = [
   },
   {
     "empresa": "MATERIAL CLINICO Y SANITARIO,S.L.",
-    "direccion": "Calle murcia, poligono ind. las viñas 69",
+    "direccion": "Calle , poligono ind. las viñas 00069",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -37948,7 +37948,7 @@ const empresas = [
   },
   {
     "empresa": "ROCHE DIAGNOSTICS S.L.",
-    "direccion": "Calle refugio 4 2 b",
+    "direccion": "Calle 00004 2 b",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -37961,7 +37961,7 @@ const empresas = [
   },
   {
     "empresa": "MBA INCORPORADO,S.L.",
-    "direccion": "Calle santa barbara 2 b",
+    "direccion": "Calle barbara 00002 b",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -37974,7 +37974,7 @@ const empresas = [
   },
   {
     "empresa": "LOFTIFAR, S.L.",
-    "direccion": "Polígono ins.santa ana faseii c/fernado buesas/n",
+    "direccion": "Polígono ana faseii c/fernado buesa00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -37987,7 +37987,7 @@ const empresas = [
   },
   {
     "empresa": "CARRASCO MARTINEZ MARINA",
-    "direccion": "Calle constitucion 3",
+    "direccion": "Calle 00003",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -38000,7 +38000,7 @@ const empresas = [
   },
   {
     "empresa": "CARRANZA GUZON ROSA MARIA",
-    "direccion": "Paseo san gregorio 53",
+    "direccion": "Paseo gregorio 00053",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -38013,7 +38013,7 @@ const empresas = [
   },
   {
     "empresa": "RODRIGUEZ MORALEDA FRANCISCO JAVIE",
-    "direccion": "Plaza españa 16",
+    "direccion": "Plaza ña 00016",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -38026,7 +38026,7 @@ const empresas = [
   },
   {
     "empresa": "TORRES MARTINEZ ROSENDO",
-    "direccion": "Plaza puerta de alarcos 2",
+    "direccion": "Plaza de alarcos 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -38039,7 +38039,7 @@ const empresas = [
   },
   {
     "empresa": "MENCHEN FERNANDEZ LUCILA",
-    "direccion": "Calle lonja 10",
+    "direccion": "Calle 00010",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -38052,7 +38052,7 @@ const empresas = [
   },
   {
     "empresa": "CARVAJAL PARRONDO ALFREDO",
-    "direccion": "Calle don rodrigo 46",
+    "direccion": "Calle rodrigo 00046",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -38065,7 +38065,7 @@ const empresas = [
   },
   {
     "empresa": "CACHERO SANCHEZ ANTONIA",
-    "direccion": "Calle real 66",
+    "direccion": "Calle 00066",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -38078,7 +38078,7 @@ const empresas = [
   },
   {
     "empresa": "CRUZ NAVARRO JOSE LUIS",
-    "direccion": "Calle mayor 2",
+    "direccion": "Calle 00002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -38091,7 +38091,7 @@ const empresas = [
   },
   {
     "empresa": "BARBERA SALOM PABLO",
-    "direccion": "Paseo cervantes 20 bj",
+    "direccion": "Paseo 00020 bajo",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -38104,7 +38104,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ MARTIN DE LA TORRE JOSE RAMON",
-    "direccion": "Avenida pio xii 14 1",
+    "direccion": "Avenida xii 00014 1",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -38117,7 +38117,7 @@ const empresas = [
   },
   {
     "empresa": "PENCO FERNANDEZ ELENA",
-    "direccion": "Calle real 34",
+    "direccion": "Calle 00034",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -38130,7 +38130,7 @@ const empresas = [
   },
   {
     "empresa": "ALCOLEA TORRES RAQUEL",
-    "direccion": "Calle manterola 64 bj",
+    "direccion": "Calle 00064 bajo",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -38143,7 +38143,7 @@ const empresas = [
   },
   {
     "empresa": "BARCO DURAN JULIA",
-    "direccion": "Avenida europa (c.c. eroski l033-l034) 45",
+    "direccion": "Avenida (c.c. eroski l033-l034) 00045",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -38156,7 +38156,7 @@ const empresas = [
   },
   {
     "empresa": "FERNANDEZ CARRETON MARIA MERCEDES",
-    "direccion": "Calle juan de zuñiga 68",
+    "direccion": "Calle de zuñiga 00068",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -38169,7 +38169,7 @@ const empresas = [
   },
   {
     "empresa": "OLMO LUCIO TERESA RAQUEL",
-    "direccion": "Avenida valdepeñas 15",
+    "direccion": "Avenida ñas 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -38182,7 +38182,7 @@ const empresas = [
   },
   {
     "empresa": "FARMACIA MENCHEN RUIZ DE CASTAÑEDA, COM.B.",
-    "direccion": "Calle socuellamos 6",
+    "direccion": "Calle 00006",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -38195,7 +38195,7 @@ const empresas = [
   },
   {
     "empresa": "FISAC LOZANO C.B.",
-    "direccion": "Carretera porzuna 4",
+    "direccion": "Carretera 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -38208,7 +38208,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ TORNE MARIA VICTORIA",
-    "direccion": "Avenida primero de mayo 15",
+    "direccion": "Avenida de mayo 00015",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -38221,7 +38221,7 @@ const empresas = [
   },
   {
     "empresa": "CUERVA GOMEZ LUIS ALFONSO",
-    "direccion": "Paseo carmen 2",
+    "direccion": "Paseo 00002",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -38234,7 +38234,7 @@ const empresas = [
   },
   {
     "empresa": "TEJADO ABENGOZAR FRANCISCO",
-    "direccion": "Calle concordia 41",
+    "direccion": "Calle 00041",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -38247,7 +38247,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA ESCRIBANO GALLEGO PABLO ANTONIO",
-    "direccion": "Avenida de quero 2",
+    "direccion": "Avenida quero 00002",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -38260,7 +38260,7 @@ const empresas = [
   },
   {
     "empresa": "SANTA MARIA MEGIA JAIME",
-    "direccion": "Avenida estudiantes 47",
+    "direccion": "Avenida 00047",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -38273,7 +38273,7 @@ const empresas = [
   },
   {
     "empresa": "GUIJARRO BUENO ALBERTO",
-    "direccion": "Calle odisea 6",
+    "direccion": "Calle 00006",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -38286,7 +38286,7 @@ const empresas = [
   },
   {
     "empresa": "GRACIA MADUEÑO ROSA",
-    "direccion": "Avenida de los estudiantes 4",
+    "direccion": "Avenida los estudiantes 00004",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -38299,7 +38299,7 @@ const empresas = [
   },
   {
     "empresa": "ORTEGA MELERO JOSEFA",
-    "direccion": "Calle don quijote 4",
+    "direccion": "Calle quijote 00004",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -38312,7 +38312,7 @@ const empresas = [
   },
   {
     "empresa": "DE LA RUBIA LUCAS JESUS",
-    "direccion": "Calle buensuceso 54",
+    "direccion": "Calle 00054",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -38325,7 +38325,7 @@ const empresas = [
   },
   {
     "empresa": "AUDIO SELECCION S.L.",
-    "direccion": "Calle alarcos 19",
+    "direccion": "Calle 00019",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -38338,7 +38338,7 @@ const empresas = [
   },
   {
     "empresa": "NAVARRETE DELGE JUAN IGNACIO",
-    "direccion": "Calle maria cristina 3",
+    "direccion": "Calle cristina 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -38351,7 +38351,7 @@ const empresas = [
   },
   {
     "empresa": "MOIRI LA MANCHA, S.L.U",
-    "direccion": "Plaza mayor 1 lc2",
+    "direccion": "Plaza 00001 lc2",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -38364,7 +38364,7 @@ const empresas = [
   },
   {
     "empresa": "OPTICAS VISIONLAB SL",
-    "direccion": "Pqcomercial puerta del ave s/n",
+    "direccion": "Pqcomercial puerta del ave 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -38377,7 +38377,7 @@ const empresas = [
   },
   {
     "empresa": "OPTICA EPAT, SOCIEDAD LIMITADA",
-    "direccion": "Calle ricardo cabañero 2",
+    "direccion": "Calle cabañero 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -38390,7 +38390,7 @@ const empresas = [
   },
   {
     "empresa": "F & C MENSAJEROS S.L.",
-    "direccion": "Calle monico sanchez 2",
+    "direccion": "Calle sanchez 00002",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -38403,7 +38403,7 @@ const empresas = [
   },
   {
     "empresa": "DIAZ ROPERO LEAL BLAS",
-    "direccion": "Avenida argamasilla 53",
+    "direccion": "Avenida 00053",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -38416,7 +38416,7 @@ const empresas = [
   },
   {
     "empresa": "PARAJE DE ALBEITARES, S.L.",
-    "direccion": "Calle islas canarias 16",
+    "direccion": "Calle canarias 00016",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -38429,7 +38429,7 @@ const empresas = [
   },
   {
     "empresa": "ALIA VETERINARIOS, S.L.",
-    "direccion": "Calle real 80",
+    "direccion": "Calle 00080",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -38442,7 +38442,7 @@ const empresas = [
   },
   {
     "empresa": "INFANTES VETERINARIOS, COM.B.",
-    "direccion": "Calle rey juan carlos 12",
+    "direccion": "Calle juan carlos 00012",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -38455,7 +38455,7 @@ const empresas = [
   },
   {
     "empresa": "PRODUCCION OVINA SOCIEDAD LIMIT",
-    "direccion": "Calle altagracia 52 a 5",
+    "direccion": "Calle 00052 a 5",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -38468,7 +38468,7 @@ const empresas = [
   },
   {
     "empresa": "SONLLEVA CARRION JUAN MANUEL",
-    "direccion": "Calle gran capitan 14",
+    "direccion": "Calle capitan 00014",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -38481,7 +38481,7 @@ const empresas = [
   },
   {
     "empresa": "IVC EVIDENSIA ASSETS, S.L.U.",
-    "direccion": "Calle rondilla cruz verde 140",
+    "direccion": "Calle cruz verde 00140",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -38494,7 +38494,7 @@ const empresas = [
   },
   {
     "empresa": "EL CORNIJAL DE LA MANCHA, S.L.",
-    "direccion": "Calle manuel azaña 12",
+    "direccion": "Calle azaña 00012",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -38507,7 +38507,7 @@ const empresas = [
   },
   {
     "empresa": "VIVEROS LA MANCHA, S.L.",
-    "direccion": "Lugar finca el bestozo pol 202 parc 653 s/n",
+    "direccion": "Lugar el bestozo pol 202 parc 653 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -38520,7 +38520,7 @@ const empresas = [
   },
   {
     "empresa": "GIL ROMAN CARLOS",
-    "direccion": "Cmde los alijares 76",
+    "direccion": "Camino los alijares 00076",
     "localidad": "CASAS, LAS",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -38533,7 +38533,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ALCUBILLAS",
-    "direccion": "Plaza azucena 7",
+    "direccion": "Plaza 00007",
     "localidad": "ALCUBILLAS",
     "cp": "13391",
     "provincia": "CIUDAD REAL",
@@ -38546,7 +38546,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ALDEA DEL REY",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "ALDEA DEL REY",
     "cp": "13380",
     "provincia": "CIUDAD REAL",
@@ -38559,7 +38559,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE LOS POZUELOS DE CALATRAVA",
-    "direccion": "Plaza de la constitucion 1",
+    "direccion": "Plaza la constitucion 00001",
     "localidad": "POZUELOS DE CALATRAVA, L",
     "cp": "13191",
     "provincia": "CIUDAD REAL",
@@ -38572,7 +38572,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SAN LORENZO DE CALATRAVA",
-    "direccion": "Plaza cervantes 6",
+    "direccion": "Plaza 00006",
     "localidad": "SAN LORENZO DE CALATRAVA",
     "cp": "13779",
     "provincia": "CIUDAD REAL",
@@ -38585,7 +38585,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE TORRALBA DE CALATRAVA",
-    "direccion": "Calle plaza villa 1",
+    "direccion": "Calle villa 00001",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -38598,7 +38598,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE VILLANUEVA DE SAN CARLOS",
-    "direccion": "Calle jose ortega saez 6 d",
+    "direccion": "Calle ortega saez 00006 d",
     "localidad": "VILLANUEVA DE SAN CARLOS",
     "cp": "13379",
     "provincia": "CIUDAD REAL",
@@ -38611,7 +38611,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE VISO DEL MARQUES",
-    "direccion": "Plaza oretania 8",
+    "direccion": "Plaza 00008",
     "localidad": "VISO DEL MARQUES",
     "cp": "13770",
     "provincia": "CIUDAD REAL",
@@ -38624,7 +38624,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE AGUDO",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "AGUDO",
     "cp": "13410",
     "provincia": "CIUDAD REAL",
@@ -38637,7 +38637,7 @@ const empresas = [
   },
   {
     "empresa": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
-    "direccion": "Calle alarcos 21",
+    "direccion": "Calle 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -38650,7 +38650,7 @@ const empresas = [
   },
   {
     "empresa": "CONFEDERACION HIDROGRAFICA DEL GUADIANA",
-    "direccion": "Calle alarcos 21",
+    "direccion": "Calle 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -38663,7 +38663,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE PUEBLA DEL PRINCIPE",
-    "direccion": "Plaza castilla la mancha 5",
+    "direccion": "Plaza la mancha 00005",
     "localidad": "PUEBLA DEL PRINCIPE",
     "cp": "13342",
     "provincia": "CIUDAD REAL",
@@ -38676,7 +38676,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE NAVALPINO",
-    "direccion": "Plaza generalisimo 1",
+    "direccion": "Plaza 00001",
     "localidad": "NAVALPINO",
     "cp": "13193",
     "provincia": "CIUDAD REAL",
@@ -38689,7 +38689,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE BRAZATORTAS",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "BRAZATORTAS",
     "cp": "13450",
     "provincia": "CIUDAD REAL",
@@ -38702,7 +38702,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE MIGUELTURRA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -38715,7 +38715,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SOCUELLAMOS",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -38728,7 +38728,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ABENOJAR",
-    "direccion": "Plaza de la constitucion 3",
+    "direccion": "Plaza la constitucion 00003",
     "localidad": "ABENOJAR",
     "cp": "13180",
     "provincia": "CIUDAD REAL",
@@ -38741,7 +38741,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE BOLAÑOS DE CALATRAVA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -38754,7 +38754,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE HINOJOSAS DE CALATRAVA",
-    "direccion": "Plaza del pilar 1",
+    "direccion": "Plaza pilar 00001",
     "localidad": "HINOJOSAS DE CALATRAVA",
     "cp": "13590",
     "provincia": "CIUDAD REAL",
@@ -38767,7 +38767,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ALMURADIEL",
-    "direccion": "Plaza ayuntamiento 1",
+    "direccion": "Plaza 00001",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -38780,7 +38780,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "VALENZUELA DE CALATRAVA",
     "cp": "13279",
     "provincia": "CIUDAD REAL",
@@ -38793,7 +38793,7 @@ const empresas = [
   },
   {
     "empresa": "DIPUTACION PROVINCIAL DE CIUDAD REAL",
-    "direccion": "Calle toledo 17",
+    "direccion": "Calle 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -38806,7 +38806,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SANTA CRUZ DE MUDELA",
-    "direccion": "Plaza de la constitucion 1",
+    "direccion": "Plaza la constitucion 00001",
     "localidad": "SANTA CRUZ DE MUDELA",
     "cp": "13730",
     "provincia": "CIUDAD REAL",
@@ -38819,7 +38819,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO NACIONAL DE ESTADISTICA",
-    "direccion": "Rdmata 8 bj",
+    "direccion": "Ronda 00008 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -38832,7 +38832,7 @@ const empresas = [
   },
   {
     "empresa": "DIPUTACION PROVINCIAL",
-    "direccion": "Calle toledo 17",
+    "direccion": "Calle 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -38845,7 +38845,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE VILLAHERMOSA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "VILLAHERMOSA",
     "cp": "13332",
     "provincia": "CIUDAD REAL",
@@ -38858,7 +38858,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SACERUELA",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "SACERUELA",
     "cp": "13414",
     "provincia": "CIUDAD REAL",
@@ -38871,7 +38871,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ALCOBA DE LOS MONTES",
-    "direccion": "Plaza de españa 2",
+    "direccion": "Plaza españa 00002",
     "localidad": "ALCOBA",
     "cp": "13116",
     "provincia": "CIUDAD REAL",
@@ -38884,7 +38884,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE PORZUNA",
-    "direccion": "Plaza mayor 1",
+    "direccion": "Plaza 00001",
     "localidad": "PORZUNA",
     "cp": "13120",
     "provincia": "CIUDAD REAL",
@@ -38897,7 +38897,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE FUENTE EL FRESNO",
-    "direccion": "Plaza del carmen 1",
+    "direccion": "Plaza carmen 00001",
     "localidad": "FUENTE EL FRESNO",
     "cp": "13680",
     "provincia": "CIUDAD REAL",
@@ -38910,7 +38910,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SAN CARLOS DEL VALLE",
-    "direccion": "Plaza mayor 1",
+    "direccion": "Plaza 00001",
     "localidad": "SAN CARLOS DEL VALLE",
     "cp": "13247",
     "provincia": "CIUDAD REAL",
@@ -38923,7 +38923,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ANCHURAS",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "ANCHURAS",
     "cp": "13117",
     "provincia": "CIUDAD REAL",
@@ -38936,7 +38936,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE LUCIANA",
-    "direccion": "Plconsistorial 1",
+    "direccion": "Plconsistorial 00001",
     "localidad": "LUCIANA",
     "cp": "13108",
     "provincia": "CIUDAD REAL",
@@ -38949,7 +38949,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE DAIMIEL",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -38962,7 +38962,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SOLANA DEL PINO",
-    "direccion": "Calle cervantes 20",
+    "direccion": "Calle 00020",
     "localidad": "SOLANA DEL PINO",
     "cp": "13593",
     "provincia": "CIUDAD REAL",
@@ -38975,7 +38975,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE TORRE DE JUAN ABAD",
-    "direccion": "Plaza publica 1",
+    "direccion": "Plaza 00001",
     "localidad": "TORRE DE JUAN ABAD",
     "cp": "13344",
     "provincia": "CIUDAD REAL",
@@ -38988,7 +38988,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SOCUELLAMOS",
-    "direccion": "Calle p. jose antonio 1",
+    "direccion": "Calle jose antonio 00001",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -39001,7 +39001,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE BOLAÑOS DE CALATRAVA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -39014,7 +39014,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ALAMILLO",
-    "direccion": "Plaza constitucion. 1",
+    "direccion": "Plaza 00001",
     "localidad": "ALAMILLO",
     "cp": "13413",
     "provincia": "CIUDAD REAL",
@@ -39027,7 +39027,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE PICON",
-    "direccion": "Calle espana 1",
+    "direccion": "Calle 00001",
     "localidad": "PICON",
     "cp": "13196",
     "provincia": "CIUDAD REAL",
@@ -39040,7 +39040,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ALMADENEJOS",
-    "direccion": "Plaza santa cruz 1",
+    "direccion": "Plaza cruz 00001",
     "localidad": "ALMADENEJOS",
     "cp": "13480",
     "provincia": "CIUDAD REAL",
@@ -39053,7 +39053,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE COZAR",
-    "direccion": "Plaza del cristo 1",
+    "direccion": "Plaza cristo 00001",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -39066,7 +39066,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE VILLANUEVA DE LA FUENTE",
-    "direccion": "Calle constitucion 16",
+    "direccion": "Calle 00016",
     "localidad": "VILLANUEVA DE LA FUENTE",
     "cp": "13330",
     "provincia": "CIUDAD REAL",
@@ -39079,7 +39079,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE TORRENUEVA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -39092,7 +39092,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE GRANATULA DE CALATRAVA",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "GRANATULA DE CALATRAVA",
     "cp": "13360",
     "provincia": "CIUDAD REAL",
@@ -39105,7 +39105,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE MORAL DE CALATRAVA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -39118,7 +39118,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE CASTELLAR DE SANTIAGO",
-    "direccion": "Plaza de la constitucion 1",
+    "direccion": "Plaza la constitucion 00001",
     "localidad": "CASTELLAR DE SANTIAGO",
     "cp": "13750",
     "provincia": "CIUDAD REAL",
@@ -39131,7 +39131,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SANTA CRUZ DE LOS CAÑAMOS",
-    "direccion": "Calle eras, 2",
+    "direccion": "Calle , 00002",
     "localidad": "SANTA CRUZ DE LOS CAÑAMO",
     "cp": "13327",
     "provincia": "CIUDAD REAL",
@@ -39144,7 +39144,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE VALDEMANCO DEL ESTERAS",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "VALDEMANCO DEL ESTERAS",
     "cp": "13411",
     "provincia": "CIUDAD REAL",
@@ -39157,7 +39157,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ALHAMBRA",
-    "direccion": "Plaza de españa 1",
+    "direccion": "Plaza españa 00001",
     "localidad": "ALHAMBRA",
     "cp": "13248",
     "provincia": "CIUDAD REAL",
@@ -39170,7 +39170,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ALMEDINA",
-    "direccion": "Plaza mayor 1",
+    "direccion": "Plaza 00001",
     "localidad": "ALMEDINA",
     "cp": "13328",
     "provincia": "CIUDAD REAL",
@@ -39183,7 +39183,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE VILLAMAYOR DE CALATRAVA",
-    "direccion": "Calle plaza jose antonio 1",
+    "direccion": "Calle jose antonio 00001",
     "localidad": "VILLAMAYOR DE CALATRAVA",
     "cp": "13595",
     "provincia": "CIUDAD REAL",
@@ -39196,7 +39196,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE CABEZARADOS",
-    "direccion": "Plaza de la constitucion 1",
+    "direccion": "Plaza la constitucion 00001",
     "localidad": "CABEZARADOS",
     "cp": "13192",
     "provincia": "CIUDAD REAL",
@@ -39209,7 +39209,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE NAVAS DE ESTENA",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "NAVAS DE ESTENA",
     "cp": "13194",
     "provincia": "CIUDAD REAL",
@@ -39222,7 +39222,7 @@ const empresas = [
   },
   {
     "empresa": "CONFEDERACION HIDROGRAFICA DEL GUADIANA",
-    "direccion": "Avenida alarcos 21",
+    "direccion": "Avenida 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -39235,7 +39235,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE BALLESTEROS DE CALATRAVA",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "BALLESTEROS DE CALATRAVA",
     "cp": "13432",
     "provincia": "CIUDAD REAL",
@@ -39248,7 +39248,7 @@ const empresas = [
   },
   {
     "empresa": "ENTIDAD LOCAL MENOR EL HOYO",
-    "direccion": "Calle ancha 2",
+    "direccion": "Calle 00002",
     "localidad": "HOYO (EL)",
     "cp": "13594",
     "provincia": "CIUDAD REAL",
@@ -39261,7 +39261,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE DAIMIEL",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -39274,7 +39274,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE TORRENUEVA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -39287,7 +39287,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE RUIDERA",
-    "direccion": "Calle redondilla 14",
+    "direccion": "Calle 00014",
     "localidad": "RUIDERA",
     "cp": "13249",
     "provincia": "CIUDAD REAL",
@@ -39300,7 +39300,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE CARRIZOSA",
-    "direccion": "Calle fuente 6",
+    "direccion": "Calle 00006",
     "localidad": "CARRIZOSA",
     "cp": "13329",
     "provincia": "CIUDAD REAL",
@@ -39313,7 +39313,7 @@ const empresas = [
   },
   {
     "empresa": "DIPUTACION PROVINCIAL",
-    "direccion": "Calle toledo 15",
+    "direccion": "Calle 00015",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -39326,7 +39326,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE DAIMIEL",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -39339,7 +39339,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE BOLAÑOS DE CALATRAVA",
-    "direccion": "Plaza de españa 1",
+    "direccion": "Plaza de españa 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -39352,7 +39352,7 @@ const empresas = [
   },
   {
     "empresa": "DIPUTACION PROVINCIAL",
-    "direccion": "Calle toledo 17",
+    "direccion": "Calle 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -39365,7 +39365,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE MIGUELTURRA",
-    "direccion": "Plespaña 1",
+    "direccion": "Plespaña 00001",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -39378,7 +39378,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE MORAL DE CALATRAVA",
-    "direccion": "Plespaña 1",
+    "direccion": "Plespaña 00001",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -39391,7 +39391,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ARGAMASILLA DE ALBA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -39404,7 +39404,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE GUADALMEZ",
-    "direccion": "Calle ayuntamiento 1",
+    "direccion": "Calle 00001",
     "localidad": "GUADALMEZ",
     "cp": "13490",
     "provincia": "CIUDAD REAL",
@@ -39417,7 +39417,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE DAIMIEL",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -39430,7 +39430,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ARGAMASILLA DE CALATRAVA",
-    "direccion": "Plaza ayuntamiento 1",
+    "direccion": "Plaza 00001",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -39443,7 +39443,7 @@ const empresas = [
   },
   {
     "empresa": "ORGANISMO AUTONOMO PARQUES NACIONALES",
-    "direccion": "Paseo del carmen s/n",
+    "direccion": "Paseo carmen 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -39456,7 +39456,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ARGAMASILLA DE ALBA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -39469,7 +39469,7 @@ const empresas = [
   },
   {
     "empresa": "DIPUTACION PROVINCIAL",
-    "direccion": "Calle toledo 17",
+    "direccion": "Calle 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -39482,7 +39482,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SOCUELLAMOS",
-    "direccion": "Plaza constitucion s/n",
+    "direccion": "Plaza 00000",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -39495,7 +39495,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE TORRALBA DE CALATRAVA",
-    "direccion": "Plaza villa 1",
+    "direccion": "Plaza 00001",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -39508,7 +39508,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE TORRALBA DE CALATRAVA",
-    "direccion": "Plaza villa 1",
+    "direccion": "Plaza 00001",
     "localidad": "TORRALBA DE CALATRAVA",
     "cp": "13160",
     "provincia": "CIUDAD REAL",
@@ -39521,7 +39521,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SOCUELLAMOS",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -39534,7 +39534,7 @@ const empresas = [
   },
   {
     "empresa": "INTERVENCION GENERAL DE LA SEGURIDAD SOCIAL",
-    "direccion": "Avenida rey santo 2",
+    "direccion": "Avenida santo 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -39547,7 +39547,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ARENALES DE SAN GREGORIO",
-    "direccion": "Avenida campo de criptana 2",
+    "direccion": "Avenida de criptana 00002",
     "localidad": "ARENALES DE SAN GREGORIO",
     "cp": "13619",
     "provincia": "CIUDAD REAL",
@@ -39560,7 +39560,7 @@ const empresas = [
   },
   {
     "empresa": "ORGANISMO AUTONOMO PARQUES NACIONALES",
-    "direccion": "Carretera torrijos s/n",
+    "direccion": "Carretera 00000",
     "localidad": "PUEBLO NUEVO DEL BULLAQU",
     "cp": "13194",
     "provincia": "CIUDAD REAL",
@@ -39573,7 +39573,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE MORAL DE CALATRAVA",
-    "direccion": "Plaza de españa 1",
+    "direccion": "Plaza españa 00001",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -39586,7 +39586,7 @@ const empresas = [
   },
   {
     "empresa": "TRABAJO PENITENCIARIO Y FORMACIÓN PARA EL EMPLEO",
-    "direccion": "Lugar c.p. herrera de la mancha s/n",
+    "direccion": "Lugar herrera de la mancha 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -39599,7 +39599,7 @@ const empresas = [
   },
   {
     "empresa": "TRABAJO PENITENCIARIO Y FORMACIÓN PARA EL EMPLEO",
-    "direccion": "Avenida quero 51",
+    "direccion": "Avenida 00051",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -39612,7 +39612,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE PEDRO MUÑOZ",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -39625,7 +39625,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE DAIMIEL",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -39638,7 +39638,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE BOLAÑOS DE CALATRAVA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -39651,7 +39651,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO MUNICIPAL EMPLEO, FORMACION Y PROMOCION EMPRE",
-    "direccion": "Plaza escultor joaquin garcia donaire 2 1º",
+    "direccion": "Plaza joaquin garcia donaire 00002 1º",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -39664,7 +39664,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO DE LA MUJER DE CASTILLA LA MANCHA",
-    "direccion": "Calle postas 20",
+    "direccion": "Calle 00020",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -39677,7 +39677,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO DE LA MUJER DE CASTILLA LA MANCHA",
-    "direccion": "Calle postas 20",
+    "direccion": "Calle 00020",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -39690,7 +39690,7 @@ const empresas = [
   },
   {
     "empresa": "DIPUTACION PROVINCIAL",
-    "direccion": "Calle toledo 17",
+    "direccion": "Calle 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -39703,7 +39703,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE GRANATULA DE CALATRAVA",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "GRANATULA DE CALATRAVA",
     "cp": "13360",
     "provincia": "CIUDAD REAL",
@@ -39716,7 +39716,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SOCUELLAMOS",
-    "direccion": "Plaza constitucion 1",
+    "direccion": "Plaza 00001",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -39729,7 +39729,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE DAIMIEL",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -39742,7 +39742,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE MIGUELTURRA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -39755,7 +39755,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE TORRENUEVA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "TORRENUEVA",
     "cp": "13740",
     "provincia": "CIUDAD REAL",
@@ -39768,7 +39768,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE MIGUELTURRA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -39781,7 +39781,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE COZAR",
-    "direccion": "Plaza cristo 1",
+    "direccion": "Plaza 00001",
     "localidad": "COZAR",
     "cp": "13345",
     "provincia": "CIUDAD REAL",
@@ -39794,7 +39794,7 @@ const empresas = [
   },
   {
     "empresa": "ENTID.AMBITO TERRITOR.INFERIOR A MUNICIPIO CINCO CASAS",
-    "direccion": "Plaza mayor 3",
+    "direccion": "Plaza 00003",
     "localidad": "CINCO CASAS",
     "cp": "13720",
     "provincia": "CIUDAD REAL",
@@ -39807,7 +39807,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ARGAMASILLA DE CALATRAVA",
-    "direccion": "Plaza ayuntamiento 1",
+    "direccion": "Plaza 00001",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -39820,7 +39820,7 @@ const empresas = [
   },
   {
     "empresa": "CONFEDERACIÓN HIDROGRAFICA DEL GUADIANA",
-    "direccion": "Carretera de porzuna 6",
+    "direccion": "Carretera porzuna 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -39833,7 +39833,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO NACIONAL DE ESTADISTICA",
-    "direccion": "Rdmata 8 bj",
+    "direccion": "Ronda 00008 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -39846,7 +39846,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE MORAL DE CALATRAVA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "MORAL DE CALATRAVA",
     "cp": "13350",
     "provincia": "CIUDAD REAL",
@@ -39859,7 +39859,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE BOLAÑOS DE CALATRAVA",
-    "direccion": "Plaza de españa 1",
+    "direccion": "Plaza españa 00001",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -39872,7 +39872,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE DAIMIEL",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -39885,7 +39885,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE MIGUELTURRA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -39898,7 +39898,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE SOCUELLAMOS",
-    "direccion": "Plaza de la constitucion 1",
+    "direccion": "Plaza la constitucion 00001",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -39911,7 +39911,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ARGAMASILLA DE CALATRAVA",
-    "direccion": "Plaza ayuntamiento 1",
+    "direccion": "Plaza 00001",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -39924,7 +39924,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ARGAMASILLA DE ALBA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -39937,7 +39937,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE PEDRO MUÑOZ",
-    "direccion": "Plaza de españa 1",
+    "direccion": "Plaza españa 00001",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -39950,7 +39950,7 @@ const empresas = [
   },
   {
     "empresa": "ORGANISMO ESTATAL INSPECCION DE TRABAJO",
-    "direccion": "Carretera porzuna s/n",
+    "direccion": "Carretera 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -39963,7 +39963,7 @@ const empresas = [
   },
   {
     "empresa": "AYUNTAMIENTO DE ALHAMBRA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "ALHAMBRA",
     "cp": "13248",
     "provincia": "CIUDAD REAL",
@@ -39976,7 +39976,7 @@ const empresas = [
   },
   {
     "empresa": "M.PARA LA TRANSFORMAC. DIGITAL Y DE LA FUNCION PUBLICA",
-    "direccion": "Calle alarcos 21",
+    "direccion": "Calle 00021",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -39989,7 +39989,7 @@ const empresas = [
   },
   {
     "empresa": "AGENCIA DE TRANSFORMACION DIGITAL CLM",
-    "direccion": "Calle paloma 17",
+    "direccion": "Calle 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40002,7 +40002,7 @@ const empresas = [
   },
   {
     "empresa": "AGENCIA DE TRANSFORMACION DIGITAL CLM",
-    "direccion": "Avenida constitución 3",
+    "direccion": "Avenida ón 00003",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -40015,7 +40015,7 @@ const empresas = [
   },
   {
     "empresa": "AGENCIA DE TRANSFORMACION DIGITAL CLM",
-    "direccion": "Calle del obispo rafael torija s/n",
+    "direccion": "Calle obispo rafael torija 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -40028,7 +40028,7 @@ const empresas = [
   },
   {
     "empresa": "AGENCIA DE TRANSFORMACION DIGITAL CLM",
-    "direccion": "Avenida de d. emiliano garcía roldán 2",
+    "direccion": "Avenida d. emiliano garcía roldán 00002",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -40041,7 +40041,7 @@ const empresas = [
   },
   {
     "empresa": "AGENCIA DE TRANSFORMACION DIGITAL CLM",
-    "direccion": "Carretera carretera de malagón, s/n s/n",
+    "direccion": "Carretera de malagón, s/n 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40054,7 +40054,7 @@ const empresas = [
   },
   {
     "empresa": "AGENCIA DE TRANSFORMACION DIGITAL CLM",
-    "direccion": "Calle vereda de socuellamos, s/n s/n",
+    "direccion": "Calle de socuellamos, s/n 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -40067,7 +40067,7 @@ const empresas = [
   },
   {
     "empresa": "AGENCIA DE TRANSFORMACION DIGITAL CLM",
-    "direccion": "Avenida de los estudiantes, s/n s/n",
+    "direccion": "Avenida los estudiantes, s/n 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -40080,7 +40080,7 @@ const empresas = [
   },
   {
     "empresa": "PATRONATO DE CULTURA",
-    "direccion": "Calle goya 1",
+    "direccion": "Calle 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -40093,7 +40093,7 @@ const empresas = [
   },
   {
     "empresa": "MINISTERIO DE HACIENDA",
-    "direccion": "Calle ruiz morote 4",
+    "direccion": "Calle morote 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40106,7 +40106,7 @@ const empresas = [
   },
   {
     "empresa": "MINISTERIO DE HACIENDA",
-    "direccion": "Calle ruiz morote 4",
+    "direccion": "Calle morote 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40119,7 +40119,7 @@ const empresas = [
   },
   {
     "empresa": "MINISTERIO DE DEFENSA",
-    "direccion": "Plaza pradillo 12",
+    "direccion": "Plaza 00012",
     "localidad": "VISO DEL MARQUES",
     "cp": "13770",
     "provincia": "CIUDAD REAL",
@@ -40132,7 +40132,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO PENITENCIARIO DE HERRERA DE LA MANCHA",
-    "direccion": "Carretera argamasilla de alba s/n s/n",
+    "direccion": "Carretera de alba s/n 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -40145,7 +40145,7 @@ const empresas = [
   },
   {
     "empresa": "SEC. GRAL. INNOV. Y CALIDAD DEL SERV. PUB. DE JUSTICIA",
-    "direccion": "Calle caballeros 9",
+    "direccion": "Calle 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -40158,7 +40158,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO PENITENCIARIO DE HERRERA DE LA MANCHA",
-    "direccion": "Carretera argamasilla s/n s/n",
+    "direccion": "Carretera s/n 00000",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -40171,7 +40171,7 @@ const empresas = [
   },
   {
     "empresa": "SEC. GRAL. INNOV. Y CALIDAD DEL SERV. PUB. DE JUSTICIA",
-    "direccion": "Paseo de las heras del cerrillo 3",
+    "direccion": "Paseo las heras del cerrillo 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -40184,7 +40184,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO PENITENCIARIO ALCAZAR DE SAN JUAN",
-    "direccion": "Avenida quero 51",
+    "direccion": "Avenida 00051",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -40197,7 +40197,7 @@ const empresas = [
   },
   {
     "empresa": "COMISARIA DE POLICIA NACIONAL",
-    "direccion": "Rdtoledo 27",
+    "direccion": "Ronda 00027",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -40210,7 +40210,7 @@ const empresas = [
   },
   {
     "empresa": "HOSTELERIA JOJOA Y ASOCIADOS, S. L.",
-    "direccion": "Calle numancia 21",
+    "direccion": "Calle 00021",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40223,7 +40223,7 @@ const empresas = [
   },
   {
     "empresa": "DIRECCION PROVINCIAL TESORERIA GENERAL SEGURIDAD SOCIAL",
-    "direccion": "Avenida rey santo 2",
+    "direccion": "Avenida santo 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40236,7 +40236,7 @@ const empresas = [
   },
   {
     "empresa": "DIRECCION PROVINCIAL TESORERIA GENERAL SEGURIDAD SOCIAL",
-    "direccion": "Avenida rey santo 2",
+    "direccion": "Avenida santo 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40249,7 +40249,7 @@ const empresas = [
   },
   {
     "empresa": "D.P. INSTITUTO NACIONAL DE LA SEGURIDAD SOCIAL",
-    "direccion": "Avenida rey santo 2",
+    "direccion": "Avenida santo 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40262,7 +40262,7 @@ const empresas = [
   },
   {
     "empresa": "D.P. INSTITUTO NACIONAL DE LA SEGURIDAD SOCIAL",
-    "direccion": "Avenida rey santo 2",
+    "direccion": "Avenida santo 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40275,7 +40275,7 @@ const empresas = [
   },
   {
     "empresa": "DIRECCION PROVICIAL TEORERIA GENERAL SEGURIDAD SOCIAL",
-    "direccion": "Avenida rey santo 2",
+    "direccion": "Avenida santo 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40288,7 +40288,7 @@ const empresas = [
   },
   {
     "empresa": "COLEGIO SAN JOSE EN MANZANARES CONCEPCIONISTAS MISIONER",
-    "direccion": "Calle virgen del carmen 20",
+    "direccion": "Calle del carmen 00020",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -40301,7 +40301,7 @@ const empresas = [
   },
   {
     "empresa": "GUARDERIA NTRA.SRA.GUADALUPE",
-    "direccion": "Calle pozo santa catalina, s/n 1",
+    "direccion": "Calle santa catalina, s/n 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -40314,7 +40314,7 @@ const empresas = [
   },
   {
     "empresa": "COLEGIO MILAGROSA HIJAS CARIDAD S.VICENTE PAUL PROV.",
-    "direccion": "Calle alfonso mellado 2",
+    "direccion": "Calle mellado 00002",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -40327,7 +40327,7 @@ const empresas = [
   },
   {
     "empresa": "PARVUS, S.L.",
-    "direccion": "Calle calvario s/n 1",
+    "direccion": "Calle s/n 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -40340,7 +40340,7 @@ const empresas = [
   },
   {
     "empresa": "CAI EL TOBOGAN, S.COOP.",
-    "direccion": "Calle piedrola s/n",
+    "direccion": "Calle 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -40353,7 +40353,7 @@ const empresas = [
   },
   {
     "empresa": "MORENO OCAÑA MARIA BELEN",
-    "direccion": "Calle las salinas 3",
+    "direccion": "Calle salinas 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -40366,7 +40366,7 @@ const empresas = [
   },
   {
     "empresa": "SANCHEZ Y GOMEZ, COM.B.",
-    "direccion": "Calle de la rosa 6",
+    "direccion": "Calle la rosa 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -40379,7 +40379,7 @@ const empresas = [
   },
   {
     "empresa": "MINGUIJON CERECEDA MARIA MONICA",
-    "direccion": "Calle antonio espin 60",
+    "direccion": "Calle espin 00060",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -40392,7 +40392,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA LOPEZ MARIA ROCIO",
-    "direccion": "Carretera valdepeñas km. 34",
+    "direccion": "Carretera ñas km. 00034",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -40405,7 +40405,7 @@ const empresas = [
   },
   {
     "empresa": "INICIATIVAS EDUCATIVAS FAMILIARES, S.L.",
-    "direccion": "Calle tomillo 6",
+    "direccion": "Calle 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -40418,7 +40418,7 @@ const empresas = [
   },
   {
     "empresa": "ESCUELA DE EDUCACION INFANTIL CABAEVA, S.L.",
-    "direccion": "Calle menendez pelayo 11",
+    "direccion": "Calle pelayo 00011",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40431,7 +40431,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS EDUCATIVOS PARA LA INFANCIA CR S.L",
-    "direccion": "Calle tomillo 6",
+    "direccion": "Calle 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -40444,7 +40444,7 @@ const empresas = [
   },
   {
     "empresa": "COLEGIO SAN AGUSTIN",
-    "direccion": "Polígono uis palacios 2",
+    "direccion": "Polígono palacios 00002",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -40457,7 +40457,7 @@ const empresas = [
   },
   {
     "empresa": "FRANCISCANAS HIJAS MISERICORDIA HNAS CASA SRA DEL PRADO",
-    "direccion": "Calle maestro guerrero 8",
+    "direccion": "Calle guerrero 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -40470,7 +40470,7 @@ const empresas = [
   },
   {
     "empresa": "COLEGIO NTRA. SRA. DE LAS MERCEDES",
-    "direccion": "Calle cristo de urda 22",
+    "direccion": "Calle de urda 00022",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -40483,7 +40483,7 @@ const empresas = [
   },
   {
     "empresa": "SALESIANOS PUERTOLLANO \"SAN JUAN BOSCO\"",
-    "direccion": "Calle maria auxiliadora 18",
+    "direccion": "Calle auxiliadora 00018",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40496,7 +40496,7 @@ const empresas = [
   },
   {
     "empresa": "COLEGIO NUESTRA SEÑORA DE LOS DOLORES",
-    "direccion": "Calle sebastian bermejo 18",
+    "direccion": "Calle bermejo 00018",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -40509,7 +40509,7 @@ const empresas = [
   },
   {
     "empresa": "COLEGIO HERMANO GARATE",
-    "direccion": "Calle ramirez de arellano 1",
+    "direccion": "Calle de arellano 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40522,7 +40522,7 @@ const empresas = [
   },
   {
     "empresa": "CARRAZON TRUJILLO BEATRIZ",
-    "direccion": "Calle ferrocarril 49 bj",
+    "direccion": "Calle 00049 bajo",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -40535,7 +40535,7 @@ const empresas = [
   },
   {
     "empresa": "GONZALEZ LOPEZ MARIA DEL MONTE",
-    "direccion": "Calle reyes catolicos 27",
+    "direccion": "Calle catolicos 00027",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -40548,7 +40548,7 @@ const empresas = [
   },
   {
     "empresa": "SALESIANOS PUERTOLLANO \"SAN JUAN BOSCO\"",
-    "direccion": "Calle maria auxiliadora 18",
+    "direccion": "Calle auxiliadora 00018",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40561,7 +40561,7 @@ const empresas = [
   },
   {
     "empresa": "NUESTRA SEÑORA DE ALARCOS SDAD.COOP. CASTILLA LA MANCHA",
-    "direccion": "Calle zarza 10",
+    "direccion": "Calle 00010",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -40574,7 +40574,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC PARA DESARROLLO DE LAS ESTRUCTURAS SOCIALES",
-    "direccion": "Calle almagro 23",
+    "direccion": "Calle 00023",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -40587,7 +40587,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION COMARCAL PRO CAPACIDAD DE LA SOLANA",
-    "direccion": "Calle trafalgar, s/n s/n",
+    "direccion": "Calle , s/n 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -40600,7 +40600,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS INFORMATICOS DE INTERNET Y FORMACION,S.L.",
-    "direccion": "Calle blasco ibañez 8",
+    "direccion": "Calle ibañez 00008",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -40613,7 +40613,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION INSERTA EMPLEO",
-    "direccion": "Calle granada 3 bj",
+    "direccion": "Calle 00003 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40626,7 +40626,7 @@ const empresas = [
   },
   {
     "empresa": "SP CONSULTORIA INTEGRADA,S.L.",
-    "direccion": "Rdalarcos 42",
+    "direccion": "Ronda 00042",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -40639,7 +40639,7 @@ const empresas = [
   },
   {
     "empresa": "COLEGIO LA MERCED-MIGUELTURRA SL",
-    "direccion": "Plde la virgen 25",
+    "direccion": "Plde la virgen 00025",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -40652,7 +40652,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO FORMACION INNOVACION E INVESTIGACION IND DE CLM",
-    "direccion": "Calle de la industria 5",
+    "direccion": "Calle la industria 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -40665,7 +40665,7 @@ const empresas = [
   },
   {
     "empresa": "UNIVERSIDAD POPULAR DE MIGUELTURRA",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -40678,7 +40678,7 @@ const empresas = [
   },
   {
     "empresa": "CAVASA 2008, S.L.",
-    "direccion": "Calle calatrava 44",
+    "direccion": "Calle 00044",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -40691,7 +40691,7 @@ const empresas = [
   },
   {
     "empresa": "DAVY --- RACHEL MARIA TH",
-    "direccion": "Calle italia 62a 32",
+    "direccion": "Calle 000062a 32",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -40704,7 +40704,7 @@ const empresas = [
   },
   {
     "empresa": "IES GREGORIO PRIETO",
-    "direccion": "Avenida de los estudiantes s/n",
+    "direccion": "Avenida los estudiantes 00000",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -40716,8 +40716,8 @@ const empresas = [
     "federacion": "UGT-SP"
   },
   {
-    "empresa": "IES JUAN D'OPAZO",
-    "direccion": "Calle calatrava 7",
+    "empresa": "IES JUAN DOPAZO",
+    "direccion": "Calle 00007",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -40730,7 +40730,7 @@ const empresas = [
   },
   {
     "empresa": "CEPA ANTONIO GALA",
-    "direccion": "Calle bernardo balbuena 5",
+    "direccion": "Calle balbuena 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -40743,7 +40743,7 @@ const empresas = [
   },
   {
     "empresa": "CIFP CENTRO INTEGRADO DE F.P. VIRGEN DE GRACIA",
-    "direccion": "Paseo san gregorio 82",
+    "direccion": "Paseo gregorio 00082",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40756,7 +40756,7 @@ const empresas = [
   },
   {
     "empresa": "IES MODESTO NAVARRO",
-    "direccion": "Avenida alcalde lopez posadas s/n",
+    "direccion": "Avenida lopez posadas 00000",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -40769,7 +40769,7 @@ const empresas = [
   },
   {
     "empresa": "IES FRANCISCO GARCÍA PAVÓN",
-    "direccion": "Avenida de antonio huertas 34",
+    "direccion": "Avenida antonio huertas 00034",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -40782,7 +40782,7 @@ const empresas = [
   },
   {
     "empresa": "EASD PEDRO ALMODÓVAR",
-    "direccion": "Plaza de la provincia 1",
+    "direccion": "Plaza la provincia 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40795,7 +40795,7 @@ const empresas = [
   },
   {
     "empresa": "IES JUAN BOSCO",
-    "direccion": "Avenida de los institutos s/n",
+    "direccion": "Avenida los institutos 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -40808,7 +40808,7 @@ const empresas = [
   },
   {
     "empresa": "IES ANTONIO CALVÍN",
-    "direccion": "Calle ejido de calatrava 3",
+    "direccion": "Calle de calatrava 00003",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -40821,7 +40821,7 @@ const empresas = [
   },
   {
     "empresa": "IES TORREÓN DEL ALCÁZAR",
-    "direccion": "Avenida torreon 6",
+    "direccion": "Avenida 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -40834,7 +40834,7 @@ const empresas = [
   },
   {
     "empresa": "IES CAMPO DE CALATRAVA",
-    "direccion": "Calle tomillo s/n",
+    "direccion": "Calle 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -40847,7 +40847,7 @@ const empresas = [
   },
   {
     "empresa": "IES DÁMASO ALONSO",
-    "direccion": "Avenida de almaden s/n",
+    "direccion": "Avenida almaden 00000",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40860,7 +40860,7 @@ const empresas = [
   },
   {
     "empresa": "IES LEONARDO DA VINCI",
-    "direccion": "Calle fernando el santo 86",
+    "direccion": "Calle el santo 00086",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40873,7 +40873,7 @@ const empresas = [
   },
   {
     "empresa": "IES ATENEA",
-    "direccion": "Avenida puente de retama 1",
+    "direccion": "Avenida de retama 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -40886,7 +40886,7 @@ const empresas = [
   },
   {
     "empresa": "SALESIANOS PUERTOLLANO \"SAN JUAN BOSCO\"",
-    "direccion": "Calle portugal 1",
+    "direccion": "Calle 00001",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -40899,7 +40899,7 @@ const empresas = [
   },
   {
     "empresa": "SALESIANOS CIUDAD REAL SANTO TOMAS DE VILLANUEVA",
-    "direccion": "Calle ramirez de arellano 1",
+    "direccion": "Calle de arellano 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -40911,8 +40911,8 @@ const empresas = [
     "federacion": "UGT-SP"
   },
   {
-    "empresa": "IES JUAN D'OPAZO",
-    "direccion": "Calle calatrava 7",
+    "empresa": "IES JUAN DOPAZO",
+    "direccion": "Calle 00007",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -40925,7 +40925,7 @@ const empresas = [
   },
   {
     "empresa": "LA MANCHA FORMACION DE CONDUCTORES,S.L",
-    "direccion": "Calle jacinto s/n",
+    "direccion": "Calle 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -40938,7 +40938,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOESCUELA EQUIS S.L.",
-    "direccion": "Calle general alcañiz 26",
+    "direccion": "Calle alcañiz 00026",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -40951,7 +40951,7 @@ const empresas = [
   },
   {
     "empresa": "AUTOESCUELA CASTELLANOS CENTRO",
-    "direccion": "Calle toledo 42",
+    "direccion": "Calle 00042",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -40964,7 +40964,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION DE PADRES Y AMIGOS DEL SORDO. ASPAS",
-    "direccion": "Grresidencial ronda 6",
+    "direccion": "Grresidencial ronda 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -40977,7 +40977,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION FUENSANTA PARA PERSONAS CON DISCAPACIDAD",
-    "direccion": "Avenida fuensanta 61",
+    "direccion": "Avenida 00061",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -40990,7 +40990,7 @@ const empresas = [
   },
   {
     "empresa": "AUTRADE",
-    "direccion": "Calle santa maria de alarcos 2",
+    "direccion": "Calle maria de alarcos 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -41003,7 +41003,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO DE ESTUDIOS CEAT S.L.",
-    "direccion": "Calle campo 84",
+    "direccion": "Calle 00084",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -41016,7 +41016,7 @@ const empresas = [
   },
   {
     "empresa": "CENFORADE, S.L.",
-    "direccion": "Calle carros s/n58",
+    "direccion": "Calle 0000058",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -41029,7 +41029,7 @@ const empresas = [
   },
   {
     "empresa": "LA BOLA DE CRISTAL COMARCA DE ALCAZAR, S.L.",
-    "direccion": "Calle dc bonardell 7 1 e",
+    "direccion": "Calle bonardell 00007 1 e",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41042,7 +41042,7 @@ const empresas = [
   },
   {
     "empresa": "NALLAM FORMACION, S.L.",
-    "direccion": "Carretera argamasilla de alba s/n",
+    "direccion": "Carretera de alba 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -41055,7 +41055,7 @@ const empresas = [
   },
   {
     "empresa": "ETIC FORMACION LA MANCHA, S.L.",
-    "direccion": "Calle de la feria 2 bj",
+    "direccion": "Calle la feria 00002 bajo",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -41068,7 +41068,7 @@ const empresas = [
   },
   {
     "empresa": "FIRST-CLASS, C.B.",
-    "direccion": "Calle sagasta 31",
+    "direccion": "Calle 00031",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -41081,7 +41081,7 @@ const empresas = [
   },
   {
     "empresa": "COOPERACTIVA, FUNDACION PROM DEL COOP.AGROALIMENTARIO",
-    "direccion": "Avenida criptana 43",
+    "direccion": "Avenida 00043",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41094,7 +41094,7 @@ const empresas = [
   },
   {
     "empresa": "SCHOOL OF ENGLISH CIUDAD REAL,S.L.U",
-    "direccion": "Avenida tablas de daimiel 4",
+    "direccion": "Avenida de daimiel 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -41107,7 +41107,7 @@ const empresas = [
   },
   {
     "empresa": "MENA OCTAVIO MANUELA",
-    "direccion": "Avenida sara montiel 20",
+    "direccion": "Avenida montiel 00020",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -41120,7 +41120,7 @@ const empresas = [
   },
   {
     "empresa": "ALCAZAR PALOMARES FRANCISCO JAVIE",
-    "direccion": "Calle cardenal monescillo 28",
+    "direccion": "Calle monescillo 00028",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -41133,7 +41133,7 @@ const empresas = [
   },
   {
     "empresa": "FORTRADE GESTION S.L.",
-    "direccion": "Rlparque luz calle mejico 6",
+    "direccion": "Rlparque luz calle mejico 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -41146,7 +41146,7 @@ const empresas = [
   },
   {
     "empresa": "LICEO FORMACIÓN INTEGRAL,S.L",
-    "direccion": "Calle toledo 58",
+    "direccion": "Calle 00058",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -41159,7 +41159,7 @@ const empresas = [
   },
   {
     "empresa": "QUALIF SCOOP DE C-LM",
-    "direccion": "Avenida lagunas de ruidera 12bi",
+    "direccion": "Avenida de ruidera 00012bi",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -41172,7 +41172,7 @@ const empresas = [
   },
   {
     "empresa": "M KRAMEL CENTER S.L.",
-    "direccion": "Carretera toledo edificio de negocios o. 106 26",
+    "direccion": "Carretera edificio de negocios o. 106 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -41185,7 +41185,7 @@ const empresas = [
   },
   {
     "empresa": "ACADEMIA LEARNING FORMACION INTE",
-    "direccion": "Calle pelayo i 7",
+    "direccion": "Calle i 00007",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -41198,7 +41198,7 @@ const empresas = [
   },
   {
     "empresa": "OMBION . SLU",
-    "direccion": "Avenida españa parq empresarial entrecamino 1",
+    "direccion": "Avenida ña parq empresarial entrecamino 00001",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -41211,7 +41211,7 @@ const empresas = [
   },
   {
     "empresa": "TECNOVE CUSTOM TRUCKS, S.L.",
-    "direccion": "Calle industrial de herenca calle yeseros 2021",
+    "direccion": "Calle de herenca calle yeseros 0002021",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -41224,7 +41224,7 @@ const empresas = [
   },
   {
     "empresa": "RESPUESTAS FORMATIVAS SOCIEDAD",
-    "direccion": "Calle alarcón 6",
+    "direccion": "Calle ón 00006",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -41237,7 +41237,7 @@ const empresas = [
   },
   {
     "empresa": "AGRUPACION MUSICAL MAESTRO MARTI",
-    "direccion": "Calle tercia 32",
+    "direccion": "Calle 00032",
     "localidad": "ARGAMASILLA DE ALBA",
     "cp": "13710",
     "provincia": "CIUDAD REAL",
@@ -41250,7 +41250,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS INTEGRALES CIUDAD REAL S.L.",
-    "direccion": "Carretera toledo, s/n, apartado correos 489",
+    "direccion": "Carretera , s/n, apartado correos 00489",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -41263,7 +41263,7 @@ const empresas = [
   },
   {
     "empresa": "EN CLAVE DE TI SC",
-    "direccion": "Calle torrecillas 12 bj",
+    "direccion": "Calle 00012 bajo",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -41276,7 +41276,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION INVESTIGACION Y MEJORA CUALIF. Y EMPLEA. CLM",
-    "direccion": "Calle blasco ibañez 8",
+    "direccion": "Calle ibañez 00008",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -41289,7 +41289,7 @@ const empresas = [
   },
   {
     "empresa": "NAES CONSULTING, S.L.",
-    "direccion": "Calle cristo de la vega 10",
+    "direccion": "Calle de la vega 00010",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -41302,7 +41302,7 @@ const empresas = [
   },
   {
     "empresa": "INTEGRA OPOSICIONES S.L.",
-    "direccion": "Calle villalta 5 a",
+    "direccion": "Calle 00005 a",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -41315,7 +41315,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION CULTURAL \"MOLINA PRADOS GABRIEL\"",
-    "direccion": "Calle gomez montalban s/n",
+    "direccion": "Calle montalban 00000",
     "localidad": "HERENCIA",
     "cp": "13640",
     "provincia": "CIUDAD REAL",
@@ -41328,7 +41328,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC EMPLEACASTILLALAMANCHA",
-    "direccion": "Calle carros 58",
+    "direccion": "Calle 00058",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -41341,7 +41341,7 @@ const empresas = [
   },
   {
     "empresa": "CALERO IZQUIERDO NURIA",
-    "direccion": "Calle cervantes 13",
+    "direccion": "Calle 00013",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -41354,7 +41354,7 @@ const empresas = [
   },
   {
     "empresa": "AESRAFOR AESRAFOR .",
-    "direccion": "Calle luz 6 3 a",
+    "direccion": "Calle 00006 3 a",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -41367,7 +41367,7 @@ const empresas = [
   },
   {
     "empresa": "FORMACION ONLINE BIG DATA, SOCIEDAD LIMITADA",
-    "direccion": "Calle general aguilera 3 4 c",
+    "direccion": "Calle aguilera 00003 4 c",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -41380,7 +41380,7 @@ const empresas = [
   },
   {
     "empresa": "MASTER DISTANCIA,S.A.",
-    "direccion": "Calle bernardo barlbuena 8",
+    "direccion": "Calle barlbuena 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -41393,7 +41393,7 @@ const empresas = [
   },
   {
     "empresa": "OBLIGADO CUMPLIMIENTO, SOCIEDAD LIMITADA",
-    "direccion": "Avenida de la tecnologia 25 19",
+    "direccion": "Avenida la tecnologia 00025 19",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41406,7 +41406,7 @@ const empresas = [
   },
   {
     "empresa": "MUEVETE CENTRO DE ESTUDIOS PROFESIONALES S.L.",
-    "direccion": "Carretera fuensanta 20",
+    "direccion": "Carretera 00020",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -41419,7 +41419,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS INFORMATICOS DE INTERNET Y FORMACION SL",
-    "direccion": "Calle blasco ibañez 8",
+    "direccion": "Calle ibañez 00008",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -41432,7 +41432,7 @@ const empresas = [
   },
   {
     "empresa": "SAVEFORCE ESPAÑA, SOCIEDAD LIMITADA",
-    "direccion": "Carretera argamasilla de alba km 1 s/n",
+    "direccion": "Carretera de alba km 1 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -41445,7 +41445,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO DE DESARROLLO PROFESIONAL INTEGRAL S.L.",
-    "direccion": "Calle de la mata 3 1 a",
+    "direccion": "Calle la mata 00003 1 a",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -41458,7 +41458,7 @@ const empresas = [
   },
   {
     "empresa": "HO OMAKA SERVICIOS, S.L.",
-    "direccion": "Carretera piedrabuena s/n",
+    "direccion": "Carretera 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -41471,7 +41471,7 @@ const empresas = [
   },
   {
     "empresa": "GARCIA-BALTASAR RUIZ CARLOS",
-    "direccion": "Calle puerto 3",
+    "direccion": "Calle 00003",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -41484,7 +41484,7 @@ const empresas = [
   },
   {
     "empresa": "BODEGAS CENTRO ESPAÑOLAS, S.A.",
-    "direccion": "Carretera alcázar km 1 1 s/n",
+    "direccion": "Carretera ázar km 1 1 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -41497,7 +41497,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO MEDICO ESTRELLA SOFIA, S.L.",
-    "direccion": "Carretera valdepeñas 9 1",
+    "direccion": "Carretera ñas 00009 1",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -41510,7 +41510,7 @@ const empresas = [
   },
   {
     "empresa": "JADICEN, S.L.",
-    "direccion": "Calle san marcos 36",
+    "direccion": "Calle marcos 00036",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -41523,7 +41523,7 @@ const empresas = [
   },
   {
     "empresa": "CENTRO MEDICO LAMAR, S.L.",
-    "direccion": "Calle pintor francisco carretero 11",
+    "direccion": "Calle francisco carretero 00011",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -41536,7 +41536,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA BAVIERA S.A.",
-    "direccion": "Calle del prado 6",
+    "direccion": "Calle prado 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -41549,7 +41549,7 @@ const empresas = [
   },
   {
     "empresa": "S.J.S.MEDICA,SL",
-    "direccion": "Ur urb las norias 6",
+    "direccion": "Ur urb las norias 00006",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -41562,7 +41562,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO MULTIDISCIPLINAR DE ONCOLOGIA, S.A",
-    "direccion": "Calle doctor jesus gonzalez merlo s/n s/n",
+    "direccion": "Calle jesus gonzalez merlo s/n 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41575,7 +41575,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA RUBAL, S.L.",
-    "direccion": "Calle alemania 32",
+    "direccion": "Calle 00032",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -41588,7 +41588,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICAS MEDFYR, S.L.",
-    "direccion": "Avenida criptana 6",
+    "direccion": "Avenida 00006",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41601,7 +41601,7 @@ const empresas = [
   },
   {
     "empresa": "CARDIORREAL S.L.",
-    "direccion": "Calle diego de mazariegos 1 3 5ºb",
+    "direccion": "Calle de mazariegos 00001 3 5ºb",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -41614,7 +41614,7 @@ const empresas = [
   },
   {
     "empresa": "LUCMARDEN, S.L. UNIPERSONAL",
-    "direccion": "Calle seis de junio 66",
+    "direccion": "Calle de junio 00066",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -41627,7 +41627,7 @@ const empresas = [
   },
   {
     "empresa": "MERLO SANCHEZ GREGORIO",
-    "direccion": "Avenida rey santo 4",
+    "direccion": "Avenida santo 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -41640,7 +41640,7 @@ const empresas = [
   },
   {
     "empresa": "MARTIN FERNANDEZ MARIA CARME",
-    "direccion": "Calle goya 40",
+    "direccion": "Calle 00040",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -41653,7 +41653,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA LONDRES S.L.",
-    "direccion": "Paseo prado 6",
+    "direccion": "Paseo 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -41666,7 +41666,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA LFC, S.L.",
-    "direccion": "Avenida andalucia 42",
+    "direccion": "Avenida 00042",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -41679,7 +41679,7 @@ const empresas = [
   },
   {
     "empresa": "REAL CITY PROJECT, SOCIEDAD LIMITADA",
-    "direccion": "Calle alarcos 7",
+    "direccion": "Calle 00007",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -41692,7 +41692,7 @@ const empresas = [
   },
   {
     "empresa": "SANUS FISIOTERAPIA S.L",
-    "direccion": "Calle alcantara 5",
+    "direccion": "Calle 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -41705,7 +41705,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA SALDIVAR S.L.",
-    "direccion": "Calle fernando alonso de coca 12 lc1",
+    "direccion": "Calle alonso de coca 00012 lc1",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -41718,7 +41718,7 @@ const empresas = [
   },
   {
     "empresa": "CIMEC SALUD S.L.",
-    "direccion": "Avenida parque de cabaneros s/n 2 3 bj",
+    "direccion": "Avenida de cabaneros 00000 2 3 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -41731,7 +41731,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA TERESA CALVO, SOCIEDAD DE RESPONSABILIDAD LIMIT",
-    "direccion": "Calle general aguilera 8 3",
+    "direccion": "Calle aguilera 00008 3",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -41744,7 +41744,7 @@ const empresas = [
   },
   {
     "empresa": "INSTITUTO MANCHEGO DE GASTROENTEROLOGIA Y ENDOSCOPIA, S",
-    "direccion": "Urlos girasoles 3",
+    "direccion": "Urlos girasoles 00003",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -41757,7 +41757,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA DENTAL DOMI CRISTOBAL, S.L.",
-    "direccion": "Calle tinte 1 1 c",
+    "direccion": "Calle 00001 1 c",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -41770,7 +41770,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA DENTAL JESUS CABALLERO, S.L.",
-    "direccion": "Calle goya 8",
+    "direccion": "Calle 00008",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41783,7 +41783,7 @@ const empresas = [
   },
   {
     "empresa": "DENTILAND, S.L.",
-    "direccion": "Calle doctor alberca lorente 5",
+    "direccion": "Calle alberca lorente 00005",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41796,7 +41796,7 @@ const empresas = [
   },
   {
     "empresa": "ARTE DENTAL MANCHEGO, S.L.",
-    "direccion": "Avenida constitucion (edificio urbazo), s/n 1",
+    "direccion": "Avenida (edificio urbazo), s/n 00001",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41809,7 +41809,7 @@ const empresas = [
   },
   {
     "empresa": "SERRANO SACHEZ REY MARIA CRISTINA",
-    "direccion": "Calle ramon y cajal 3 2 a",
+    "direccion": "Calle y cajal 00003 2 a",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -41822,7 +41822,7 @@ const empresas = [
   },
   {
     "empresa": "CRIPTANA DENTAL, S.L.",
-    "direccion": "Calle sara montiel, 6",
+    "direccion": "Calle montiel, 00006",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -41835,7 +41835,7 @@ const empresas = [
   },
   {
     "empresa": "EPADENT, S.L.",
-    "direccion": "Calle soledad 4",
+    "direccion": "Calle 00004",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -41848,7 +41848,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO VERBO SANCHEZ, S.L.",
-    "direccion": "Calle arenas 3",
+    "direccion": "Calle 00003",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -41861,7 +41861,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA MAZUECOS SL",
-    "direccion": "Calle trinidad 26",
+    "direccion": "Calle 00026",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41874,7 +41874,7 @@ const empresas = [
   },
   {
     "empresa": "DACRIDENTAL, S.L.",
-    "direccion": "Avenida lagunas de ruidera 26",
+    "direccion": "Avenida de ruidera 00026",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -41887,7 +41887,7 @@ const empresas = [
   },
   {
     "empresa": "SERVICIOS ODONTOLOGICOS APALUNA, S.L.",
-    "direccion": "Calle oceania 2",
+    "direccion": "Calle 00002",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -41900,7 +41900,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA DENTAL A.I.MANZANEQUE S.L.PROFESIONAL UNIPERSON",
-    "direccion": "Calle general benavent garcia 13 dc1 f",
+    "direccion": "Calle benavent garcia 00013 dc1 f",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41913,7 +41913,7 @@ const empresas = [
   },
   {
     "empresa": "DI PAOLO Y ASOCIADOS SERVICIOS ODONTOLOGICOS S.L. UNI",
-    "direccion": "Paseo san isidro 17 bj",
+    "direccion": "Paseo isidro 00017 bajo",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -41926,7 +41926,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICAS TOTALDENT, S.L.U.",
-    "direccion": "Calle alamillo bajo 8 2ºa",
+    "direccion": "Calle bajo 00008 2ºa",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -41939,7 +41939,7 @@ const empresas = [
   },
   {
     "empresa": "GOMEZ COPERIAS MARIA CARMEN",
-    "direccion": "Calle don quijote 21",
+    "direccion": "Calle quijote 00021",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -41952,7 +41952,7 @@ const empresas = [
   },
   {
     "empresa": "RIVAS BALLESTEROS SL",
-    "direccion": "Avenida estudiantes 75 bj",
+    "direccion": "Avenida 00075 bajo",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -41965,7 +41965,7 @@ const empresas = [
   },
   {
     "empresa": "MAGNO MILENIUM, S.L.",
-    "direccion": "Calle jacinto 5",
+    "direccion": "Calle 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -41978,7 +41978,7 @@ const empresas = [
   },
   {
     "empresa": "POLA MORALES GONZALO",
-    "direccion": "Calle concepcion 1",
+    "direccion": "Calle 00001",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -41991,7 +41991,7 @@ const empresas = [
   },
   {
     "empresa": "ECN GESTION DE CLINICAS DENTALES, S.L.P.U.",
-    "direccion": "Calle rondilla cruz verde 148",
+    "direccion": "Calle cruz verde 00148",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -42004,7 +42004,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA DENTAL REQUENA ANIORTE,S.L",
-    "direccion": "Calle dulcinea del toboso 1",
+    "direccion": "Calle del toboso 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -42017,7 +42017,7 @@ const empresas = [
   },
   {
     "empresa": "CBG DENTAL 21, S.L.",
-    "direccion": "Plaza via crucis 2",
+    "direccion": "Plaza crucis 00002",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -42030,7 +42030,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA CAMPOS LEON, S.L.",
-    "direccion": "Paseo cervantes 25",
+    "direccion": "Paseo 00025",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -42043,7 +42043,7 @@ const empresas = [
   },
   {
     "empresa": "FRESNO DENT S.L.",
-    "direccion": "Calle toledo 30",
+    "direccion": "Calle 00030",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -42056,7 +42056,7 @@ const empresas = [
   },
   {
     "empresa": "ESTELI DENTAL S.L.",
-    "direccion": "Calle seis de junio 114",
+    "direccion": "Calle de junio 00114",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -42069,7 +42069,7 @@ const empresas = [
   },
   {
     "empresa": "VISO MONTOYA EMILIO",
-    "direccion": "Calle eras del cerrillo 2",
+    "direccion": "Calle del cerrillo 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -42082,7 +42082,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA DENTAL SAN GIL TORRES, S.L.U.",
-    "direccion": "Carretera de la solana 51 bj",
+    "direccion": "Carretera la solana 00051 bajo",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -42095,7 +42095,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA DENTAL MIGUELTURRA_S.L.P.",
-    "direccion": "Calle real 2",
+    "direccion": "Calle 00002",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -42108,7 +42108,7 @@ const empresas = [
   },
   {
     "empresa": "CATALANO CLINICA ODONTOLOGICA, S.L.",
-    "direccion": "Calle jupiter 18",
+    "direccion": "Calle 00018",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -42121,7 +42121,7 @@ const empresas = [
   },
   {
     "empresa": "DC CLINIC SOCIEDAD LIMITADA",
-    "direccion": "Paseo de cervantes 11",
+    "direccion": "Paseo cervantes 00011",
     "localidad": "SOCUELLAMOS",
     "cp": "13630",
     "provincia": "CIUDAD REAL",
@@ -42134,7 +42134,7 @@ const empresas = [
   },
   {
     "empresa": "IOM DENTAL SOCIEDAD LIMITADA",
-    "direccion": "Calle postas 2",
+    "direccion": "Calle 00002",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -42147,7 +42147,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA DENTAL CARMEN DIAZ SOC",
-    "direccion": "Calle mata 4",
+    "direccion": "Calle 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -42160,7 +42160,7 @@ const empresas = [
   },
   {
     "empresa": "ASISA DENTAL, S.A.",
-    "direccion": "Calle montesa 1",
+    "direccion": "Calle 00001",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -42173,7 +42173,7 @@ const empresas = [
   },
   {
     "empresa": "ESPINELA ODONTOLOGIA SL",
-    "direccion": "Avenida primero de mayo 6",
+    "direccion": "Avenida de mayo 00006",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -42186,7 +42186,7 @@ const empresas = [
   },
   {
     "empresa": "SAGASTUME PASTRE SEBASTIAN ZACAR",
-    "direccion": "Calle fernandez calzuelas 1 3",
+    "direccion": "Calle calzuelas 00001 3",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -42199,7 +42199,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA DENTAL MANZANARES, S L P",
-    "direccion": "Calle toledo 2",
+    "direccion": "Calle 00002",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -42212,7 +42212,7 @@ const empresas = [
   },
   {
     "empresa": "DENTINA ODONTOLÓGICA SL",
-    "direccion": "Plaza arenal 21",
+    "direccion": "Plaza 00021",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -42225,7 +42225,7 @@ const empresas = [
   },
   {
     "empresa": "HERNANZ MUÑOZ ANTONIO",
-    "direccion": "Calle castellanos 51 bj",
+    "direccion": "Calle 00051 bajo",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -42238,7 +42238,7 @@ const empresas = [
   },
   {
     "empresa": "GRUPO DE INVERSIONES PARIALFE, S.L.",
-    "direccion": "Calle encomienda 2",
+    "direccion": "Calle 00002",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -42251,7 +42251,7 @@ const empresas = [
   },
   {
     "empresa": "CASER SERVICIOS DE SALUD SA.",
-    "direccion": "Calle toledo 33 bj",
+    "direccion": "Calle 00033 bajo",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -42264,7 +42264,7 @@ const empresas = [
   },
   {
     "empresa": "INNOVACION CLINICA MANZANARES, S.L.",
-    "direccion": "Calle perez galdos 53",
+    "direccion": "Calle galdos 00053",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -42277,7 +42277,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA DENTAL GOI, SOCIEDAD LIMITADA",
-    "direccion": "Calle alamillo alto 4",
+    "direccion": "Calle alto 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -42290,7 +42290,7 @@ const empresas = [
   },
   {
     "empresa": "RESONANCIA ABIERTA ALCAZAR DE SAN JUAN, S.L.",
-    "direccion": "Calle rondilla cruz verde 167",
+    "direccion": "Calle cruz verde 00167",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -42303,7 +42303,7 @@ const empresas = [
   },
   {
     "empresa": "GUTIERREZ GONZALEZ JUAN DIEGO",
-    "direccion": "Calle antonio giraldo s/n. s/n bj",
+    "direccion": "Calle giraldo s/n. 00000 bajo",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -42316,7 +42316,7 @@ const empresas = [
   },
   {
     "empresa": "FISIOMAR 15 SOCIEDAD LIMITADA",
-    "direccion": "Calle ronda de alarcos 42",
+    "direccion": "Calle de alarcos 00042",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -42329,7 +42329,7 @@ const empresas = [
   },
   {
     "empresa": "CARRETERO CARRASCO JAVIER",
-    "direccion": "Calle campo 40 baj",
+    "direccion": "Calle 00040 baj",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -42342,7 +42342,7 @@ const empresas = [
   },
   {
     "empresa": "INHALA, SOCIEDAD LIMITADA",
-    "direccion": "Calle pozo santa quiteria 4",
+    "direccion": "Calle santa quiteria 00004",
     "localidad": "SOLANA, LA",
     "cp": "13240",
     "provincia": "CIUDAD REAL",
@@ -42355,7 +42355,7 @@ const empresas = [
   },
   {
     "empresa": "CLINICA CLIFIS, SOCIEDAD LIMITADA",
-    "direccion": "Calle real 72 bj",
+    "direccion": "Calle 00072 bajo",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -42368,7 +42368,7 @@ const empresas = [
   },
   {
     "empresa": "VELAGUA CORPORACION INDUSTRIAL Y FINANCIERA S.L.",
-    "direccion": "Calle ciudad real s/n",
+    "direccion": "Calle real 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -42381,7 +42381,7 @@ const empresas = [
   },
   {
     "empresa": "ARAQUE MOLINA JUAN",
-    "direccion": "Calle plaza san pedro con c/ progreso 9",
+    "direccion": "Calle san pedro con c/ progreso 00009",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -42394,7 +42394,7 @@ const empresas = [
   },
   {
     "empresa": "JUAN MARCOS MORENO SOCIEDAD LIM",
-    "direccion": "Calle lirio 8",
+    "direccion": "Calle 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -42407,7 +42407,7 @@ const empresas = [
   },
   {
     "empresa": "INVERSIONES CAPRALI 2005, S.L.L.",
-    "direccion": "Plaza mayor 21 3",
+    "direccion": "Plaza 00021 3",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -42420,7 +42420,7 @@ const empresas = [
   },
   {
     "empresa": "ASESORAMIENTO MEDICO SIGLO XXI, S.L.",
-    "direccion": "Calle concordia 8 2 b",
+    "direccion": "Calle 00008 2 b",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -42433,7 +42433,7 @@ const empresas = [
   },
   {
     "empresa": "AC HEALTH GROUP SL",
-    "direccion": "Carretera de la solana de manzanares 32",
+    "direccion": "Carretera la solana de manzanares 00032",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -42446,7 +42446,7 @@ const empresas = [
   },
   {
     "empresa": "INTERACTUA SOCIEDAD LIMITADA P",
-    "direccion": "Rdalarcos 32",
+    "direccion": "Ronda 00032",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -42459,7 +42459,7 @@ const empresas = [
   },
   {
     "empresa": "MAMA MIMADA, SOCIEDAD LIMITADA",
-    "direccion": "Calle lirio 18 1-2",
+    "direccion": "Calle 00018 1-2",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -42472,7 +42472,7 @@ const empresas = [
   },
   {
     "empresa": "MEDICINA REHABILITADORA SL",
-    "direccion": "Avenida virgen de fátima 6",
+    "direccion": "Avenida de fátima 00006",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -42485,7 +42485,7 @@ const empresas = [
   },
   {
     "empresa": "CONGREGACION HERMANITAS DE LOS ANCIANOS DESAMPARADOS",
-    "direccion": "Calle calatrava 51",
+    "direccion": "Calle 00051",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -42498,7 +42498,7 @@ const empresas = [
   },
   {
     "empresa": "PARROQUIA NUESTRA SEÑORA DE LA ASUNCION DE MIGUELTURRA",
-    "direccion": "Calle santo tomas de villanueva s/n",
+    "direccion": "Calle tomas de villanueva 00000",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -42511,7 +42511,7 @@ const empresas = [
   },
   {
     "empresa": "RESIDENCIA DE ANCIANOS SANTO ANGEL",
-    "direccion": "Carretera toledo 6",
+    "direccion": "Carretera 00006",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -42524,7 +42524,7 @@ const empresas = [
   },
   {
     "empresa": "RESIDENCIA ALCAZAR SAN JUAN HERMANITAS ANCIANOS DESAMPA",
-    "direccion": "Avenida santa teresa jornet, s/n s/n",
+    "direccion": "Avenida teresa jornet, s/n 00000",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -42537,7 +42537,7 @@ const empresas = [
   },
   {
     "empresa": "RENUSA RESIDENCIA, S.L.",
-    "direccion": "Calle monjas franciscas 14",
+    "direccion": "Calle franciscas 00014",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -42550,7 +42550,7 @@ const empresas = [
   },
   {
     "empresa": "HOGAR BEATA MARIA JOSEFA SIERVAS DE JESUS DE LA CARIDAD",
-    "direccion": "Calle don tomas el medico 1",
+    "direccion": "Calle tomas el medico 00001",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -42563,7 +42563,7 @@ const empresas = [
   },
   {
     "empresa": "RESIDENCIA ACALIA, S.A.",
-    "direccion": "Calle manuel ferrer s/n",
+    "direccion": "Calle ferrer 00000",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -42576,7 +42576,7 @@ const empresas = [
   },
   {
     "empresa": "ESTRELLA DEL CARMEN, S.L.",
-    "direccion": "Calle mercurio 2",
+    "direccion": "Calle 00002",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -42589,7 +42589,7 @@ const empresas = [
   },
   {
     "empresa": "ATENCION Y SERVICIO A RESIDENTES, S.A.",
-    "direccion": "Carretera cordoba tarragona 285",
+    "direccion": "Carretera tarragona 00285",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -42602,7 +42602,7 @@ const empresas = [
   },
   {
     "empresa": "GESMAYOR GRUPO 5, S.L.",
-    "direccion": "Calle santiago garcia caballero, s/n s/n",
+    "direccion": "Calle garcia caballero, s/n 00000",
     "localidad": "ALMAGRO",
     "cp": "13270",
     "provincia": "CIUDAD REAL",
@@ -42615,7 +42615,7 @@ const empresas = [
   },
   {
     "empresa": "ESUPIME, S.L.",
-    "direccion": "Plaza grande 3",
+    "direccion": "Plaza 00003",
     "localidad": "MEMBRILLA",
     "cp": "13230",
     "provincia": "CIUDAD REAL",
@@ -42628,7 +42628,7 @@ const empresas = [
   },
   {
     "empresa": "ACJA ASISTENCIA SOCIAL SOCIEDAD",
-    "direccion": "Calle puerto rico 29",
+    "direccion": "Calle rico 00029",
     "localidad": "PEDRO MUÑOZ",
     "cp": "13620",
     "provincia": "CIUDAD REAL",
@@ -42641,7 +42641,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION CENTRO DE RECURSOS SOCIOSANITARIOS PARA LA VI",
-    "direccion": "Calle lepanto 16",
+    "direccion": "Calle 00016",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -42654,7 +42654,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC DE AMIGOS DE LA DISCAPACIDAD INTELECTUAL ADIN",
-    "direccion": "Avenida reina sofia 99",
+    "direccion": "Avenida sofia 00099",
     "localidad": "VILLANUEVA DE LOS INFANT",
     "cp": "13320",
     "provincia": "CIUDAD REAL",
@@ -42667,7 +42667,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION SOCIO SANITARIA DE CASTILLA LA MANCHA",
-    "direccion": "Calle irlanda 3",
+    "direccion": "Calle 00003",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -42680,7 +42680,7 @@ const empresas = [
   },
   {
     "empresa": "MUÑOZ RODRIGUEZ MARIA MERCEDES",
-    "direccion": "Calle avenida de fuensanta 56",
+    "direccion": "Calle de fuensanta 00056",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -42693,7 +42693,7 @@ const empresas = [
   },
   {
     "empresa": "GESTORA DE RESIDENCIAS MANCHEGAS, S.L.",
-    "direccion": "Cmnavaseca s/n s/n",
+    "direccion": "Camino s/n 00000",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -42706,7 +42706,7 @@ const empresas = [
   },
   {
     "empresa": "GARCINIA 12, S.L.",
-    "direccion": "Calle alcaldedanielalmansares.virgenmonte s/n",
+    "direccion": "Calle 00000",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -42719,7 +42719,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION CUIDAR Y CURAR",
-    "direccion": "Avenida avd de españa 12",
+    "direccion": "Avenida de españa 00012",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -42732,7 +42732,7 @@ const empresas = [
   },
   {
     "empresa": "CALVO SANCHEZ EUSEBIO LUIS",
-    "direccion": "Calle bajada al pozuelo 9",
+    "direccion": "Calle al pozuelo 00009",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -42745,7 +42745,7 @@ const empresas = [
   },
   {
     "empresa": "IRACHE SALUD MENTAL, SOCIEDAD LIMITADA",
-    "direccion": "Calle obispo rafael torija 5 2",
+    "direccion": "Calle rafael torija 00005 2",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -42758,7 +42758,7 @@ const empresas = [
   },
   {
     "empresa": "CONGREGACION HERMANITAS ANCIANOS DESAMPARADOS CAMPO CRI",
-    "direccion": "Avenida hispanidad 19",
+    "direccion": "Avenida 00019",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -42771,7 +42771,7 @@ const empresas = [
   },
   {
     "empresa": "DELGADO TORIBIO ANDREA",
-    "direccion": "Calle san bernardo 28",
+    "direccion": "Calle bernardo 00028",
     "localidad": "MALAGON",
     "cp": "13420",
     "provincia": "CIUDAD REAL",
@@ -42784,7 +42784,7 @@ const empresas = [
   },
   {
     "empresa": "REMAR RESIDENCIAS, S.L.",
-    "direccion": "Calle juan xxiii 33",
+    "direccion": "Calle xxiii 00033",
     "localidad": "AGUDO",
     "cp": "13410",
     "provincia": "CIUDAD REAL",
@@ -42797,7 +42797,7 @@ const empresas = [
   },
   {
     "empresa": "GERIATRICOS CALATRAVA, S.L.",
-    "direccion": "Calle san francisco 5 3 d",
+    "direccion": "Calle francisco 00005 3 d",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -42810,7 +42810,7 @@ const empresas = [
   },
   {
     "empresa": "DESARROLLO EN DEPENDENCIA ALMURADIEL SL",
-    "direccion": "Calle madrid cadiz 232",
+    "direccion": "Calle cadiz 00232",
     "localidad": "ALMURADIEL",
     "cp": "13760",
     "provincia": "CIUDAD REAL",
@@ -42823,7 +42823,7 @@ const empresas = [
   },
   {
     "empresa": "RESIDENCIA VIRGEN DEL ROSARIO",
-    "direccion": "Calle real 67",
+    "direccion": "Calle 00067",
     "localidad": "VILLAMAYOR DE CALATRAVA",
     "cp": "13595",
     "provincia": "CIUDAD REAL",
@@ -42836,7 +42836,7 @@ const empresas = [
   },
   {
     "empresa": "APRENDE A VIVIR ARGAMASILLA SL",
-    "direccion": "Avenida de la libertad s/n",
+    "direccion": "Avenida la libertad 00000",
     "localidad": "ARGAMASILLA DE CALATRAVA",
     "cp": "13440",
     "provincia": "CIUDAD REAL",
@@ -42849,7 +42849,7 @@ const empresas = [
   },
   {
     "empresa": "SENIOR GESTION SOCIAL, S.L.",
-    "direccion": "Paseo carlos eraña 4",
+    "direccion": "Paseo eraña 00004",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -42862,7 +42862,7 @@ const empresas = [
   },
   {
     "empresa": "APRENDE A VIVIR CIUDAD REAL SL",
-    "direccion": "Calle obispo rafael torija 5",
+    "direccion": "Calle rafael torija 00005",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -42875,7 +42875,7 @@ const empresas = [
   },
   {
     "empresa": "REILLO CASARRUBIOS ROSA MARÍA",
-    "direccion": "Calle huertos 47",
+    "direccion": "Calle 00047",
     "localidad": "CAMPO DE CRIPTANA",
     "cp": "13610",
     "provincia": "CIUDAD REAL",
@@ -42888,7 +42888,7 @@ const empresas = [
   },
   {
     "empresa": "AGORA SENIOR LIVING SL",
-    "direccion": "Calle mayor 36",
+    "direccion": "Calle 00036",
     "localidad": "ALBALADEJO",
     "cp": "13340",
     "provincia": "CIUDAD REAL",
@@ -42901,7 +42901,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION HORUELO",
-    "direccion": "Calle cervantes 9",
+    "direccion": "Calle 00009",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -42914,7 +42914,7 @@ const empresas = [
   },
   {
     "empresa": "UNIGES 3 SL",
-    "direccion": "Plaza españa 1",
+    "direccion": "Plaza ña 00001",
     "localidad": "ALCOBA",
     "cp": "13116",
     "provincia": "CIUDAD REAL",
@@ -42927,7 +42927,7 @@ const empresas = [
   },
   {
     "empresa": "TAR 2022 ATENCION A DOMICILIO, SL",
-    "direccion": "Avenida de los castillejos 129",
+    "direccion": "Avenida los castillejos 00129",
     "localidad": "POBLETE",
     "cp": "13195",
     "provincia": "CIUDAD REAL",
@@ -42940,7 +42940,7 @@ const empresas = [
   },
   {
     "empresa": "BCM SOCIALSER SOCIEDAD LIMITADA",
-    "direccion": "Plaza de espana 1",
+    "direccion": "Plaza espana 00001",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -42953,7 +42953,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC PARA LA MEJORA Y LA SALUD AMAS",
-    "direccion": "Calle eladio cabañero 4",
+    "direccion": "Calle cabañero 00004",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -42966,7 +42966,7 @@ const empresas = [
   },
   {
     "empresa": "TU IMPORTAS",
-    "direccion": "Calle aragon 21",
+    "direccion": "Calle 00021",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -42979,7 +42979,7 @@ const empresas = [
   },
   {
     "empresa": "RAMAS DEL VIEJO MARIA ISABEL",
-    "direccion": "Calle antonio machado 28",
+    "direccion": "Calle machado 00028",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -42992,7 +42992,7 @@ const empresas = [
   },
   {
     "empresa": "GEROSOL ASISTENCIA, S.L.",
-    "direccion": "Calle vicente aleixandre 18 lo",
+    "direccion": "Calle aleixandre 00018 lo",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -43005,7 +43005,7 @@ const empresas = [
   },
   {
     "empresa": "ORGANIZACION NACIONAL DE CIEGOS ESPAÑOLES",
-    "direccion": "Calle ruiz morote 9",
+    "direccion": "Calle morote 00009",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -43018,7 +43018,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC.A TU LADO, PADRES DE PERSONAS CON DISCAPACIDAD",
-    "direccion": "Plaza constitucion s/n. s/n",
+    "direccion": "Plaza s/n. 00000",
     "localidad": "VILLARRUBIA DE LOS OJOS",
     "cp": "13670",
     "provincia": "CIUDAD REAL",
@@ -43031,7 +43031,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION ELDER",
-    "direccion": "Calle alcalde ramón gonzález martínez s/n",
+    "direccion": "Calle ramón gonzález martínez 00000",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -43044,7 +43044,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION FAMILIARES ENFERMOS ALZHEIMER",
-    "direccion": "Calle oriente 161",
+    "direccion": "Calle 00161",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -43057,7 +43057,7 @@ const empresas = [
   },
   {
     "empresa": "SOLIDARIDAD DEL HENARES - PROYECTO HOMBRE",
-    "direccion": "Calle san antonio 6",
+    "direccion": "Calle antonio 00006",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -43070,7 +43070,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION MINUSVALIDOS ALMADEN",
-    "direccion": "Calle ana isabel gil perez 19",
+    "direccion": "Calle isabel gil perez 00019",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -43083,7 +43083,7 @@ const empresas = [
   },
   {
     "empresa": "CENCIBELIS, S. COOP. DE CLM DE INICIATIVA SOCIAL",
-    "direccion": "Polígono la paz. calle uruguay 4",
+    "direccion": "Polígono paz. calle uruguay 00004",
     "localidad": "VALDEPEÑAS",
     "cp": "13300",
     "provincia": "CIUDAD REAL",
@@ -43096,7 +43096,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC FAMILIARES Y ENFERMOS DE ALZHEIMER Y OTRAS DEMENCI",
-    "direccion": "Calle real 40",
+    "direccion": "Calle 00040",
     "localidad": "VISO DEL MARQUES",
     "cp": "13770",
     "provincia": "CIUDAD REAL",
@@ -43109,7 +43109,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION ALIADOS POR LA INTEGRACION",
-    "direccion": "Calle caballeros 12",
+    "direccion": "Calle 00012",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -43122,7 +43122,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC. PARA LA INICIATIVA SOCIAL Y LA INTEGRACION",
-    "direccion": "Calle palma 8 bj1c",
+    "direccion": "Calle 00008 bj1c",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -43135,7 +43135,7 @@ const empresas = [
   },
   {
     "empresa": "FEDERACION DE ATAXIAS DE ESPAÑA - FEDAES",
-    "direccion": "Avenida tablas de daimiel 21 1 c",
+    "direccion": "Avenida de daimiel 00021 1 c",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -43148,7 +43148,7 @@ const empresas = [
   },
   {
     "empresa": "CASTILLA LA MANCHA ACTIVA",
-    "direccion": "Avenida rey santo 17",
+    "direccion": "Avenida santo 00017",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -43161,7 +43161,7 @@ const empresas = [
   },
   {
     "empresa": "MAIS ASISTENCIA, S.L.",
-    "direccion": "Plaza constitucion 2",
+    "direccion": "Plaza 00002",
     "localidad": "ALMODOVAR DEL CAMPO",
     "cp": "13580",
     "provincia": "CIUDAD REAL",
@@ -43174,7 +43174,7 @@ const empresas = [
   },
   {
     "empresa": "CALOR HUMANO 2008, SOCIEDAD LIMITADA",
-    "direccion": "Calle toledo 23 5 b",
+    "direccion": "Calle 00023 5 b",
     "localidad": "CIUDAD REAL",
     "cp": "13003",
     "provincia": "CIUDAD REAL",
@@ -43187,7 +43187,7 @@ const empresas = [
   },
   {
     "empresa": "ASOC FAMILIARES ENFERMOS PARKINSON Y OTR",
-    "direccion": "Calle oriente 161",
+    "direccion": "Calle 00161",
     "localidad": "TOMELLOSO",
     "cp": "13700",
     "provincia": "CIUDAD REAL",
@@ -43200,7 +43200,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION PARA LA GESTION INTEGRAL DE RECURSOS SOCIALE",
-    "direccion": "Calle plaza 14",
+    "direccion": "Calle 00014",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -43213,7 +43213,7 @@ const empresas = [
   },
   {
     "empresa": "VIDA SANA A DOMICILIO, S.L.",
-    "direccion": "Rdde alarcos nº 46 local s/n",
+    "direccion": "Ronda alarcos nº 46 local 00000",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",
@@ -43226,7 +43226,7 @@ const empresas = [
   },
   {
     "empresa": "KUYDAMOS ASISTENCIA A DOMICILIO, SOCIEDAD LIMITADA",
-    "direccion": "Plaza waldo ferrer 36",
+    "direccion": "Plaza ferrer 00036",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -43239,7 +43239,7 @@ const empresas = [
   },
   {
     "empresa": "RAMIREZ PINEDA MARTHA AZUCENA",
-    "direccion": "Calle general benavent garcia 14",
+    "direccion": "Calle benavent garcia 00014",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -43252,7 +43252,7 @@ const empresas = [
   },
   {
     "empresa": "ASOCIACION HUMANOS CON RECURSOS",
-    "direccion": "Rdciruela 24",
+    "direccion": "Ronda 00024",
     "localidad": "CIUDAD REAL",
     "cp": "13004",
     "provincia": "CIUDAD REAL",
@@ -43265,7 +43265,7 @@ const empresas = [
   },
   {
     "empresa": "FUNDACION ACCEM",
-    "direccion": "Calle postas 25 b",
+    "direccion": "Calle 00025 b",
     "localidad": "CIUDAD REAL",
     "cp": "13001",
     "provincia": "CIUDAD REAL",
@@ -43278,7 +43278,7 @@ const empresas = [
   },
   {
     "empresa": "MINAS DE ALMADEN Y ARRAYANES, S.A.",
-    "direccion": "Calle cerco de san teodoro s/n",
+    "direccion": "Calle de san teodoro 00000",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -43291,7 +43291,7 @@ const empresas = [
   },
   {
     "empresa": "FUNERARIA NOBLEJAS, S.A.",
-    "direccion": "Calle toledo 8",
+    "direccion": "Calle 00008",
     "localidad": "MANZANARES",
     "cp": "13200",
     "provincia": "CIUDAD REAL",
@@ -43304,7 +43304,7 @@ const empresas = [
   },
   {
     "empresa": "FUNERARIA Y TANATORIO ORTEGA, S.L.",
-    "direccion": "Calle santa elena 27",
+    "direccion": "Calle elena 00027",
     "localidad": "ALCAZAR DE SAN JUAN",
     "cp": "13600",
     "provincia": "CIUDAD REAL",
@@ -43317,7 +43317,7 @@ const empresas = [
   },
   {
     "empresa": "ARREAZA MALDONADO, S.L.",
-    "direccion": "Calle animas 38",
+    "direccion": "Calle 00038",
     "localidad": "BOLAÑOS DE CALATRAVA",
     "cp": "13260",
     "provincia": "CIUDAD REAL",
@@ -43330,7 +43330,7 @@ const empresas = [
   },
   {
     "empresa": "FUNERARIA TANATORIO ALFONSO X EL SABIO, S.L.",
-    "direccion": "Calle tomelloso 8",
+    "direccion": "Calle 00008",
     "localidad": "CIUDAD REAL",
     "cp": "13005",
     "provincia": "CIUDAD REAL",
@@ -43343,7 +43343,7 @@ const empresas = [
   },
   {
     "empresa": "SEFUCAL, S.L.",
-    "direccion": "Paseo del cementerio s/n s/n",
+    "direccion": "Paseo cementerio 00000 s/n",
     "localidad": "ALMADEN",
     "cp": "13400",
     "provincia": "CIUDAD REAL",
@@ -43356,7 +43356,7 @@ const empresas = [
   },
   {
     "empresa": "FUNERARIA TANATORIO DE PIEDRABUENA, S.L.",
-    "direccion": "Carretera navalpino s/n",
+    "direccion": "Carretera 00000",
     "localidad": "PIEDRABUENA",
     "cp": "13100",
     "provincia": "CIUDAD REAL",
@@ -43369,7 +43369,7 @@ const empresas = [
   },
   {
     "empresa": "HERMANOS CARABAÑO, S.L.",
-    "direccion": "Plaza lepanto 2",
+    "direccion": "Plaza 00002",
     "localidad": "DAIMIEL",
     "cp": "13250",
     "provincia": "CIUDAD REAL",
@@ -43382,7 +43382,7 @@ const empresas = [
   },
   {
     "empresa": "TANATORIO FUNERARIA VIRGEN DE GRACIA, S.L.",
-    "direccion": "Polígono sepes parc. 309 a 312 309",
+    "direccion": "Polígono parc. 309 a 312 00309",
     "localidad": "PUERTOLLANO",
     "cp": "13500",
     "provincia": "CIUDAD REAL",
@@ -43395,7 +43395,7 @@ const empresas = [
   },
   {
     "empresa": "FUCAS LA MANCHA, SL",
-    "direccion": "Avenida de alarcos (pol ind. el cristo) 3",
+    "direccion": "Avenida alarcos (pol ind. el cristo) 00003",
     "localidad": "MIGUELTURRA",
     "cp": "13170",
     "provincia": "CIUDAD REAL",
@@ -43408,7 +43408,7 @@ const empresas = [
   },
   {
     "empresa": "ENALTA SERVICIOS FUNERARIOS SL",
-    "direccion": "Rdde alarcón 20",
+    "direccion": "Ronda alarcón 00020",
     "localidad": "CIUDAD REAL",
     "cp": "13002",
     "provincia": "CIUDAD REAL",

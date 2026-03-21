@@ -11,9 +11,9 @@
             theme: {
                 extend: {
                     colors: {
-                        "fica": "#0284c7",   // Azul FICA
-                        "fesmc": "#f59e0b",  // Naranja FESMC
-                        "ugtsp": "#dc2626",  // Rojo UGT-SP
+                        "fica": "#0284c7",
+                        "fesmc": "#f59e0b",
+                        "ugtsp": "#dc2626",
                     },
                 },
             },
@@ -22,9 +22,7 @@
     <style>
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
-        body { background-color: #f1f5f9; }
-        
-        /* Lógica de Tarjetas con impacto visual alto */
+        body { background-color: #f1f5f9; padding-bottom: 100px; }
         .card-fica { border: 1px solid #bae6fd; border-left: 8px solid #0284c7; background-color: #f0f9ff; }
         .card-fesmc { border: 1px solid #fef3c7; border-left: 8px solid #f59e0b; background-color: #fffbeb; }
         .card-ugtsp { border: 1px solid #fecaca; border-left: 8px solid #dc2626; background-color: #fef2f2; }
@@ -59,9 +57,13 @@
 </header>
 
 <main class="px-5 py-6">
-    <div id="lista-empresas" class="grid gap-4">
-        </div>
+    <div id="lista-empresas" class="grid gap-4"></div>
 </main>
+
+<button id="btn-exportar" class="fixed bottom-6 right-6 bg-emerald-600 text-white p-4 rounded-full shadow-2xl flex items-center gap-2 hover:bg-emerald-700 active:scale-90 transition-all z-[60]">
+    <span class="material-symbols-outlined">download</span>
+    <span class="text-xs font-black uppercase pr-1">Exportar CSV</span>
+</button>
 
 <script src="datos.js"></script>
 
@@ -70,18 +72,49 @@
     const lista = document.getElementById('lista-empresas');
     const statsBar = document.getElementById('stats-bar');
     const filtrosBtn = document.querySelectorAll('.filter-btn');
+    const btnExportar = document.getElementById('btn-exportar');
     
     let filtroActivo = 'TODAS';
+    let actualesFiltrados = [];
 
-    // Configuración visual por federación
     const configFed = {
         'FICA': { card: 'card-fica', text: 'text-fica', badge: 'bg-fica text-white' },
         'FESMC': { card: 'card-fesmc', text: 'text-fesmc', badge: 'bg-fesmc text-white' },
         'UGT-SP': { card: 'card-ugtsp', text: 'text-ugtsp', badge: 'bg-ugtsp text-white' }
     };
 
+    function enviarWhatsApp(empresa, cif, fed, trabajadores, loc, dir) {
+        const urlMaps = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(dir + ', ' + loc)}`;
+        const mensaje = `*DATOS EMPRESA - CENSO 2026*%0A%0A` +
+                        `*🏢 Empresa:* ${empresa}%0A` +
+                        `*🆔 CIF:* ${cif}%0A` +
+                        `*🚩 Fed:* ${fed}%0A` +
+                        `*👥 Trab:* ${trabajadores}%0A` +
+                        `*📍 Loc:* ${loc}%0A` +
+                        `*🏠 Dir:* ${dir}%0A%0A` +
+                        `*🗺️ Ver en Maps:* ${urlMaps}`;
+        
+        window.open(`https://api.whatsapp.com/send?text=${mensaje}`, '_blank');
+    }
+
+    function exportarCSV() {
+        if (actualesFiltrados.length === 0) return;
+        let csvContent = "data:text/csv;charset=utf-8,";
+        csvContent += "Empresa;CIF;Federacion;Trabajadores;Localidad;CP;Direccion;CNAE;Descripcion\n";
+        actualesFiltrados.forEach(e => {
+            const fila = [`"${e.empresa}"`, `"${e.cif}"`, `"${e.federacion}"`, e.trabajadores, `"${e.localidad}"`, `"${e.cp}"`, `"${e.direccion}"`, `"${e.cnae}"`, `"${e.desc_cnae}"` ];
+            csvContent += fila.join(";") + "\n";
+        });
+        const encodedUri = encodeURI(csvContent);
+        const link = document.createElement("a");
+        link.setAttribute("href", encodedUri);
+        link.setAttribute("download", `Censo_CR_${new Date().toLocaleDateString()}.csv`);
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+
     function abrirRuta(dir, loc, cp) {
-        // Corrección de la URL de Google Maps para que sea más fiable
         const query = encodeURIComponent(`${dir}, ${loc}, ${cp}, España`);
         window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
     }
@@ -91,40 +124,39 @@
         const empleados = data.reduce((acc, curr) => acc + (parseInt(curr.trabajadores) || 0), 0);
         statsBar.innerHTML = `
             <div class="flex gap-4 items-center">
-                <span class="font-black text-slate-700 uppercase tracking-tighter italic">Resultados:</span>
-                <span class="font-bold text-slate-600 underline decoration-slate-300 underline-offset-4">${total} Empresas</span>
-                <span class="font-bold text-slate-600 underline decoration-slate-300 underline-offset-4">${empleados.toLocaleString()} Empl.</span>
+                <span class="font-black text-slate-700 uppercase tracking-tighter">Resultados:</span>
+                <span class="font-bold text-slate-600 underline decoration-slate-300 underline-offset-4">${total} Emp.</span>
+                <span class="font-bold text-slate-600 underline decoration-slate-300 underline-offset-4">${empleados.toLocaleString()} Trab.</span>
             </div>
         `;
     }
 
     function render(query = '') {
         if (typeof empresas === 'undefined') {
-            lista.innerHTML = '<div class="py-10 text-center text-slate-400 text-sm">Cargando datos... Genera datos.js primero.</div>';
+            lista.innerHTML = '<div class="py-10 text-center text-slate-400 text-sm italic">Cargando...</div>';
             return;
         }
 
         const q = query.toLowerCase().trim();
-        const filtrados = empresas.filter(e => {
-            const matchesQuery = e.empresa.toLowerCase().includes(q) || 
-                               e.localidad.toLowerCase().includes(q) || 
-                               e.cnae.toLowerCase().includes(q) ||
-                               e.cif.toLowerCase().includes(q);
-            
+        actualesFiltrados = empresas.filter(e => {
+            const matchesQuery = e.empresa.toLowerCase().includes(q) || e.localidad.toLowerCase().includes(q) || e.cnae.toLowerCase().includes(q) || e.cif.toLowerCase().includes(q);
             const fedKey = (e.federacion || '').toUpperCase();
             const matchesFed = filtroActivo === 'TODAS' ? true : fedKey === filtroActivo;
             return matchesQuery && matchesFed;
         });
 
-        actualizarStats(filtrados);
+        actualesFiltrados.sort((a, b) => (parseInt(b.trabajadores) || 0) - (parseInt(a.trabajadores) || 0));
+        actualizarStats(actualesFiltrados);
 
-        if (filtrados.length === 0) {
-            lista.innerHTML = '<div class="py-20 text-center text-slate-400 text-sm font-medium">No se han encontrado empresas</div>';
+        if (actualesFiltrados.length === 0) {
+            lista.innerHTML = '<div class="py-20 text-center text-slate-400 text-sm font-medium">Sin resultados</div>';
+            btnExportar.style.display = 'none';
             return;
         }
 
-        // Renderizado limitado a 100 para fluidez en móvil
-        lista.innerHTML = filtrados.slice(0, 100).map(e => {
+        btnExportar.style.display = 'flex';
+
+        lista.innerHTML = actualesFiltrados.slice(0, 80).map(e => {
             const fedKey = (e.federacion || '').toUpperCase();
             const estilo = configFed[fedKey] || { card: 'bg-white border-slate-200', text: 'text-slate-600', badge: 'bg-slate-500 text-white' };
             
@@ -140,7 +172,7 @@
                     <div class="text-right shrink-0">
                         <span class="block text-[10px] font-bold text-slate-400 mb-1">${e.cif}</span>
                         <div class="flex items-center justify-end gap-1.5 font-black ${estilo.text}">
-                            <span class="material-symbols-outlined text-[24px]">person</span>
+                            <span class="material-symbols-outlined text-[24px]">groups</span>
                             <span class="text-2xl tracking-tighter">${e.trabajadores}</span>
                         </div>
                     </div>
@@ -150,63 +182,13 @@
                     <span class="material-symbols-outlined text-[16px] text-slate-400 mt-0.5">inventory_2</span>
                     <div class="flex flex-col">
                         <span>CNAE: ${e.cnae || 'N/A'}</span>
-                        <span class="text-[10px] leading-tight text-slate-500 font-medium italic">${e.desc_cnae || 'Sin descripción disponible'}</span>
+                        <span class="text-[10px] leading-tight text-slate-500 font-medium italic">${e.desc_cnae || 'Sin descripción'}</span>
                     </div>
                 </div>
                 
-                <div class="space-y-2 mb-5 border-t border-slate-200/50 pt-3">
-                    <div class="flex items-center gap-2.5 text-slate-700 font-black">
+                <div class="space-y-2 mb-5 border-t border-slate-200/50 pt-3 text-slate-700">
+                    <div class="flex items-center gap-2.5 font-black uppercase text-[11px]">
                         <span class="material-symbols-outlined text-[18px] opacity-30">location_on</span>
-                        <span class="text-[11px] uppercase tracking-tight">${e.localidad} <span class="opacity-40 font-bold ml-1">(${e.cp})</span></span>
+                        <span>${e.localidad} <span class="opacity-40 font-bold ml-1">(${e.cp})</span></span>
                     </div>
-                    <div class="flex items-center gap-2.5 text-slate-500 font-medium">
-                        <span class="material-symbols-outlined text-[18px] opacity-30">map</span>
-                        <span class="text-[10px] italic truncate">${e.direccion || 'S/N'}</span>
-                    </div>
-                </div>
-
-                <div class="grid grid-cols-2 gap-3">
-                    <button onclick="abrirRuta('${e.direccion.replace(/'/g, "\\'")}', '${e.localidad}', '${e.cp}')" 
-                        class="bg-slate-800 text-white py-3 rounded-lg text-[10px] font-black uppercase tracking-widest flex items-center justify-center gap-2 shadow-lg shadow-slate-300 active:bg-black">
-                        <span class="material-symbols-outlined text-base">near_me</span> IR A LA EMPRESA
-                    </button>
-                    
-                    <button onclick="window.open('https://www.google.com/search?q=${encodeURIComponent(e.empresa + ' ' + e.localidad)}', '_blank')" 
-                        class="bg-white border-2 border-slate-200 text-slate-600 py-3 rounded-lg text-[10px] font-black uppercase flex items-center justify-center gap-2 active:bg-slate-50">
-                        <span class="material-symbols-outlined text-base">search</span> GOOGLE
-                    </button>
-                </div>
-            </div>
-            `;
-        }).join('');
-    }
-
-    // Lógica de botones de filtro
-    filtrosBtn.forEach(btn => btn.addEventListener('click', () => {
-        const fed = btn.dataset.fed;
-        filtrosBtn.forEach(b => {
-            const bFed = b.dataset.fed;
-            if (bFed === 'TODAS') {
-                b.className = "filter-btn px-4 py-2 rounded-lg bg-white border-2 border-slate-800 text-slate-800 text-[11px] font-black uppercase transition-all shadow-sm";
-            } else {
-                const color = bFed === 'FICA' ? 'fica' : bFed === 'FESMC' ? 'fesmc' : 'ugtsp';
-                b.className = `filter-btn px-4 py-2 rounded-lg bg-white border-2 border-${color} text-${color} text-[11px] font-black uppercase transition-all shadow-sm`;
-            }
-        });
-
-        if (fed === 'TODAS') {
-            btn.className = "filter-btn px-4 py-2 rounded-lg bg-slate-800 text-white text-[11px] font-black uppercase transition-all shadow-md";
-        } else {
-            const color = fed === 'FICA' ? 'fica' : fed === 'FESMC' ? 'fesmc' : 'ugtsp';
-            btn.className = `filter-btn px-4 py-2 rounded-lg bg-${color} text-white text-[11px] font-black uppercase transition-all shadow-md`;
-        }
-        
-        filtroActivo = fed;
-        render(buscador.value);
-    }));
-
-    buscador.addEventListener('input', (e) => render(e.target.value));
-    window.onload = () => setTimeout(render, 300);
-</script>
-</body>
-</html>
+                    <div class

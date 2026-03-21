@@ -11,12 +11,10 @@
             theme: {
                 extend: {
                     colors: {
-                        "primary": "#1e293b",
-                        "accent": "#4f46e5",
-                        "blanca": "#ef4444",
-                        "si": "#10b981",
+                        "fica": "#0284c7",   // Azul Océano
+                        "fesmc": "#f59e0b",  // Ámbar
+                        "ugtsp": "#8b5cf6",  // Violeta
                     },
-                    fontFamily: { "sans": ["Inter", "system-ui"] },
                 },
             },
         }
@@ -25,8 +23,11 @@
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
         body { background-color: #f8fafc; }
-        .card-blanca { border: 1px solid #e2e8f0; border-left: 6px solid #ef4444; }
-        .card-si { border: 1px solid #e2e8f0; border-left: 6px solid #10b981; }
+        
+        /* Bordes laterales según federación */
+        .border-fica { border-left: 6px solid #0284c7; }
+        .border-fesmc { border-left: 6px solid #f59e0b; }
+        .border-ugtsp { border-left: 6px solid #8b5cf6; }
     </style>
 </head>
 <body class="text-slate-900">
@@ -34,30 +35,30 @@
 <header class="sticky top-0 z-50 bg-white border-b border-slate-200 shadow-sm">
     <div class="px-5 py-4 flex items-center justify-between">
         <div class="flex items-center gap-2">
-            <span class="material-symbols-outlined text-slate-700 font-bold">analytics</span>
+            <span class="material-symbols-outlined text-slate-800 font-bold">folder_shared</span>
             <h1 class="text-lg font-extrabold tracking-tight text-slate-800">Censo 2026</h1>
         </div>
         <div class="text-[10px] font-black text-slate-400 bg-slate-100 px-2 py-1 rounded">CIUDAD REAL</div>
     </div>
 
-    <div class="px-5 pb-4 space-y-3">
+    <div class="px-5 pb-4 space-y-4">
         <div class="relative">
             <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400">search</span>
-            <input id="buscador" class="w-full bg-slate-50 border-slate-200 rounded-xl py-2.5 pl-10 pr-4 text-sm focus:ring-2 focus:ring-accent/20 transition-all" placeholder="Buscar empresa, localidad o CIF..." type="text"/>
+            <input id="buscador" class="w-full bg-slate-50 border-slate-200 rounded-xl py-3 pl-10 pr-4 text-sm focus:ring-2 focus:ring-slate-200 transition-all outline-none" placeholder="Buscar empresa o localidad..." type="text"/>
         </div>
         
         <div class="flex gap-2 overflow-x-auto no-scrollbar" id="filtros">
-            <button class="filter-btn whitespace-nowrap px-4 py-1.5 rounded-full bg-slate-800 text-white text-[11px] font-bold transition-all" data-tipo="TODAS">Todas</button>
-            <button class="filter-btn whitespace-nowrap px-4 py-1.5 rounded-full bg-white border border-slate-200 text-slate-600 text-[11px] font-bold transition-all" data-tipo="FICA">FICA</button>
-            <button class="filter-btn whitespace-nowrap px-4 py-1.5 rounded-full bg-white border border-slate-200 text-slate-600 text-[11px] font-bold transition-all" data-tipo="FESMC">FESMC</button>
-            <button class="filter-btn whitespace-nowrap px-4 py-1.5 rounded-full bg-white border border-slate-200 text-slate-600 text-[11px] font-bold transition-all" data-tipo="UGT-SP">UGT-SP</button>
+            <button class="filter-btn px-5 py-2 rounded-full bg-slate-800 text-white text-[11px] font-bold shadow-md transition-all" data-fed="TODAS">Todos</button>
+            <button class="filter-btn px-5 py-2 rounded-full bg-white border border-slate-200 text-fica text-[11px] font-bold transition-all" data-fed="FICA">FICA</button>
+            <button class="filter-btn px-5 py-2 rounded-full bg-white border border-slate-200 text-fesmc text-[11px] font-bold transition-all" data-fed="FESMC">FESMC</button>
+            <button class="filter-btn px-5 py-2 rounded-full bg-white border border-slate-200 text-ugtsp text-[11px] font-bold transition-all" data-fed="UGT-SP">UGT-SP</button>
         </div>
     </div>
 
-    <div id="stats-bar" class="flex border-t border-slate-100 bg-slate-50/50 px-5 py-2 justify-between items-center"></div>
+    <div id="stats-bar" class="flex border-t border-slate-100 bg-slate-50/50 px-5 py-2.5 justify-between items-center text-[11px]"></div>
 </header>
 
-<main class="px-5 py-6 space-y-4">
+<main class="px-5 py-6">
     <div id="lista-empresas" class="space-y-4"></div>
 </main>
 
@@ -69,17 +70,18 @@
     const statsBar = document.getElementById('stats-bar');
     const filtrosBtn = document.querySelectorAll('.filter-btn');
     
-    let filtroFederacion = 'TODAS';
+    let filtroActivo = 'TODAS';
 
-    function abrirRuta(direccion, localidad, cp) {
-        if (!direccion || direccion.includes('S/N') && direccion.length < 5) {
-            // Si la dirección es pobre, buscamos por localidad
-            const destino = `${localidad}, ${cp}, Ciudad Real`;
-            window.open(`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(destino)}`, '_blank');
-        } else {
-            const destinoFull = `${direccion}, ${localidad}, ${cp}, España`;
-            window.open(`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(destinoFull)}`, '_blank');
-        }
+    // Diccionario de estilos por federación
+    const estilosFed = {
+        'FICA': { border: 'border-fica', badge: 'bg-sky-100 text-fica border-sky-200' },
+        'FESMC': { border: 'border-fesmc', badge: 'bg-amber-100 text-fesmc border-amber-200' },
+        'UGT-SP': { border: 'border-ugtsp', badge: 'bg-purple-100 text-ugtsp border-purple-200' }
+    };
+
+    function abrirRuta(dir, loc, cp) {
+        const destino = encodeURIComponent(`${dir}, ${loc}, ${cp}, Ciudad Real`);
+        window.open(`https://www.google.com/maps/dir/?api=1&destination=${destino}`, '_blank');
     }
 
     function actualizarStats(data) {
@@ -87,106 +89,91 @@
         const trabajadores = data.reduce((acc, curr) => acc + (parseInt(curr.trabajadores) || 0), 0);
         
         statsBar.innerHTML = `
-            <div class="flex items-center gap-4 w-full">
-                <span class="text-[10px] font-bold text-slate-400 uppercase">Vistas:</span>
-                <div class="flex gap-4">
-                    <span class="text-[11px] font-bold text-slate-700">${total} <span class="font-medium text-slate-400">Empresas</span></span>
-                    <span class="text-[11px] font-bold text-accent">${trabajadores.toLocaleString()} <span class="font-medium text-slate-400">Trabajadores</span></span>
-                </div>
+            <div class="flex gap-4">
+                <span class="font-bold text-slate-700">${total} <span class="font-medium text-slate-400">Empresas</span></span>
+                <span class="font-bold text-slate-700">${trabajadores.toLocaleString()} <span class="font-medium text-slate-400">Trabajadores</span></span>
             </div>
+            <span class="text-[9px] font-black text-slate-300 uppercase tracking-widest italic">Base Blanca 2026</span>
         `;
     }
 
     function render(query = '') {
         if (typeof empresas === 'undefined') {
-            lista.innerHTML = '<div class="py-10 text-center text-slate-400 text-xs font-medium italic">Base de datos no encontrada. Genera datos.js primero.</div>';
+            lista.innerHTML = '<div class="py-10 text-center text-slate-400 text-sm">Cargando base de datos...</div>';
             return;
         }
 
         const q = query.toLowerCase().trim();
         const filtrados = empresas.filter(e => {
-            const matchQuery = e.empresa.toLowerCase().includes(q) || 
-                               e.localidad.toLowerCase().includes(q) || 
-                               e.cif.toLowerCase().includes(q) ||
-                               e.cnae.toLowerCase().includes(q);
-            
-            const matchFed = filtroFederacion === 'TODAS' ? true : e.federacion === filtroFederacion;
-            
-            return matchQuery && matchFed;
+            const coincideBusqueda = e.empresa.toLowerCase().includes(q) || e.localidad.toLowerCase().includes(q);
+            const coincideFed = filtroActivo === 'TODAS' ? true : e.federacion.toUpperCase() === filtroActivo;
+            return coincideBusqueda && coincideFed;
         });
 
         actualizarStats(filtrados);
 
-        if (filtrados.length === 0) {
-            lista.innerHTML = '<div class="py-20 text-center text-slate-400 text-sm italic font-medium">No se han encontrado resultados</div>';
-            return;
-        }
-
-        // Limitamos a 100 para fluidez en el móvil
-        lista.innerHTML = filtrados.slice(0, 100).map(e => {
+        lista.innerHTML = filtrados.slice(0, 80).map(e => {
+            const estilo = estilosFed[e.federacion.toUpperCase()] || { border: 'border-slate-200', badge: 'bg-slate-100' };
+            
             return `
-            <div class="bg-white rounded-xl p-4 shadow-sm border border-slate-100">
-                <div class="flex justify-between items-start mb-3">
-                    <div class="flex-1">
-                        <h3 class="font-extrabold text-sm text-slate-800 leading-tight uppercase mb-1">${e.empresa}</h3>
-                        <span class="text-[9px] font-bold px-1.5 py-0.5 rounded bg-blue-50 text-blue-600 uppercase">
+            <div class="bg-white rounded-xl p-5 shadow-sm border border-slate-100 ${estilo.border}">
+                <div class="flex justify-between items-start mb-4">
+                    <div class="space-y-1">
+                        <h3 class="font-extrabold text-[13px] text-slate-800 leading-tight uppercase">${e.empresa}</h3>
+                        <div class="inline-block px-2 py-0.5 rounded border text-[9px] font-black tracking-widest ${estilo.badge}">
                             ${e.federacion}
-                        </span>
+                        </div>
                     </div>
-                    <div class="text-right">
-                        <span class="block text-[10px] font-black text-slate-400">${e.cif}</span>
-                        <span class="text-[10px] font-bold text-slate-500">${e.trabajadores} empl.</span>
+                    <div class="text-right shrink-0">
+                        <span class="block text-[10px] font-bold text-slate-300 mb-1">${e.cif}</span>
+                        <div class="flex items-center justify-end gap-1 text-slate-500 font-bold">
+                            <span class="material-symbols-outlined text-sm">groups</span>
+                            <span class="text-xs">${e.trabajadores}</span>
+                        </div>
                     </div>
                 </div>
                 
-                <div class="space-y-2 mb-4">
-                    <div class="flex items-start gap-2 text-[11px] text-slate-600 font-medium">
-                        <span class="material-symbols-outlined text-[16px] text-slate-400">location_on</span>
-                        <div class="flex flex-col">
-                            <span class="text-slate-800">${e.localidad} (${e.cp})</span>
-                            <span class="text-[10px] text-slate-400 italic">${e.direccion}</span>
-                        </div>
+                <div class="space-y-2 mb-5">
+                    <div class="flex items-center gap-2 text-slate-600 font-bold">
+                        <span class="material-symbols-outlined text-[18px] text-slate-300">location_on</span>
+                        <span class="text-[11px] uppercase">${e.localidad} <span class="text-slate-300 font-normal">(${e.cp})</span></span>
                     </div>
-                    <div class="flex items-start gap-2 text-[11px] text-slate-600 font-medium">
-                        <span class="material-symbols-outlined text-[16px] text-slate-400">inventory_2</span>
-                        <span class="leading-tight text-[10px]">${e.desc_cnae}</span>
+                    <div class="flex items-center gap-2 text-slate-500 italic">
+                        <span class="material-symbols-outlined text-[18px] text-slate-300">map</span>
+                        <span class="text-[10px] truncate">${e.direccion}</span>
                     </div>
                 </div>
 
-                <div class="grid grid-cols-2 gap-2">
+                <div class="grid grid-cols-2 gap-3">
                     <button onclick="abrirRuta('${e.direccion.replace(/'/g, "\\'")}', '${e.localidad}', '${e.cp}')" 
-                        class="bg-slate-800 text-white py-2.5 rounded-lg text-[10px] font-bold uppercase flex items-center justify-center gap-2 active:scale-95 transition-all">
-                        <span class="material-symbols-outlined text-sm">directions_car</span> Ruta
+                        class="bg-slate-800 text-white py-3 rounded-xl text-[10px] font-black uppercase flex items-center justify-center gap-2 active:scale-95 transition-all">
+                        <span class="material-symbols-outlined text-base">near_me</span> RUTA
                     </button>
                     
                     <button onclick="window.open('https://www.google.com/search?q=${encodeURIComponent(e.empresa + ' ' + e.localidad)}', '_blank')" 
-                        class="border border-slate-200 text-slate-600 py-2.5 rounded-lg text-[10px] font-bold uppercase flex items-center justify-center gap-2 active:bg-slate-50 transition-all">
-                        <span class="material-symbols-outlined text-sm">search</span> Google
+                        class="bg-white border border-slate-200 text-slate-600 py-3 rounded-xl text-[10px] font-black uppercase flex items-center justify-center gap-2">
+                        <span class="material-symbols-outlined text-base">search</span> GOOGLE
                     </button>
                 </div>
             </div>
-        `}).join('');
+            `;
+        }).join('');
     }
 
     filtrosBtn.forEach(btn => btn.addEventListener('click', () => {
         filtrosBtn.forEach(b => {
-            b.className = "filter-btn whitespace-nowrap px-4 py-1.5 rounded-full bg-white border border-slate-200 text-slate-600 text-[11px] font-bold transition-all";
+            b.classList.remove('bg-slate-800', 'text-white', 'shadow-md');
+            b.classList.add('bg-white', 'text-slate-600', 'border-slate-200');
         });
-        btn.className = "filter-btn whitespace-nowrap px-4 py-1.5 rounded-full bg-slate-800 text-white text-[11px] font-bold transition-all";
-        filtroFederacion = btn.dataset.tipo;
+        btn.classList.remove('bg-white', 'text-slate-600', 'border-slate-200');
+        btn.classList.add('bg-slate-800', 'text-white', 'shadow-md');
+        
+        filtroActivo = btn.dataset.fed;
         render(buscador.value);
     }));
 
     buscador.addEventListener('input', (e) => render(e.target.value));
-    
-    // Inicialización
-    window.onload = () => {
-        if (typeof empresas !== 'undefined') {
-            render();
-        } else {
-            setTimeout(render, 500);
-        }
-    };
+    window.onload = () => setTimeout(render, 300);
 </script>
 </body>
 </html>

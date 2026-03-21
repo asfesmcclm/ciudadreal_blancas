@@ -5,7 +5,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
     <title>Censo Ciudad Real 2026</title>
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
     <script id="tailwind-config">
         tailwind.config = {
             theme: {
@@ -36,13 +36,13 @@
             <span class="material-symbols-outlined text-slate-800 font-black">fact_check</span>
             <h1 class="text-lg font-extrabold tracking-tight text-slate-800 uppercase">Censo 2026</h1>
         </div>
-        <div class="text-[10px] font-black text-white bg-slate-800 px-2 py-1 rounded tracking-tighter">CIUDAD REAL</div>
+        <div class="text-[10px] font-black text-white bg-slate-800 px-2 py-1 rounded">CIUDAD REAL</div>
     </div>
 
     <div class="px-5 pb-4 space-y-4">
         <div class="relative">
             <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400">search</span>
-            <input id="buscador" class="w-full bg-slate-50 border-slate-200 rounded-xl py-3 pl-10 pr-4 text-sm focus:ring-2 focus:ring-slate-400 transition-all outline-none" placeholder="Buscar por nombre, CIF, pueblo o CNAE..." type="text"/>
+            <input id="buscador" class="w-full bg-slate-50 border-slate-200 rounded-xl py-3 pl-10 pr-4 text-sm focus:ring-2 focus:ring-slate-400 transition-all outline-none" placeholder="Buscar empresa, pueblo o CNAE..." type="text"/>
         </div>
         
         <div class="flex gap-2 overflow-x-auto no-scrollbar pb-1" id="filtros">
@@ -55,7 +55,7 @@
 
     <div class="flex border-t border-slate-100 bg-slate-50 px-5 py-2 justify-between items-center text-[10px]">
         <div id="stats-bar" class="flex gap-3 items-center font-bold text-slate-500 uppercase"></div>
-        <button onclick="exportarCSV()" class="flex items-center gap-1 bg-emerald-600 text-white px-3 py-1.5 rounded-md font-black uppercase tracking-tighter text-[9px] active:scale-95 transition-transform">
+        <button onclick="exportarCSV()" class="flex items-center gap-1 bg-emerald-600 text-white px-3 py-1.5 rounded-md font-black uppercase text-[9px] active:scale-95 transition-transform">
             <span class="material-symbols-outlined text-sm">download</span> CSV
         </button>
     </div>
@@ -82,48 +82,61 @@
         'UGT-SP': { card: 'card-ugtsp', text: 'text-ugtsp', badge: 'bg-ugtsp text-white' }
     };
 
+    function enviarWhatsApp(empresa, cif, fed, trab, loc, dir, cnae, desc) {
+        const msg = `*DATOS EMPRESA - CENSO 2026*%0A%0A` +
+                    `🏢 *Empresa:* ${empresa}%0A` +
+                    `🆔 *CIF:* ${cif}%0A` +
+                    `🚩 *Fed:* ${fed}%0A` +
+                    `👥 *Trab:* ${trab}%0A` +
+                    `📍 *Loc:* ${loc}%0A` +
+                    `🏠 *Dir:* ${dir}%0A` +
+                    `📦 *CNAE:* ${cnae}%0A` +
+                    `📝 *Actividad:* ${desc}`;
+        
+        window.open(`https://api.whatsapp.com/send?text=${msg}`, '_blank');
+    }
+
     function exportarCSV() {
         if (!dataParaExportar.length) return;
-        let csv = "Empresa;CIF;Federacion;Trabajadores;Localidad;Direccion;CNAE\n";
+        let csv = "Empresa;CIF;Federacion;Trabajadores;Localidad;Direccion;CNAE;Descripcion\n";
         dataParaExportar.forEach(e => {
-            csv += `"${e.empresa}";"${e.cif}";"${e.federacion}";${e.trabajadores};"${e.localidad}";"${e.direccion}";"${e.cnae}"\n`;
+            csv += `"${e.empresa}";"${e.cif}";"${e.federacion}";${e.trabajadores};"${e.localidad}";"${e.direccion}";"${e.cnae}";"${e.desc_cnae}"\n`;
         });
         const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
         const link = document.createElement("a");
         link.href = URL.createObjectURL(blob);
-        link.setAttribute("download", "Censo_CR.csv");
+        link.setAttribute("download", "Censo_CiudadReal.csv");
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
     }
 
-    function enviarWhatsApp(empresa, cif, fed, trab, loc, dir) {
-        const msg = `*EMPRESA:* ${empresa}%0A*CIF:* ${cif}%0A*FED:* ${fed}%0A*TRAB:* ${trab}%0A*LOC:* ${loc}%0A*DIR:* ${dir}`;
-        window.open(`https://api.whatsapp.com/send?text=${msg}`, '_blank');
-    }
-
     function render(query = '') {
-        if (typeof empresas === 'undefined') return;
+        if (typeof empresas === 'undefined') {
+            lista.innerHTML = '<div class="py-10 text-center text-slate-400">Cargando base de datos...</div>';
+            return;
+        }
 
         const q = query.toLowerCase().trim();
         const filtrados = empresas.filter(e => {
-            const matchesQuery = e.empresa.toLowerCase().includes(q) || e.localidad.toLowerCase().includes(q) || (e.cnae && e.cnae.includes(q));
+            const matchesQuery = e.empresa.toLowerCase().includes(q) || 
+                               e.localidad.toLowerCase().includes(q) || 
+                               (e.cnae && e.cnae.toString().includes(q));
             const fedKey = (e.federacion || '').toUpperCase();
             const matchesFed = filtroActivo === 'TODAS' ? true : fedKey === filtroActivo;
             return matchesQuery && matchesFed;
         }).sort((a, b) => (parseInt(b.trabajadores) || 0) - (parseInt(a.trabajadores) || 0));
 
         dataParaExportar = filtrados;
-        
         const totalTrab = filtrados.reduce((acc, curr) => acc + (parseInt(curr.trabajadores) || 0), 0);
-        statsBar.innerHTML = `<span>${filtrados.length} EMP.</span> <span>|</span> <span>${totalTrab.toLocaleString()} TRAB.</span>`;
+        statsBar.innerHTML = `<span>${filtrados.length} EMPRESAS</span> <span>|</span> <span>${totalTrab.toLocaleString()} TRAB.</span>`;
 
-        lista.innerHTML = filtrados.slice(0, 50).map(e => {
+        lista.innerHTML = filtrados.slice(0, 60).map(e => {
             const fedKey = (e.federacion || '').toUpperCase();
             const estilo = configFed[fedKey] || { card: 'bg-white border-slate-200', text: 'text-slate-600', badge: 'bg-slate-500 text-white' };
             
             return `
-            <div class="rounded-xl p-5 shadow-sm ${estilo.card}">
+            <div class="rounded-xl p-5 shadow-sm transition-all ${estilo.card}">
                 <div class="flex justify-between items-start gap-4 mb-3">
                     <div class="flex-1">
                         <h3 class="font-black text-[13px] text-slate-800 uppercase leading-tight">${e.empresa}</h3>
@@ -131,36 +144,40 @@
                     </div>
                     <div class="text-right">
                         <div class="flex items-center justify-end gap-1 font-black ${estilo.text}">
-                            <span class="material-symbols-outlined text-[20px]">groups</span>
-                            <span class="text-2xl">${e.trabajadores}</span>
+                            <span class="material-symbols-outlined text-[22px]">groups</span>
+                            <span class="text-2xl tracking-tighter">${e.trabajadores}</span>
                         </div>
-                        <span class="text-[9px] font-bold text-slate-400 tracking-widest uppercase">${e.cif}</span>
+                        <span class="text-[9px] font-bold text-slate-400 uppercase tracking-widest">${e.cif}</span>
                     </div>
                 </div>
 
-                <div class="text-[10px] text-slate-600 mb-4 font-semibold italic">
-                    CNAE: ${e.cnae || '-'} | ${e.desc_cnae || ''}
+                <div class="flex items-start gap-2 text-[10px] text-slate-700 mb-4 pb-1 border-b border-slate-200/50">
+                    <span class="material-symbols-outlined text-sm text-slate-400 mt-0.5">inventory_2</span>
+                    <div>
+                        <span class="font-bold">CNAE ${e.cnae || '-'}:</span>
+                        <span class="text-slate-500 italic ml-1">${e.desc_cnae || ''}</span>
+                    </div>
                 </div>
                 
-                <div class="space-y-1 mb-5 border-t border-slate-200/50 pt-3">
-                    <div class="flex items-center gap-2 text-[10px] font-black uppercase text-slate-700">
+                <div class="space-y-1.5 mb-5 text-slate-700">
+                    <div class="flex items-center gap-2 text-[10px] font-black uppercase">
                         <span class="material-symbols-outlined text-sm opacity-30">location_on</span> ${e.localidad}
                     </div>
-                    <div class="flex items-center gap-2 text-[10px] text-slate-500">
+                    <div class="flex items-center gap-2 text-[10px] text-slate-500 font-medium">
                         <span class="material-symbols-outlined text-sm opacity-30">map</span> ${e.direccion}
                     </div>
                 </div>
 
                 <div class="grid grid-cols-3 gap-2">
-                    <button onclick="window.open('http://maps.google.com/?q=${encodeURIComponent(e.direccion + ' ' + e.localidad)}', '_blank')" 
-                        class="bg-slate-800 text-white py-2.5 rounded-lg text-[9px] font-black uppercase flex flex-col items-center gap-1">
+                    <button onclick="window.open('https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(e.direccion + ', ' + e.localidad)}', '_blank')" 
+                        class="bg-slate-800 text-white py-2.5 rounded-lg text-[9px] font-black uppercase flex flex-col items-center gap-1 shadow-sm">
                         <span class="material-symbols-outlined text-sm">near_me</span> RUTA
                     </button>
-                    <button onclick="enviarWhatsApp('${e.empresa.replace(/'/g, "")}', '${e.cif}', '${e.federacion}', '${e.trabajadores}', '${e.localidad}', '${e.direccion.replace(/'/g, "")}')" 
-                        class="bg-emerald-500 text-white py-2.5 rounded-lg text-[9px] font-black uppercase flex flex-col items-center gap-1">
+                    <button onclick="enviarWhatsApp('${e.empresa.replace(/'/g, "")}', '${e.cif}', '${e.federacion}', '${e.trabajadores}', '${e.localidad}', '${e.direccion.replace(/'/g, "")}', '${e.cnae || ""}', '${(e.desc_cnae || "").replace(/'/g, "")}')" 
+                        class="bg-emerald-500 text-white py-2.5 rounded-lg text-[9px] font-black uppercase flex flex-col items-center gap-1 shadow-sm">
                         <span class="material-symbols-outlined text-sm">share</span> WHATSAPP
                     </button>
-                    <button onclick="window.open('https://google.com/search?q=${encodeURIComponent(e.empresa)}', '_blank')" 
+                    <button onclick="window.open('https://google.com/search?q=${encodeURIComponent(e.empresa + ' ' + e.localidad)}', '_blank')" 
                         class="bg-white border border-slate-200 text-slate-600 py-2.5 rounded-lg text-[9px] font-black uppercase flex flex-col items-center gap-1">
                         <span class="material-symbols-outlined text-sm">search</span> GOOGLE
                     </button>
@@ -169,27 +186,30 @@
         }).join('');
     }
 
-    // Filtros
     filtrosBtn.forEach(btn => btn.addEventListener('click', () => {
+        const fed = btn.dataset.fed;
         filtrosBtn.forEach(b => {
-            b.className = b.dataset.fed === 'TODAS' ? 
-                "filter-btn px-4 py-2 rounded-lg bg-white border-2 border-slate-800 text-slate-800 text-[11px] font-black uppercase" :
-                `filter-btn px-4 py-2 rounded-lg bg-white border-2 border-${b.dataset.fed.toLowerCase().replace('-', '')} text-${b.dataset.fed.toLowerCase().replace('-', '')} text-[11px] font-black uppercase`;
+            const bFed = b.dataset.fed;
+            if (bFed === 'TODAS') b.className = "filter-btn px-4 py-2 rounded-lg bg-white border-2 border-slate-800 text-slate-800 text-[11px] font-black uppercase";
+            else {
+                const color = bFed.toLowerCase().replace('-', '');
+                b.className = `filter-btn px-4 py-2 rounded-lg bg-white border-2 border-${color} text-${color} text-[11px] font-black uppercase`;
+            }
         });
-        const color = btn.dataset.fed === 'TODAS' ? 'slate-800' : btn.dataset.fed.toLowerCase().replace('-', '');
-        btn.className = `filter-btn px-4 py-2 rounded-lg bg-${color} text-white text-[11px] font-black uppercase shadow-md`;
-        filtroActivo = btn.dataset.fed;
+
+        const activeColor = fed === 'TODAS' ? 'slate-800' : fed.toLowerCase().replace('-', '');
+        btn.className = `filter-btn px-4 py-2 rounded-lg bg-${activeColor} text-white text-[11px] font-black uppercase shadow-md`;
+        
+        filtroActivo = fed;
         render(buscador.value);
     }));
 
     buscador.addEventListener('input', (e) => render(e.target.value));
     
-    // Forzar carga inicial
     window.onload = () => {
         setTimeout(() => {
             if (typeof empresas !== 'undefined') render();
-            else console.error("datos.js no cargado");
-        }, 300);
+        }, 500);
     };
 </script>
 </body>

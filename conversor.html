@@ -7,72 +7,89 @@
     <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
     <style>
         * { box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f0f2f5; margin: 0; padding: 20px; }
-        h2 { color: #2c3e50; margin-top: 0; }
-        .card { background: white; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px; }
-        .instrucciones { background: #eaf4fb; border-left: 5px solid #3498db; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-size: 0.95em; line-height: 1.6; }
-        input[type="file"] { padding: 30px; border: 2px dashed #3498db; border-radius: 10px; width: 100%; font-size: 1.1em; cursor: pointer; text-align: center; background: #f8fbff; transition: 0.3s; }
-        input[type="file"]:hover { background: #eff6ff; border-color: #2980b9; }
-        #json_output { background: #272822; color: #f8f8f2; padding: 20px; border-radius: 8px; overflow-x: auto; white-space: pre-wrap; font-family: 'Courier New', monospace; font-size: 13px; max-height: 500px; border: 1px solid #3e3e3e; margin-top: 15px; }
-        .btn { padding: 14px 28px; background: #27ae60; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 1em; margin-top: 15px; transition: 0.3s; display: none; }
-        .btn:hover { background: #219150; transform: translateY(-1px); }
-        .stat-box { margin-top: 20px; display: flex; gap: 15px; }
-        .stat { padding: 8px 15px; border-radius: 6px; background: #ecf0f1; font-weight: bold; color: #2c3e50; border: 1px solid #dcdde1; }
+        body { font-family: 'Inter', -apple-system, sans-serif; background: #f0f2f5; margin: 0; padding: 20px; color: #1e293b; }
+        .card { background: white; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin-bottom: 20px; max-width: 900px; margin-inline: auto; }
+        h2 { color: #0f172a; margin-top: 0; display: flex; align-items: center; gap: 10px; }
+        .instrucciones { background: #f8fafc; border: 1px solid #e2e8f0; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9em; line-height: 1.6; }
+        .instrucciones b { color: #2563eb; }
+        input[type="file"] { padding: 40px; border: 2px dashed #cbd5e1; border-radius: 12px; width: 100%; font-size: 1em; cursor: pointer; text-align: center; background: #ffffff; transition: 0.2s; }
+        input[type="file"]:hover { border-color: #3b82f6; background: #f1f5f9; }
+        #json_output { background: #0f172a; color: #38bdf8; padding: 20px; border-radius: 8px; overflow-x: auto; white-space: pre-wrap; font-family: 'Fira Code', monospace; font-size: 12px; max-height: 400px; margin-top: 15px; }
+        .btn { width: 100%; padding: 16px; background: #059669; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 700; font-size: 1em; margin-top: 15px; transition: 0.2s; display: none; text-transform: uppercase; }
+        .btn:hover { background: #047857; transform: translateY(-1px); }
+        .stat-box { margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap; }
+        .stat { padding: 6px 12px; border-radius: 20px; background: #e2e8f0; font-size: 11px; font-weight: 800; color: #475569; }
     </style>
 </head>
 <body>
 
 <div class="card">
-    <h2>🛠️ Generador de datos.js</h2>
+    <h2>🛠️ Generador datos.js (Versión Direcciones Pro)</h2>
     <div class="instrucciones">
-        <b>Preparación del Excel:</b> Asegúrate de que todas las empresas estén en la <b>primera pestaña</b> y que las columnas sigan el orden: <br>
-        <i>R Social (A), Domicilio (B), Localidad (C), CP (D), Provincia (E), Núm SS (F), CIF (G), Trabajadores (H), CNAE (I), Desc CNAE (J), Federación (K).</i>
+        <b>Estructura requerida del Excel:</b><br>
+        A: Empresa | B: Dirección | C: Localidad | D: CP | E: Provincia | F: SS | G: CIF | H: Trab. | I: CNAE | J: Desc. CNAE | K: Federación
     </div>
     
     <input type="file" id="excel_file" accept=".xlsx, .xls">
     
     <div id="stats_container" class="stat-box"></div>
     
-    <button id="btn-copiar" class="btn">📋 Copiar para datos.js</button>
+    <button id="btn-copiar" class="btn">📋 Copiar código para datos.js</button>
 </div>
 
-<div class="card">
-    <pre id="json_output">El código para tu base de datos aparecerá aquí tras subir el archivo...</pre>
+<div class="card" id="preview-card" style="display:none;">
+    <h3 style="margin-top:0; font-size: 14px;">Vista previa del código generado:</h3>
+    <pre id="json_output"></pre>
 </div>
 
 <script>
-    function limpiarDireccion(texto) {
-        if (!texto) return '';
+    function limpiarTexto(t) {
+        if (!t) return '';
+        return String(t).replace(/'/g, "").replace(/\s+/g, ' ').trim();
+    }
+
+    function formatearDireccion(texto) {
+        if (!texto) return 'S/N';
         let d = String(texto).toUpperCase().trim();
 
-        // 1. Diccionario de prefijos de vía
-        const reemplazos = {
-            '^CT': 'Carretera ',
-            '^CR': 'Carretera ',
-            '^CL': 'Calle ',
-            '^PZ': 'Plaza ',
-            '^AV': 'Avenida ',
-            '^PG': 'Polígono ',
-            '^POL': 'Polígono ',
-            '^LG': 'Lugar ',
-            '^PP': 'Paseo ',
-            '^PS': 'Paseo '
+        // Diccionario de prefijos con soporte para abreviaturas complejas
+        const prefijos = {
+            '^CT': 'Carretera', 
+            '^CR': 'Carretera', 
+            '^CL': 'Calle', 
+            '^PZ': 'Plaza',
+            '^AV': 'Avenida', 
+            '^PG': 'Polígono', 
+            '^POL': 'Polígono', 
+            '^LG': 'Lugar',
+            '^PP': 'Paseo', 
+            '^PS': 'Paseo', 
+            '^C/': 'Calle',
+            '^RD': 'Ronda',       // Rdde Alarcos -> Ronda de Alarcos
+            '^PJ': 'Pasaje',      // Pjde la Pandorga -> Pasaje de la Pandorga
+            '^TR': 'Travesía',    // Trcalle Don Quijote -> Travesía calle Don Quijote
+            '^CM': 'Camino'       // Cmdel Campillo -> Camino del Campillo
         };
 
-        for (let key in reemplazos) {
-            d = d.replace(new RegExp(key + "(?=[\\w\\s])", "g"), reemplazos[key]);
+        for (let key in prefijos) {
+            // Regex: busca el prefijo al inicio, permite cualquier letra o punto pegado, y devora el espacio
+            const regex = new RegExp(key + "[A-Z\\.]*\\s*", "i");
+            
+            if (d.match(regex)) {
+                d = d.replace(regex, prefijos[key] + " ");
+                break; 
+            }
         }
 
-        // 2. Limpieza de números (Busca bloques de 5 dígitos al final o entre espacios)
-        d = d.replace(/(\d{5})/g, function(match) {
-            let num = parseInt(match, 10);
-            return num === 0 ? "S/N" : num;
-        });
+        // Limpiezas finales específicas
+        d = d.replace(/\sBJ\s*$/g, " Bajo")
+             .replace(/\sBAJO\s*$/g, " Bajo")
+             .replace(/\s+/g, ' ')
+             .trim();
 
-        // 3. Limpieza de espacios y formato título
-        d = d.replace(/\s+/g, ' ').trim();
-        if (d.length === 0) return '';
+        if (d === "0" || d === "") return "S/N";
         
+        // Retornar con formato Título (Primera en mayúscula, resto minúscula)
         return d.charAt(0) + d.slice(1).toLowerCase();
     }
 
@@ -84,40 +101,36 @@
         reader.onload = function(event) {
             const data = new Uint8Array(event.target.result);
             const workbook = XLSX.read(data, { type: 'array' });
-            
-            // Leemos la primera pestaña
             const firstSheet = workbook.Sheets[workbook.SheetNames[0]];
             const rows = XLSX.utils.sheet_to_json(firstSheet, { header: 1, defval: "" });
             
-            // Procesamos omitiendo la fila de cabecera
             const finalData = rows.slice(1)
-                .filter(row => row[0] && String(row[0]).trim() !== "") // Evita filas vacías
+                .filter(row => row[0] && String(row[0]).trim() !== "")
                 .map(row => {
                     return {
-                        empresa:      String(row[0] || '').trim(),
-                        direccion:    limpiarDireccion(row[1]),
-                        localidad:    String(row[2] || '').trim(),
-                        cp:           String(row[3] || '').trim(),
-                        provincia:    String(row[4] || '').trim(),
-                        ssocial:      String(row[5] || '').trim(),
-                        cif:          String(row[6] || '').trim(),
+                        empresa:      limpiarTexto(row[0]),
+                        direccion:    formatearDireccion(row[1]),
+                        localidad:    limpiarTexto(row[2]),
+                        cp:           limpiarTexto(row[3]),
+                        provincia:    limpiarTexto(row[4]),
+                        ssocial:      limpiarTexto(row[5]),
+                        cif:          limpiarTexto(row[6]),
                         trabajadores: parseInt(row[7]) || 0,
-                        cnae:         String(row[8] || '').trim(),
-                        desc_cnae:    String(row[9] || '').trim(),
-                        federacion:   String(row[10] || '').trim()
+                        cnae:         limpiarTexto(row[8]),
+                        desc_cnae:    limpiarTexto(row[9]),
+                        federacion:   limpiarTexto(row[10]) || 'N/A'
                     };
                 });
 
-            // Mostrar estadísticas
             document.getElementById('stats_container').innerHTML = `
-                <span class="stat">Empresas detectadas: ${finalData.length}</span>
-                <span class="stat">Estado: Listo</span>
+                <span class="stat">🏢 ${finalData.length} EMPRESAS DETECTADAS</span>
+                <span class="stat">✨ DIRECCIONES NORMALIZADAS</span>
             `;
 
-            // Generar el JS
             const output = 'const empresas = ' + JSON.stringify(finalData, null, 2) + ';';
             document.getElementById('json_output').textContent = output;
             document.getElementById('btn-copiar').style.display = 'block';
+            document.getElementById('preview-card').style.display = 'block';
         };
         reader.readAsArrayBuffer(file);
     });
@@ -125,7 +138,7 @@
     document.getElementById('btn-copiar').addEventListener('click', () => {
         const texto = document.getElementById('json_output').textContent;
         navigator.clipboard.writeText(texto).then(() => {
-            alert('¡Copiado! Ahora abre tu archivo datos.js, borra todo y pega esto.');
+            alert('¡Copiado! Ahora puedes pegarlo en tu archivo datos.js');
         });
     });
 </script>

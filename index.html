@@ -5,7 +5,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
     <title>Censo Ciudad Real 2026</title>
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
     <script id="tailwind-config">
         tailwind.config = {
             theme: {
@@ -22,7 +22,7 @@
     <style>
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
-        body { background-color: #f1f5f9; padding-bottom: 100px; }
+        body { background-color: #f1f5f9; }
         .card-fica { border: 1px solid #bae6fd; border-left: 8px solid #0284c7; background-color: #f0f9ff; }
         .card-fesmc { border: 1px solid #fef3c7; border-left: 8px solid #f59e0b; background-color: #fffbeb; }
         .card-ugtsp { border: 1px solid #fecaca; border-left: 8px solid #dc2626; background-color: #fef2f2; }
@@ -36,13 +36,13 @@
             <span class="material-symbols-outlined text-slate-800 font-black">fact_check</span>
             <h1 class="text-lg font-extrabold tracking-tight text-slate-800 uppercase">Censo 2026</h1>
         </div>
-        <div class="text-[10px] font-black text-white bg-slate-800 px-2 py-1 rounded">CIUDAD REAL</div>
+        <div class="text-[10px] font-black text-white bg-slate-800 px-2 py-1 rounded tracking-tighter">CIUDAD REAL</div>
     </div>
 
     <div class="px-5 pb-4 space-y-4">
         <div class="relative">
             <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400">search</span>
-            <input id="buscador" class="w-full bg-slate-50 border-slate-200 rounded-xl py-3 pl-10 pr-4 text-sm focus:ring-2 focus:ring-slate-400 transition-all outline-none shadow-inner" placeholder="Buscar por nombre, CIF, pueblo o CNAE..." type="text"/>
+            <input id="buscador" class="w-full bg-slate-50 border-slate-200 rounded-xl py-3 pl-10 pr-4 text-sm focus:ring-2 focus:ring-slate-400 transition-all outline-none" placeholder="Buscar por nombre, CIF, pueblo o CNAE..." type="text"/>
         </div>
         
         <div class="flex gap-2 overflow-x-auto no-scrollbar pb-1" id="filtros">
@@ -53,17 +53,17 @@
         </div>
     </div>
 
-    <div id="stats-bar" class="flex border-t border-slate-100 bg-slate-50 px-5 py-2.5 justify-between items-center text-[10px]"></div>
+    <div class="flex border-t border-slate-100 bg-slate-50 px-5 py-2 justify-between items-center text-[10px]">
+        <div id="stats-bar" class="flex gap-3 items-center font-bold text-slate-500 uppercase"></div>
+        <button onclick="exportarCSV()" class="flex items-center gap-1 bg-emerald-600 text-white px-3 py-1.5 rounded-md font-black uppercase tracking-tighter text-[9px] active:scale-95 transition-transform">
+            <span class="material-symbols-outlined text-sm">download</span> CSV
+        </button>
+    </div>
 </header>
 
 <main class="px-5 py-6">
     <div id="lista-empresas" class="grid gap-4"></div>
 </main>
-
-<button id="btn-exportar" class="fixed bottom-6 right-6 bg-emerald-600 text-white p-4 rounded-full shadow-2xl flex items-center gap-2 hover:bg-emerald-700 active:scale-90 transition-all z-[60]">
-    <span class="material-symbols-outlined">download</span>
-    <span class="text-xs font-black uppercase pr-1">Exportar CSV</span>
-</button>
 
 <script src="datos.js"></script>
 
@@ -72,10 +72,9 @@
     const lista = document.getElementById('lista-empresas');
     const statsBar = document.getElementById('stats-bar');
     const filtrosBtn = document.querySelectorAll('.filter-btn');
-    const btnExportar = document.getElementById('btn-exportar');
     
     let filtroActivo = 'TODAS';
-    let actualesFiltrados = [];
+    let dataParaExportar = [];
 
     const configFed = {
         'FICA': { card: 'card-fica', text: 'text-fica', badge: 'bg-fica text-white' },
@@ -83,112 +82,115 @@
         'UGT-SP': { card: 'card-ugtsp', text: 'text-ugtsp', badge: 'bg-ugtsp text-white' }
     };
 
-    function enviarWhatsApp(empresa, cif, fed, trabajadores, loc, dir) {
-        const urlMaps = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(dir + ', ' + loc)}`;
-        const mensaje = `*DATOS EMPRESA - CENSO 2026*%0A%0A` +
-                        `*🏢 Empresa:* ${empresa}%0A` +
-                        `*🆔 CIF:* ${cif}%0A` +
-                        `*🚩 Fed:* ${fed}%0A` +
-                        `*👥 Trab:* ${trabajadores}%0A` +
-                        `*📍 Loc:* ${loc}%0A` +
-                        `*🏠 Dir:* ${dir}%0A%0A` +
-                        `*🗺️ Ver en Maps:* ${urlMaps}`;
-        
-        window.open(`https://api.whatsapp.com/send?text=${mensaje}`, '_blank');
-    }
-
     function exportarCSV() {
-        if (actualesFiltrados.length === 0) return;
-        let csvContent = "data:text/csv;charset=utf-8,";
-        csvContent += "Empresa;CIF;Federacion;Trabajadores;Localidad;CP;Direccion;CNAE;Descripcion\n";
-        actualesFiltrados.forEach(e => {
-            const fila = [`"${e.empresa}"`, `"${e.cif}"`, `"${e.federacion}"`, e.trabajadores, `"${e.localidad}"`, `"${e.cp}"`, `"${e.direccion}"`, `"${e.cnae}"`, `"${e.desc_cnae}"` ];
-            csvContent += fila.join(";") + "\n";
+        if (!dataParaExportar.length) return;
+        let csv = "Empresa;CIF;Federacion;Trabajadores;Localidad;Direccion;CNAE\n";
+        dataParaExportar.forEach(e => {
+            csv += `"${e.empresa}";"${e.cif}";"${e.federacion}";${e.trabajadores};"${e.localidad}";"${e.direccion}";"${e.cnae}"\n`;
         });
-        const encodedUri = encodeURI(csvContent);
+        const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
         const link = document.createElement("a");
-        link.setAttribute("href", encodedUri);
-        link.setAttribute("download", `Censo_CR_${new Date().toLocaleDateString()}.csv`);
+        link.href = URL.createObjectURL(blob);
+        link.setAttribute("download", "Censo_CR.csv");
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
     }
 
-    function abrirRuta(dir, loc, cp) {
-        const query = encodeURIComponent(`${dir}, ${loc}, ${cp}, España`);
-        window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
-    }
-
-    function actualizarStats(data) {
-        const total = data.length;
-        const empleados = data.reduce((acc, curr) => acc + (parseInt(curr.trabajadores) || 0), 0);
-        statsBar.innerHTML = `
-            <div class="flex gap-4 items-center">
-                <span class="font-black text-slate-700 uppercase tracking-tighter">Resultados:</span>
-                <span class="font-bold text-slate-600 underline decoration-slate-300 underline-offset-4">${total} Emp.</span>
-                <span class="font-bold text-slate-600 underline decoration-slate-300 underline-offset-4">${empleados.toLocaleString()} Trab.</span>
-            </div>
-        `;
+    function enviarWhatsApp(empresa, cif, fed, trab, loc, dir) {
+        const msg = `*EMPRESA:* ${empresa}%0A*CIF:* ${cif}%0A*FED:* ${fed}%0A*TRAB:* ${trab}%0A*LOC:* ${loc}%0A*DIR:* ${dir}`;
+        window.open(`https://api.whatsapp.com/send?text=${msg}`, '_blank');
     }
 
     function render(query = '') {
-        if (typeof empresas === 'undefined') {
-            lista.innerHTML = '<div class="py-10 text-center text-slate-400 text-sm italic">Cargando...</div>';
-            return;
-        }
+        if (typeof empresas === 'undefined') return;
 
         const q = query.toLowerCase().trim();
-        actualesFiltrados = empresas.filter(e => {
-            const matchesQuery = e.empresa.toLowerCase().includes(q) || e.localidad.toLowerCase().includes(q) || e.cnae.toLowerCase().includes(q) || e.cif.toLowerCase().includes(q);
+        const filtrados = empresas.filter(e => {
+            const matchesQuery = e.empresa.toLowerCase().includes(q) || e.localidad.toLowerCase().includes(q) || (e.cnae && e.cnae.includes(q));
             const fedKey = (e.federacion || '').toUpperCase();
             const matchesFed = filtroActivo === 'TODAS' ? true : fedKey === filtroActivo;
             return matchesQuery && matchesFed;
-        });
+        }).sort((a, b) => (parseInt(b.trabajadores) || 0) - (parseInt(a.trabajadores) || 0));
 
-        actualesFiltrados.sort((a, b) => (parseInt(b.trabajadores) || 0) - (parseInt(a.trabajadores) || 0));
-        actualizarStats(actualesFiltrados);
+        dataParaExportar = filtrados;
+        
+        const totalTrab = filtrados.reduce((acc, curr) => acc + (parseInt(curr.trabajadores) || 0), 0);
+        statsBar.innerHTML = `<span>${filtrados.length} EMP.</span> <span>|</span> <span>${totalTrab.toLocaleString()} TRAB.</span>`;
 
-        if (actualesFiltrados.length === 0) {
-            lista.innerHTML = '<div class="py-20 text-center text-slate-400 text-sm font-medium">Sin resultados</div>';
-            btnExportar.style.display = 'none';
-            return;
-        }
-
-        btnExportar.style.display = 'flex';
-
-        lista.innerHTML = actualesFiltrados.slice(0, 80).map(e => {
+        lista.innerHTML = filtrados.slice(0, 50).map(e => {
             const fedKey = (e.federacion || '').toUpperCase();
             const estilo = configFed[fedKey] || { card: 'bg-white border-slate-200', text: 'text-slate-600', badge: 'bg-slate-500 text-white' };
             
             return `
-            <div class="rounded-xl p-5 shadow-sm active:scale-[0.98] transition-all ${estilo.card}">
+            <div class="rounded-xl p-5 shadow-sm ${estilo.card}">
                 <div class="flex justify-between items-start gap-4 mb-3">
-                    <div class="space-y-1.5 flex-1">
-                        <h3 class="font-black text-[14px] text-slate-800 leading-tight uppercase">${e.empresa}</h3>
-                        <span class="inline-block px-2 py-0.5 rounded text-[9px] font-black tracking-widest ${estilo.badge}">
-                            ${e.federacion || 'N/A'}
-                        </span>
+                    <div class="flex-1">
+                        <h3 class="font-black text-[13px] text-slate-800 uppercase leading-tight">${e.empresa}</h3>
+                        <span class="inline-block px-2 py-0.5 mt-1 rounded text-[9px] font-black ${estilo.badge}">${e.federacion}</span>
                     </div>
-                    <div class="text-right shrink-0">
-                        <span class="block text-[10px] font-bold text-slate-400 mb-1">${e.cif}</span>
-                        <div class="flex items-center justify-end gap-1.5 font-black ${estilo.text}">
-                            <span class="material-symbols-outlined text-[24px]">groups</span>
-                            <span class="text-2xl tracking-tighter">${e.trabajadores}</span>
+                    <div class="text-right">
+                        <div class="flex items-center justify-end gap-1 font-black ${estilo.text}">
+                            <span class="material-symbols-outlined text-[20px]">groups</span>
+                            <span class="text-2xl">${e.trabajadores}</span>
                         </div>
+                        <span class="text-[9px] font-bold text-slate-400 tracking-widest uppercase">${e.cif}</span>
                     </div>
                 </div>
 
-                <div class="flex items-start gap-2 text-[11px] text-slate-700 font-semibold mb-4 pb-1">
-                    <span class="material-symbols-outlined text-[16px] text-slate-400 mt-0.5">inventory_2</span>
-                    <div class="flex flex-col">
-                        <span>CNAE: ${e.cnae || 'N/A'}</span>
-                        <span class="text-[10px] leading-tight text-slate-500 font-medium italic">${e.desc_cnae || 'Sin descripción'}</span>
-                    </div>
+                <div class="text-[10px] text-slate-600 mb-4 font-semibold italic">
+                    CNAE: ${e.cnae || '-'} | ${e.desc_cnae || ''}
                 </div>
                 
-                <div class="space-y-2 mb-5 border-t border-slate-200/50 pt-3 text-slate-700">
-                    <div class="flex items-center gap-2.5 font-black uppercase text-[11px]">
-                        <span class="material-symbols-outlined text-[18px] opacity-30">location_on</span>
-                        <span>${e.localidad} <span class="opacity-40 font-bold ml-1">(${e.cp})</span></span>
+                <div class="space-y-1 mb-5 border-t border-slate-200/50 pt-3">
+                    <div class="flex items-center gap-2 text-[10px] font-black uppercase text-slate-700">
+                        <span class="material-symbols-outlined text-sm opacity-30">location_on</span> ${e.localidad}
                     </div>
-                    <div class
+                    <div class="flex items-center gap-2 text-[10px] text-slate-500">
+                        <span class="material-symbols-outlined text-sm opacity-30">map</span> ${e.direccion}
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-3 gap-2">
+                    <button onclick="window.open('http://maps.google.com/?q=${encodeURIComponent(e.direccion + ' ' + e.localidad)}', '_blank')" 
+                        class="bg-slate-800 text-white py-2.5 rounded-lg text-[9px] font-black uppercase flex flex-col items-center gap-1">
+                        <span class="material-symbols-outlined text-sm">near_me</span> RUTA
+                    </button>
+                    <button onclick="enviarWhatsApp('${e.empresa.replace(/'/g, "")}', '${e.cif}', '${e.federacion}', '${e.trabajadores}', '${e.localidad}', '${e.direccion.replace(/'/g, "")}')" 
+                        class="bg-emerald-500 text-white py-2.5 rounded-lg text-[9px] font-black uppercase flex flex-col items-center gap-1">
+                        <span class="material-symbols-outlined text-sm">share</span> WHATSAPP
+                    </button>
+                    <button onclick="window.open('https://google.com/search?q=${encodeURIComponent(e.empresa)}', '_blank')" 
+                        class="bg-white border border-slate-200 text-slate-600 py-2.5 rounded-lg text-[9px] font-black uppercase flex flex-col items-center gap-1">
+                        <span class="material-symbols-outlined text-sm">search</span> GOOGLE
+                    </button>
+                </div>
+            </div>`;
+        }).join('');
+    }
+
+    // Filtros
+    filtrosBtn.forEach(btn => btn.addEventListener('click', () => {
+        filtrosBtn.forEach(b => {
+            b.className = b.dataset.fed === 'TODAS' ? 
+                "filter-btn px-4 py-2 rounded-lg bg-white border-2 border-slate-800 text-slate-800 text-[11px] font-black uppercase" :
+                `filter-btn px-4 py-2 rounded-lg bg-white border-2 border-${b.dataset.fed.toLowerCase().replace('-', '')} text-${b.dataset.fed.toLowerCase().replace('-', '')} text-[11px] font-black uppercase`;
+        });
+        const color = btn.dataset.fed === 'TODAS' ? 'slate-800' : btn.dataset.fed.toLowerCase().replace('-', '');
+        btn.className = `filter-btn px-4 py-2 rounded-lg bg-${color} text-white text-[11px] font-black uppercase shadow-md`;
+        filtroActivo = btn.dataset.fed;
+        render(buscador.value);
+    }));
+
+    buscador.addEventListener('input', (e) => render(e.target.value));
+    
+    // Forzar carga inicial
+    window.onload = () => {
+        setTimeout(() => {
+            if (typeof empresas !== 'undefined') render();
+            else console.error("datos.js no cargado");
+        }, 300);
+    };
+</script>
+</body>
+</html>

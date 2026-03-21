@@ -13,7 +13,7 @@
                     colors: {
                         "fica": "#0284c7",   // Azul FICA
                         "fesmc": "#f59e0b",  // Naranja FESMC
-                        "ugtsp": "#dc2626",  // Rojo UGT-SP (Cambiado a rojo para más impacto)
+                        "ugtsp": "#dc2626",  // Rojo UGT-SP
                     },
                 },
             },
@@ -44,7 +44,7 @@
     <div class="px-5 pb-4 space-y-4">
         <div class="relative">
             <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400">search</span>
-            <input id="buscador" class="w-full bg-slate-50 border-slate-200 rounded-xl py-3 pl-10 pr-4 text-sm focus:ring-2 focus:ring-slate-400 transition-all outline-none shadow-inner" placeholder="Buscar por nombre, CIF o localidad..." type="text"/>
+            <input id="buscador" class="w-full bg-slate-50 border-slate-200 rounded-xl py-3 pl-10 pr-4 text-sm focus:ring-2 focus:ring-slate-400 transition-all outline-none shadow-inner" placeholder="Buscar por nombre, CIF, pueblo o CNAE..." type="text"/>
         </div>
         
         <div class="flex gap-2 overflow-x-auto no-scrollbar pb-1" id="filtros">
@@ -81,8 +81,9 @@
     };
 
     function abrirRuta(dir, loc, cp) {
-        const destino = encodeURIComponent(`${dir}, ${loc}, ${cp}, Ciudad Real`);
-        window.open(`https://www.google.com/maps/dir/?api=1&destination=${destino}`, '_blank');
+        // Corrección de la URL de Google Maps para que sea más fiable
+        const query = encodeURIComponent(`${dir}, ${loc}, ${cp}, España`);
+        window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
     }
 
     function actualizarStats(data) {
@@ -99,47 +100,66 @@
 
     function render(query = '') {
         if (typeof empresas === 'undefined') {
-            lista.innerHTML = '<div class="py-10 text-center text-slate-400 text-sm">Cargando datos...</div>';
+            lista.innerHTML = '<div class="py-10 text-center text-slate-400 text-sm">Cargando datos... Genera datos.js primero.</div>';
             return;
         }
 
         const q = query.toLowerCase().trim();
         const filtrados = empresas.filter(e => {
-            const matchesQuery = e.empresa.toLowerCase().includes(q) || e.localidad.toLowerCase().includes(q) || e.cif.toLowerCase().includes(q);
-            const matchesFed = filtroActivo === 'TODAS' ? true : e.federacion.toUpperCase() === filtroActivo;
+            const matchesQuery = e.empresa.toLowerCase().includes(q) || 
+                               e.localidad.toLowerCase().includes(q) || 
+                               e.cnae.toLowerCase().includes(q) ||
+                               e.cif.toLowerCase().includes(q);
+            
+            const fedKey = (e.federacion || '').toUpperCase();
+            const matchesFed = filtroActivo === 'TODAS' ? true : fedKey === filtroActivo;
             return matchesQuery && matchesFed;
         });
 
         actualizarStats(filtrados);
 
+        if (filtrados.length === 0) {
+            lista.innerHTML = '<div class="py-20 text-center text-slate-400 text-sm font-medium">No se han encontrado empresas</div>';
+            return;
+        }
+
+        // Renderizado limitado a 100 para fluidez en móvil
         lista.innerHTML = filtrados.slice(0, 100).map(e => {
-            const fedKey = e.federacion.toUpperCase();
+            const fedKey = (e.federacion || '').toUpperCase();
             const estilo = configFed[fedKey] || { card: 'bg-white border-slate-200', text: 'text-slate-600', badge: 'bg-slate-500 text-white' };
             
             return `
-            <div class="rounded-xl p-5 shadow-sm transition-transform active:scale-[0.98] ${estilo.card}">
-                <div class="flex justify-between items-start gap-4 mb-4">
-                    <div class="space-y-1.5">
+            <div class="rounded-xl p-5 shadow-sm active:scale-[0.98] transition-all ${estilo.card}">
+                <div class="flex justify-between items-start gap-4 mb-3">
+                    <div class="space-y-1.5 flex-1">
                         <h3 class="font-black text-[14px] text-slate-800 leading-tight uppercase">${e.empresa}</h3>
                         <span class="inline-block px-2 py-0.5 rounded text-[9px] font-black tracking-widest ${estilo.badge}">
-                            ${e.federacion}
+                            ${e.federacion || 'N/A'}
                         </span>
                     </div>
                     <div class="text-right shrink-0">
                         <span class="block text-[10px] font-bold text-slate-400 mb-1">${e.cif}</span>
-                        <div class="flex items-center justify-end gap-1 font-black ${estilo.text}">
-                            <span class="material-symbols-outlined text-[16px]">person</span>
-                            <span class="text-xs">${e.trabajadores}</span>
+                        <div class="flex items-center justify-end gap-1.5 font-black ${estilo.text}">
+                            <span class="material-symbols-outlined text-[24px]">person</span>
+                            <span class="text-2xl tracking-tighter">${e.trabajadores}</span>
                         </div>
+                    </div>
+                </div>
+
+                <div class="flex items-start gap-2 text-[11px] text-slate-700 font-semibold mb-4 pb-1">
+                    <span class="material-symbols-outlined text-[16px] text-slate-400 mt-0.5">inventory_2</span>
+                    <div class="flex flex-col">
+                        <span>CNAE: ${e.cnae || 'N/A'}</span>
+                        <span class="text-[10px] leading-tight text-slate-500 font-medium italic">${e.desc_cnae || 'Sin descripción disponible'}</span>
                     </div>
                 </div>
                 
                 <div class="space-y-2 mb-5 border-t border-slate-200/50 pt-3">
-                    <div class="flex items-center gap-2 text-slate-700 font-black">
+                    <div class="flex items-center gap-2.5 text-slate-700 font-black">
                         <span class="material-symbols-outlined text-[18px] opacity-30">location_on</span>
                         <span class="text-[11px] uppercase tracking-tight">${e.localidad} <span class="opacity-40 font-bold ml-1">(${e.cp})</span></span>
                     </div>
-                    <div class="flex items-center gap-2 text-slate-500 font-medium">
+                    <div class="flex items-center gap-2.5 text-slate-500 font-medium">
                         <span class="material-symbols-outlined text-[18px] opacity-30">map</span>
                         <span class="text-[10px] italic truncate">${e.direccion || 'S/N'}</span>
                     </div>
@@ -148,7 +168,7 @@
                 <div class="grid grid-cols-2 gap-3">
                     <button onclick="abrirRuta('${e.direccion.replace(/'/g, "\\'")}', '${e.localidad}', '${e.cp}')" 
                         class="bg-slate-800 text-white py-3 rounded-lg text-[10px] font-black uppercase tracking-widest flex items-center justify-center gap-2 shadow-lg shadow-slate-300 active:bg-black">
-                        <span class="material-symbols-outlined text-base">near_me</span> IR
+                        <span class="material-symbols-outlined text-base">near_me</span> IR A LA EMPRESA
                     </button>
                     
                     <button onclick="window.open('https://www.google.com/search?q=${encodeURIComponent(e.empresa + ' ' + e.localidad)}', '_blank')" 
@@ -165,7 +185,6 @@
     filtrosBtn.forEach(btn => btn.addEventListener('click', () => {
         const fed = btn.dataset.fed;
         filtrosBtn.forEach(b => {
-            // Resetear estilos a estado inactivo (blancos con borde de color)
             const bFed = b.dataset.fed;
             if (bFed === 'TODAS') {
                 b.className = "filter-btn px-4 py-2 rounded-lg bg-white border-2 border-slate-800 text-slate-800 text-[11px] font-black uppercase transition-all shadow-sm";
@@ -175,7 +194,6 @@
             }
         });
 
-        // Aplicar estilo activo (fondo sólido)
         if (fed === 'TODAS') {
             btn.className = "filter-btn px-4 py-2 rounded-lg bg-slate-800 text-white text-[11px] font-black uppercase transition-all shadow-md";
         } else {

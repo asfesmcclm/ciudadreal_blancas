@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+    <title>Censo Ciudad Real 2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500;700&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --red: #c0001e;
+            --red-dim: rgba(192,0,30,0.12);
+            --fica-color: #0284c7;
+            --fica-bg: #f0f9ff;
+            --fica-border: #bae6fd;
+            --fesmc-color: #d97706;
+            --fesmc-bg: #fffbeb;
+            --fesmc-border: #fde68a;
+            --sp-color: #dc2626;
+            --sp-bg: #fef2f2;
+            --sp-border: #fecaca;
+            --bg: #f4f5f8;
+            --card: #ffffff;
+            --text: #0f172a;
+            --text-2: #475569;
+            --text-3: #94a3b8;
+            --border: #e2e8f0;
+            --shadow: 0 1px 3px rgba(0,0,0,0.07), 0 4px 12px rgba(0,0,0,0.05);
+            --radius: 16px;
+            --font: 'Outfit', sans-serif;
+            --mono: 'JetBrains Mono', monospace;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+        body { font-family: var(--font); background: var(--bg); color: var(--text); min-height: 100dvh; line-height: 1.5; }
+
+        /* HEADER */
+        .header {
+            background: linear-gradient(160deg, #1a0005 0%, #3d0010 50%, #c0001e 100%);
+            padding: 48px 20px 28px;
+            padding-top: max(48px, calc(env(safe-area-inset-top) + 20px));
+            position: relative;
+            overflow: hidden;
+            color: white;
+        }
+        .header-inner { position: relative; z-index: 1; max-width: 680px; margin: 0 auto; }
+        
+        .header-top-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        .logo-badge {
+            display: inline-block; background: rgba(255,255,255,0.12);
+            backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 10px; padding: 5px 12px; font-size: 11px; font-weight: 800;
+            letter-spacing: 0.08em; text-transform: uppercase;
+        }
+
+        .btn-help-cnae {
+            display: flex; align-items: center; gap: 6px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px; padding: 6px 10px; color: white;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            text-decoration: none; transition: all 0.2s ease;
+        }
+        .btn-help-cnae:hover { background: rgba(255, 255, 255, 0.2); border-color: white; }
+        .btn-help-cnae span { font-size: 16px; }
+
+        .header h1 { font-size: 32px; font-weight: 900; line-height: 1.1; margin: 0; }
+        .header h1 span { color: rgba(255,180,170,0.9); }
+
+        /* BUSCADOR Y FILTROS */
+        .search-zone {
+            position: sticky; top: 0; z-index: 100;
+            background: rgba(244,245,248,0.95); backdrop-filter: blur(12px);
+            padding: 14px 16px; border-bottom: 1px solid var(--border);
+        }
+        .search-wrap { max-width: 680px; margin: 0 auto; }
+        .search-box {
+            display: flex; align-items: center; background: #fff;
+            border-radius: 14px; border: 2px solid var(--border);
+            transition: all 0.2s;
+        }
+        .search-box:focus-within { border-color: var(--red); box-shadow: 0 0 0 4px var(--red-dim); }
+        #buscador {
+            flex: 1; border: none; outline: none; padding: 12px 16px;
+            font-family: var(--font); font-size: 16px; font-weight: 500;
+        }
+
+        .filters-row { display: flex; gap: 8px; margin-top: 12px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+        .filters-row::-webkit-scrollbar { display: none; }
+        .filter-pill {
+            flex-shrink: 0; border-radius: 50px; padding: 8px 16px;
+            font-size: 11px; font-weight: 700; cursor: pointer;
+            background: #fff; border: 1.5px solid var(--border); color: var(--text-2);
+            transition: all 0.2s;
+        }
+        .filter-pill.active { background: var(--text); color: #fff; border-color: var(--text); }
+
+        /* INFO BAR */
+        .stats-bar { max-width: 680px; margin: 0 auto; padding: 12px 20px; display: flex; justify-content: space-between; align-items: center; font-size: 13px; }
+        .btn-csv { background: #16803c; color: white; border: none; padding: 8px 14px; border-radius: 10px; font-weight: 800; cursor: pointer; font-size: 10px; text-transform: uppercase; letter-spacing: 0.03em; }
+
+        /* LISTADO Y CARDS */
+        .content { max-width: 680px; margin: 0 auto; padding: 10px 16px 60px; }
+        .empresa-list { display: flex; flex-direction: column; gap: 12px; }
+        .empresa-card {
+            background: var(--card); border-radius: var(--radius);
+            border: 1.5px solid var(--border); box-shadow: var(--shadow);
+            padding: 18px; position: relative; overflow: hidden;
+        }
+        .empresa-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 6px; }
+        .type-fica::before { background: var(--fica-color); }
+        .type-fesmc::before { background: var(--fesmc-color); }
+        .type-sp::before { background: var(--sp-color); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; }
+        .empresa-name { font-size: 14px; font-weight: 800; text-transform: uppercase; color: var(--text); max-width: 75%; line-height: 1.3; }
+        .trab-count { text-align: right; }
+        .trab-num { font-family: var(--mono); font-size: 26px; font-weight: 700; line-height: 1; color: var(--text); }
+        .trab-label { font-size: 9px; font-weight: 700; color: var(--text-3); text-transform: uppercase; margin-top: 2px; }
+
+        .card-meta { font-size: 12px; color: var(--text-2); display: flex; flex-direction: column; gap: 6px; }
+        .meta-item { display: flex; align-items: center; gap: 8px; }
+        .meta-icon { font-size: 16px; color: var(--text-3); }
+
+        .card-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--border); }
+        .btn-card {
+            padding: 12px; border-radius: 12px; border: none; font-size: 10px;
+            font-weight: 800; cursor: pointer; text-transform: uppercase;
+            display: flex; align-items: center; justify-content: center; gap: 8px;
+            transition: transform 0.1s;
+        }
+        .btn-card:active { transform: scale(0.96); }
+        .btn-maps { background: var(--text); color: #fff; }
+        .btn-info { background: var(--bg); color: var(--text-2); border: 1.5px solid var(--border); }
+
+        .load-more { width: 100%; padding: 18px; margin-top: 20px; border: 2px dashed var(--border); border-radius: 16px; background: transparent; color: var(--text-2); font-weight: 700; cursor: pointer; transition: all 0.2s; }
+        .load-more:hover { border-color: var(--red); color: var(--red); background: #fff; }
+    </style>
+</head>
+<body>
+
+<header class="header">
+    <div class="header-inner">
+        <div class="header-top-row">
+            <div class="logo-badge">UGT Ciudad Real</div>
+            <a href="https://asfesmcclm.github.io/rutaempresas/cnae.html" target="_blank" class="btn-help-cnae">
+                <span class="material-symbols-outlined">help_center</span>
+                Ayuda CNAE
+            </a>
+        </div>
+        <h1>Censo Empresas <span>2026</span></h1>
+    </div>
+</header>
+
+<div class="search-zone">
+    <div class="search-wrap">
+        <div class="search-box">
+            <input type="text" id="buscador" placeholder="Buscar por nombre, pueblo o CNAE..." autocomplete="off">
+        </div>
+        <div class="filters-row" id="filtros">
+            <button class="filter-pill active" data-fed="TODAS">Todas</button>
+            <button class="filter-pill" data-fed="FICA">FICA</button>
+            <button class="filter-pill" data-fed="FESMC">FESMC</button>
+            <button class="filter-pill" data-fed="UGT-SP">UGT-SP</button>
+        </div>
+    </div>
+</div>
+
+<div class="stats-bar">
+    <div id="stats-text">Cargando base de datos...</div>
+    <button class="btn-csv" onclick="exportarCSV()">Exportar CSV</button>
+</div>
+
+<main class="content">
+    <div id="lista-empresas" class="empresa-list"></div>
+    <button id="load-more" class="load-more" style="display:none">Ver más empresas</button>
+</main>
+
+<script src="datos.js"></script>
+<script>
+    let filtroActivo = 'TODAS';
+    let busqueda = '';
+    let limite = 50;
+    const INCREMENTO = 50;
+    let filtrados = [];
+
+    const listado = document.getElementById('lista-empresas');
+    const stats = document.getElementById('stats-text');
+    const loadBtn = document.getElementById('load-more');
+
+    function normalizar(t) { 
+        return t ? t.toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "") : ""; 
+    }
+
+    function render() {
+        if (typeof empresas === 'undefined') {
+            listado.innerHTML = '<div style="text-align:center; padding:40px; color:#94a3b8;">No se encontró el archivo datos.js</div>';
+            return;
+        }
+
+        filtrados = empresas.filter(e => {
+            const matchesFed = filtroActivo === 'TODAS' || e.federacion === filtroActivo;
+            const matchesBusqueda = !busqueda || 
+                normalizar(e.empresa).includes(busqueda) || 
+                normalizar(e.localidad).includes(busqueda) || 
+                (e.cnae && e.cnae.toString().includes(busqueda));
+            return matchesFed && matchesBusqueda;
+        });
+
+        stats.innerHTML = `<strong>${filtrados.length}</strong> empresas encontradas`;
+        
+        const fragmento = filtrados.slice(0, limite).map(e => {
+            const fedRaw = e.federacion ? e.federacion.toUpperCase() : 'FICA';
+            const fedCls = fedRaw.includes('SP') ? 'sp' : fedRaw.toLowerCase();
+            const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(e.empresa + ' ' + (e.localidad || ''))}`;
+
+            return `
+                <div class="empresa-card type-${fedCls}">
+                    <div class="card-header">
+                        <div class="empresa-name">${e.empresa}</div>
+                        <div class="trab-count">
+                            <div class="trab-num">${e.trabajadores || '0'}</div>
+                            <div class="trab-label">Empl.</div>
+                        </div>
+                    </div>
+                    <div class="card-meta">
+                        <div class="meta-item">
+                            <span class="material-symbols-outlined meta-icon">location_on</span>
+                            ${e.localidad || 'Provincia'}
+                        </div>
+                        <div class="meta-item">
+                            <span class="material-symbols-outlined meta-icon">home</span>
+                            ${e.direccion || 'Sin dirección registrada'}
+                        </div>
+                        <div class="meta-item">
+                            <span class="material-symbols-outlined meta-icon">fingerprint</span>
+                            CIF: ${e.cif || 'N/A'}
+                        </div>
+                        ${e.cnae ? `
+                        <div class="meta-item">
+                            <span class="material-symbols-outlined meta-icon">settings</span>
+                            CNAE: ${e.cnae}
+                        </div>` : ''}
+                    </div>
+                    <div class="card-actions">
+                        <button class="btn-card btn-maps" onclick="window.open('${mapUrl}', '_blank')">
+                            <span class="material-symbols-outlined" style="font-size:16px">directions_car</span> Ruta
+                        </button>
+                        <button class="btn-card btn-info" onclick="window.open('https://www.google.com/search?q=${encodeURIComponent(e.empresa + ' ' + (e.localidad || ''))}', '_blank')">
+                            <span class="material-symbols-outlined" style="font-size:16px">search</span> Google
+                        </button>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        listado.innerHTML = fragmento;
+        loadBtn.style.display = filtrados.length > limite ? 'block' : 'none';
+    }
+
+    document.getElementById('buscador').addEventListener('input', e => {
+        busqueda = normalizar(e.target.value);
+        limite = 50;
+        render();
+    });
+
+    document.getElementById('filtros').addEventListener('click', e => {
+        if (e.target.classList.contains('filter-pill')) {
+            document.querySelectorAll('.filter-pill').forEach(p => p.classList.remove('active'));
+            e.target.classList.add('active');
+            filtroActivo = e.target.dataset.fed;
+            limite = 50;
+            render();
+        }
+    });
+
+    loadBtn.addEventListener('click', () => {
+        limite += INCREMENTO;
+        render();
+    });
+
+    function exportarCSV() {
+        if (!filtrados.length) return;
+        let csv = "\uFEFFEmpresa;Trabajadores;Localidad;CIF;Federacion;CNAE;Direccion\n";
+        filtrados.forEach(e => {
+            csv += `"${e.empresa}";"${e.trabajadores}";"${e.localidad}";"${e.cif}";"${e.federacion}";"${e.cnae}";"${e.direccion}"\n`;
+        });
+        const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+        const link = document.createElement("a");
+        link.href = URL.createObjectURL(blob);
+        const fecha = new Date().toISOString().slice(0,10);
+        link.download = `Censo_CR_${filtroActivo}_${fecha}.csv`;
+        link.click();
+    }
+
+    window.onload = () => setTimeout(render, 300);
+</script>
+</body>
+</html>
